@@ -1,16 +1,14 @@
 +++
-title = "Hallo, ich bin Ben"
+title = "Anleitung"
 date = "2021-10-12"
 draft = true
 pinned = false
 tags = []
-image = "img_0897.jpg"
-description = "Hier ist nicht der Beginn, sondern die nächste Etappe auf meinem Weg, wo auch immer er hinführen wird. Damit du eine Idee hast wo ich stehe oder gehe und wer ich bin, gibts hier ein paar Einblicke. "
+image = ""
+description = ""
 footnotes = "Ganz unten an der Seite können zum Beispiel Bildquellen angegeben werden. Dieser Text ist abgetrennt durch eine Linie und etwas kleiner."
 +++
-### Herzliche Willkommen! Schön schaust du hier vorbei.
 
-Zuerst einmal: Hallo, ich bin Ben. Früher nannten mich alle Beni und das tun sie heute noch, obwohl ich mich doch nie so vorstelle. Warum auch immer sie meinen mich so nennen zu wollen und zu dürfen. Mit dem Namen, und das ist nun wirklich ein intimer Einblick, verbinde ich vieles von dem, wie mich die Menschen früher sagen, bewerteten, be- und verurteilten. Ein Kind mit ADHS, einer der Lernen könnte wenn er wollte, zu faul und so weiter. 
 
 
 
