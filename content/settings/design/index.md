@@ -1,6 +1,6 @@
 +++
 headless = true
-icon = "/media/bernost_bearbeitet-1.jpg"
+icon = "/media/b.png"
 logo = "/media/b.png"
 image = "/media/bernost_bearbeitet-1.jpg"
 color = ""
