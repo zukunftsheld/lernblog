@@ -1,13 +1,22 @@
 +++
-title = "Einführung"
-date = "2019-05-28"
-draft = false
+title = "Hallo, ich bin Ben"
+date = "2021-10-12"
+draft = true
 pinned = false
-tags = ["Anleitung", "Lernblog"]
-image = "/img/default-image.png"
-description = "In diesem Artikel werden Möglichkeiten aufgezeigt für das Verfassen von Blogeinträgen."
+tags = []
+image = "img_0897.jpg"
+description = "Hier ist nicht der Beginn, sondern die nächste Etappe auf meinem Weg, wo auch immer er hinführen wird. Damit du eine Idee hast wo ich stehe oder gehe und wer ich bin, gibts hier ein paar Einblicke. "
 footnotes = "Ganz unten an der Seite können zum Beispiel Bildquellen angegeben werden. Dieser Text ist abgetrennt durch eine Linie und etwas kleiner."
 +++
+### Herzliche Willkommen! Schön schaust du hier vorbei.
+
+Zuerst einmal: Hallo, ich bin Ben. Früher nannten mich alle Beni und das tun sie heute noch, obwohl ich mich doch nie so vorstelle. Warum auch immer sie meinen mich so nennen zu wollen und zu dürfen. Mit dem Namen, und das ist nun wirklich ein intimer Einblick, verbinde ich vieles von dem, wie mich die Menschen früher sagen, bewerteten, be- und verurteilten. Ein Kind mit ADHS, einer der Lernen könnte wenn er wollte, zu faul und so weiter. 
+
+
+
+
+
+
 
 In diesem Test-Blogeintrag werden Möglichkeiten aufgezeigt für das Verfassen von Blogeinträgen.
 
@@ -39,7 +48,7 @@ Natürlich gibt es auch **fett** und *kursiv*.
 
 ## Links
 
-[So können Links angegeben werden](https://www.lernblog.ch). Wenn man in den `Markdown`-Modus wechselt, sieht man auch, welcher Link hinterlegt worden ist.
+So können Links angegeben werden. Wenn man in den Markdown-Modus wechselt, sieht man auch, welcher Link hinterlegt worden ist.
 
 ## Zitate
 
@@ -71,7 +80,7 @@ Und so eine nummerierte Liste:
 
 Bilder werden mit dem `+`-Symbol eingefügt.
 
-![Der Alt-Text wird jeweils als Bildunterschrift angezeigt.](/img/default-image.png)
+![]()
 
 **Empfehlung für Bilder**: Meist empfiehlt sich, ein Bild ganz zuoberst im `Inhalt`-Feld einzufügen. Zusätzlich sollte man dieses auch im `Bild`-Feld angeben, damit es in der Blogübersicht erscheint. 
 
