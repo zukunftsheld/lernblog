@@ -8,6 +8,8 @@ description = "Hallo, ich bin Ben. \nInspirieren l Gestalten l Begleiten I Verbi
 
 ## Ben Zaugg
 
-kontakt@benzaugg.ch
+Hallo, ich bin Ben. 
+Inspirieren l Gestalten l Begleiten I Verbinden. 
+Irgendwo zwischen Bildung und Arbeit.
 
-Hallo, ich bin Ben.
+kontakt@benzaugg.ch
