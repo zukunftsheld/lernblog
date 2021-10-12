@@ -1,13 +1,13 @@
 +++
 title = "Über mich"
 draft = false
-description = "Seite über mich"
-image = ""
+image = "ben1.jpg"
+description = "Hallo, ich bin Ben. \nInspirieren l Gestalten l Begleiten I Verbinden. \nIrgendwo zwischen Bildung und Arbeit.\n"
 +++
-![](/img/default-author.png)
+![](ben1.jpg)
 
-## Vorname Nachname
+## Ben Zaugg
 
-info@lernblog.ch
+kontakt@benzaugg.ch
 
-Beschreibung, wer ich bin...
+Hallo, ich bin Ben.
