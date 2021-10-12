@@ -14,10 +14,11 @@ Irgendwo zwischen Bildung und Arbeit.
 
 kontakt@benzaugg.ch
 
-Hier findest du mich auch:
+**Hier kannst du dich mich besuchen und mit mir vernetzen**
 
-[](https://www.instagram.com/_benzaugg/)[Ben]([https://www.instagram.com/_benzaugg/](https://www.instagram.com/_benzaugg/)) auf Instagram 
+[Ben](https://www.instagram.com/_benzaugg/) auf Instagram
+[ZUKUNFTSHELDEN](https://www.instagram.com/_zukunftshelden/) auf Instagram
 
-[Zukunftshelden](https://www.instagram.com/_zukunftshelden/) auf Instagram 
+[Ben auf Linkedin](https://www.linkedin.com/in/benzaugg/)
 
-[Ben](https://www.linkedin.com/in/benzaugg/) auf Linkedin
+[Hier gehts zum ZUKUNFTSHELDEN-Podcast](https://www.zukunftshelden.ch/podcast)
