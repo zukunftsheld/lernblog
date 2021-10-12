@@ -12,8 +12,7 @@ Zuerst einmal: Hallo, ich bin Ben. Früher nannten mich alle Beni und das tun Me
 
 ![](ben_meer.jpg)
 
-
-Was ich zu schreiben habe, weiss ich heute noch nicht. Vielleicht von meinem Einblick und meiner direkten Zusammenarbeit mit Marco oder meiner Rolle beim Colearning, meinen Erlebnissen im Coworking rund um den Effinger, Erfahrungen und Eindrücke aus meinen Begleitungen rund um die Berufsberatung oder aus meinen Podcast-Gesprächen. \
+Was ich zu schreiben habe, weiss ich heute noch nicht. Vielleicht von meinem Einblick und meiner direkten Zusammenarbeit mit Marco oder meiner Rolle beim Colearning, meinen Erlebnissen im Coworking rund um den Effinger, Erfahrungen und Eindrücke aus meinen Begleitungen rund um die Berufsberatung oder aus meinen Podcast-Gesprächen. Sicher werde ich auch über andere Themen schreiben die mich beschäftigen.
 
 Hier werde ich aus meiner Perspektive als Lernender schreiben. Vielleicht begleitest du mich auf dem gesamten Weg und vielleicht gehen wir einfach einen Teil der Strecke gemeinsam oder es bleibt eine flüchtige Begegnung. Wir werden sehen. So oder so freue ich mich.
 
