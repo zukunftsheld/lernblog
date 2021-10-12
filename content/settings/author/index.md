@@ -1,6 +1,6 @@
 +++
 headless = true
 name = "Ben Zaugg"
-image = ""
-email = ""
+image = "/media/ben.jpg"
+email = "kontakt@benzaugg.ch"
 +++
