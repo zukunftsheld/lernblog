@@ -3,6 +3,7 @@ title = "Wie startet man einen Podcast"
 date = "2021-11-02"
 draft = true
 pinned = false
+description = "Mit einem Podcast zu beginnen ist recht einfach. Es gibt jedoch unendlich viele Möglichkeiten und hier gebe ich einen kleinen Einblick in meinen Weg bis heute. "
 +++
 Eigentlich ist der Titel etwas zu hoch gegriffen. Denn ich habe hier keine Patentlösung, dafür einen Einblick, wie ich es gemacht habe. Bereits hier möchte ich darauf hinweisen, dass es mein Weg ist und es wirklich viele verschiedene Möglichkeiten gibt. Ich bevorzuge immer, einfach mal anzufangen und auszuprobieren. So habe ich es auch im Frühling 2020 gemacht.
 
@@ -18,11 +19,9 @@ Ende 2020 wollte ich ein neues Format schaffen, bei dem ich mit Menschen spreche
 So bin ich heute wie folgt unterwegs:
 
 * Macbook und Garageband
-* Shure 58A Beta sowie Popschutz K&M??? (mit Audio-Interface) 
-* Shure MV7 (hier nutze ich meistens XLR über das Audio Interface)
-* Audio Interface scarlet...???
-* Stativ ((ACHTUNG Adapter
-
-
+* **Shure 58A Bet**a sowie **Popschutz K&M???** (mit Audio-Interface) 
+* **Shure MV7** (hier nutze ich meistens XLR über das Audio Interface)
+* **Audio Interface scarlet...**???
+* **Stativ** ((ACHTUNG Adapter
 
 Hier ist keine Werbung enthalten. Alle Produkte und Anbieter nenne ich als Hilfe, falls du selbst etwas davon ausprobieren möchtest.
