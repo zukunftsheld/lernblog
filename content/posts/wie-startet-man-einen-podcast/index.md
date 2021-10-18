@@ -1,6 +1,6 @@
 +++
 title = "Wie startet man einen Podcast"
-date = "2021-11-02"
+date = "2021-10-27"
 draft = false
 pinned = false
 image = "img_9554-2.jpg"
