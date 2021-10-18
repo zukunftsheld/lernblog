@@ -33,7 +33,7 @@ Ende 2020 wollte ich ein neues Format schaffen, bei dem ich mit Menschen spreche
 
 **Fazit:** Wenn ich eine Idee habe, dann beginne ich am liebsten einfach einmal. Das wurde in diesem Fall manchmal etwas mühsamer, da ich mir Equipment dazu gekauft habe, dass nicht ideal aufeinander abgestimmt ist. Dafür habe ich Erfahrungen mit verschiedenen Produkten und Möglichkeiten gesammelt. Heute würde ich (das denke ich zumindest) von Anfang an auf das Shure MV7 in zweifacher Ausführung sowie das Focusrite Scarlett setzen. Dieses Mikrofon ist zum starten aber relativ teuer. Eine günstige Alternative die ich nie selbst ausprobiert habe, aber in einigen Blogs und Foren empfohlen wird, ist das Audio Technica ATR 2100x usb. 
 
-> «*Das haben wir noch nie probiert, also geht es sicher gut.*» Pippi Langstrumpf
+> «Das haben wir noch nie probiert, also geht es sicher gut.» Pippi Langstrumpf
 
 Zu den Podcasts gehts hier:
 
