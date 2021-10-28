@@ -1,7 +1,7 @@
 +++
 title = "Die Sache mit dem Geld"
 date = "2021-10-28"
-draft = false
+draft = true
 pinned = false
 image = "ben1.jpg"
 description = "Über Geld spricht man nicht. Oder doch?"
