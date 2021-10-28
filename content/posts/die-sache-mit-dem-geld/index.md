@@ -3,15 +3,14 @@ title = "Die Sache mit dem Geld"
 date = "2021-10-28"
 draft = true
 pinned = false
+image = "ben1.jpg"
 description = "Über Geld spricht man nicht. Oder doch?"
 +++
 Über Geld spricht man nicht. Oder doch? Ich habe keine grossen Probleme über Geld oder meine finanzielle Situation zu sprechen und doch fällt es mir nicht nur leicht, darüber zu schreiben. Es ist aber mein Lernblog und ich will meinen Weg mit dir teilen und das immer möglichst zeitnah und ehrlich. Also gehört auch das hier dazu. 
 
 Eigentlich weiss ich wie es ist, für einen relativ tiefen Lohn zu arbeiten. Ich habe Detailhandeslfachmann gelernt und auch später im Marketing für den Detailhandel gearbeitet. Somit verdiente ich immer tendenziell weniger. Weniger als wer? Als Menschen mit denen ich provat zu tun hatte und doch mehr als andere. Da fängts schon an. Bei solchen Vergleichen ist immer die Frage, mit wem ich mich vergleiche. Mit der Zeit und den verschiedenen Anstellungen stieg die Zahl auf der Lohnabrechnung. Trotz dieser finanziellen (Schein-?)Sicherheit entschied ich mich, meinen Job zu künden und mich meiner Selbstständigkeit zu widmen. Voller Freude und Optimismus bin ich gestartet und trotz realistischer Einschätzungen hätte ich mir mehr Einnahmen erhofft. Zwischenzeitlich hatte ich noch eine sichere und wirklich gut bezahlte Teilzeitanstellung aber ich fühlte mich so fehl am Platz, dass ich mich dort schnell verabschiedete. Seither arbeite ich einmal hier und einmal da um neben meiner Selbständigkeit noch meinen Lebensunterhalt zu verdienen. 
 
-![]()
-
-
+![](ben1.jpg)
 
 Ich bin also gleichzeitig ein Unternehmer, ein Selbständiger und ein Hilfsarbeiter. Hier möchte ich wieder darauf hinweisen, dass solche Bezeichnugen nichts anderes sind als Worte unter denen wir meinen, etwas zu verstehen oder Menschen kategorisieren zu können. Aber darüber will ich heute eigentlich gar nicht schreiben. 
 
