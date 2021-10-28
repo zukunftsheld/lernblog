@@ -9,6 +9,8 @@ Wenn ich auf meine Lernbiografie zurückblicke, dann habe ich nicht viele gute E
 
 Habe ich wirklich nichts gelernt? Heute habe ich einen ganz anderen Blick darauf. Vieles von dem, was ich heute bin und mache ist in dieser Zeit entstanden und das hat sehr viel mit dem, wie ich es nennen möchte, echten und lebenslangen Lernen zu tun. Es war zwar während der Schulzeit aber eben nicht in der Schule oder zumindest nicht im Lehrplan. 
 
+![](ben2.jpg)
+
 Wir glauben (immer noch!), dass Lernen in der Schule, in Schulräumen, Ausbildungszentren, Kursräumen, Unis, und was auch immer stattfinden muss. Dafür, so meinen immer noch die meisten, braucht es Lehrpersonen, also Menschen die den Schüler*innen in welchem Alter auch immer, etwas beibringen. Sie geben also Wissen weiter, dass genau in dieser Zeit, im Vorgegebenen Rhytmus und genau in der vermittelten Art gelernt werden muss. Huch, dass wird mir schon beim schreiben schwindlig. So stellen sich auch viele das Lebenslange lernen vor und davon ernähren sich auch viele Bildungsinstitute in der Erwachsenenbildung. 
 
 Es ist also, neben starren und alten Strukturen in der Bildung auch die Bildungsindustrie die viel Geld damit verdient und natürlich auch in Zukunft verdienen will. Aber! Es gibt Hoffnung. Die Komplexität der Arbeits- und Lernwelt sowie der ganzen sonstigen Entwicklungen machen es immer schwieriger dieses (Bulimie-)Lernen aufrecht zu erhalten (auch wenn das noch für viele utopisch klingen mag).
