@@ -2,6 +2,7 @@
 title = "Angebot"
 draft = true
 image = "pexels-suzy-hazelwood-1303835.jpg"
+description = "Neue Lernformen und lebenslanges Lernen sind unsere Passion. Hast du Fragen, Ideen oder möchtest selbst einen Lernblog mit deiner Klasse oder in deiner Organisation starten?"
 +++
 **Neue Lernformen und lebenslanges Lernen sind unsere Passion. Hast du Fragen, Ideen oder möchtest selbst einen Lernblog mit deiner Klasse oder in deiner Organisation starten?** 
 
