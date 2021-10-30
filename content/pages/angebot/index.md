@@ -1,6 +1,6 @@
 +++
 title = "Angebot"
-draft = true
+draft = false
 image = "pexels-suzy-hazelwood-1303835.jpg"
 description = "Neue Lernformen und lebenslanges Lernen sind unsere Passion. Hast du Fragen, Ideen oder möchtest selbst einen Lernblog mit deiner Klasse oder in deiner Organisation starten?"
 +++
@@ -14,4 +14,4 @@ Schreib uns oder komm auf einen Kaffee im Effinger vorbei! Gerne helfen wir beim
 
 [bwd Bern](https://lernblogs.bwdbern.ch)
 
-Du möchtest noch mehr ins Detail? Dann schau doch **hier**
+Du möchtest noch mehr ins Detail? Dann schau doch **[hier](https://benlernblog.netlify.app/lernblog-im-detail/)**
