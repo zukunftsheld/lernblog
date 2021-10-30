@@ -8,5 +8,8 @@ url = "/"
 [[link]]
 title = "Über mich"
 url = "/ueber/"
-+++
 
+[[link]]
+title = "Lernblog"
+url = "/lernblog-im-detail/"
++++
