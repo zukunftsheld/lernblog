@@ -1,6 +1,8 @@
 +++
 title = "Lernblog im Detail"
 draft = false
+image = "webseite.png"
+description = ""
 +++
 Zusammen Lernen sichtbar machen. Darum gehts im Lernblog. Hier siehst du anhand eines Beispieles, wie der Lernblog in deinem Unternehmen oder deiner Institution aufgebaut sein könnte.
 
