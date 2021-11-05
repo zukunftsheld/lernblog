@@ -1,10 +1,10 @@
 +++
 title = "Wie startet man einen Podcast"
 date = "2021-10-21"
-draft = true
+draft = false
 pinned = false
 image = "img_9554-2.jpg"
-description = "Mit einem Podcast zu beginnen ist recht einfach. Es gibt jedoch unendlich viele Möglichkeiten und hier gebe ich einen kleinen Einblick in meinen Weg bis heute. "
+description = "Mit einem Podcast zu beginnen ist recht einfach. Es gibt jedoch unendlich viele Möglichkeiten und hier gebe ich einen kleinen Einblick in meinen Weg bis heute."
 +++
 Eigentlich ist der Titel etwas zu hoch gegriffen. Denn ich habe hier keine Patentlösung, dafür einen Einblick, wie ich es gemacht habe. Bereits hier möchte ich darauf hinweisen, dass es mein Weg ist und es wirklich viele verschiedene Möglichkeiten gibt. Ich bevorzuge immer, einfach mal anzufangen und auszuprobieren. So habe ich es auch im Frühling 2020 gemacht.
 
