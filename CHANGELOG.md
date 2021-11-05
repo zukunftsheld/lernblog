@@ -1,5 +1,14 @@
 # Changelog
 
+## Version 1.5.0 (2020-11-01)
+
+- Change from lernblog.ch to lernblog.org.
+- No emojis and other non-Latin characters in slug.
+- Style: small color and size adjustments.
+- Use some nice mountains as default images.
+- FEED: Improve Atom XML feed (paging, full content, featured image)
+- Update to Hugo v0.88.1
+
 ## Version 1.4.4 (2020-09-26)
 
 - Update Hugo to v0.75.1
