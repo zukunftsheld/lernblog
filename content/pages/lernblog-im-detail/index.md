@@ -1,6 +1,6 @@
 +++
 title = "Lernblog im Detail"
-draft = false
+draft = true
 image = "webseite.png"
 description = ""
 +++
