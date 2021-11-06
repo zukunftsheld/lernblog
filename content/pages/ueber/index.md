@@ -13,11 +13,10 @@ Menschen, Geschichten, Entwicklung und Kommunikation
 
 kontakt@benzaugg.ch
 
-**Hier kannst du dich mich besuchen und mit mir vernetzen**
+**Hier findest du mich auch**
 
-[Ben](https://www.instagram.com/_benzaugg/) auf Instagram
-[ZUKUNFTSHELDEN](https://www.instagram.com/_zukunftshelden/) auf Instagram
+[ZUKUNFTSHELDEN](https://www.zukunftshelden.ch) wenns um Berufswahl und Bewerben geht
 
-[Ben auf Linkedin](https://www.linkedin.com/in/benzaugg/)
+[Hallo Ben.](https://www.halloben.ch) wenn es sich um Kommunikation dreht
 
-[Hier gehts zum ZUKUNFTSHELDEN-Podcast](https://www.zukunftshelden.ch/podcast)
+[](https://www.instagram.com/_benzaugg/)
