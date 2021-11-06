@@ -1,7 +1,7 @@
 +++
 title = "Lebenslanges Lernen"
 date = "2021-11-06"
-draft = true
+draft = false
 pinned = false
 image = "ben2.jpg"
 description = "Eine der Kompetenzen ist lebenslanges Lernen. Das sagen und schreiben viele und sie tun es gerne! Denn damit lässt sich natürlich auch Geld verdienen. Was heisst aber lebenslanges Lernen oder was könnte es heissen und braucht es dazu Bildungsinstitute?"
