@@ -5,7 +5,7 @@ draft = false
 pinned = false
 image = "vogel.jpg"
 +++
-Mit Bildung (vor allem mit Erwachsenenbildung und meiner (Lern-)Biografie) beschäftige ich mich ja nun seit längerer Zeit und hatte deshalb das Colearning Bern schon eine Weile auf dem Schirm. Ich vermutete, dass das etwas wirklich Cooles sein könnte, beobachtete aber immer nur von aussen. In den letzten Monaten habe ich mich im Coworking Space Effinger in Bern immer mehr eingelebt und bin in der Zusammenarbeit mit Marco Jakob nun auch im Colearning angekommen. Heute schreibe ich hier einmal von meinen ersten Eindrücken und hoffe damit auch dir einen tieferen Einblick geben zu können.
+Mit Bildung (vor allem mit Erwachsenenbildung und meiner (Lern-)Biografie) beschäftige ich mich ja nun seit längerer Zeit und hatte deshalb das Colearning Bern schon eine Weile auf dem Schirm. Ich vermutete, dass das etwas wirklich Cooles sein könnte, beobachtete aber immer nur von aussen. In den letzten Monaten habe ich mich im Coworking Space Effinger in Bern immer mehr eingelebt und bin in der Zusammenarbeit mit [Marco Jakob](https://www.marcojakob.blog/) nun auch im Colearning angekommen. Heute schreibe ich hier einmal von meinen ersten Eindrücken und hoffe damit auch dir einen tieferen Einblick geben zu können.
 
 **Wo bleibt die Kontrolle und die Leistung?**
 
@@ -17,19 +17,13 @@ Hier möchte ich ein Zitat von Ruth Cohn mit dir teilen. Nur zu gern hätte ich 
 
 > «Ich glaube, dass Kinder und Erwachsene etwas leisten wollen. Ich glaube, dass das Wort Leistungsdruck aufkam, nicht weil Leistung an sich gehasst wird, sondern fremd verlangte Leistung, die nicht mit inneren Bedürfnissen vebunden ist.» Ruth C. Cohn
 
-
-
 ![](vogel.jpg)
 
 **Wenn Lernen und Arbeiten zu etwas natürlichem verfliessen**
 
-Das Colearning befindet sich im Coworking Effinger und wenn du dir als Coworker im 1. OG einen freien Platz suchst, kannst du kaum unterscheiden, wer hier am Lernen ist und wer arbeitet (wobei Lernen tun wir ja sowieso alle immer, nur sind wir uns dessen nicht bewusst). Vielleicht denkst du dir, wenn du dich im Raum umschaust, dass der eine oder andere Coworker recht jung aussieht aber das ist dann auch alles. Da sitzt also der UX-Designer neben einem Jugendlichen, der ein Buch schreibt oder der Politikwissenschaftler neben einem jungen Mann, der gerade eine kleine Effinger-Bibliothek programmiert hat. In der gemeinsamen 10 Uhr Pause siehst du dann Erwachsene mit Jugendlichen über ihre Arbeits- und Lernthemen sprechen, als wäre es das Natürlichste auf der Welt.Hier sei noch angemerkt: Natürlich wird in den Pausen nicht nur über Lernen und Arbeit gesprochen ;-). 
-
-
+Das Colearning befindet sich im Coworking Effinger und wenn du dir als Coworker im 1. OG einen freien Platz suchst, kannst du kaum unterscheiden, wer hier am Lernen ist und wer arbeitet (wobei Lernen tun wir ja sowieso alle immer, nur sind wir uns dessen nicht bewusst). Vielleicht denkst du dir, wenn du dich im Raum umschaust, dass der eine oder andere Coworker recht jung aussieht aber das ist dann auch alles. Da sitzt also der UX-Designer neben einem Jugendlichen, der ein [Buch](https://www.jonathanbucher.ch/tags/buchprojekt/) schreibt oder der Politikwissenschaftler neben einem jungen Mann, der gerade eine [Effinger-Bibliothek](https://www.effingerbibliothek.ch/) programmiert hat. In der gemeinsamen 10 Uhr Pause siehst du dann Erwachsene mit Jugendlichen über ihre Arbeits- und Lernthemen sprechen, als wäre es das Natürlichste auf der Welt.Hier sei noch angemerkt: Natürlich wird in den Pausen nicht nur über Lernen und Arbeit gesprochen ;-). 
 
 > «Die Schule ist jenes Exil, in dem der Erwachsene das Kind solange hält, bis es imstande ist, in der Erwachsenenwelt zu leben, ohne zu stören.» Dr. Maria Montessori
-
-
 
 **Lernen kennt keine Altersgrenze**
 
