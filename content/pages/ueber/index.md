@@ -1,16 +1,15 @@
 +++
 title = "Über mich"
 draft = false
-image = "ben1.jpg"
-description = "Hallo, ich bin Ben. \nInspirieren l Gestalten l Begleiten I Verbinden. \nIrgendwo zwischen Bildung und Arbeit.\n"
+image = "ben_foto2.jpg"
+description = "Hallo, ich bin Ben. \nInspirieren l Gestalten l Begleiten I Verbinden. \n\n"
 +++
-![](ben1.jpg)
+![](ben_foto2.jpg)
 
 ## Ben Zaugg
 
 Hallo, ich bin Ben. 
-Inspirieren l Gestalten l Begleiten I Verbinden. 
-Irgendwo zwischen Bildung und Arbeit.
+Menschen, Geschichten, Entwicklung und Kommunikation
 
 kontakt@benzaugg.ch
 
