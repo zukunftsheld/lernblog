@@ -1,6 +1,6 @@
 +++
 title = "Lebenslanges Lernen"
-date = "2021-11-09"
+date = "2021-11-06"
 draft = true
 pinned = false
 image = "ben2.jpg"
