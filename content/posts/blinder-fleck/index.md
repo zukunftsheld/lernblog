@@ -1,6 +1,6 @@
 +++
 title = ".. und es kommt anders als man denkt"
-date = "2021-11-13"
+date = "2021-11-14"
 draft = true
 pinned = false
 image = "whatsapp-image-2021-11-13-at-20.10.53.jpeg"
@@ -12,7 +12,7 @@ Manchmal ärgere ich mich ein bisschen, dass ich online (in meinen Podcasts, in 
 
 ![](whatsapp-image-2021-11-13-at-20.13.35.jpeg)
 
-..und so kam es bei mir wieder einmal anders als gedacht. In den letzten Monaten habe ich voll auf die Arbeit rund um ZUKUNFTSHELDEN gesetzt, es war und ist mein definitiver Start in die Selbstständigkeit. In diesem Zusammenhang habe ich in vielen verschiedenen Varianten kommuniziert. In den sozialen Medien v. a. Linkedin aber auch Instagram, auf Papier und per Post habe ich Bildungsinstitutionen, Schulen und potenzielle Vermittler sowie Zuweiser angeschrieben. Diesen Herbst habe ich dann noch ein Schaufenster gestaltet (auf das ich etwas stolz bin). Dabei habe ich klar kommuniziert, Geschichten erzählt und habe mich mit Menschen verbunden. Die Kommunikation war eigentlich das, was noch nebenbei lief. Klar, Kommunikation ist für mich nichts neues, da ich die längste Zeit meines beruflichen Weges im Marketing und Verkauf gearbeitet habe. 
+..und so kam es bei mir wieder einmal anders als gedacht. In den letzten Monaten habe ich voll auf die Arbeit rund um ZUKUNFTSHELDEN gesetzt, es war und ist mein definitiver Start in die Selbstständigkeit. In diesem Zusammenhang habe ich in vielen verschiedenen Varianten kommuniziert. In den sozialen Medien v. a. Linkedin aber auch Instagram, auf Papier und per Post habe ich Bildungsinstitutionen, Schulen und potenzielle Vermittler sowie Zuweiser angeschrieben. Diesen Herbst habe ich dann noch ein Schaufenster gestaltet (auf das ich etwas stolz bin). Dabei habe ich klar kommuniziert, Geschichten erzählt und habe mich mit Menschen verbunden. Die Kommunikation war eigentlich das, was noch nebenbei lief. Klar, Kommunikation ist für mich nichts Neues, da ich die längste Zeit meines beruflichen Weges im Marketing und Verkauf gearbeitet habe. 
 
 ![](whatsapp-image-2021-11-13-at-20.10.53.jpeg)
 
