@@ -1,7 +1,7 @@
 +++
 title = ".. und es kommt anders als man denkt"
 date = "2021-11-14"
-draft = true
+draft = false
 pinned = false
 image = "whatsapp-image-2021-11-13-at-20.10.53.jpeg"
 description = "Manchmal kommt es anders als man denkt. Hier kannst du mich wieder auf meiner Reise begleiten. V"
