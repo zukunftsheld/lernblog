@@ -3,7 +3,7 @@ title = "Ist Versöhnung der Weg zur inneren Freiheit?"
 date = "2021-11-21"
 draft = false
 pinned = false
-image = "2017-05-05-19.54.39.jpg"
+image = "vers.jpg"
 description = "In dieser Woche habe ich in einem Podcast-Gespräch über meine Biografie gesprochen und dabei ist das Wort Versöhnung immer wieder aufgetaucht. Hier mache ich mir nun einige Gedanken darüber. "
 +++
 Es ist Sonntagnachmittag, der Nebel hat die Sonne wieder versteckt und ich mache mir Gedanken über ein [Podcast-Gespräch](https://www.linkedin.com/posts/flowieser_derpossibilist-bemorepirate-podcast-activity-6867805367271858176-WNER), dass ich diese Woche hatte. Das Gespräch kam aufgrund eines [Linkedin-Posts](https://www.linkedin.com/feed/update/urn:li:activity:6861912469183459328/) mit diesem Text zustande:
