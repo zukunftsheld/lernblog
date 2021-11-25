@@ -58,7 +58,7 @@ Wut und Einsamkeit. Das kenne ich nur zu gut. Wie oben beschrieben kam ich also 
 * ich als dünner, eher unsportlicher junger Mann auch noch aus dem Rollenbild fiel
 * und kaum Kollegen oder Freunde hatte
 
-#### Über Wege kam ich endlich zur richtigen Unterstützung und auf diesem Weg drehte ich mich immer wieder Themen wie: 
+#### Über Wege kam ich endlich zur richtigen Unterstützung und auf diesem Weg drehte ich mich immer wieder Themen wie:
 
 * «warum musste es nur so kommen»
 * «Dieser und Jener müsste doch anders..»
@@ -74,7 +74,7 @@ Und hier hat mir immer wieder die Versöhnung geholfen. Das klingt sehr schön, 
 
 Bei vielen Dingen hat mir die Arbeit mit der Rational-Emotiven-Verhaltenstherapie (REVT) geholfen. So konnte ich immer wieder prüfen, wie rational Gedanken waren. Das war vielleicht meine Basis für das Folgende:
 
-#### Akzeptanz 
+#### Akzeptanz
 
 Die Akzeptanz findet man in verschiedenen Kontexten und so wie sie hier gemeint ist, gehts nicht um eine «*Scheissegal-Haltung*», sondern darum anzunehmen, was man nicht ändern kann. Es ist etwas, dass sich zum Beispiel im Yoga oder in Meditationen wiederfindet. Für mich ganz wesentlich war hier das Buch «Wer dem Glück hinterherrennt, rennt daran vorbei» von *Russ* Harris. Es ist ein sehr praktisches Selbsthilfebuch mit der Akzeptanz- und Commitmenttherapie. Hier geht es darum zu akzeptieren und wertorientiert zu handeln.
 
@@ -86,8 +86,6 @@ Dieses Zitat von Frankl begleitet mich seither:
 
 > «Zwischen Reiz und Reaktion liegt ein Raum. In diesem Raum liegt die Macht unserer Wahl. In unserer Reaktion liegen unsere Entwicklung und unsere Freiheit.» Viktor E. Frankl
 
-
-
 #### Was wäre die Alternative?
 
 Die Alternative wäre gewesen, mich von meinen Gedanken und Gefühlen auffressen zu lassen. Wenn ich wütend auf etwas oder jemand bin das bereits vorbei ist und ich nicht mehr ändern kann, dann sollte ich es loslassen. Weil ich gerne in Bildern und Geschichten denke habe ich mir dann vorgestellt, dass diese «bösen» Menschen sich ein kleines Wohnzimmer in meiner Kopf eingerichtet haben und das wollte ich natürlich nicht. 
@@ -96,6 +94,6 @@ Die Alternative wäre gewesen, mich von meinen Gedanken und Gefühlen auffressen
 
 Ich weiss es nicht. Für mich hat das viel mit der Haltung zu tun und es sollte oder kann nicht einfach als Methode angewandt werden, damits einem besser geht. Versöhnung heisst für mich, Frieden zu schliessen mit dem was war und offen zu sein für das was kommt. Ich kann Menschen und Situationen anbieten (wieder) in mein Leben zu kommen und dann schauen was passiert. Es kann übrigens auch sein, dass es eine erneute Enttäuschung mit sich bringt. Das ist der Preis, den ich für diese Freiheit zahle. 
 
-> «Du kannst die Wellen nicht stoppen, aber du kannst lernen sie zu reiten.» Job Kabat-Zinn oder Joseph Goldstein
+> «Du kannst die Wellen nicht stoppen, aber du kannst lernen sie zu reiten.» Jon Kabat-Zinn oder Joseph Goldstein
 
 ![](welle.jpg)
