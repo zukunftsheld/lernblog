@@ -5,6 +5,7 @@ draft = false
 pinned = false
 image = "img_0498.jpg"
 description = "Auf der Suche nach dem Bild für den vorherigen Blogbeitrag bin ich über alte Fotos gestolpert, die mich gleich zu dem führen, was ich dir jetzt erzähle. Es passt zu meiner Lernbiografie und das ist ein Teil dieses Blogs hier."
+footnotes = "[herbstlesung.ch](www.herbstlesung.ch)"
 +++
 Auf der Suche nach dem Bild für den vorherigen Blogbeitrag bin ich über alte Fotos gestolpert, die mich gleich zu dem führen, was ich dir jetzt erzähle. Es passt zu meiner Lernbiografie und das ist ein Teil dieses Blogs hier. 
 
