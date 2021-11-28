@@ -1,8 +1,9 @@
 +++
-title = "Psychische Gesundheit"
+title = "Gesundwerden ist anstrengend"
 date = "2021-11-28"
 draft = true
 pinned = false
+footnotes = "Individualpsychologie\n\nREVT, Ellis \n\nPeseschkian\n\nHarris\n\nMBSR"
 +++
 Die psychische Gesundheit und die Entstigmatisierung von psychischen Krankheiten ist mir ein grosses Anliegen. Natürlich ist auch das durch meine Biografie geprägt. Nicht nur durch meine ganz persönlichen Erfahrungen sondern auch durch betroffene Menschen aus meinem Leben, auf die ich aber nicht detailierter eingehe. 
 
@@ -10,10 +11,16 @@ Neben den direkt betroffenen, also erkrankten Personen, sind da auch Menschen ru
 
 Für mich war die Selbsterfahrung und die Arbeit mit Büchern, in Kombination mit Hilfe der passende Weg. Mein Weg zurück zu einem Leben in dem ich mich wohlfühle dauerte Jahre, auch wenn das in der Zusammenfassung vielleicht anders wirken kann. Es ist auch so, dass sich die eine oder andere Theorie in gewissen Punkten widerspricht und genau dort habe ich oft auch meine «Lösungen» gefunden. 
 
-
-
 Währen meiner Lehrzeit entwickelte ich langsam und schleichend eine Angst vor Situationen mit anderen Menschen (diese Tendanz war aber schon länger da). Diese zeigte sich u. a. darin, dass ich in Gruppen nicht mehr essen konnte, respektive typische Angstsymptome (schwitzen, Fluchtimpuls, etc.) bekam und oft erbrechen musste oder zumindest das Gefühl hatte, ich müsste (jemand hat mich einma einen «Kotzprofi» genannt). Der Stress war so gross, dass ich oft auch zuhause nicht mehr oder kaum essen konnte, irgendwann wog ich noch 55kg, tenzend immer noch abnehmend. Medizinische Abklärungen u. a. eine Magenspiegelung ergab nichts. Also ging ich ein weiteres Mal zu einem Psychiater, welcher halt einfach ein Psychiater war, wie ich sie kannte und das funktionierte nicht. Ich hatte das Glück (das kann ich im Nachhinein mit Sicherheit sagen), dass ich einen Coach fand, zu dem ich bereits Vertrauen hatte und mit mir arbeiten wollte. Diese Arbeit basierte auf der Salutogenese (Gem. Duden: Modell (nach A. Antonovsky), das im Gegensatz zum in der Medizin vorherrschenden Modell der [Pathogenese](https://www.duden.de/rechtschreibung/Pathogenese) die Entstehung von Gesundheit erklärt) sowie der Rational Emotiven Verhaltenstherapie (REVT). 
 
 Die REVT war für mich immer etwas hart. Wie der Name schon sagt, geht es darum die Dinge aus rationaler Sicht zu sehen. Heute bin ich nur bedingt ein Fan von dieser Theorie, bin aber für diese Perspektive und die Arbeit damit äusserst dankbar. Es hat mir sehr geholfen, meine Perspektive vor, in und nach (ganz) schwierigen Situationen zu wechseln und so in einen entspannte(re)n Lebensmodus zu wechseln. Natürlich gelang mit das nur mit harter und regelmässiger Arbeit und dem Übernehmen von Verantwortung über mein Leben. 
 
-> «Es sind nicht die Dinge selbst, die uns beunruhigen, sondern die Vorstellungen und Meinungen von den Dingen.» Epiktet
+> «Es sind nicht die Dinge selbst, die uns beunruhigen, sondern die Vorstellungen und Meinungen von den Dingen.» Epiktet 
+
+Irgendwann (und ab jetzt ist die Reihenfolge fliessend) empfahl mir mein Coach Bücher wie «Wer dem Glück hinterherrennt, rennt daran vorbei» von Russ Harris oder «Wenn du willst was du noch nie gehabt hast, dann tu was du noch nie getan hast.» von Nossrat Peseschkian. Die Bücher Peseschkian fand und finde ich bereichernd und schön, da sie so viele Geschichten beinhalten und durch die «andere» kulturelle Perspektive ganz neue (Denk-)Felder für mich eröffnet haben. Er war Begründer der positiven Psychotherapie. Was mich aber wirklich berührt hat, war das Buch von Russ Harris und der Akzeptanz- und Commitmenttherapie. Irgendwie war es das, was ich schon immer gesucht hatte und was mir wirklich half. Es geht dabei um die Selbst(er)kenntnis, um das Akzeptieren und **sehr wichtig** um das wertorientierte Handeln. Mit diesem Buch habe ich immer und lange gearbeitet (lesen reicht nicht!). In den folgenden Jahren habe ich das immer wieder genutzt und mich intensiv mit dieser Form der Therapie und deren Hintergründe auseinandergesetzt. 
+
+Passend dazu ist auch der **MBSR-Kurs**, den ich irgendwann besucht habe. Dieser gehört zwar nicht konkret zu diesem Konzept, hilft aber gerade beim «im Moment sein» sowie beim Erlernen der Akzeptanz sehr. 
+
+Bereits in dieser Zeit habe ich eine Coaching-Weiterbildung besucht, bei der es um die **Individualpsychologie** ging, dort aber kaum Theorie vermittelt wurde. Vielmehr wurde auf die Auseinandersetzung mit sich, der Gruppe und die Selbsterfahrung gesetzt. Das war sicher auch ein Schlüsselmoment. Auch mit der Individualpsychologie konnte ich mich nur bedingt anfreunden. Ich finde diese aber, wie alle anderen genannten Theorien äusserst Hilfreich für das Einnehmen von verschiedenen Perspektiven und das draus zu ziehen, was mir hilft. 
+
+Immer noch auf dem Weg der Genesung oder in die Freiheit (Das Wort Freiheit mag ich lieber), besuchte ich die Ausbildung zum Genusstrainer in Deutschland. Das hiess, dass ich immer noch schwierigekeiten hatte, in Gesellschaft zu essen, schnell sonstige Stresssymptome auftauchten und ich immer wieder mit dem Stress und der Angst unterwegs war. Ich habe dort Begegnungen mit vielen Fachpersonen aus dem Gesundheitswesen gemacht, war auf Augenhöhe, wurde ernst genommen und es war o.k. so zu sein wie ich bin. Ich sass am Flughafen, habe geweint weil ich das geschafft hatte und mir noch ein paar Gedanken auf meinem iPad notiert.
