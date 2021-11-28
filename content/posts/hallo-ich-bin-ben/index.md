@@ -3,10 +3,11 @@ title = "Hallo, ich bin Ben. "
 date = "2021-10-12"
 draft = false
 pinned = false
+tags = ["Lernen", "Lernblog", "Tagebuch"]
 image = "ben_meer.jpg"
 description = "Hallo! schön bist du da. Das ist der Start meines Lernblogs und ich nehme dich mit auf meine Reise. \n"
 +++
-**Herzliche Willkommen! Schön schaust du hier vorbei.**\
+**Herzliche Willkommen! Schön schaust du hier vorbei.**
 
 Zuerst einmal: Hallo, ich bin Ben. Früher nannten mich alle Beni und das tun Menschen heute noch wenn sie mich kennenlernen, obwohl ich mich doch nie so vorstelle. Warum auch immer sie meinen mich so nennen zu wollen und zu dürfen. Mit dem Namen, und das ist nun wirklich ein intimer Einblick, verbinde ich vieles von dem, wie mich die Menschen früher sahen, bewerteten, be- und verurteilten. Ein Kind mit ADHS, einer der Lernen könnte wenn er wollte, zu faul und so weiter. Zum Glück konnte ich mich mit dieser Zeit, mit der Schule und allem was dazugehört versöhnen oder zumindest lernen zu akzeptieren. Das schaffte Raum für neue Möglichkeiten und so bewege ich mich mittlerweile selbst in der Bildung irgendwo zwischen Schule und Arbiet. Nun sitze ich hier und schreibe meinen ersten Lernblog-Eintrag. Das hat auch mit meiner Reise zu tun, auf der ich mich befinde. Vielleicht ist es das gesamte Leben, dass eine Art Reise ist und das hier «nur» eine Station. Oder ich beschreibe diesen Lebensabschnitt als Reise. Wie auch immer.. Ich nehme dich mit und wenn du Lust hast, kannst du mich hier dabei begleiten.
 
