@@ -3,7 +3,7 @@ title = "Ein Anfang"
 date = "2021-10-17"
 draft = false
 pinned = false
-tags = []
+tags = ["Lernen", "Tagebuch", "Lernblog"]
 image = "schiff_bearbeitet-2.jpg"
 description = "Es ist ca. Mitte Oktober und seit kurzer Zeit bin ich mit fast 33ig wieder Praktikant. Gedanken dazu und über die erste Zeit gibts in diesem Beitrag. "
 +++
