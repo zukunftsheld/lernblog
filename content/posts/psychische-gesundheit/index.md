@@ -24,3 +24,17 @@ Passend dazu ist auch der **MBSR-Kurs**, den ich irgendwann besucht habe. Dieser
 Bereits in dieser Zeit habe ich eine Coaching-Weiterbildung besucht, bei der es um die **Individualpsychologie** ging, dort aber kaum Theorie vermittelt wurde. Vielmehr wurde auf die Auseinandersetzung mit sich, der Gruppe und die Selbsterfahrung gesetzt. Das war sicher auch ein Schlüsselmoment. Auch mit der Individualpsychologie konnte ich mich nur bedingt anfreunden. Ich finde diese aber, wie alle anderen genannten Theorien äusserst Hilfreich für das Einnehmen von verschiedenen Perspektiven und das draus zu ziehen, was mir hilft. 
 
 Immer noch auf dem Weg der Genesung oder in die Freiheit (Das Wort Freiheit mag ich lieber), besuchte ich die Ausbildung zum Genusstrainer in Deutschland. Das hiess, dass ich immer noch schwierigekeiten hatte, in Gesellschaft zu essen, schnell sonstige Stresssymptome auftauchten und ich immer wieder mit dem Stress und der Angst unterwegs war. Ich habe dort Begegnungen mit vielen Fachpersonen aus dem Gesundheitswesen gemacht, war auf Augenhöhe, wurde ernst genommen und es war o.k. so zu sein wie ich bin. Ich sass am Flughafen, habe geweint weil ich das geschafft hatte und mir noch ein paar Gedanken auf meinem iPad notiert.
+
+
+
+10. Mai Flughafen Nürnberg 17.50
+
+Verlassen der Komfortzone
+
+Was passiert, wenn ich meine Komfortzone verlsse? Ich komme in eine Stresssituation. Je nach Situation dauert meine Stressreaktion länger oder weniger lang.
+
+Mein konditioniertes Muster der Angst, der unsicherheit, dem Drang besser, perfekter sein zu müssen.. meine Angst zu fest aufzufallen.. meine Gedanken nicht essen zu können.. mein Körper verkrampft sich, mein Kopf schmerzt, ich schwitze.. ich habe angst, mir ist nicht wohl, ich habe keinen appetit, meine ganzen gedanken sind bei mir und drehen sich im kreis.. all diese Dinge tauchen dann auf. Sie sind extrem unangenehm, ich möchte mich verstecken, zurückziehen, anders sein, eine andere Vergangenheit haben oder die Zukunft steuern können. Ich versuche mich etwas zurückzuziehen, nicht aufzufallen nicht zu existiereen oder auf jedenfall nicht hier. 
+
+doch ich bin nicht so, wie ich mich denke, ich bin nicht einmal der, der ich denke zu sein. nein, ich bin ich. ich treffe auf wunderbare menschen die ich nie vorher gesehen habe, die meisten wahrscheinlich nicht mehr sehe. wir gehen zusammen essen, wir schauen uns di stadt an, wir werden eine kleine gemeinschaft an einem mehr oder weniger fremden ort , einige Bekanntschaften werden tiefer die anderen weniger. aber es sind begegnungen, begegnungen die mein herz berühren, begegnungen die mir hier am flughafen tränen in die augen drücken möchten. begegnungen die mein herz gestreift oder richtig berührt haben. die liebe dieser menschen hat mich getroffen. ich bin getroffen mitten im herz. ich sehe dass ich ok bin, wie ich bin und ich fühle es. 
+
+es lohnt sich so sehr seine eigene komfortzone zu verlassen, ängste zu haben, etwas zu leiden, durchzuhalten.. rückschläge zu erleiden und immer wieder aufzustehen. dann kann ich frei sein, glücklich sein, mich entwickeln und leben.
