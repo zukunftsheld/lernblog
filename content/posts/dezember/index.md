@@ -34,7 +34,7 @@ und sicher noch einige andere Dinge, die mir gerade nicht in den Sinn kommen ode
 
 
 
-### Dann kam es noch anders als ich gedacht habe
+### Dann kam es noch anders, als ich gedacht habe
 
 **Dazu möchte ich einen kürzlich veröffentlichten Linkedin-Post teilen.** [](https://www.linkedin.com/posts/benzaugg_die-traurige-wahrheit-ist-dass-ich-mehr-activity-6877323136237412352-CUm4)
 
@@ -46,13 +46,13 @@ und sicher noch einige andere Dinge, die mir gerade nicht in den Sinn kommen ode
 \
 *Die Frage warum ich das nun hier schreibe ist berechtigt. Folgendes möchte ich damit sagen:*\
 \
-*➡️Meistens sind wir für unsere eigenen wirklichen Kernstärken blind. Vielleicht haben wir eine Ahnung, ein Gefühl, eine Richtung..*\
+➡️*Meistens sind wir für unsere eigenen wirklichen Kernstärken blind. Vielleicht haben wir eine Ahnung, ein Gefühl, eine Richtung..*\
 \
-*➡️Wenn wir damit beginnen uns zu zeigen, dann können andere uns sehen und (an-)erkennen (auch wenn es dann etwas anderes ist, als wir dachten 😉)*\
+➡️*Wenn wir damit beginnen uns zu zeigen, dann können andere uns sehen und (an-)erkennen (auch wenn es dann etwas anderes ist, als wir dachten* 😉*)*\
 \
-*➡️Was wir richtig gut können und der Schmerz, den wir bereits früh erlebt haben, können ganz nahe beieinander liegen.*\
+➡️*Was wir richtig gut können und der Schmerz, den wir bereits früh erlebt haben, können ganz nahe beieinander liegen.*\
 \
-*➡️Veränderung, Entwicklung und Schritte zur (inneren) Freiheit sind immer möglich*\
+➡️*Veränderung, Entwicklung und Schritte zur (inneren) Freiheit sind immer möglich*\
 \
 *Wichtig ist dabei sich nicht zu verlieren (auch das ist zwischendurch ganz o.k.) und Begegnungen mit Menschen.* 
 
@@ -62,8 +62,14 @@ und sicher noch einige andere Dinge, die mir gerade nicht in den Sinn kommen ode
 
 ### Jetzt
 
-Kommen wir zurück zum Garten. Wenn ich das anschaue, dann habe ich an vielen Orten Samen gesät. Samen zu säen ist etwas, das mit Hoffnung verbunden ist, Vertrauen erfordert und Pflege... Geduld...
+Kommen wir zurück zum Garten. Wenn ich das anschaue, dann habe ich an vielen Orten Samen gesät. In der Natur sieht das so aus, dass wir etwas in den Boden legen, stecken, vergraben, streuen und warten (müssen) was unter der Erde (also etwas das für uns unsichtbar ist) passiert. Das einzige was wir tun können, ist den (aus unserer Sicht und Erfahrung) passenden Boden und Standort zu wählen und ihn zu pflegen. Dann heisst es vertrauen. Vertrauen: 
+
+* dass ich den oder die richtigen Standorte gewählt habe 
+* das dass Wetter stimmt 
+* dass nicht zu viele «Schädlinge» kommen
+
+Samen zu säen erfodert also Optimismus, Hoffnung, Vertrauen und Geduld.
 
 
 
-...Ich bin doch eher der Löwenzahn...
+Eine der schönsten, interessantesten Pflanzen, von der ich schon viel gelernt habe, ist der Löwenzahn. Eine ganz normale, einfache, alltäglich, manchmal schon langweilige Pflanze. Eigenltich.
