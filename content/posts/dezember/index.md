@@ -5,29 +5,29 @@ draft = false
 pinned = false
 image = "whatsapp-image-2021-12-18-at-12.00.52.jpeg"
 description = "Es ist Dezember, kalt, neblig und das hält mich nicht davon ab, gedanklich in die Gartenwelt abzutauchen. In einem Reflexionsgespräch diese Woche landeten wir plötzlich bei Verbindungen und Metahphern zur Natur und zum Garten."
-footnotes = "Podcast-Folge «Wie doch etwas aus dir wird»\\\n[Spotify](https://open.spotify.com/episode/5jq0KNzO7fTx2YILTcFlSy?si=520991c2650f4c42)\n\nWebplayer <https://derpossibilist.podigee.io>"
+footnotes = "**Podcast-Folge «Wie doch etwas aus dir wird»**\\\n[Spotify](https://open.spotify.com/episode/5jq0KNzO7fTx2YILTcFlSy?si=520991c2650f4c42)\n\n[Webplayer ](<https://derpossibilist.podigee.io>)[](https://derpossibilist.podigee.io)"
 +++
 ### Es ist Dezember
 
-Es ist Dezember, kalt, neblig und das hält mich nicht davon ab, gedanklich in die Gartenwelt abzutauchen. In einem Reflexionsgespräch diese Woche landeten wir plötzlich bei Verbindungen und Metaphern zur Natur und zum Garten. Wer regelmässig mitliest, weiss, dass ich mich in einer Phase befinde, in der vieles (fühlbar, sichtbar) unsicher ist. Wobei das eigentlich gar nicht stimmt, denn vieles ist recht stabil und konstant, nur mein Arbeitsalltag nicht und das dazugehörende Einkommen (und das hat dann wieder Einfluss auf fast alles). Hier sieht man schon, wie abhängig wir von Geld sind und welchen Einfluss das auf unsere Entscheidungen, Handlungen, Gefühlslage etc. haben kann. Wir schauen das als normal an, doch ist es das wirklich?
+Es ist Dezember, kalt, neblig und das hält mich nicht davon ab, gedanklich in die Gartenwelt abzutauchen. In einem Reflexionsgespräch diese Woche landeten wir plötzlich bei Verbindungen und Metaphern zur Natur und zum Garten. Wer regelmässig mitliest, weiss, dass ich mich in einer Phase befinde, in der vieles (fühlbar, sichtbar) unsicher ist. Wobei das eigentlich gar nicht stimmt, denn vieles ist recht stabil und konstant, nur mein Arbeitsalltag nicht und das dazugehörende Einkommen (und das hat dann wieder Einfluss auf fast alles). Hier sieht man schon, wie abhängig wir von Geld sind und welchen Einfluss das auf unsere (nur meine?) Entscheidungen, Handlungen, Gefühlslage etc. haben kann. Wir schauen das als normal an, doch ist es das wirklich?
 
 Aber ich schweife ab. Zurück zur Natur und zum Garten. Vor ein paar Jahren habe ich angefangen, aus Samen pflanzen zu ziehen, diese später im Garten zu pflanzen und allenfalls zu ernten. In diesem Prozess fanden wir im Gespräch eine schöne Verbindung zu meiner aktuellen Situation und ja, auch zur Jahreszeit. 
 
 ### Rückblick
 
-Seit ca. einem Jahr bin ich selbstständig unterwegs und ich hatte eine recht klare Vorstellung wo es hingehen soll. Es war eine im Kopf konstruierte Vorstellung im Sinne von Positionierung und konkretem Angebot. ZUKUNFTSHELDEN. Dann habe ich angefangen, Samen zu pflanzen:
+Seit ca. einem Jahr bin ich selbstständig unterwegs und ich hatte eine recht klare Vorstellung, wo es hingehen soll. Es war eine im Kopf konstruierte Vorstellung im Sinne von Positionierung und konkretem Angebot. ZUKUNFTSHELDEN. Dann habe ich angefangen, Samen zu pflanzen:
 
 Ich habe über 300 Briefe an Schulen, Aus- und Weiterbildungsinstitutionen, Psychologen, Sozialdienste etc. geschrieben, Flyer und Visitenkarten beigelegt. Ja, Briefe! Kurz, etwas frech, konkret und selbstverständlich von Hand unterschrieben.
 
-Auf Linkedin war ich bis Ende 2020 kaum sichtbar. Dann habe ich mich mit viel unbehagen diesem (a)sozialen Kanal gewidment um mich zu vernetzen und vor allem um sichtbar zu werden. Ich war bei vielleicht knapp 100 Kontakten und bin heute bei über 1400 Kontakten. Wobei es hier nicht um die Menge geht, sondern vielmehr um die Qualität und für mich die echten Begegnungen. 
+Auf LinkedIn war ich bis Ende 2020 kaum sichtbar. Dann habe ich mich mit viel Unbehagen diesem (a)sozialen Kanal gewidmet, um mich zu vernetzen und vor allem um sichtbar zu werden. Ich war bei vielleicht knapp 100 Kontakten und bin heute bei über 1400 Kontakten. Wobei es hier nicht um die Menge geht, sondern vielmehr um die Qualität und für mich die echten Begegnungen.
 
 Es gibt [ZUKUNFTSHELDEN T-Shirts](https://www.zukunftshelden.ch/shop) die herumlaufen. Also natürlich Menschen in den Shirts. Übrigens möchtest du eines? Wenn du es auch trägst, dann schenke ich es dir. Einfach eine Nachricht schreiben. 
 
-Ah, fast hätte ich den Podcast vergessen mit mittlerweile 12 (glaube ich) Gesprächspartner*innen und ihren individuellen, schönen und echten Geschichten. Sowie den Folgen, in denen einfach ich spreche. So werden es bis Ende Jahr wahrscheinlich 24 sein. 
+Ah, fast hätte ich den Podcast vergessen mit mittlerweile 12 (glaube ich) Gesprächspartner*innen und ihren individuellen, schönen und echten Geschichten. Sowie den Folgen, in denen einfach ich spreche. So werden es bis Ende Jahr wahrscheinlich 24 sein.
 
-Natürlich die Menschen, mit denen ich Kontakt aufgenommen und sie persönlich getroffen habe. 
+Natürlich die Menschen, mit denen ich Kontakt aufgenommen und sie persönlich getroffen habe.
 
-Ich konnte ein Schaufenster an einer vielbefahrenen Strasse ausgestalten und hatte während fast 3 Monaten einen starken Auftritt.
+Ich konnte ein Schaufenster an einer viel befahrenen Strasse ausgestalten und hatte während fast 3 Monaten einen starken Auftritt.
 
 Zum ersten Mal war ich selbst Podcast-Gast und habe dabei über mich und meine Biografie gesprochen. Links in der Fusszeile.
 
@@ -70,4 +70,4 @@ Kommen wir zurück zum Garten. Wenn ich das anschaue, dann habe ich an vielen Or
 
 Samen zu säen erfodert also Optimismus, Hoffnung, Vertrauen, Geduld und Freude am Gärtnern.
 
-Vielleicht mache ich es auch einfach wie der Löwenzahn. Eine der schönsten und interessantesten Pflanzen, von der ich schon viel gelernt habe. Eine ganz normale, einfache, alltäglich, manchmal schon langweilige Pflanze. Eigenltich. Über ihn habe ich vor einiger Zeit etwas geschrieben. [Hier liest du mehr](https://derpossibilist.podigee.io)
+Vielleicht mache ich es auch einfach wie der Löwenzahn. Eine der schönsten und interessantesten Pflanzen, von der ich schon viel gelernt habe. Eine ganz normale, einfache, alltäglich, manchmal schon langweilige Pflanze. Eigenltich. Über ihn habe ich vor einiger Zeit etwas geschrieben. [Hier liest du mehr](https://www.bensblog.ch/loewenzahn/)
