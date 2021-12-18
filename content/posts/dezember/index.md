@@ -3,8 +3,8 @@ title = "Von der Natur lernen"
 date = "2021-12-18"
 draft = true
 pinned = false
-description = "wfhökLSFDNölsdkfsdbnfljbf\nafshÖSJKLFHÖsjkhdfösfd"
-footnotes = "Podcast-Folge «Wie doch etwas aus dir wird»\\\n[Spotify](https://open.spotify.com/episode/5jq0KNzO7fTx2YILTcFlSy?si=520991c2650f4c42)"
+description = "Es ist Dezember, kalt, neblig und das hält mich nicht davon ab, gedanklich in die Gartenwelt abzutauchen. In einem Reflexionsgespräch diese Woche landeten wir plötzlich bei Verbindungen und Metahphern zur Natur und zum Garten."
+footnotes = "Podcast-Folge «Wie doch etwas aus dir wird»\\\n[Spotify](https://open.spotify.com/episode/5jq0KNzO7fTx2YILTcFlSy?si=520991c2650f4c42)\n\nWebplayer"
 +++
 ### Es ist Dezember
 
@@ -32,13 +32,11 @@ Zum ersten Mal war ich selbst Podcast-Gast und habe dabei über mich und meine B
 
 und sicher noch einige andere Dinge, die mir gerade nicht in den Sinn kommen oder die mir vielleicht gar nicht bewusst sind. 
 
-
-
 ### Dann kam es noch anders, als ich gedacht habe und noch einmal anders
 
-**Dazu möchte ich einen kürzlich veröffentlichten Linkedin-Post teilen.** [](https://www.linkedin.com/posts/benzaugg_die-traurige-wahrheit-ist-dass-ich-mehr-activity-6877323136237412352-CUm4)
+Begegnugen haben einen grossen Einfluss auf meine Entwicklung und Entfaltung. So kam es, dass ich plötzlich etwas erkennen durfte/musste, dass mir zuerst grosse Freude machte und dann auch einen sehr schmerzhaften Punkt traf. 
 
-*Begegnugen haben einen grossen Einfluss auf meine Entwicklung und Entfaltung. So kam es, dass ich plötzlich etwas erkennen durfte/musste, dass mir zuerst grosse Freude machte und dann auch einen sehr schmerzhaften Punkt traf.* 
+**Dazu möchte ich einen kürzlich veröffentlichten Linkedin-Post teilen.** [](https://www.linkedin.com/posts/benzaugg_die-traurige-wahrheit-ist-dass-ich-mehr-activity-6877323136237412352-CUm4)
 
 *Die traurige Wahrheit ist, dass ich mehr als mein halbes Leben ein Aussenseiter war. Ich passte in kein Raster und wahrscheinlich wollte ich mich auch nicht anpassen oder zumindest nie so werden, wie sie mich haben wollten. Ich war alleine und stand aussen, an der Seite. Es schmerzt sogar jetzt beim Tippen dieses Textes noch (damit habe ich nicht gerechnet).*\
 \
@@ -58,8 +56,6 @@ und sicher noch einige andere Dinge, die mir gerade nicht in den Sinn kommen ode
 
 [Hier gehts zum Original-Post ](https://www.linkedin.com/posts/benzaugg_die-traurige-wahrheit-ist-dass-ich-mehr-activity-6877323136237412352-CUm4)
 
-
-
 ### Jetzt
 
 Kommen wir zurück zum Garten. Wenn ich das anschaue, dann habe ich an vielen Orten Samen gesät. In der Natur sieht das so aus, dass wir etwas in den Boden legen, stecken, vergraben, streuen und warten (müssen) was unter der Erde (also etwas das für uns unsichtbar ist) passiert. Das einzige was wir tun können, ist den (aus unserer Sicht und Erfahrung) passenden Boden und Standort zu wählen und ihn zu pflegen. Dann heisst es vertrauen. Vertrauen: 
@@ -67,9 +63,10 @@ Kommen wir zurück zum Garten. Wenn ich das anschaue, dann habe ich an vielen Or
 * dass ich den oder die richtigen Standorte gewählt habe 
 * das dass Wetter stimmt 
 * dass nicht zu viele «Schädlinge» kommen
+* das aus den Samen Pflanzen wachsen
 
-Samen zu säen erfodert also Optimismus, Hoffnung, Vertrauen und Geduld.
+Samen zu säen erfodert also Optimismus, Hoffnung, Vertrauen und Geduld und Freude am Gärtnern.
 
 
 
-Eine der schönsten, interessantesten Pflanzen, von der ich schon viel gelernt habe, ist der Löwenzahn. Eine ganz normale, einfache, alltäglich, manchmal schon langweilige Pflanze. Eigenltich. Über ihn habe ich vor einiger Zeit etwas geschrieben.
+Vielleicht bin ich auch einfach wie der Löwenzahn. Eine der schönsten, interessantesten Pflanzen, von der ich schon viel gelernt habe. Eine ganz normale, einfache, alltäglich, manchmal schon langweilige Pflanze. Eigenltich. Über ihn habe ich vor einiger Zeit etwas geschrieben. [Hier liest du mehr dazu.](https://derpossibilist.podigee.io)<https://derpossibilist.podigee.io><https://derpossibilist.podigee.io>
