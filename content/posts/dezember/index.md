@@ -1,8 +1,9 @@
 +++
 title = "Vertrauen in das was war, ist und kommt"
 date = "2021-12-18"
-draft = true
+draft = false
 pinned = false
+image = "whatsapp-image-2021-12-18-at-12.00.52.jpeg"
 description = "Es ist Dezember, kalt, neblig und das hält mich nicht davon ab, gedanklich in die Gartenwelt abzutauchen. In einem Reflexionsgespräch diese Woche landeten wir plötzlich bei Verbindungen und Metahphern zur Natur und zum Garten."
 footnotes = "Podcast-Folge «Wie doch etwas aus dir wird»\\\n[Spotify](https://open.spotify.com/episode/5jq0KNzO7fTx2YILTcFlSy?si=520991c2650f4c42)\n\nWebplayer <https://derpossibilist.podigee.io>"
 +++
@@ -11,8 +12,6 @@ footnotes = "Podcast-Folge «Wie doch etwas aus dir wird»\\\n[Spotify](https://
 Es ist Dezember, kalt, neblig und das hält mich nicht davon ab, gedanklich in die Gartenwelt abzutauchen. In einem Reflexionsgespräch diese Woche landeten wir plötzlich bei Verbindungen und Metaphern zur Natur und zum Garten. Wer regelmässig mitliest, weiss, dass ich mich in einer Phase befinde, in der vieles (fühlbar, sichtbar) unsicher ist. Wobei das eigentlich gar nicht stimmt, denn vieles ist recht stabil und konstant, nur mein Arbeitsalltag nicht und das dazugehörende Einkommen (und das hat dann wieder Einfluss auf fast alles). Hier sieht man schon, wie abhängig wir von Geld sind und welchen Einfluss das auf unsere Entscheidungen, Handlungen, Gefühlslage etc. haben kann. Wir schauen das als normal an, doch ist es das wirklich?
 
 Aber ich schweife ab. Zurück zur Natur und zum Garten. Vor ein paar Jahren habe ich angefangen, aus Samen pflanzen zu ziehen, diese später im Garten zu pflanzen und allenfalls zu ernten. In diesem Prozess fanden wir im Gespräch eine schöne Verbindung zu meiner aktuellen Situation und ja, auch zur Jahreszeit. 
-
-
 
 ### Rückblick
 
@@ -34,9 +33,9 @@ Zum ersten Mal war ich selbst Podcast-Gast und habe dabei über mich und meine B
 
 und sicher noch einige andere Dinge, die mir gerade nicht in den Sinn kommen oder die mir vielleicht gar nicht bewusst sind. 
 
+### Dann kam es noch anders als ich gedacht habe und noch einmal anders..
 
-
-### Dann kam es noch anders, als ich gedacht habe und noch einmal anders
+![](whatsapp-image-2021-12-18-at-12.00.52-1-.jpeg)
 
 Begegnugen haben einen grossen Einfluss auf meine Entwicklung und Entfaltung. So kam es, dass ich plötzlich etwas erkennen durfte/musste, dass mir zuerst grosse Freude machte und dann auch einen sehr schmerzhaften Punkt traf. Die Freude und der Schmerz liessen vielleicht (um bei der Natur zu bleiben) ein inneres Gewitter entstehen. Danach (also heute) ist der Horizont so viel klarer als vorher. 
 
@@ -60,14 +59,12 @@ Begegnugen haben einen grossen Einfluss auf meine Entwicklung und Entfaltung. So
 
 [Hier gehts zum Original-Post ](https://www.linkedin.com/posts/benzaugg_die-traurige-wahrheit-ist-dass-ich-mehr-activity-6877323136237412352-CUm4)
 
-
-
 ### Jetzt
 
 Kommen wir zurück zum Garten. Wenn ich das anschaue, dann habe ich an vielen Orten Samen gesät. In der Natur sieht das so aus, dass wir etwas in den Boden legen, stecken, vergraben, streuen und warten (müssen) was unter der Erde (also etwas das für uns unsichtbar ist) passiert. Das einzige was wir tun können, ist den (aus unserer Sicht und Erfahrung) passenden Boden und Standort zu wählen und ihn zu pflegen. Dann heisst es vertrauen. Vertrauen dass:
 
 * ich den oder die richtigen Standorte gewählt habe 
-* das Wetter stimmt 
+* das Wetter «stimmt»
 * nicht zu viele «Schädlinge» kommen
 * aus den Samen Pflanzen wachsen
 
