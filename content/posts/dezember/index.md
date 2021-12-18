@@ -1,5 +1,5 @@
 +++
-title = "Rückblick, Ausblick, Einblick"
+title = "Von der Natur lernen"
 date = "2021-12-18"
 draft = true
 pinned = false
@@ -8,7 +8,7 @@ footnotes = "Podcast-Folge «Wie doch etwas aus dir wird»\\\n[Spotify](https://
 +++
 ### Es ist Dezember
 
-Es ist Dezember, kalt, neblig und das hält mich nicht davon ab, in die Gartenwelt abzutauchen. In einem Reflexionsgespräch diese Woche landeten wir plötzlich bei Verbindungen und Metahphern zur Natur und zum Garten. Wer regelmässig mitliest, weiss, dass ich mich in einer Phase befinde, in der vieles (fühlbar, sichtbar) unsicher ist. Wobei das eigentlich gar nicht stimmt, denn vieles ist recht stabil und konstant, nur mein Arbeitsalltag nicht und das dazugehörende Einkommen (und das hat dann wieder Einfluss auf fast alles). Hier sieht man schon, wie abhängig wir von Geld sind und welchen Einfluss das auf unsere Entscheidungen, Handlungen, Gefühlslage etc. haben kann. Wir schauen das als normal an, doch ist es das wirklich?
+Es ist Dezember, kalt, neblig und das hält mich nicht davon ab, gedanklich in die Gartenwelt abzutauchen. In einem Reflexionsgespräch diese Woche landeten wir plötzlich bei Verbindungen und Metahphern zur Natur und zum Garten. Wer regelmässig mitliest, weiss, dass ich mich in einer Phase befinde, in der vieles (fühlbar, sichtbar) unsicher ist. Wobei das eigentlich gar nicht stimmt, denn vieles ist recht stabil und konstant, nur mein Arbeitsalltag nicht und das dazugehörende Einkommen (und das hat dann wieder Einfluss auf fast alles). Hier sieht man schon, wie abhängig wir von Geld sind und welchen Einfluss das auf unsere Entscheidungen, Handlungen, Gefühlslage etc. haben kann. Wir schauen das als normal an, doch ist es das wirklich?
 
 Aber ich schweife ab. Zurück zur Natur und zum Garten. Vor ein paar Jahren habe ich angefangen, aus Samen pflanzen zu ziehen, diese später im Garten zu pflanzen und allenfalls zu ernten. In diesem Prozess fanden wir im Gespräch eine schöne Verbindung zu meiner aktuellen Situation und ja, auch zur Jahreszeit. 
 
@@ -34,7 +34,7 @@ und sicher noch einige andere Dinge, die mir gerade nicht in den Sinn kommen ode
 
 
 
-### Dann kam es noch anders, als ich gedacht habe
+### Dann kam es noch anders, als ich gedacht habe und noch einmal anders
 
 **Dazu möchte ich einen kürzlich veröffentlichten Linkedin-Post teilen.** [](https://www.linkedin.com/posts/benzaugg_die-traurige-wahrheit-ist-dass-ich-mehr-activity-6877323136237412352-CUm4)
 
@@ -72,24 +72,4 @@ Samen zu säen erfodert also Optimismus, Hoffnung, Vertrauen und Geduld.
 
 
 
-Eine der schönsten, interessantesten Pflanzen, von der ich schon viel gelernt habe, ist der Löwenzahn. Eine ganz normale, einfache, alltäglich, manchmal schon langweilige Pflanze. Eigenltich. Über ihn habe ich vor einiger Zeit etwas geschrieben. 
-
-### Der Löwenzahn
-
-*Willkommen in der Welt des Löwenzahns. Ich möchte mit dir ein paar Gedanken über diese vielseitige Pflanze teilen. Es ist eine Blume, die uns den Sommer ankündet und uns mit ihrer wunderbar gelben Farbe anstrahlt. Sie ist aber auch ein nicht gerne gesehenes Unkraut bei ambitionierten Gärtnern, obwohl sie den Insekten viel Freude bereiten würde. Der Löwenzahn wird auch als Heilkraut gesehen, welchem man nachsagt, dass es Lebenskraft schenkt und für viele Kinder sowie für das Kind in uns, ist er eine wunderbare Pusteblume.*
-
- *Eine Blume die uns ärgert, Freude bereitet, den Lauf des Lebens zeigt und aus meiner Sicht eine Vorbildfunktion hat. Denn:*
-
-***der Löwenzahn fragt nicht wo er wachsen darf und ob es überhaupt möglich ist, zum Beispiel in einer kleinen Asphaltritze, zu wachsen.*** 
-
-***Unkraut und Achtsamkeit***
-
-*Wenn wir uns über den Löwenzahn im Garten ärgern, werden wir bald nur noch das Unkraut sehen und wenig Freude an den übrigen Pflanzen haben. Betrachten wir dieses "Unkraut" aber mit neugier, dann sehen wir wie die Bienen diese wunderbar gelbe Blume besuchen, wir sehen die schöne freundliche  Farbe und freuen uns über die Pusteblume.*
-
-***Aufblühen – Loslassen – Wachsen – Ruhen***
-
-*Der Löwenzahn scheint mir sehr klar den Lauf des Lebens zu zeigen. Wir sehen bald die auffälligen gelben Blüten, die sich später wie eine weisse Decke über die Felder legen und anschliessend ihre Samen fliegen lassen um wieder wachsen zu können. Im Winter gönnt sich der Löwenzahn eine Pause. Er ist da, nur eben nicht so auffällig. Um aufzublühen und zu wachsen sollten wir loslassen und ruhen nicht vergessen.*
-
- ***Freude und das Kind in uns nicht vergessen***
-
-*Die Pusteblume – wie viel Freude hat uns diese Blume als Kind bereitet. Kannst du dich erinnern, wann du das letzte Mal gepustet hast?*
+Eine der schönsten, interessantesten Pflanzen, von der ich schon viel gelernt habe, ist der Löwenzahn. Eine ganz normale, einfache, alltäglich, manchmal schon langweilige Pflanze. Eigenltich. Über ihn habe ich vor einiger Zeit etwas geschrieben.
