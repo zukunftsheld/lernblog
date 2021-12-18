@@ -69,4 +69,4 @@ Samen zu säen erfodert also Optimismus, Hoffnung, Vertrauen und Geduld und Freu
 
 
 
-Vielleicht bin ich auch einfach wie der Löwenzahn. Eine der schönsten, interessantesten Pflanzen, von der ich schon viel gelernt habe. Eine ganz normale, einfache, alltäglich, manchmal schon langweilige Pflanze. Eigenltich. Über ihn habe ich vor einiger Zeit etwas geschrieben. [Hier liest du mehr dazu.](https://derpossibilist.podigee.io)<https://derpossibilist.podigee.io><https://derpossibilist.podigee.io>
+Vielleicht bin ich auch einfach wie der Löwenzahn. Eine der schönsten, interessantesten Pflanzen, von der ich schon viel gelernt habe. Eine ganz normale, einfache, alltäglich, manchmal schon langweilige Pflanze. Eigenltich. Über ihn habe ich vor einiger Zeit etwas geschrieben. [Hier liest du mehr dazu.](https://derpossibilist.podigee.io)<https://derpossibilist.podigee.io><https://derpossibilist.podigee.io><https://derpossibilist.podigee.io>
