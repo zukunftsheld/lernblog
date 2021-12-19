@@ -11,7 +11,7 @@ footnotes = "**Podcast-Folge «Wie doch etwas aus dir wird»**\\\n[Spotify](http
 
 Es ist Dezember, kalt, neblig und das hält mich nicht davon ab, gedanklich in die Gartenwelt abzutauchen. In einem Reflexionsgespräch diese Woche landeten wir plötzlich bei Verbindungen und Metaphern zur Natur und zum Garten. Wer regelmässig mitliest, weiss, dass ich mich in einer Phase befinde, in der vieles (fühlbar, sichtbar) unsicher ist. Wobei das eigentlich gar nicht stimmt, denn vieles ist recht stabil und konstant, nur mein Arbeitsalltag nicht und das dazugehörende Einkommen (und das hat dann wieder Einfluss auf fast alles). Hier sieht man schon, wie abhängig wir von Geld sind und welchen Einfluss das auf unsere (nur meine?) Entscheidungen, Handlungen, Gefühlslage etc. haben kann. Wir schauen das als normal an, doch ist es das wirklich?
 
-Aber ich schweife ab. Zurück zur Natur und zum Garten. Vor ein paar Jahren habe ich angefangen, aus Samen pflanzen zu ziehen, diese später im Garten zu pflanzen und allenfalls zu ernten. In diesem Prozess fanden wir im Gespräch eine schöne Verbindung zu meiner aktuellen Situation und ja, auch zur Jahreszeit. 
+Aber ich schweife ab. Zurück zur Natur und zum Garten. Vor ein paar Jahren habe ich angefangen, aus Samen Pflanzen zu ziehen, diese später im Garten zu pflanzen und allenfalls zu ernten. In diesem Prozess fanden wir im Gespräch eine schöne Verbindung zu meiner aktuellen Situation und ja, auch zur Jahreszeit. 
 
 ### Rückblick
 
@@ -70,4 +70,4 @@ Kommen wir zurück zum Garten. Wenn ich das anschaue, dann habe ich an vielen Or
 
 Samen zu säen erfodert also Optimismus, Hoffnung, Vertrauen, Geduld und Freude am Gärtnern.
 
-Vielleicht mache ich es auch einfach wie der Löwenzahn. Eine der schönsten und interessantesten Pflanzen, von der ich schon viel gelernt habe. Eine ganz normale, einfache, alltäglich, manchmal schon langweilige Pflanze. Eigenltich. Über ihn habe ich vor einiger Zeit etwas geschrieben. [Hier liest du mehr](https://www.bensblog.ch/loewenzahn/)
+Vielleicht mache ich es auch einfach wie der Löwenzahn. Eine der schönsten und interessantesten Pflanzen, von der ich schon viel gelernt habe. Eine ganz normale, einfache, alltäglich, manchmal schon langweilige Pflanze. Eigentlich. Über ihn habe ich vor einiger Zeit etwas geschrieben. [Hier liest du mehr](https://www.bensblog.ch/loewenzahn/)
