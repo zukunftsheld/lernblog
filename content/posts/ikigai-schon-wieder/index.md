@@ -20,9 +20,9 @@ Nun, was soll ich sagen. Es hat mir (und das passiert selten) die Sprache versch
 
 
 
-
-
 > Das Gefühl kann viel feinfühliger sein als der Verstand scharfsinnig. Viktor E. Frankl
+
+
 
 Man kann seinem [WHY](https://www.zukunftshelden.ch/post/deinwarum), seinem [Ikigai](https://www.zukunftshelden.ch/post/ikigai-die-japanische-lebenskunst), seinem Sinn nachrennen, ihn suchen, finden, aufschreiben und doch bleibt es unfertig. Mittlerweile denke ich, dass sich vieles «ergibt», wenn wir uns auf den Weg machen und offen sind. 
 
@@ -30,15 +30,15 @@ Noch wichtiger, davon bin ich mittlerweile überzeugt, ist, dass wir auf «die r
 
 
 
-
-
 > «Der Mensch wird erst am Du zum Ich.» Martin Buber
+
+
 
 Es geht nicht alleine. Es ging nie und wird nie gehen. Ich bin äusserst dankbar für diese Begegnung, für diesen gemeinsamen Weg. Ich habe mein Ikigai nicht gefunden. Ich habe mich gezeigt, gesprochen, zugehört, reflektiert, gemacht, bin begegnet uns so kam Klarheit. Heute hat es eingeschlagen wie eine Bombe. Mein (fast) Ikigai. 
 
 
 
-**Ich möchte das noch mit den 5 Säulen aus dem Buch von Ken Mogi zu ergänzen:**
+**Ich möchte das noch mit den 5 Säulen aus dem Buch von Ken Mogi ergänzen:**
 
 **1. Klein anfangen**
 
@@ -47,6 +47,8 @@ Ich habe klein angefangen. Zum Beispiel [hier.](https://entwicklungsfreiraum.pod
 **2. Loslassen lernen**
 
 Definitiv keine feste Anstellung mehr, lernen mit der Unsicherheit umzugehen und immer wieder loslassen von Ängsten, Sorgen, (vermeintlicher) Sicherheit, ... . Loslassen vom alten «Ich», den [Prägungen](https://www.bensblog.ch/scheiss-pragungen/), den [Bildern und Geschichten](https://www.bensblog.ch/lesen/) von sich selbst. Von mir.
+
+
 
 **3. Harmonie und Nachhaltigkeit leben**
 
@@ -69,8 +71,6 @@ Wenn vieles unsicher ist und Ziele verfolgt werden, bleibt manchmal das auf der 
 Für uns Menschen eine grosse Herausforderung, vor der ich auch immer wieder stehe. Ängste, Sorgen und Stress verfliegt oft ganz schnell, wenn ich ins Hier und Jetzt komme. Da gibt es so viele Dinge die Helfen. Ich mag zum Beispiel vieles aus dem [Genusstraining](https://bensgenusstraining.jimdofree.com/).
 
 ![](ikigai-ken-mogi.jpg)
-
-
 
 > «Wollen wir eine Brücke schlagen von Mensch zu Mensch – und dies gilt auch von einer Brücke des Erkennens und Verstehens – so müssen die Brückenköpfe eben nicht die Köpfe, sondern die Herzen sein.» Viktor E. Frankl
 
