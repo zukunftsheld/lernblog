@@ -18,8 +18,6 @@ In unserem «Jahresschlussgespräch» machte mich [Marco](https://www.marcojakob
 
 Nun, was soll ich sagen. Es hat mir (und das passiert selten) die Sprache verschlagen. Ich war mir nicht annähernd bewusst, wie weit ich gekommen bin. Es het mich berührt, etwas geschüttelt und das wird mich noch einige Tage begleiten. Tatsächlich habe ich bei drei dieser Kreise eine Klarheit, wie ich sie bisher nicht hatte. Nicht einfach eine rationale Klarheit und auch keine, die nur aus dem Bauch kommt. Vielmehr eine Verbindung von Kopf und Bauch. Mein Hindernis? Immer dasselbe. Geld. Wobei auch hier vieles mit dem Blickwinkel zu tun hat. 
 
-
-
 > Das Gefühl kann viel feinfühliger sein als der Verstand scharfsinnig. Viktor E. Frankl
 
 
@@ -28,15 +26,11 @@ Man kann seinem [WHY](https://www.zukunftshelden.ch/post/deinwarum), seinem [Iki
 
 Noch wichtiger, davon bin ich mittlerweile überzeugt, ist, dass wir auf «die richtigen» Menschen treffen. Dazu finde ich dieses Zitat schön.
 
-
-
 > «Der Mensch wird erst am Du zum Ich.» Martin Buber
 
 
 
 Es geht nicht alleine. Es ging nie und wird nie gehen. Ich bin äusserst dankbar für diese Begegnung, für diesen gemeinsamen Weg. Ich habe mein Ikigai nicht gefunden. Ich habe mich gezeigt, gesprochen, zugehört, reflektiert, gemacht, bin begegnet uns so kam Klarheit. Heute hat es eingeschlagen wie eine Bombe. Mein (fast) Ikigai. 
-
-
 
 **Ich möchte das noch mit den 5 Säulen aus dem Buch von Ken Mogi ergänzen:**
 
@@ -47,8 +41,6 @@ Ich habe klein angefangen. Zum Beispiel [hier.](https://entwicklungsfreiraum.pod
 **2. Loslassen lernen**
 
 Definitiv keine feste Anstellung mehr, lernen mit der Unsicherheit umzugehen und immer wieder loslassen von Ängsten, Sorgen, (vermeintlicher) Sicherheit, ... . Loslassen vom alten «Ich», den [Prägungen](https://www.bensblog.ch/scheiss-pragungen/), den [Bildern und Geschichten](https://www.bensblog.ch/lesen/) von sich selbst. Von mir.
-
-
 
 **3. Harmonie und Nachhaltigkeit leben**
 
@@ -71,6 +63,8 @@ Wenn vieles unsicher ist und Ziele verfolgt werden, bleibt manchmal das auf der 
 Für uns Menschen eine grosse Herausforderung, vor der ich auch immer wieder stehe. Ängste, Sorgen und Stress verfliegt oft ganz schnell, wenn ich ins Hier und Jetzt komme. Da gibt es so viele Dinge die Helfen. Ich mag zum Beispiel vieles aus dem [Genusstraining](https://bensgenusstraining.jimdofree.com/).
 
 ![](ikigai-ken-mogi.jpg)
+
+
 
 > «Wollen wir eine Brücke schlagen von Mensch zu Mensch – und dies gilt auch von einer Brücke des Erkennens und Verstehens – so müssen die Brückenköpfe eben nicht die Köpfe, sondern die Herzen sein.» Viktor E. Frankl
 
