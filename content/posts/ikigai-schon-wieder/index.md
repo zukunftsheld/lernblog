@@ -58,6 +58,8 @@ Das alles vereint sich doch irgendwie auch in diesen Ikigai-Kreisen..
 
 > «Der Mensch handelt nicht nur gemäß dem, was er ist, sondern er wird auch, wie er handelt.» Viktor E. Frankl
 
+
+
 **4. Die Freude an den kleinen Dingen entdecken**
 
 Wenn vieles unsicher ist und Ziele verfolgt werden, bleibt manchmal das auf der Strecke, was schon da ist. Da lohnt es sich, den Blick auf die kleinen Dinge zu richten, stolz darauf zu sein und Freude zu haben. Dazu kommt, dass diese kleinen Dinge oft grösser sind als wir meinen. Vor ein paar Tagen habe ich mich wieder intensiver der Dankbarkeit gewidmet und [hier](https://www.bensblog.ch/wenn-losungen-und-wege-vor-der-nase-liegen/) darüber geschrieben. Im Gespräch heute war auch Geld ein Thema, dass hier passt. Wenn ich mir die Frage stelle, habe ich heute genug Geld um zu essen, für ein Dach über dem Kopf, Kleidung und die mit «Ja» beantworten kann. Dann ist das schon etwas. Es ist etwas kleines an dem ich Freude haben kann und etwas, wofür ich dankbar sein darf. 
@@ -67,6 +69,8 @@ Wenn vieles unsicher ist und Ziele verfolgt werden, bleibt manchmal das auf der 
 Für uns Menschen eine grosse Herausforderung, vor der ich auch immer wieder stehe. Ängste, Sorgen und Stress verfliegt oft ganz schnell, wenn ich ins Hier und Jetzt komme. Da gibt es so viele Dinge die Helfen. Ich mag zum Beispiel vieles aus dem [Genusstraining](https://bensgenusstraining.jimdofree.com/).
 
 ![](ikigai-ken-mogi.jpg)
+
+
 
 > «Wollen wir eine Brücke schlagen von Mensch zu Mensch – und dies gilt auch von einer Brücke des Erkennens und Verstehens – so müssen die Brückenköpfe eben nicht die Köpfe, sondern die Herzen sein.» Viktor E. Frankl
 
