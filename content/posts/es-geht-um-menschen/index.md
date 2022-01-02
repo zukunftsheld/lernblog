@@ -3,6 +3,7 @@ title = "Es geht um Menschen"
 date = "2022-01-02"
 draft = true
 pinned = false
+description = "Bei allem was wir tun geht es um Menschen. Ein Blick aufs Verkaufen. "
 +++
 Bereits bevor ich meine Ausbildung zum Verkäufer begann war für mich klar: Verkäufer wird man nicht, das ist man. Damit meine ich, dass man zwar das Verkaufen (dieses aufschwatzen, bezirtzen, etc.) lernen kann, aber halt nicht das Verkäufer sein. Für mich ist und war der Verkauf nie etwas schlechtes. Höchstens etwas, das schlecht umgesetzt wird. Ein echter, guter, wahrer Verkäufer will nicht einfach verkaufen sondern für oder zusammen mit den Kunden das finden, was für die das passendste ist. Ein guter Verkäufer ist also ein Dienstleister, ein Berater, ein Zuhörer, ein Beobachter und jemand, der mit den Menschen in Beziehung geht. 
 
