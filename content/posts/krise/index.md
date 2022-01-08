@@ -32,7 +32,7 @@ In der Akzeptanz- und Commitmenttherapie gibt es die Metapher von den Dämonen a
 
 **Kampfschalter**
 
-Auch in der Akzeptanz- und Commitmenttherapie spricht Russ Harris vom Kampfschalter. Wenn man den auf AN hat, dann kämpft man gegen alle an, anstatt es zu akzeptieren und wertorientiert zu handeln. So ist man immer auf Kampf, auf Aktionusmus und kommt selten oder gar nicht zur Ruhe. 
+Auch in der Akzeptanz- und Commitmenttherapie spricht Russ Harris vom Kampfschalter. Wenn man den auf AN hat, dann kämpft man gegen alle an, anstatt es zu akzeptieren und wertorientiert zu handeln. So ist man immer auf Kampf, auf Aktionismus und kommt selten oder gar nicht zur Ruhe. 
 
 Anfang 2021 habe ich mich also ganz konkret auf **meinen** Weg gemacht. Als Wegweiser und Energiequellen haben mir meine Intuition und mein inneres Feuer gedient. Ich war auf dem Weg mit frischem Mut und vielen Ideen. Irgendwann kamen die Dämonen aufs Deck und mein Kampfschalter ging auf AN. Ich war im K(r)ampfmodus, schlängelte zwischen Freude, Neugier, Stress, Angst, neuen Ideen, ... . Dann kam der 31.12.2021 und die Welt war schwarz. 
 
