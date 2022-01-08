@@ -8,7 +8,7 @@ description = "Fast ist das Jahr durch. Jedes in dieser letzten Woche setze ich 
 +++
 Fast ist das Jahr durch. Jedes in dieser letzten Woche setze ich mich hin und lasse das Jahr noch einmal vorbeiziehen. Ich notiere mir die Momente, Begegnungen und Ereignisse die mir geblieben sind, die mich berührt haben oder die einen grösseren Stellenwert in meinem Leben haben (könnten). Da sind oft ganz schöne Momente dabei und auch traurige. Das habe ich immer gemacht und dieses Jahr gehts einfach nicht.
 
-Da ist so vieles und doch nichts. Vielleicht ist es zu viel. Heute Morgen nun, ich habe Kopfschmerzen, ordne Bücher, schwanke zwischen meiner mittlerweile bekannten Unsicherheit und Optimismus ein Gefühl (oder ein Gedanke der zu einem Gefühl wird? da ist wohl wieder die Frage welcher Theorie man trauen möchte 😉) taucht auf. Es ist Klarheit, Klarheit über das, was dieses Jahr zusamenfassen würde. 
+Da ist so vieles und doch nichts. Vielleicht ist es zu viel. Heute Morgen nun, ich habe Kopfschmerzen, ordne Bücher, schwanke zwischen meiner mittlerweile bekannten Unsicherheit und Optimismus, ein Gefühl (oder ein Gedanke der zu einem Gefühl wird? da ist wohl wieder die Frage welcher Theorie man trauen möchte 😉) taucht auf. Es ist Klarheit, Klarheit über das, was dieses Jahr zusamenfassen würde. 
 
 Lernen. Ich habe gelernt. Natürlich klingt das in einenm Lernblog etwas kalkuliert, ist es aber tatsächlich nicht. Natürlich lernen wir immer. Vielleicht liesse es sich noch eher konkretisieren mit (An-)Erkennen, mit Verinnerlichen, mit Fühlen. 
 
