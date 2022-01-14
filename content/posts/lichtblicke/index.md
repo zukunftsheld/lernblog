@@ -8,6 +8,10 @@ description = "Es ist kalt, 9 Uhr 26, ich bin gerade mit dem Zug am Bahnhof Bern
 +++
 Es ist kalt, 9 Uhr 26, ich bin gerade mit dem Zug am Bahnhof Bern angekommen und denke noch über den Wunsch der Zugbegleiterin nach, die uns «einen sorgenfreien Tag wünscht». Ich schaue in Richtung Insel und habe wie aus dem Nichts Gefühle. Positive, neugierige, denke an das lebendige, das emsige Treiben wie im Bienenstock. In dem Moment höre ich die Geräusche eines Helikopters, Agusta DaVinci… Rega 10 hebt ab und fliegt, so vermute ich, nach Wilderswilund vielleicht bleibt etwas Zeit für einen Kaffee.
 
+
+
+![](a075d7fb-7182-4e83-b884-5a4e22c02ce9.jpg)
+
 Ja, mir gehts immer noch solala und ich mache mir Gedanken darüber, was mein vorletzter Beitrag ausgelöst hat. Seither habe ich, um nicht untätig zu sein, um ein Gefühl von Kontrolle (wir wissen, die gibts gar nicht) zu haben u. a. einige Bewerbungen geschrieben und Absagen kassiert. Bei einer habe ich noch Hoffnung, es geht um Spital, um Podcast, um Texte, um Netzwerken und wahrscheinlich hat dieses Inserat etwas ausgelöst.
 
 Dieser Moment auf der Rolltreppe, dieser klare Tag mit herrlicher Sicht auf die Berner Alpen, diese Gedanken und wie als letzter Schubser, der abhebende Helikopter lösen einige Gedanken sowie eine Ideenlawine aus, die sich bis zum Abend nicht aufhalten lässt. Innerhalb von 30 Minuten stand ein neues Podcast-Grundgerüst und ein Name. Bis am Mittag war die Landingpage online, einige Gesprächsanfragen draussen, aus denen Zusagen resultierten.
