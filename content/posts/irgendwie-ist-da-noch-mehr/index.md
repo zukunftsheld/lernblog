@@ -4,9 +4,9 @@ date = "2022-01-23"
 draft = false
 pinned = false
 image = "img_4517.jpg"
-description = "Und dann denke ich angekommen zu sein, fühle mich aber alles andere als das. Es wirs Zeit, mein Tagebuch hier in dieser Form zu schliessen und wieder aufs Papier zu bringen. Es gibt noch so viel anderes, dass hier geschrieben werden kann. Bevor ich das tue, schaue ich doch noch einmal wo ich stehe oder wanke."
+description = "Und dann denke ich angekommen, irgendwie angekommen zu sein, fühle mich aber alles andere als das. Es wirs Zeit, mein Tagebuch hier in dieser Form zu schliessen und wieder aufs Papier zu bringen. Es gibt noch so viel anderes, dass hier geschrieben werden kann. Bevor ich das tue, schaue ich doch noch einmal wo ich stehe oder wanke."
 +++
-Und dann denke ich angekommen zu sein, fühle mich aber alles andere als das. Es wird Zeit, mein Tagebuch hier in dieser Form zu schliessen und wieder aufs Papier zu bringen. Es gibt noch so viel anderes, dass hier geschrieben werden kann. Bevor ich das tue, schaue ich doch noch einmal, wo ich stehe oder wanke. Im letzten Blog habe ich geschrieben, dass ich angekommen bin wie noch nie. Das mag wohl stimmen und muss rational gesehen so sein. Ich war dem, was ich will und bin vermutlich noch nie so nahe. Wobei es bei vermutlich bleibt. Ich kann es schlichtweg nicht sagen. Es ist nur dieses, wie so oft leise, aber starke Gefühl. Ich möchte hier gerne eine Geschichte teilen, die ich aber leider nicht mehr finde. Es geht um einen Mann, der dem Glück oder der Lösung hinterherrennt und rennt und rennt und .. na, ihr wisst schon. Irgendwann kann er nicht mehr und er setzt sich auf einen Stein. Kurz darauf nähert sich die Lösung (oder das Glück) und sagt: Endlich hat du angehalten. Ich renne dir schon die ganze Zeit hinterher. Und da kommt mir gleich noch eine andere Geschichte in den Sinn und warte ... Vielleicht finde ich sie.
+Und dann denke ich, irgendwie angekommen zu sein, fühle mich aber alles andere als das. Es wird Zeit, mein Tagebuch hier in dieser Form zu schliessen und wieder aufs Papier zu bringen. Es gibt noch so viel anderes, dass hier geschrieben werden kann. Bevor ich das tue, schaue ich doch noch einmal, wo ich stehe oder wanke. Im letzten Blog habe ich geschrieben, dass ich angekommen bin wie noch nie. Das mag wohl stimmen und muss rational gesehen so sein. Ich war dem, was ich will und bin vermutlich noch nie so nahe. Wobei es bei vermutlich bleibt. Ich kann es schlichtweg nicht sagen. Es ist nur dieses, wie so oft leise, aber starke Gefühl. Ich möchte hier gerne eine Geschichte teilen, die ich aber leider nicht mehr finde. Es geht um einen Mann, der dem Glück oder der Lösung hinterherrennt und rennt und rennt und .. na, ihr wisst schon. Irgendwann kann er nicht mehr und er setzt sich auf einen Stein. Kurz darauf nähert sich die Lösung (oder das Glück) und sagt: Endlich hat du angehalten. Ich renne dir schon die ganze Zeit hinterher. Und da kommt mir gleich noch eine andere Geschichte in den Sinn und warte ... Vielleicht finde ich sie.
 
 ### Oh, da ist sie 😀. Im Buch der Trauer von Jorge Bucay.
 
@@ -23,8 +23,6 @@ Ich will Ruhe oder zumindest wieder etwas Alltag.
 Im Buch der Corporate Rebels steht irgendwo ein Zitat von (ich habe gerade keine Lust, die Urheberin zu suchen): So wie wir unsere Tage verbringen, so verbringen wir unser Leben. Dieses Zitat trifft den Nagel auf den Kopf. Arbeitszeit ist auch Lebenszeit. Also will ich mein Leben nicht wie eine Kuh im Stall oder auf der Weide verbringen. Viel eher wie ein Bär, wie ein Adler, Wolf oder wie ein Pinguin (nicht die im Zoo). Einige Pinguine sind vom Aussterben bedroht, weil das Klima für sie nicht stimmt. Dieses Klima wurde oder wird wahrscheinlich vom Menschen und der Gier mitbeeinflusst. Irgendwie sehe ich da Parallelen zu meinem Platz in der Arbeitswelt. Warum ich gerade auf Pinguine komme, liest oder hörst du in dieser Geschichte.
 
 [Die Pinguin Geschichte von Eckhart von Hirschhausen auf Youtube](https://www.youtube.com/watch?v=Az7lJfNiSAs).
-
-
 
 ### Die Pinguin Geschichte
 
