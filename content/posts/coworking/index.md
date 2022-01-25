@@ -3,7 +3,7 @@ title = "Meine ersten Erfahrungen mit Coworking"
 date = "2021-11-13"
 draft = false
 pinned = false
-tags = ["Coworking", "Colearning", ""]
+tags = ["Coworking", "Colearning"]
 image = "whatsapp-image-2021-11-13-at-19.29.43.jpeg"
 description = "Coworking, Colearning, Lernblog in letzter Zeit nenne ich in Gesprächen mit Freunden und Bekannten diese Begriffe immer wieder und ja, viele (die meisten) verstehen sie kaum. Hier gebe ich einen ersten Einblick in meine Erfahrungen. "
 +++
