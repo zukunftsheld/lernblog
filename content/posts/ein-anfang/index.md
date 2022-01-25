@@ -6,6 +6,7 @@ pinned = false
 tags = ["Lernen", "Tagebuch", "Lernblog"]
 image = "schiff_bearbeitet-2.jpg"
 description = "Es ist ca. Mitte Oktober und seit kurzer Zeit bin ich mit fast 33ig wieder Praktikant. Gedanken dazu und über die erste Zeit gibts in diesem Beitrag. "
+footnotes = "Foto: Ben Zaugg, aufgenommen in Dänemark"
 +++
 Es ist ca. Mitte Oktober und seit kurzer Zeit bin ich mit fast *33ig* wieder Praktikant. Soll ich das hier wirklich schreiben? Schadet das nicht meiner Glaubwürdigkeit, welchen Einfluss hat das auf die Art, wie mich Leute sehen? Werde ich mit der Bezeichnung Praktikant überhaupt noch ernst genommen?
 
