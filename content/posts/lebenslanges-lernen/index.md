@@ -3,8 +3,10 @@ title = "Lebenslanges Lernen"
 date = "2021-11-06"
 draft = false
 pinned = false
+tags = ["Lernen", "Biografie", "Colearning"]
 image = "ben2.jpg"
 description = "Eine der Kompetenzen ist lebenslanges Lernen. Das sagen und schreiben viele und sie tun es gerne! Denn damit lässt sich natürlich auch Geld verdienen. Was heisst aber lebenslanges Lernen oder was könnte es heissen und braucht es dazu Bildungsinstitute?"
+footnotes = "Bild: Sandra Zaugg, irgendwo in Spanien"
 +++
 Wenn ich auf meine Lernbiografie zurückblicke, dann habe ich nicht viele gute Erinnerungen oder Gedanken. Eigentlich kann ich mich kaum an Details aus meiner Schulzeit erinnern. Das Einzige, was ich noch *weiss* ist, wie wichtig es mir war, dass die Schule fertig ist und ich meinen Weg selbst bestimmen konnte. In dieser Zeit wäre es undenkbar gewesen, dass ich jemals etwas mit Bildung zu tun haben werde. In der Schule habe ich ja nichts gelernt und ich fühlte mich von Lehr- und anderen Autoritätspersonen weder ernstgenommen noch akzeptiert.
 
