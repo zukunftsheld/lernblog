@@ -3,6 +3,7 @@ title = "Pilze"
 date = "2021-12-31"
 draft = false
 pinned = false
+tags = ["Pilze", "Pilzfarm"]
 image = "pilz_web.jpg"
 description = "Bereits seit einigen Monaten läuft unser Pilzfarmprojekt."
 +++
