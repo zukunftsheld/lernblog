@@ -3,8 +3,10 @@ title = "Die Welt verändern"
 date = "2022-01-20"
 draft = false
 pinned = false
+tags = ["Tagebuch", "Biografie", "Sinn"]
 image = "81c3adb3-489b-46c2-b98b-bdcc2f0458ce.jpg"
 description = "Von der Krise zu den Lichtblicken und nun? Die Welt verändern. Was sonst. Wie kommts nun, dass zwischen meiner Krise und den Gedanken, die Welt zu verändern, nur wenige Wochen liegen."
+footnotes = "Foto: Ben Zaugg"
 +++
 Von der [Krise](https://www.bensblog.ch/krise/) zu den [Lichtblicken ](https://www.bensblog.ch/lichtblicke/)und nun? Die Welt verändern. Was sonst. Das könnte bei Lesenden für Verwirrung sorgen, Fragen aufwerfen oder Kopfschütteln auslösen. Es wäre natürlich auch möglich, erstaunt zu sein, beeindruckt oder begeistert. Ich denke, dass nichts von all dem nötig ist und ich hier eigentlich einen ganz normalen Prozess beschreibe, wie er zu Millionen vorkommt. Meistens sprechen oder schreiben Menschen nicht darüber, ja sie sprechen nicht einmal mit Freunden über solche Gedanken, Gefühle, Krisen und Lichtblicke. Es ist ja auch nicht so, dass Freunde oder Bekannte immer wie gewünscht reagieren, uns vielleicht in unserem Vorhaben bremsen oder uns als sprunghaft wahrnehmen.
 
