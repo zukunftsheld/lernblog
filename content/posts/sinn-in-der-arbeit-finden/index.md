@@ -3,6 +3,7 @@ title = "Sinn in der Arbeit finden"
 date = "2022-01-12"
 draft = false
 pinned = false
+tags = ["Sinn", "Gedanken"]
 image = "fac9d2_175b021c68874656a09af2f20c4c7e66~mv2.jpeg"
 description = "Arbeit nimmt einen grossen Teil unserer Lebenszeit ein. Wir nennen sie aber lieber Arbeitszeit und sehen diese ganz oft auch als etwas vom Leben getrenntes. Also Arbeitszeit und Freizeit. Wenn wir aber schauen, wie viele Stunden wir bei der Arbeit verbringen, dann ist es mehr als schade, wenn die Arbeitszeit auch Leidenszeit ist. Ein Ort, an dem wir es gerade so aushalten oder eine Tätigkeit die wir halt tun, um Geld zu erhalten."
 +++
