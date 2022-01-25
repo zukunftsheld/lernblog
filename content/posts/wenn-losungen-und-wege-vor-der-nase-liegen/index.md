@@ -3,6 +3,7 @@ title = "Wenn Lösungen und Wege vor der Nase liegen"
 date = "2021-12-11"
 draft = false
 pinned = false
+tags = ["Tagebuch", "Biografie", "Gedanken"]
 image = "994f2b5a-c9a2-467c-90e9-b6b8335d8b8d.jpg"
 description = "Eigentlich habe ich keine grosse Lust einen Beitrag zu schreiben, mache es aber trotzdem. Denn ich habe mir vorgenommen meinen Prozess zu dokumentieren und transparent zu machen. Bevor ich bald aus dem Haus gehe, gibts noch einen kurzen Einblick."
 footnotes = " [entwicklungsfreiraum - der Podcast](https://entwicklungsfreiraum.podigee.io)"
