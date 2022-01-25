@@ -3,8 +3,10 @@ title = "Ikigai (schon wieder)"
 date = "2021-12-22"
 draft = false
 pinned = false
+tags = ["Ikigai", "Gedanken", "Sinn"]
 image = "meer.jpg"
 description = "Ikigai (schon wieder). In unserem «Jahresschlussgespräch» machte mich Marco plötzlich darauf aufmerksam, dass eigentlich fast alle meine Kreise klar sind, bis auf den mit dem Geld. Weil ich Bilder brauche, öffnete ich mein Ikigai-Blog-Post und schaute mir die Grafik an."
+footnotes = "Foto: Ben Zaugg"
 +++
 Ja ich weiss. Ikigai erscheint bei mir immer wieder irgendwie irgendwo. Ja, ich bin kritisch gegenüber diesen verbreiteten Konzepten, die schnell und einfach helfen sollen. Dankbarerweise wird meine skeptische Sicht im Buch von Ken Mogi ein bitzeli unterstrichen. Also: Den Hype und das Oberflächliche rund im Ikigai mag ich nicht. Die Tiefe, die dahinter steckt berührt mich und ich habe den Eindruck, etwas von der Essenz zu verstehen. Wer weiss, ob das wirklich so ist. 
 
