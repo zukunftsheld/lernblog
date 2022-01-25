@@ -3,9 +3,10 @@ title = "(Scheiss) Prägungen"
 date = "2021-12-21"
 draft = false
 pinned = false
+tags = ["Gedanken", "Biografie", "Recovery", "Tagebuch"]
 image = "nachtschicht_web.jpg"
 description = "Schon wieder sind Gedanken da, die geteilt werden wollen. In den letzten Monaten sagen und schreiben mir Menschen, dass ich gut schreiben könne. Ich? Gut schreiben? Wow! Danke das freut mich. Aber.."
-footnotes = "Rechtschreibung, Linkschreibung, Dramatik mit der Grammatik? Dann ist vielleicht der **[Duden Mentor](https://mentor.duden.de/)** etwas für dich. \n\noder [Herr Schröder](https://www.herrschröder.de/start.html), der Korrekturensohn"
+footnotes = "Rechtschreibung, Linkschreibung, Dramatik mit der Grammatik? Dann ist vielleicht der **[Duden Mentor](https://mentor.duden.de/)** etwas für dich. \n\noder [Herr Schröder](https://www.herrschröder.de/start.html), der Korrekturensohn\n\nFoto: Ben Zaug"
 +++
 Schon wieder sind Gedanken da, die geteilt werden wollen. In den letzten Monaten sagen und schreiben mir Menschen, dass ich gut schreiben könne. Ich? Gut schreiben? Wow! Danke, das freut mich. Aber..
 
