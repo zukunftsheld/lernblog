@@ -3,9 +3,10 @@ title = "Wie ich zum Lesen und zurück zu den Geschichten kam"
 date = "2021-11-26"
 draft = false
 pinned = false
+tags = ["Biografie", "Recovery", "Tagebuch"]
 image = "img_0498.jpg"
 description = "Auf der Suche nach dem Bild für den vorherigen Blogbeitrag bin ich über alte Fotos gestolpert, die mich gleich zu dem führen, was ich dir jetzt erzähle. Es passt zu meiner Lernbiografie und das ist ein Teil dieses Blogs hier."
-footnotes = "[herbstlesung.ch](http://www.herbstlesung.ch)\n\n[denk-weise.ch](https://denk-weise.jimdofree.com)"
+footnotes = "[herbstlesung.ch](http://www.herbstlesung.ch)\n\n[denk-weise.ch](https://denk-weise.jimdofree.com)\\\n\\\nFoto 1: Ben Zaugg\n\nFoto 2: Sandra Zaugg"
 +++
 Auf der Suche nach dem Bild für den vorherigen Blogbeitrag bin ich über alte Fotos gestolpert, die mich gleich zu dem führen, was ich dir jetzt erzähle. Es passt zu meiner Lernbiografie und das ist ein Teil dieses Blogs hier. 
 
