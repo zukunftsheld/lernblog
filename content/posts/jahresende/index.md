@@ -3,8 +3,10 @@ title = "3..2..1"
 date = "2021-12-29"
 draft = false
 pinned = false
+tags = ["Gedanken", "Tagebuch", "Biografie"]
 image = "images.jpg"
 description = "Fast ist das Jahr durch. Jedes in dieser letzten Woche setze ich mich hin und lasse das Jahr noch einmal vorbeiziehen. Ich notiere mir die Momente, Begegnungen und Ereignisse die mir geblieben sind, die mich berührt haben oder die einen grösseren Stellenwert in meinem Leben haben (könnten)."
+footnotes = "Bild: aus dem Buch von Charlie Mackesy"
 +++
 Fast ist das Jahr durch. Jedes in dieser letzten Woche setze ich mich hin und lasse das Jahr noch einmal vorbeiziehen. Ich notiere mir die Momente, Begegnungen und Ereignisse die mir geblieben sind, die mich berührt haben oder die einen grösseren Stellenwert in meinem Leben haben (könnten). Da sind oft ganz schöne Momente dabei und auch traurige. Das habe ich immer gemacht und dieses Jahr gehts einfach nicht.
 
