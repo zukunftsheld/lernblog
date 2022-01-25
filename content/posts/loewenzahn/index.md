@@ -3,8 +3,10 @@ title = "Der Löwenzahn als Inspiration"
 date = "2021-12-16"
 draft = false
 pinned = false
+tags = ["Gedanken"]
 image = "whatsapp-image-2021-12-18-at-12.01.18-5-.jpeg"
 description = "Willkommen in der Welt des Löwenzahns. Ich möchte mit dir ein paar Gedanken über diese vielseitige und inspirierende Pflanze teilen. "
+footnotes = "Fotos: Ben Zaugg"
 +++
 ### Der Löwenzahn
 
