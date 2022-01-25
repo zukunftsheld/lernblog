@@ -3,6 +3,7 @@ title = "Lichtblicke"
 date = "2022-01-14"
 draft = false
 pinned = false
+tags = ["Podcast", "Tagebuch"]
 image = "change-the-time-g0ab4eb191_1920.jpg"
 description = "Es ist kalt, 9 Uhr 26, ich bin gerade mit dem Zug am Bahnhof Bern angekommen und denke noch über den Wunsch der Zugbegleiterin nach, die uns „einen sorgenfreien Tag wünscht“. Ich schaue in Richtung Insel und habe wie aus dem Nichts Gefühle. Positive, neugierige, denke an das Lebendige, das emsige Treiben wie im Bienenstock. In dem höre ich die Geräusche eines Helikopters, AgustaWestland Da Vinci, Rega 10 hebt ab und fliegt, so vermute ich, nach Wilderswil und vielleicht bleibt etwas Zeit für einen Kaffee."
 +++
