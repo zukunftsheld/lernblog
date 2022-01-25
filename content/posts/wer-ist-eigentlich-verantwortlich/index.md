@@ -3,9 +3,10 @@ title = "Wer ist eigentlich verantwortlich?"
 date = "2021-12-26"
 draft = false
 pinned = false
+tags = ["Gesundheit", "Tagebuch", "Gedanken"]
 image = "blueberries-gb0dcf1fff_1280.jpg"
 description = "Vor einigen Monaten habe ich in einer Podcast-Folge über die Verantwortung bei der Genesung gesprochen. Wer ist verantwortlich? Der Arzt, der Patient, beide oder sonst noch jemand?"
-footnotes = "Natürlich deckt das alles nur einen kleinen Teil ab und vieles hängt mit vielem zusammen. Was ich hier schreibe habe ich nicht mit Wissenschaftlichen Quellen abgeglichen. Es basiert alles auf eigenen Erfahrungen und Gedanken, die ich mir darüber gemacht habe, auf Internetforen zum Thema Histamin und anderen Webseiten."
+footnotes = "Natürlich deckt das alles nur einen kleinen Teil ab und vieles hängt mit vielem zusammen. Was ich hier schreibe habe ich nicht mit Wissenschaftlichen Quellen abgeglichen. Es basiert alles auf eigenen Erfahrungen und Gedanken, die ich mir darüber gemacht habe, auf Internetforen zum Thema Histamin und anderen Webseiten.\n\nFoto:Pixabay"
 +++
 Vor einigen Monaten habe ich in einer Podcast-Folge über die [Verantwortung bei der Genesung](https://entwicklungsfreiraum.podigee.io/32-neue-episode) gesprochen. Wer ist verantwortlich? Der Arzt, der Patient, beide oder sonst noch jemand? Ich bin der Überzeugung, dass es beide sind und Genesung vor allem in der Zusammenarbeit, der Begegnung möglich ist. Seit Jahren habe ich immer wieder Schwierigkeiten im HNO-Bereich. Etlich Abklärungen ergaben.. nichts. Irgendwann kam der Verdacht auf eine Milchallergie (Milch(produkte) mochte ich noch nie wirklich). Dann kumulative Allergien und irgendwann der Verdacht oder die Wahrscheinlichkeit einer Histaminintoleranz. Gut, nun ist es schön, eine Diagnose oder einen Verdacht zu haben. Das erklärt vieles, macht es aber nicht unbedingt einfacher. Mit der Histaminintoleranz ist das nämlich so eine Sache. Es gibt Lebensmittel die ich heute besser vertrage als in einer Woche. Einmal ist die Raktion darauf recht schnell und meistens um ein paar Stunden verschoben.
 
