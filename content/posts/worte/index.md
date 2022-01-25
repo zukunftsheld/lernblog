@@ -3,6 +3,7 @@ title = "Worte"
 date = "2021-11-25"
 draft = false
 pinned = false
+tags = ["Gedanken"]
 image = "img_8040.jpg"
 description = "In den letzten Tagen habe ich noch häufiger als sonst über Worte und Zitate nachgedacht. Das mache ich auch hier beim Schreiben. "
 +++
