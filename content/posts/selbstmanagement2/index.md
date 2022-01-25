@@ -4,7 +4,7 @@ date = "2022-01-25"
 draft = true
 pinned = false
 description = "Fragen brauchen nicht immer Antworten. Es reicht oft aus, wenn sie zu weiteren Gedanken führen. Deshalb gibts gleich noch ein paar Gedanken zu Selbstmanagement. "
-footnotes = "Ein paar Bücher, die ich gelesen habe und die mir beim Schreiben in den Sinn kamen, also aus meiner Perspektive irgendwie einen Zusammenhang haben:\n\n**Der Clown in uns**, Humor und die Kraft des Lachens, David Gilmore\n\n**Wer dem Glück hinterherrent, rennt daran vorbei**, Russ Harris\n\n**Drei Fragen**, Wer bin ich? Wohin will ich? Und mit wem? Jorge Bucay\n\n**Psychologie des Lebenssinns**, Tatjana Schnell\n\n**Selbstmanagement - ressourcenorientiert** \nGrundlagen und Trainingsmanual für die Arbeit mit dem Zürcher Ressourcen Modell (ZRM®), Maja Storch, Frank Krause"
+footnotes = "Ein paar Bücher, die ich gelesen habe und die mir beim Schreiben in den Sinn kamen, also aus meiner Perspektive irgendwie einen Zusammenhang haben:\n\n**Der Clown in uns**, Humor und die Kraft des Lachens, David Gilmore\n\n**Wer dem Glück hinterherrent, rennt daran vorbei**, Russ Harris\n\n**Drei Fragen**, Wer bin ich? Wohin will ich? Und mit wem? Jorge Bucay\n\n**Psychologie des Lebenssinns**, Tatjana Schnell\n\n**Selbstmanagement - ressourcenorientiert** \nGrundlagen und Trainingsmanual für die Arbeit mit dem Zürcher Ressourcen Modell (ZRM®), Maja Storch, Frank Krause\n\nGedanken dazu finden sich auch in einigen [entwicklungsfreiraum](https://www.entwicklungsfreiraum.ch) Podcast-Folgen."
 +++
 # Weitere Gedanken zu [Selbstmanagement](https://www.bensblog.ch/selbstmanagement/)
 
