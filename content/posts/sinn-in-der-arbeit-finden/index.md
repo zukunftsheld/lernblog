@@ -3,7 +3,7 @@ title = "Sinn in der Arbeit finden"
 date = "2022-01-12"
 draft = false
 pinned = false
-tags = ["Sinn", "Gedanken"]
+tags = ["Sinn", "Arbeit"]
 image = "fac9d2_175b021c68874656a09af2f20c4c7e66~mv2.jpeg"
 description = "Arbeit nimmt einen grossen Teil unserer Lebenszeit ein. Wir nennen sie aber lieber Arbeitszeit und sehen diese ganz oft auch als etwas vom Leben getrenntes. Also Arbeitszeit und Freizeit. Wenn wir aber schauen, wie viele Stunden wir bei der Arbeit verbringen, dann ist es mehr als schade, wenn die Arbeitszeit auch Leidenszeit ist. Ein Ort, an dem wir es gerade so aushalten oder eine Tätigkeit die wir halt tun, um Geld zu erhalten."
 +++
@@ -34,8 +34,6 @@ Diese eigene Visualisierung, angelehnt an den Prozess zur Sinnerfüllung (Forsch
 
 So sehe ich bei dieser Verbidung die ACT als sehr lebenspraktischen Ansatz auf dem Weg zum Sinn.
 
-
-
 #### Selbsterkenntnis
 
 Wenn wir Sinn finden wollen, dann müssen wir uns zuerst einmal selbst kennen. Da sind Fragen wie:
@@ -46,7 +44,7 @@ Wenn wir Sinn finden wollen, dann müssen wir uns zuerst einmal selbst kennen. D
 
 Diese Fragen lassen sich, wie alles andere auch, nicht von heute auf morgen klären. Es ist vielmehr ein Prozess, den du ganz bewusst anstossen kannst.
 
-**Selbstdistanzierung**
+#### **Selbstdistanzierung**
 
 Wenn du dich auf den Weg machst, dann begegnen dir ziemlich sicher Hindernisse, Ängste, Sorgen, Schwierigkeiten, ... . Da hilft es eine Distanz zu sich und der Situation zu schaffen. Da hilft die Akzeptanz und die [Defusion](https://www.mbsr-coaching-tuebingen.de/wp-content/uploads/2017/11/Abstand-zu-Gedanken-die-kognitive-Defusion-31.5.2016.pdf). So kannst du auch mit diesen Gefühlen und Gedanken weitermachen.
 
