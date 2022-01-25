@@ -3,6 +3,7 @@ title = "Krise"
 date = "2022-01-07"
 draft = false
 pinned = false
+tags = ["Biografie", "Tagebuch"]
 image = "mountains-190055_640.jpg"
 description = "Das hier sollte ich definitiv nicht schreiben. Das sagt mir eine kritische Stimme, die es sicher nett und gut meint mit mir. Wer weiss, vielleicht finde ich auch nicht die richtgen Worte aber schauen wir einmal. Denn da ist dieser Anteil, der meint es müsse raus. Mensch sein heisst sich auch dann zu zeigen, wenn alles den Bach runtergeht oder es zumindest so scheint."
 footnotes = "**Bücher zur Akzeptanz- und Commitmenttherapie**\n\n**Wer dem Glück hinterherrennt, rennt daran vorbei**, Russ Harris\n\n**ACT leicht gemacht**, EIn grundlegender Leitfaden für die Praxis der Akzeptanz- und Commitment-Therapie, Russ Harris\n\n**Der Weg zu echtem Selbstvertrauen**, Von der Angst zur Freiheit, Russ Harris\n\nTitelbild: [Dan Fador, Pixabay](https://pixabay.com/de/users/danfador-55851/)"
