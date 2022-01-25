@@ -3,12 +3,12 @@ title = ".. und es kommt anders als man denkt"
 date = "2021-11-14"
 draft = false
 pinned = false
+tags = ["Podcast", "Biografie", "Tagebuch"]
 image = "whatsapp-image-2021-11-13-at-20.10.53.jpeg"
 description = "Manchmal kommt es anders als man denkt. Hier kannst du mich wieder auf meiner Reise begleiten. V"
+footnotes = "Foto 1: Ben Zaugg, Italien\\\nFoto 2: Sandra Zaugg, Italien\\\nFoto 3: Ben Zaugg, CH"
 +++
 Manchmal ärgere ich mich ein bisschen, dass ich online (in meinen Podcasts, in Blogs und den (a)sozialen Medien transparent unterwegs bin und manche Dinge nicht zurückhalte. Der Weg fühlt sich für mich zwar richtig an, man sieht aber wo ich eine andere Abzweigung nehme oder den Fokus ändere. Mich persönlich störts nicht, es könnte aber einen negativen Einfluss auf meine Glaubwürdigkeit haben oder die Klarheit meiner Angebote verwässern. Nun, aber genau das sollen meine Kund\*innen, Wegbegleiter\*innen etc. sehen und sich davon vielleicht auch inspirieren lassen. Denn zu oft wird man bei der Änderung der eigenen Meinung als Sprunghaft dargestellt oder als unentschlossen betitelt. Viel zu oft folgen wir einem Weg und verpassen Abzweigungen oder vergessen andere Blickwinkel einzunehmen. 
-
-
 
 ![](whatsapp-image-2021-11-13-at-20.13.35.jpeg)
 
@@ -18,7 +18,7 @@ Manchmal ärgere ich mich ein bisschen, dass ich online (in meinen Podcasts, in 
 
 Im Tun hat sich nun, so kann ich das nach Rückmeldungen und Gesprächen sagen, eines meiner (vielleicht Kern-) Talente gezeigt. Für mich wäre es zu schade, dass nicht zu nutzen. Kurz gesagt: mit [Hallo Ben.](https://www.halloben.ch) ist vor kurzem ein neues altes Baby zur Welt gekommen. Ich bringe Kommunikation auf den Punkt. Für Menschen von Menschen. 
 
-Für mich war immer klar, dass es viele verschiedene Wege gibt, denen ich folgen könnte und kann. Jetzt bin ich auf diesen zwei Wegen unterwegs. Mit «Zukunftshelden« und mit «Hallo Ben.» Lustigerweise habe ich mich mit der Beratung und Umsetzung rund um Kommunikation seit Jahren immer wieder beschäftigt und das meistens nebenbei in der Freizeit getan. Da waren Google-Optimierungen, Webseiten-Anpassungen, neue Webseiten, Flyer, ... und so weiter. Dabei ging es immer darum die Individualität der Menschen hervorzuheben ohne Marketing-Schnickschnack. Eine meiner wichtigsten Stärken habe ich dabei anscheinend nicht gesehen. Dafür braucht es manchmal die Begegnung mit anderen, die einem dabei helfen. 
+Für mich war immer klar, dass es viele verschiedene Wege gibt, denen ich folgen könnte und kann. Jetzt bin ich auf diesen zwei Wegen unterwegs. Mit «[Zukunftshelden](https://www.zukunftshelden.ch)« und mit «[Hallo Ben.](https://www.halloben.ch)» Lustigerweise habe ich mich mit der Beratung und Umsetzung rund um Kommunikation seit Jahren immer wieder beschäftigt und das meistens nebenbei in der Freizeit getan. Da waren Google-Optimierungen, Webseiten-Anpassungen, neue Webseiten, Flyer, ... und so weiter. Dabei ging es immer darum die Individualität der Menschen hervorzuheben ohne Marketing-Schnickschnack. Eine meiner wichtigsten Stärken habe ich dabei anscheinend nicht gesehen. Dafür braucht es manchmal die Begegnung mit anderen, die einem dabei helfen. 
 
 ![](whatsapp-image-2021-11-13-at-20.15.29.jpeg)
 
