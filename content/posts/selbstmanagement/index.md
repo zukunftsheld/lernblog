@@ -3,6 +3,7 @@ title = "Selbstmanagement"
 date = "2022-01-24"
 draft = false
 pinned = false
+tags = ["Selbstmanagement", "Bildung", "Didaktik"]
 image = "bildschirmfoto-2022-01-24-um-08.54.06.png"
 description = "Wenn Selbstmanagement ein Thema ist, dann oft sehr eng verbunden mit Zeitmanagement, Arbeitstechnik und Selbstorganisation. Es ist für mich, wie bei so vielen Themen, etwas Ärgerliches. Denn Selbstmanagement ist so viel mehr als das. Vor einiger Zeit habe ich ein Bildungskonzept über Selbstmanagement geschrieben, mit dem Titel: Selbstmanagement - Eine Kernkompetenz der Zukunft. Mit Orientierung und Gelassenheit die eigene berufliche Zukunft gestalten."
 footnotes = "Schubiger A. (2016) S 35-44\n\nGraf A. (2012) Selbstmanagement-Kompetenz in Organisationenst rken. Leistung, Wohlbefinden und Balance als Herausforderung, 2. überarbeitete Auflage 2019, Springer Gabler, Wiesbaden\n\nFrankl V. E. (1977), Das Leiden am sinnlosen Leben: Psychotherapie für heute, überarbeitete Neuausgabe 2013, Kreuz Verlag, Freiburg im Breisgau\n\nHarris Russ (2011), ACT leicht gemacht: Ein grundlegender Leitfaden für die Praxis der Akzeptanz- und Commitment-Therapie, Arbor Verlag GmbH, Freiburg \n\nLöhmer C., Standhardt R. (2015), Die Kunst, sich selbst und eine Gruppe zu leiten, Einführung in die Themenzentrierte Interaktion, 2. Auflage 2018, Klett-Cotta, Stuttgart"
