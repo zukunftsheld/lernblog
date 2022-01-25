@@ -3,6 +3,7 @@ title = "Der Kopf ist leer"
 date = "2021-12-05"
 draft = false
 pinned = false
+tags = ["Gedanken", "Tagebuch"]
 image = "d739f42e-ecec-4e71-9281-143e1cc1e983.jpg"
 description = "Wenn viele klar(er) und der Kopf langsam leer wird. "
 +++
