@@ -6,7 +6,7 @@ pinned = false
 tags = ["Colearning", "Coworking", "Tagebuch"]
 image = "vogel.jpg"
 +++
-Mit Bildung (vor allem mit Erwachsenenbildung und meiner (Lern-)Biografie) beschäftige ich mich ja nun seit längerer Zeit und hatte deshalb das [Colearning Bern](https://www.colearningbern.ch) schon eine Weile auf dem Schirm. Ich vermutete, dass das etwas wirklich Cooles sein könnte, beobachtete aber immer nur von aussen. In den letzten Monaten habe ich mich im [Coworking Space Effinger](https://www.effinger.ch) in Bern immer mehr eingelebt und bin in der Zusammenarbeit mit [Marco Jakob](https://www.marcojakob.blog/) nun auch im Colearning angekommen. Heute schreibe ich hier einmal von meinen ersten Eindrücken und hoffe damit auch dir einen tieferen Einblick geben zu können.
+Mit Bildung (vor allem mit Erwachsenenbildung und meiner (Lern-)Biografie) beschäftige ich mich ja nun seit längerer Zeit und hatte deshalb das [Colearning Bern](https://www.colearningbern.ch) schon eine Weile auf dem Schirm. Ich vermutete, dass das etwas wirklich cooles sein könnte, beobachtete aber immer nur von aussen. In den letzten Monaten habe ich mich im [Coworking Space Effinger](https://www.effinger.ch) in Bern immer mehr eingelebt und bin in der Zusammenarbeit mit [Marco Jakob](https://www.marcojakob.blog/) nun auch im Colearning angekommen. Heute schreibe ich hier einmal von meinen ersten Eindrücken und hoffe damit auch dir einen tieferen Einblick geben zu können.
 
 **Wo bleibt die Kontrolle und die Leistung?**
 
