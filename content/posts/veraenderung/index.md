@@ -32,7 +32,7 @@ Hach, jetzt könnte man meinen, dass ich da Lösungen parat und die Weisheit mit
 
 > «Um etwas zu verändern, müssen wir ein neues Modell entwicklen, das das alte Modell überflüssig macht.»
 
-Es ist schnell getippt und die Ideen sind da, nur wie? Wie?! Es gibt nicht die eine Lösung und nicht den einen Weg. Wir sind gefordert, neue Wege zu suchen, zu finden und zu gehen. Neue! Dort sind noch keine Pfade. Es ist unbekanntes Terrain, es ist unsicher, es macht vielleicht Angst, ist anstrengend und der Wind zuweilen kalt, beissend und der Nebel dicht. So geht es zumindest mir immer wieder, wenn ich mich aufmache, in diese Richtung zu gehen. Schliesslich sind wir ja so herangezogen worden, dass wir in diese \*Wirklichkeit\* passen, in der wir im Moment leben. Das darf aber keine Ausrede sein, sondern nur eine Reflexion.
+Es ist schnell getippt und die Ideen sind da, nur wie? Wie?! Es gibt nicht die eine Lösung und nicht den einen Weg. Wir sind gefordert, neue Wege zu suchen, zu finden und zu gehen. Neue! Dort sind noch keine Pfade. Es ist unbekanntes Terrain, es ist unsicher, es macht vielleicht Angst, ist anstrengend und der Wind zuweilen kalt, beissend und der Nebel dicht. So geht es zumindest mir immer wieder, wenn ich mich aufmache, in diese Richtung zu gehen. Schliesslich sind wir ja so herangezogen worden, dass wir in diese *Wirklichkeit* passen, in der wir im Moment leben. Das darf aber keine Ausrede sein, sondern nur eine Reflexion.
 
 ### Gestalter*innen sind schon lange nicht mehr alleine!
 
