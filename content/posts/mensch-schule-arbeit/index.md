@@ -37,7 +37,9 @@ Die Menschen finden wahrscheinlich die Worte und Themen, an denen sie für sich 
 1. Was da an dieser Pressekonferenz an die Oberfläche tritt, ist eines von sooo vielen Beispielen. 
 2. Wir brauchten unbedingt ein Umdenken, ein Handeln, vielleicht eine Welle der Humanisierung. Gerade in der Arbeitswelt.
 
-> Wenn du andere Leute ansiehst, frage dich, ob du sie wirklich siehst, oder ob du nur deine Gedanken über sie siehst. Jon Kabat-Zinn
+> Wenn du andere Leute ansiehst, frage dich, ob du sie wirklich siehst, oder ob du nur deine Gedanken über sie siehst. 
+>
+> *Jon Kabat-Zinn*
 
 ### Es wird noch dauern
 
@@ -45,7 +47,9 @@ Klar ist, dass an vielen Stellen geschraubt wird, Gelder gesprochen werden, um d
 
 ### Die Augen für die Realität öffnen
 
-> Wenn wir irgendwo hin möchten, oder uns in irgendeine Richtung entwickeln möchten, können wir nur von dort aus starten, wo wir gerade stehen. Wenn wir nicht wirklich wissen, wo wir stehen, kann es sein, dass wir uns nur im Kreis bewegen. Jon Kabat-Zinn
+> Wenn wir irgendwo hin möchten, oder uns in irgendeine Richtung entwickeln möchten, können wir nur von dort aus starten, wo wir gerade stehen. Wenn wir nicht wirklich wissen, wo wir stehen, kann es sein, dass wir uns nur im Kreis bewegen. 
+>
+> *Jon Kabat-Zinn*
 
 Wer ist denn eigentlich verantwortlich? Wir alle! Es geht nicht, dass wir das einfach auf die Wirtschaft, Schule etc. abschieben, auch wenn das «System» einen riesen grossen Anteil daran hat. Wir müssen oder dürfen lernen, dass auch wir eirksam sind. Wir sind Selbstwirksam. Dafür müssen (müssen ist immer etwas hart, ist aber so, wenn wir es anders wollen) wir unser Leben selbst in die Hand nehmen, ein Gefühl dafür kriegen wie das geht, wie wir das machen können und Unterstützer*innen an unserer Seite haben. [Aber wie (an-)erkennen wir uns selbst und wie können wir ins Tun kommen?](https://www.bensblog.ch/tags/selbstmanagement/)
 
