@@ -24,4 +24,6 @@ Für mich war immer klar, dass es viele verschiedene Wege gibt, denen ich folgen
 
 Ein Zitat welches mir gut gefällt und in diesem Zusammenhang irgendwie passt ist dieses:
 
-> «Ich bin fähig gewesen, mich für neue Ideen, neue Gefühle, neue Erfahrungen und neue Risiken zu öffnen. Ich entdeckte immer mehr, dass lebendig sein bedeutet, Wagnisse einzugehen, trotz fehlender Gewissheit zu handeln und sich auf das Leben einzulassen. All dies bringt Veränderungen mit sich, und für mich ist der Prozess der Veränderung mit dem Leben identisch. Mir ist klar, dass ich, wenn ich stabil und starr und statisch wäre, eine lebende Leiche wäre. Deshalb akzeptiere ich Verwirrung und Ungewissheit und Furcht und emotionale Höhen und Tiefen, weil sie der Preis sind, den ich für ein strömendes, rätselhaftes, erregendes Leben gern bezahle.» Carl R. Rogers
+> «Ich bin fähig gewesen, mich für neue Ideen, neue Gefühle, neue Erfahrungen und neue Risiken zu öffnen. Ich entdeckte immer mehr, dass lebendig sein bedeutet, Wagnisse einzugehen, trotz fehlender Gewissheit zu handeln und sich auf das Leben einzulassen. All dies bringt Veränderungen mit sich, und für mich ist der Prozess der Veränderung mit dem Leben identisch. Mir ist klar, dass ich, wenn ich stabil und starr und statisch wäre, eine lebende Leiche wäre. Deshalb akzeptiere ich Verwirrung und Ungewissheit und Furcht und emotionale Höhen und Tiefen, weil sie der Preis sind, den ich für ein strömendes, rätselhaftes, erregendes Leben gern bezahle.» 
+>
+> *Carl R. Rogers*
