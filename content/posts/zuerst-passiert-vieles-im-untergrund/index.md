@@ -12,7 +12,9 @@ Pilze verbringen einen grossen Teil ihrer Lebenszeit unter dem Boden. Ähnlich i
 
 Hier bin ich also, habe viele Ideen was man in der Lern- und Arbeitswelt besser machen könnte und sollte. Viel ist es eigentlich nicht. Vielleicht passt das Zitat von Carl R. Rogers einigermassen. Denn wir können «seelische Hilfe» mit Lernen, Potenzialentfaltung, Selbstwahrnehmung, Akzeptanz, etc. oder Helfer mit Lehrer\*in, Arbeitskolleg\*in, Chef*in, und und und ersetzen. 
 
-> «Bedingungslose positive Zuwendung: Die seelische Hilfe gelingt dann am ehesten, wenn der Helfer diese Haltung bringt.» Carl R. Rogers
+> «Bedingungslose positive Zuwendung: Die seelische Hilfe gelingt dann am ehesten, wenn der Helfer diese Haltung bringt.» 
+>
+> *Carl R. Rogers*
 
 Es sind Dinge am entstehen, bei denen die Haltung entscheidend ist. Wenn wir uns und andere akzeptieren wie wir sind, dann entsteht dort ein wunderbarer Entwicklungsfreiraum. Oft vergesse ich, dass dabei der Prozess mindestens genauso wichtig ist, wie das Resultat und verliere in diesen Momenten diesen Kontakt zu mir. Wobei was heisst schon Resultat.. da passt vielleicht eher Zwischenstopp, Meilenstein, Ankerplatz, ... . Das mache ich mir heute bewusst. 
 
@@ -20,4 +22,6 @@ Es sind Dinge am entstehen, bei denen die Haltung entscheidend ist. Wenn wir uns
 
 Gerne möchte ich noch ein anderes Zitat von Carl R. Rogers mit dir teilen, dass ich hier ganz passend finde. 
 
-> «Ich bin fähig gewesen, mich für neue Ideen, neue Gefühle, neue Erfahrungen und neue Risiken zu öffnen. Ich entdeckte immer mehr, dass lebendig sein bedeutet, Wagnisse einzugehen, trotz fehlender Gewissheit zu handeln und sich auf das Leben einzulassen. All dies bringt Veränderungen mit sich, und für mich ist der Prozess der Veränderung mit dem Leben identisch. Mir ist klar, dass ich, wenn ich stabil und starr und statisch wäre, eine lebende Leiche wäre. Deshalb akzeptiere ich Verwirrung und Ungewissheit und Furcht und emotionale Höhen und Tiefen, weil sie der Preis sind, den ich für ein strömendes, rätselhaftes, erregendes Leben gern bezahle.» Carl R. Rogers
+> «Ich bin fähig gewesen, mich für neue Ideen, neue Gefühle, neue Erfahrungen und neue Risiken zu öffnen. Ich entdeckte immer mehr, dass lebendig sein bedeutet, Wagnisse einzugehen, trotz fehlender Gewissheit zu handeln und sich auf das Leben einzulassen. All dies bringt Veränderungen mit sich, und für mich ist der Prozess der Veränderung mit dem Leben identisch. Mir ist klar, dass ich, wenn ich stabil und starr und statisch wäre, eine lebende Leiche wäre. Deshalb akzeptiere ich Verwirrung und Ungewissheit und Furcht und emotionale Höhen und Tiefen, weil sie der Preis sind, den ich für ein strömendes, rätselhaftes, erregendes Leben gern bezahle.» 
+>
+> *Carl R. Rogers*
