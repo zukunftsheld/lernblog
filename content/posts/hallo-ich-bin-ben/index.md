@@ -19,4 +19,6 @@ Hier werde ich aus meiner Perspektive als Lernender schreiben. Vielleicht beglei
 
 Zitate und Geschichten werden sich in meinen Beiträgen sicher immer wieder finden. Dort finde ich Inspiration und sie helfen mir oft beim Perspektivenwechsel. Für heute finde ich dieses Zitat ganz passend.
 
-> «Was würdest du mir sagen, wie ich von hier aus weitergehen soll?», fragte Alice. «Das hängt zum grössten Teil davon ab, wohin du möchtest», sagte die Grinsekatze. *Lewis Caroll, Alice im Wunderland*
+> «Was würdest du mir sagen, wie ich von hier aus weitergehen soll?», fragte Alice. «Das hängt zum grössten Teil davon ab, wohin du möchtest», sagte die Grinsekatze.
+>
+>  *Lewis Caroll, Alice im Wunderland*
