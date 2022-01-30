@@ -24,4 +24,6 @@ Was lerne ich aber denn nun oder was habe ich gelernt? In diesen sehr knapp zwei
 
 Ich bin gespannt auf den weiteren Weg. 
 
-> *«Die Aufgabe wechselt nicht nur von Mensch zu Mensch – entsprechend der Einzigartigkeit jeder Person – sondern auch von Stunde zu Stunde, gemäss der Einmaligkeit jeder Situation.» Viktor E. Frankl*
+> «Die Aufgabe wechselt nicht nur von Mensch zu Mensch – entsprechend der Einzigartigkeit jeder Person – sondern auch von Stunde zu Stunde, gemäss der Einmaligkeit jeder Situation.» 
+>
+> *Viktor E. Frankl*
