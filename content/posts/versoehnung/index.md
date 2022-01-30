@@ -86,7 +86,9 @@ Achtsamkeit *heisst*, aufmerksam zu sein für das, was in mir und um mich passie
 
 Dieses Zitat von Frankl begleitet mich seither: 
 
-> «Zwischen Reiz und Reaktion liegt ein Raum. In diesem Raum liegt die Macht unserer Wahl. In unserer Reaktion liegen unsere Entwicklung und unsere Freiheit.» Viktor E. Frankl
+> «Zwischen Reiz und Reaktion liegt ein Raum. In diesem Raum liegt die Macht unserer Wahl. In unserer Reaktion liegen unsere Entwicklung und unsere Freiheit.» 
+>
+> *Viktor E. Frankl*
 
 #### Was wäre die Alternative?
 
@@ -96,6 +98,8 @@ Die Alternative wäre gewesen, mich von meinen Gedanken und Gefühlen auffressen
 
 Ich weiss es nicht. Für mich hat das viel mit der Haltung zu tun und es sollte oder kann nicht einfach als Methode angewandt werden, damits einem besser geht. Versöhnung heisst für mich, Frieden zu schliessen mit dem was war und offen zu sein für das was kommt. Ich kann Menschen und Situationen anbieten (wieder) in mein Leben zu kommen und dann schauen was passiert. Es kann übrigens auch sein, dass es eine erneute Enttäuschung mit sich bringt. Das ist der Preis, den ich für diese Freiheit zahle. 
 
-> «Du kannst die Wellen nicht stoppen, aber du kannst lernen sie zu reiten.» Jon Kabat-Zinn oder Joseph Goldstein
+> «Du kannst die Wellen nicht stoppen, aber du kannst lernen sie zu reiten.» 
+>
+> *Jon Kabat-Zinn oder Joseph Goldstein*
 
 ![](welle.jpg)
