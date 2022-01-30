@@ -1,9 +1,10 @@
 +++
-title = "Mensch Schule und Arbeit"
+title = "Gedanken über das Menschsein und die Arbeitswelt"
 date = "2022-01-30"
 draft = true
 pinned = false
-tags = ["Gedanken"]
+tags = ["Gedanken", "Psyche", "Gesundheit", "Arbeit"]
+description = "In den Medien und sozialen Medien wird im Moment viel über eine Pressekonferenz geschrieben, bei der ein Mann sagt, dass er nicht mehr kann. Darüber mache ich mir hier einige Gedanken. "
 +++
 ### Wir sind ganz
 
@@ -46,7 +47,7 @@ Klar ist, dass an vielen Stellen geschraubt wird, Gelder gesprochen werden, um d
 
 > Wenn wir irgendwo hin möchten, oder uns in irgendeine Richtung entwickeln möchten, können wir nur von dort aus starten, wo wir gerade stehen. Wenn wir nicht wirklich wissen, wo wir stehen, kann es sein, dass wir uns nur im Kreis bewegen. Jon Kabat-Zinn
 
-Wer ist denn eigentlich verantwortlich? Wir alle! Es geht nicht, dass wir das einfach auf die Wirtschaft, Schule etc. abschieben, auch wenn das «System» einen riesen grossen Anteil daran hat. Wir müssen oder dürfen lernen, dass auch wir eirksam sind. Wir sind Selbstwirksam. Dafür müssen (müssen ist immer etwas hart, ist aber so, wenn wir es anders wollen) wir unser Leben selbst in die Hand nehmen, ein Gefühl dafür kriegen wie das geht, wie wir das machen können und Unterstützer*innen an unserer Seite haben. 
+Wer ist denn eigentlich verantwortlich? Wir alle! Es geht nicht, dass wir das einfach auf die Wirtschaft, Schule etc. abschieben, auch wenn das «System» einen riesen grossen Anteil daran hat. Wir müssen oder dürfen lernen, dass auch wir eirksam sind. Wir sind Selbstwirksam. Dafür müssen (müssen ist immer etwas hart, ist aber so, wenn wir es anders wollen) wir unser Leben selbst in die Hand nehmen, ein Gefühl dafür kriegen wie das geht, wie wir das machen können und Unterstützer*innen an unserer Seite haben. [Aber wie (an-)erkennen wir uns selbst und wie können wir ins Tun kommen?](https://www.bensblog.ch/tags/selbstmanagement/)
 
 ### Ich hatte das Glück, immer Weinen zu dürfen
 
