@@ -10,7 +10,12 @@ description = "Hallo, ich bin Ben. \nInspirieren l Gestalten l Begleiten I Verbi
 
 Hallo, ich bin Ben. 
 
+Gestalten l Begleiten I Denken I Inspirieren I Verbinden. 
+Irgendwo zwischen Bildung und Arbeit.
+
+mehr gibts hier: \
+<https://www.benzaugg.ch>
 
 kontakt@benzaugg.ch
 
-<https://www.benzaugg.ch>
+[](https://www.benzaugg.ch)
