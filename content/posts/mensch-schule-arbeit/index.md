@@ -1,9 +1,10 @@
 +++
 title = "Gedanken über das Menschsein und die Arbeitswelt"
 date = "2022-01-30"
-draft = true
+draft = false
 pinned = false
 tags = ["Gedanken", "Psyche", "Gesundheit", "Arbeit"]
+image = "bildschirmfoto-2022-01-30-um-09.36.17.png"
 description = "In den Medien und sozialen Medien wird im Moment viel über eine Pressekonferenz geschrieben, bei der ein Mann sagt, dass er nicht mehr kann. Darüber mache ich mir hier einige Gedanken. "
 +++
 ### Wir sind ganz
@@ -34,7 +35,6 @@ Wir Menschen sind ganz oder ganzheitlich. Gerade psychische Themen werden gerne 
 Die Menschen finden wahrscheinlich die Worte und Themen, an denen sie für sich anknüpfen können. Es sind vielleicht Ängste, die dahinter stecken oder die eigenen Bedürfnisse nach gesehen werden, kommen zum Vorschein. Sie spüren ihre eigenen Grenzen, sie merken, dass die Erschöpfung nicht mehr weit ist. Sie möchten selbst weinen, sie wünschen sich Anerkennung oder sind fühlen sich mit den aktuellen Umständen schlichtweg überfordert. Nichts von dem ist falsch. Es zeigt für mich zwei wesentliche Dinge:
 
 1. Was da an dieser Pressekonferenz an die Oberfläche tritt, ist eines von sooo vielen Beispielen. 
-
 2. Wir brauchten unbedingt ein Umdenken, ein Handeln, vielleicht eine Welle der Humanisierung. Gerade in der Arbeitswelt.
 
 > Wenn du andere Leute ansiehst, frage dich, ob du sie wirklich siehst, oder ob du nur deine Gedanken über sie siehst. Jon Kabat-Zinn
