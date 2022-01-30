@@ -23,4 +23,6 @@ Und vielleicht ist nicht alles nur Gold, was glänzt. Ich wollte aber meinen imm
 
 Auch heute wieder ein Zitat zum Abschluss..
 
-> «Ich kümmere mich um meine Angelegenheit, ich bin ich; Du kümmerst Dich um Deine, Du bist Du. Die Welt ist unsere Aufgabe; sie entspricht nicht unseren Erwartungen. Doch wenn wir uns um sie kümmern, wird sie sehr schön sein, wenn nicht, wird sie nicht sein.» Ruth C. Cohn
+> «Ich kümmere mich um meine Angelegenheit, ich bin ich; Du kümmerst Dich um Deine, Du bist Du. Die Welt ist unsere Aufgabe; sie entspricht nicht unseren Erwartungen. Doch wenn wir uns um sie kümmern, wird sie sehr schön sein, wenn nicht, wird sie nicht sein.» 
+>
+> *Ruth C. Cohn*
