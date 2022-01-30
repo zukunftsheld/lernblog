@@ -36,13 +36,15 @@ Es ist schnell getippt und die Ideen sind da, nur wie? Wie?! Es gibt nicht die e
 
 ### Gestalter*innen sind schon lange nicht mehr alleine!
 
-Das Neue ist bereits hier und es funktioniert! Bei mir im Bücherregal stehen zwei Bücher, die Geschichten von erfolgreichen Organisationen erzählen, die neue Wege gegangen sind. \*Solche, die Modelle entwickeln, die das Alte überflüssig gemacht haben.\* Eines ist das Buch der [Corporate Rebels](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/joost-minnaar/corporate-rebels/id/9789083004853), Wie Pioniere die Arbeitswelt revolutionieren und das andere Reinventing Organizations, Ein Leitfaden zur Gestaltung sinnstiftender Formen der Zusammenarbeit von [Frederic Laloux](https://www.youtube.com/watch?v=JsxEIxbBZ-4&t=1s). Es steht auch noch das eine oder andere Leadership-Buch daneben, denn gerade Leader spielen dabei auch eine wichtige Rolle. Auch dort gibt es Vorreiter*innen und Vorbilder. Wir sprechen also nicht mehr von einer Utopie, von Träumerei und von irgendwelchen Versuchen. Es sind funktionierende, erfolgreiche Organisationen. Es ist Realität.
+Das Neue ist bereits hier und es funktioniert! Bei mir im Bücherregal stehen zwei Bücher, die Geschichten von erfolgreichen Organisationen erzählen, die neue Wege gegangen sind. *Solche, die Modelle entwickeln, die das Alte überflüssig gemacht haben.* Eines ist das Buch der [Corporate Rebels](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/joost-minnaar/corporate-rebels/id/9789083004853), Wie Pioniere die Arbeitswelt revolutionieren und das andere Reinventing Organizations, Ein Leitfaden zur Gestaltung sinnstiftender Formen der Zusammenarbeit von [Frederic Laloux](https://www.youtube.com/watch?v=JsxEIxbBZ-4&t=1s). Es steht auch noch das eine oder andere Leadership-Buch daneben, denn gerade Leader spielen dabei auch eine wichtige Rolle. Auch dort gibt es Vorreiter*innen und Vorbilder. Wir sprechen also nicht mehr von einer Utopie, von Träumerei und von irgendwelchen Versuchen. Es sind funktionierende, erfolgreiche Organisationen. Es ist Realität.
 
 ### Warum ändert sich dann doch (fast) nichts?
 
 Wirkliche Veränderungen und neue Dinge zu erschaffen sind anstrengend. Es heisst, das Bestehende wirklich wirklich zu hinterfragen oder noch besser zu schauen, was wir wirklich wirklich wollen. Das ist aber auch wirklich anstrengend. Zumindest am Anfang. Also halten wir am alten fest. Jemand hat mir einmal gesagt: «Lieber die bekannte Hölle, als das unbekannte Paradies».
 
-> Mehr als die Vergangenheit interessiert mich die Zukunft, denn in der gedenke ich zu leben. Albert Einstein
+> Mehr als die Vergangenheit interessiert mich die Zukunft, denn in der gedenke ich zu leben.
+>
+>  *Albert Einstein*
 
 Dieses Zitat möchte ich für mich etwas anpassen: 
 
