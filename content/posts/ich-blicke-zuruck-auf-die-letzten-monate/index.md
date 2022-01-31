@@ -56,7 +56,7 @@ Den Menschen, denen ich in dieser Zeit begegnet bin.
 
 Für die, die zugehört haben.
 
-Für die, denen ich begegnet bin.
+Für die Menschen, die mir begegnet sind.
 
 ### Inspiration
 
