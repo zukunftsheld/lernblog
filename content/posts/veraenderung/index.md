@@ -8,7 +8,9 @@ image = "img_4527.jpg"
 description = "Wir verändern die Dinge nicht, indem wir gegen die bestehende Wirklichkeit kämpfen. Um etwas zu verändern, müssen wir ein neues Modell entwicklen, das das alte Modell überflüssig macht. Diese Worte von Richard Buckminster Fuller begleiten mich durch diesen Beitrag. "
 footnotes = "Foto: Ben Zaugg"
 +++
-> Wir verändern die Dinge nicht, indem wir gegen die bestehende Wirklichkeit kämpfen. Um etwas zu verändern, müssen wir ein neues Modell entwickeln, das das alte Modell überflüssig macht. Richard Buckminster Fuller
+> Wir verändern die Dinge nicht, indem wir gegen die bestehende Wirklichkeit kämpfen. Um etwas zu verändern, müssen wir ein neues Modell entwickeln, das das alte Modell überflüssig macht. 
+>
+> *Richard Buckminster Fuller*
 
 In welchem Zusammenhang das Zitat ist, weiss ich gar nicht. Gesehen habe ich es im Buch **[Reinventing Organizations](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/frederic-laloux/reinventing-organizations/id/9783800649136)**, Ein Leitfaden zur Gestaltung sinnstiftender Formen der Zusammenarbeit, Frederic Laloux.
 
