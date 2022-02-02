@@ -12,4 +12,8 @@ Es ist also diese eine Person, die ein Problem mit ihrer Vorgesetzten, ihrem Vor
 
 Mir kommt das je länger je mehr so vor, dass es ein Reparieren ist. Es sind dann vielleicht viele individuelle Reparaturen, die irgendwie zusammenkommen. Da kommt mir das Bild eines Autos in den Sinn, dass verschiedene Ersatzteile hat, die nicht so recht zusammenpassen wollen. Einen Beifahrersitz mit einem Lederbezug anstatt aus Stoff, wie die Restlichen, eine Autotür in grün anstatt rot, wie der Rest vom Auto etc.  Auch hier wieder: Ich hatte etliche Coachings als Kunde, ich arbeite selbst mit Menschen und ich bin von der Kraft und den Möglichkeiten dieser Wege überzeigt. Und doch..
 
-Gehen wir nur einmal von Mitarbeitenden in einem Unternehmen aus. Das Unternehmen, die Abteilung oder das Team stellt das Auto dar. Einige davon landen in einem Coaching und arbeiten an ihrem Thema. Isoliert. Jeder hat sein «Problem» gelöst oder ist daran, dieses zu lösen, einige davon haben sogar miteinander zu tun.  Das scheint mir recht aufän
+Gehen wir nur einmal von Mitarbeitenden in einem Unternehmen aus. Das Unternehmen, die Abteilung oder das Team stellt das Auto dar. Einige davon landen in einem Coaching und arbeiten an ihrem Thema. Isoliert. Jeder hat sein «Problem» gelöst oder ist daran, dieses zu lösen, einige davon haben sogar miteinander zu tun.  Da scheint mir mehr möglich zu sein.
+
+Wie wäre es, wenn man mit Coaching nicht «Reparieren» müsste? Man könnte eine Kultur oder Arbeitsweise aufbauen und pflegen, bei der man sich gemeinsam begleitet, Herausforderungen angeht und sich als Menschen begegnet. Nicht «nur» als Arbeitskolleg*innen. 
+
+Es gibt bereits einige Ansätze, die in diese Richtung gehen und Elemente die genutzt werden.
