@@ -1,5 +1,5 @@
 +++
-title = "We Nöiis entschtei"
+title = "We Nöiis entschteit"
 date = "2022-02-05"
 draft = false
 pinned = false
