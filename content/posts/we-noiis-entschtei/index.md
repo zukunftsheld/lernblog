@@ -1,8 +1,11 @@
 +++
 title = "We Nöiis entschtei"
 date = "2022-02-05"
-draft = true
+draft = false
 pinned = false
+tags = ["Lernen", "Colearning", "Gedanken", "Arbeit"]
+image = "img_7063.jpg"
+description = "We Nöiis entschteyt, de isch viu unklar. Mängisch hiufts mir de, das Nöiiä i Wort z'verpackä. So si mir, dr Marco, dr Fredi, dr Joris und ig die Wuchä zämäghocket und hei zämä lut dänkt und ufgschribä. Mir wei öppis la entstah und wüssä no nid genau was. Mir hei ä Ahnig, Ideeä und Visionä, aber was machä mir mit denä?\n------------\nWenn Neues entsteht, dann ist noch viels unklar. Manchmal hilft es mir, das Neue in Worte zu verpacken. So sind wir, also Fredi, Marco Joris und ich diese Woche zusammengesessen und haben laut gedacht. Vieles von diesem Denken haben wir aufgeschrieben. Wir wollen etwas entstehen lassen, was genau, wissen wir noch nicht. Wir haben eine Ahnung, eine Idee und Visionen aber was machen wir mit diesen?"
 +++
 We Nöiis entschteyt, de isch viu unklar. Mängisch hiufts mir de, das Nöiiä i Wort z'verpackä. So si mir, dr Marco, dr Fredi, dr Joris und ig die Wuchä zämäghocket und hei zämä lut dänkt und ufgschribä. Mir wei öppis la entstah und wüssä no nid genau was. Mir hei ä Ahnig, Ideeä und Visionä, aber was machä mir mit denä? 
 
@@ -36,8 +39,20 @@ Ein «Think Tank», irgendetwas in diese Richtung soll es werden. Wobei ein «Ta
 
 Fast hätte ich es vergessen, es geht nämlich bei all dem um das Lernen, also um das, von uns allen. Um unser eigenes und das von dir. Dabei wollen wir verkrustete Strukturen aufbrechen. Wobei wir nicht korrigieren wollen oder oprimieren! Wir wollen neuen Systemen den Lern- und Entwicklungsfreiraum geben oder ermöglichen. 
 
-
-
 Nachdem ich an diesen Themen rumstudiert habe (nicht, dass ich fertig wäre), gefällt mir die Cloud oder eben die Wolke ganz gut. Die Wolke verbindet viele der Gedanken, die auf dem Tisch lagen. 
 
-Nun, ich kenne mich mit den Wolken nicht wirklich gut aus, habe aber doch ein paar Verbindungen zwischen unseren Ideen und ihnen gemacht.
+Nun, ich kenne mich mit den Wolken nicht wirklich gut aus, habe aber doch ein paar Verbindungen zwischen unseren Ideen und ihnen gemacht. 
+
+Wolken können viel. Sie speichern Wasser, spenden uns Schatten, geben das gespeicherte Wasser wieder frei und schenken uns Regen. Wobei dieser Regen auch zur Flut werden kann. Wenn Wolken zu schwer sind, dann bleiben sie an den Bergen hängen und müssen sich leeren. Ah, und genau! Wenn wir in den Bergen sind und der Wind die Wolken wie Wattebausche weiterschiebt, dann wirken sie leicht und fein. Fliegen wir mit dem Flugzeug durch eine Wolke, dann schüttelt es und vielleicht etwas. Hängen sie tagelang am Himmel, dann wirken sie vielleicht schwer und böse. Sie sind da, wenn es gewittert und wenn es schneit. Wolken sind ganz schön vielseitig und deshalb denke ich, dass sie ganz gut als Bild für unser Vorhaben passt. Vielleicht besser als Tank oder Panzer. Wobei beide auch Strukturen aufbrechen und die Welt verändern können. Nur halt anders. 
+
+Lernen findet überall statt. Das ist für uns klar. Es gibt aber viele lernhindernde Orte, Strukturen, die eher Staumauern sind, als ein natürlicher Fluss. Also tauchte das Wort «Renaturierung» irgendwann auf. Weul Lernen war nicht immer so gefangen wie heute. Das könnte zum Beispiel sein, dass man Möglichkeiten schafft, anderen bei der Arbeit zuzusehen. Ganz direkt und echt. So entdecken wir nämlich viel. Eigentlich klar. Oder? Um das zu ändern brauchts aber immer auch wieder Mutanfälle und Mutausbrüche. Zusammen für etwas Neues anstatt gegen etwas Altes. Es wird nicht immer auf Anhieb gelingen, Neue Dinge auf den Boden oder in die Luft zu bringen. Deshalb ist es sinnvoll, wenn man andere an dem Prozess teilhaben lässt. Denn auch dort ist Lernen versteckt. 
+
+So könnte wir uns noch einmal die Wolke anschauen. Denken wir an ein Gewitter, welches aus einer Perspektive gegen uns sein kann. Dann ist es einfach nur mühsam, beängstigend und laut. Die Wolken können aber auch zu einem Gewitter führen (sind ja auch nur ein Teil davon), dass «für uns» ist.
+
+Der Blitz zeigt uns, wie mächtig die Natur sein kann und ist. Der Blitz ist auch interessant für einen Fotografen, der etwas tolles einfangen kann. In so einem Blitz ist unheimlich viel Energie. 
+
+Wenn wir uns den Regen anschauen, dann werden wir wahrscheinlich kaum fertig, gute Dinge zu finden. Ich denke schon nur an den Boden, wie das Wasser zu den Wurzeln der Pflanzen fliesst, wie er den Blütenstaub von den Strassen wäscht, wie die Regenwürmer hervorkriechen, die Schnecken, und... du siehst, ich kann nicht mehr aufhören. Wir wissen aber auch, dass der Regen oder das gesammelte Wasser zerstören kann. Ich will da gar nichts schönreden! Aber die Zerstörung kann auch wieder zu neue Möglichkeiten führen. 
+
+Das Wasser kommt also aus der Wolke, fliesst zu den Wurzeln der Pflanzen, nährt unter dem Boden. Wir sehen noch nicht was passiert. Es ist auch nicht so, dass jede Blume, jeder Lauch, jeder Baum gleichviel Wasser benötigt. Meistens schiebt sich die Wolke weg oder verfliegt und gibt der Sonne platz und was unter dem Boden stattgefunden hat, zeigt sich langsam an der Oberfläche mit Blüten, Blättern und Früchten. Jetzt spreche ich von einer Wolke aber es können natürlich zwei, drei, vier, und noch viel mehr sein, die zusammen «arbeiten».
+
+Auch bei mir schiebt sich eine Wolke vor oder in die Gedanken und darum ist es besser ich schliesse hier ab. Ob Tank oder Wolke. Es geht weiter. Bis bald.
