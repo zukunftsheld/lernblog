@@ -28,10 +28,16 @@ Das Wasser chunnt auso uf dr Wulchä, geit zu dä Wurzlä, id Pflanzä und nähr
 
 O mir schiebt säch itz grad so eini vord oder id Gedankä u darum isches gwüss besser i hörä hiä. Ob Tank oder Wulchä. Es geit wyter. Bis gly. 
 
-
+### **in Deutsch**
 
 Wenn Neues entsteht, dann ist noch viels unklar. Manchmal hilft es mir, das Neue in Worte zu verpacken. So sind wir, also Fredi, Marco Joris und ich diese Woche zusammengesessen und haben laut gedacht. Vieles von diesem Denken haben wir aufgeschrieben. Wir wollen etwas entstehen lassen, was genau, wissen wir noch nicht. Wir haben eine Ahnung, eine Idee und Visionen aber was machen wir mit diesen?
 
 Ein «Think Tank», irgendetwas in diese Richtung soll es werden. Wobei ein «Tank», also auf Deutsch ein Tank, ein Panzer oder etwas ähnliches wie ein Becken schon schwer, gross und träge sein kann. Also könnte es mehr etwas wie eine «Cloud» sein. Also eine Wolke. Die wäre auf jeden Fall schon einmal leichter. 
 
-......
+Fast hätte ich es vergessen, es geht nämlich bei all dem um das Lernen, also um das, von uns allen. Um unser eigenes und das von dir. Dabei wollen wir verkrustete Strukturen aufbrechen. Wobei wir nicht korrigieren wollen oder oprimieren! Wir wollen neuen Systemen den Lern- und Entwicklungsfreiraum geben oder ermöglichen. 
+
+
+
+Nachdem ich an diesen Themen rumstudiert habe (nicht, dass ich fertig wäre), gefällt mir die Cloud oder eben die Wolke ganz gut. Die Wolke verbindet viele der Gedanken, die auf dem Tisch lagen. 
+
+Nun, ich kenne mich mit den Wolken nicht wirklich gut aus, habe aber doch ein paar Verbindungen zwischen unseren Ideen und ihnen gemacht.
