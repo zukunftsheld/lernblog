@@ -3,7 +3,7 @@ title = "Gedanken über gemeinsames Weiterkommen"
 date = "2022-02-02"
 draft = false
 pinned = false
-tags = ["Arbeit", "Gedanken", ""]
+tags = ["Arbeit", "Gedanken"]
 image = "whatsapp-image-2021-11-13-at-20.15.29.jpeg"
 description = "Gedanken über gemeinsames Weiterkommen in der Arbeitswelt. Können wir, anstatt Einzelpersonen in Coachings zu schicken, auch andere Wege gehen und in welche Richtung könnten diese gehen?"
 +++
