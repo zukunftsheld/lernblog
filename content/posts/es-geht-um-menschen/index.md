@@ -12,4 +12,8 @@ Bereits bevor ich meine Ausbildung zum Verkäufer begann, war für mich klar: Ve
 
 Leider wird ganz oft etwas anderes gefordert. Es sollen viele (neue) Kunden kommen und natürlich sollen so oft wie möglich Zusatzverkäufe gemacht werden. Versteh mich nicht falsch.. An Zusatzverkäufen ist nichts auszusetzen, wenn sie dem Kunden helfen. 
 
+> «Ich glaube daran, dass das größte Geschenk, das ich von jemandem empfangen kann, ist, gesehen, gehört, verstanden und berührt zu werden. Das größte Geschenk, das ich geben kann, ist, den anderen zu sehen, zu hören, zu verstehen und zu berühren. Wenn dies geschieht, entsteht Kontakt.» 
+>
+> Virginia Satir
+
 Beim Verkaufen geht es also um Menschen. Ich habe einige wirklich gute Verkäufer\*innen getroffen. Ja, ich meine nicht die mit den höchsten Umsätzen, sondern solche, die gemeinsam mit ihren Kund\*innen die besten Lösungen fanden. Kurzfristig sorgt ein solches Vorgehen vielleicht für weniger Umsatz, langfristig aber immer für mehr Gewinn auf vielen Ebenen.
