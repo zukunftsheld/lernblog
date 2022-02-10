@@ -1,6 +1,6 @@
 +++
 title = "Es geht um Menschen II"
-date = "2022-01-10"
+date = "2022-02-09"
 draft = false
 pinned = false
 tags = ["Arbeit", "Gedanken", "Kommunikation"]
