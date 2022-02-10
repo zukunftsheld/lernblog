@@ -1,8 +1,12 @@
 +++
 title = "Es geht um Menschen II"
-date = "2022-01-10"
-draft = true
+date = "2022-01-09"
+draft = false
 pinned = false
+tags = ["Arbeit", "Gedanken", "Kommunikation"]
+image = "pexels-karolina-3669288.jpg"
+description = "Wenn ich mit Menschen arbeite, die selbst ein Geschäft eröffnen möchten oder bereits als Unternehmer*in unterwegs sind, dann geht es immer um das Gleiche. Es geht um ihre Individualität. Meistens sind sich diese Menschen kaum bewusst, was sie ausmacht, weil es für sie normal ist. Sie finden das, was sie tun und wie sie es tun selbstverständlich und nichts Spezielles. Doch das ist es immer."
+footnotes = "Foto von **[Karolina](https://www.pexels.com/de-de/@karolina-2031292?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)** von **[Pexels](https://www.pexels.com/de-de/foto/erkundung-und-bergsteigen-3669288/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)**"
 +++
 ### Es geht um Menschen
 
