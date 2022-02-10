@@ -3,6 +3,7 @@ title = "Wie die Arbeit wieder Freude macht"
 date = "2022-02-10"
 draft = true
 pinned = false
+description = "Wenn wir eine Aus- oder Weiterbildung machen, studieren oder schon bevor wir uns dafür entscheiden, möchten wir in der Regel etwas tun, das uns Freude macht. Irgendwann finden sich viele an Arbeitsorten, in Arbeitsstellen, in Systemen, Teams, in Lebenssituationen, die keine Freude mehr machen. Oft ist der Weg dorthin schleichend."
 +++
 ### Wie die Arbeit wieder Freude macht
 
@@ -51,7 +52,7 @@ Zufriedenheit bei der Arbeit zu finden heisst oft auch, mehr oder richtig in Kon
 
 **Weise wählen, mit wem du über was sprichst**
 
-Ein weitverbreiteter und oft nicht zu unterschätzender Stolperstein sind Menschen, die dir nicht gut tun oder vielleicht sogar gut tun, aber auf dem Weg zu deiner (beruflichen) Zufriedenheit nicht dienlich sind. Das sind Menschen, die lieber in alten Mustern (auch Komfortzone genannt) verharren, anstatt etwas in Bewegung zu bringen. Sie meinen das, was sie sagen (z. B. “du träumst", "es gibt überall etwas", "meinst du, du kannst das?" etc.) nicht böse. Es entspricht einfach ihrer aktuellen Denk- und Sichtweise. Bei Menschen in Veränderungs- oder Wachstumsprozessen löst das aber oft Unsicherheit aus. 
+Ein weitverbreiteter und oft nicht zu unterschätzender Stolperstein sind Menschen, die dir nicht gut tun oder vielleicht sogar gut tun, aber auf dem Weg zu deiner (beruflichen) Zufriedenheit nicht dienlich sind. Das sind Menschen, die lieber in alten Mustern (auch Komfortzone genannt) verharren, anstatt etwas in Bewegung zu bringen. Sie meinen das, was sie sagen (z. B. “du träumst", "es gibt überall etwas", "meinst du, du kannst das?" etc.) nicht böse. Es entspricht einfach ihrer aktuellen Denk- und Sichtweise. Bei Menschen in Veränderungs- oder Wachstumsprozessen löst das aber oft Unsicherheit aus, da man gerade in diesen Zeiten verletzlich(er) ist. 
 
 **Tools, Theorien, Ansätze**
 
