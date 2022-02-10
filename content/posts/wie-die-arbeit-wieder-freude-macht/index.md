@@ -14,6 +14,10 @@ Manchmal scheinen mir die Titel etwas schwachsinnig, da ich ja nie und nimmer sa
 
 Wenn wir eine Aus- oder Weiterbildung machen, studieren oder schon bevor wir uns dafür entscheiden, möchten wir in der Regel etwas tun, das uns Freude macht. Irgendwann finden sich viele an Arbeitsorten, in Arbeitsstellen, in Systemen, Teams, in Lebenssituationen, die keine Freude mehr machen. Oft ist der Weg dorthin schleichend. 
 
+> «Die Aufgabe wechselt nicht nur von Mensch zu Mensch – entsprechend der Einzigartigkeit jeder Person – sondern auch von Stunde zu Stunde, gemäß der Einmaligkeit jeder Situation.» 
+>
+> *Viktor Frankl*
+
 **Mögliche Gründe sind:**
 
 * Schwierigkeiten mit dem Vorgesetzten, Teamkollegen, etc.
@@ -40,6 +44,10 @@ Immer häufiger kursieren Erfolgsstorys von Menschen, die schnell zum Erfolg kam
 
 Ist schön und ernüchternd zugleich. Denn meistens kommt man mit kleinen Schritten, Ausprobieren sowie einer gesunden Selbst- und Fremdreflexion am weitesten. Es geht auch um den Weg und nicht nur um das Ziel, das kann sich sowieso auf dem Weg verändern. 
 
+> «Die letzte der menschlichen Freiheiten besteht in der Wahl der Einstellung zu den Dingen.»
+>
+> *Viktor Frankl*
+
 **Ausprobieren und erforschen**
 
 Das ist ein oft unterschätztes und sehr wirkungsvolles Vorgehen. Das heisst du kannst:
@@ -56,6 +64,10 @@ Zufriedenheit bei der Arbeit zu finden heisst oft auch, mehr oder richtig in Kon
 **Weise wählen, mit wem du über was sprichst**
 
 Ein weitverbreiteter und oft nicht zu unterschätzender Stolperstein sind Menschen, die dir nicht guttun oder vielleicht sogar guttun, aber auf dem Weg zu deiner (beruflichen) Zufriedenheit nicht dienlich sind. Das sind Menschen, die lieber in alten Mustern (auch Komfortzone genannt) verharren, anstatt etwas in Bewegung zu bringen. Sie meinen das, was sie sagen (z. B. “du träumst", "es gibt überall etwas", "meinst du, du kannst das?" etc.) nicht böse. Es entspricht einfach ihrer aktuellen Denk- und Sichtweise. Bei Menschen in Veränderungs- oder Wachstumsprozessen löst das aber oft Unsicherheit aus, da man gerade in diesen Zeiten verletzlich(er) ist.
+
+> «Das Schicksal gehört zum Menschen wie der Boden, an den ihn die Schwerkraft fesselt, ohne die aber das Gehen unmöglich wäre. Zu unserem Schicksal haben wir zu stehen wie zu dem Boden, auf dem wir stehen – ein Boden, der das Sprungbrett für unsere Freiheit ist.»
+>
+> *Viktor Frankl*
 
 **Theorien und Ansätze**
 
