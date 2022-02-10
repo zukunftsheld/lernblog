@@ -38,9 +38,19 @@ Ist schön und ernüchternd zugleich. Denn meistens kommt man mit kleinen Schrit
 
 **Ausprobieren und erforschen**
 
-Das ist ein oft unterschätztes und sehr wirkungsvolles Vorgehen.  
+Das ist ein oft unterschätztes und sehr wirkungsvolles Vorgehen. Das heisst du kannst:
 
-**Mentoren suchen**
+Schnuppern (auch als Erwachsene und Berufserfahrene Person)
+
+Mit (vielen) Menschen sprechen, die etwas tun, dass dich auch interessiert oder interessieren könnte
+
+Selbst kleine Experimente machen und einfach einmal tun, auch wenn du noch wenig Erfahrung hast oder denkst, dass du es nicht kannst.
+
+Einen [Lernblog](https://www.lernblog.org) schreiben, einen Social Media Kanal nutzen, Videos machen und das mit deinen Freunden oder noch besser mit der ganzen Welt teilen. So beginnst du dich, dein Tun und deine Interessen zu zeigen, reflektierst (vor allem beim Schreiben) und kannst so kann wieder Neues entstehen. Neue Kontakte, neue Gedanken, neue Ideen und und und.
+
+**Mentor*innen suchen**
+
+Zufriedenheit bei der Arbeit zu finden heisst oft auch, mehr oder richtig in Kontakt mit sich selbst zu kommen, Selbstverantwortung zu übernehmen und zum Gestalter, der Gestalterin der eigenen Gegenwart und Zukunft zu werden. Dabei erweist es sich immer wieder als Hilfreich sich einen oder mehrere Mentor*innen zu suchen. Für gewisse Situationen kann es sich auch lohnen eine Therapeutin, einen Coach, Trainer oder ähnliches zu nehmen, da diese Unterstützung noch neutraler sein kann oder sollte. Es sollten Menschen sein, die Möglichkeiten sehen, dir nicht ihre Ideen und Gedanken aufdrücken wollen, sondern dich bei deinem Prozess und deiner Entwicklung zu begleiten. Menschen, die dir auf Augenhöhe begegnen. 
 
 **Weise wählen, mit wem du über was sprichst**
 
