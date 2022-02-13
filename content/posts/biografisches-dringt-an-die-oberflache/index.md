@@ -18,7 +18,7 @@ Dabei will ich doch gar nicht mehr so viel über mich oder meine Biografie schre
 
 ### Einsamer Kämpfer
 
-Nun, ich fühle mich tatsächlich oft isoliert, alleine, einsam. Manchmal sehe ich mich als einsamen Kämpfer. Ja, als Kämpfer, nicht als Reisender, nicht als Mann, nicht als Denker oder was weiss ich. Als Kämpfer. Da kommt mir gleich und zum ersten Mal das Bild einer Rüstung in den Sinn. Es ist die Rüstung oder eine Rüstung, die ich möglicherweise ablegen dürfte. Eine Rüstung, die mir Schutz zu geben scheint, eine Hülle die ich kenne. Es ist etwas, dass normal geworden ist und Sicherheit verspricht. Sicherheit vor Ablehnung, vor Einsamkeit (da schleicht sich doch ein Widerspruch ein..?) und auch Sicherheit vor der Freiheit. Was mir selbst etwas seltsam erscheint, macht doch irgendwie Sinn oder nicht? 
+Nun, ich fühle mich tatsächlich oft isoliert, alleine, einsam. Manchmal sehe ich mich als einsamen Kämpfer. Ja, als Kämpfer, nicht als Reisender, nicht als Mann, nicht als Denker oder was weiss ich. Als Kämpfer. Da kommt mir gleich und zum ersten Mal das Bild einer Rüstung in den Sinn. Es ist die Rüstung oder eine Rüstung, die ich möglicherweise ablegen dürfte. Eine Rüstung, die mir Schutz zu geben scheint, eine Hülle, die ich kenne. Es ist etwas, dass normal geworden ist und Sicherheit verspricht. Sicherheit vor Ablehnung vor Einsamkeit (da schleicht sich doch ein Widerspruch ein..?) und auch Sicherheit vor der Freiheit. Was mir selbst etwas seltsam erscheint, macht doch irgendwie Sinn oder nicht?
 
 ### Die alten Spuren
 
