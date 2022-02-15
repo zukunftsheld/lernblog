@@ -1,8 +1,11 @@
 +++
 title = "Was wäre wenn..."
 date = "2022-02-15"
-draft = true
+draft = false
 pinned = false
+tags = ["Biografie", "Tagebuch", "Recovery"]
+image = "ben123.jpg"
+description = "Was wäre wenn..?\nDiese Frage taucht bei uns Menschen wahrscheinlich immer wieder auf. Sie tauch auch bei mir ab und zu auf, flacht aber meistens zügig wieder ab. Manchmal denke ich darüber nach, wie es gewesen sein könnte, wenn..."
 +++
 ### Was wäre wenn..?
 
