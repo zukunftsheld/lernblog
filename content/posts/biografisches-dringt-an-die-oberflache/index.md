@@ -1,7 +1,7 @@
 +++
 title = "Biografisches dringt an die Oberfläche"
 date = "2022-02-13"
-draft = true
+draft = false
 pinned = false
 tags = ["Biografie", "Tagebuch"]
 image = "img_9726.jpg"
