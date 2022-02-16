@@ -13,7 +13,9 @@ Hallo, ich bin Ben.
 Gestalten l Begleiten I Denken I Inspirieren I Verbinden. 
 Irgendwo zwischen Bildung und Arbeit.
 
-mehr gibts hier: \
+Hier gibts einen Einblick in mein Leben und mein Lernen. 
+
+mehr über mich gibts hier: \
 <https://www.benzaugg.ch>
 
 kontakt@benzaugg.ch
