@@ -15,7 +15,7 @@ Diese Frage taucht bei uns Menschen wahrscheinlich immer wieder auf. Sie tauch a
 
 Nun frage ich mich, ob ich doch das getan habe, was sie erwarteten. Nämlich zu stören, zu laut zu sein, zu unruhig, zu unkonzentriert. Denn ist es nicht so, dass man Verhaltensweisen plötzlich erwartet und dann auch den Fokus genau auf diese Person, auf diese Verhaltensweisen legt?
 
-### Dann kam wirklich der Wendepunkt. Irgendwie. 
+### Dann kam wirklich der Wendepunkt. Irgendwie.
 
 Die «was wäre wenn?» Frage müsste ich mir allerdings auch bei den guten Wendungen stellen. Na gut, das mache ich natürlich auch. Dort bin ich aber einfach froh, dass es «gut» kam. Mein wirklicher oder erster Wendepunkt kam während meiner ersten Berufsausbildung. Nicht etwa, weil dort jemand meine Individualität oder mein Talent geschätzt hätte. Es waren auch dort drei schwierige Jahre und doch konnte ich immer mehr über mich und mein Leben bestimmen. Ein Hauch von Freiheit, ein Hauch von Menschsein. Was bis zu diesem Zeitpunkt lief steht in vielen früheren Blogbeiträgen. Deshalb gehe ich hier nicht mehr näher darauf ein. 
 
@@ -41,4 +41,4 @@ Vielleicht spüre ich einen Schmerz, vielmehr eine Einsamkeit und das mehr denn 
 
 Da ist aber immer dieser Drange, es tun zu müssen. Auch wenn es nur für einen Menschen ist, der diese Worte gerade brauchen kann. 
 
-Hallo, ich bin Benjamin. Ich das alles bin ich.
+Hallo, ich bin Benjamin. Das alles bin ich.
