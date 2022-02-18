@@ -30,7 +30,7 @@ Das heisst es geht auch darum, aufmerksam zu sein und zu spüren, in welchem Zus
 
 Mir persönlich fällt es nicht gerade leicht zu sehen oder zu spüren, ob eines meiner Pferde nun tot ist, nur erschöpft oder ob es ein super Pferd ist, dass einfach nicht (mehr) zu mir passt. Da können Aussensichten helfen. Ich vermute, dass es sich lohnen kann, «das Pferd» einfach weiden zu lassen oder eine Auszeit im Stall zu gönnen. Bei mir schleicht sich in solchen Momenten dann schnell das Gefühl oder vorgelagert viel eher der Gedanke des Scheiterns ein. Wobei folgende Aussage helfen kann den Blickwinkel zu wechseln.
 
-> «Ich glaube, dass es den Zustand des nicht klappens, gar nicht gibt.»
+> «Ich glaube, dass es den Zustand des «nicht Klappens» gar nicht gibt.»
 >
 > *Marco Jakob*
 
