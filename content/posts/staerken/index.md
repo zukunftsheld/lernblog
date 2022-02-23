@@ -1,8 +1,12 @@
 +++
 title = "Stärken richtig nutzen"
 date = "2022-02-23"
-draft = true
+draft = false
 pinned = false
+tags = ["Arbeit", "Ikigai", "Sinn"]
+image = "pexels-mike-chai-842339-2.jpg"
+description = "Wenn Menschen mit besonderen Stärken hervorstechen, dann ist, zumindest dem Umfeld meistens klar, in welche Richtung sie sich berufliche entwickeln sollten/könnten. Menschen, die gut mit Menschen können, sollten in soziale Berufe. Solche, die Mathematik gut beherrschen und vielleicht auch ein Auge fürs Detail haben, könnten etwas mit Finanzen, Buchhaltung oder Informatik machen. Nun, das ist ein einfacher Weg und der ist auch schnell gedacht. Aber!"
+footnotes = "Foto von **[Mike Chai](https://www.pexels.com/de-de/@mike-chai-285623?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)** von **[Pexels](https://www.pexels.com/de-de/foto/zeitrafferfotografie-von-menschen-die-auf-der-fussgangerzone-gehen-842339/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)**"
 +++
 ### Nicht immer den einfachsten Weg nehmen
 
