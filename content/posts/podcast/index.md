@@ -3,7 +3,7 @@ title = "Podcast"
 date = "2022-03-06"
 draft = false
 pinned = false
-tags = ["Podcast", "Lernblog", "Lernen", "Ikigai"]
+tags = ["Podcast", "Lernblog", "Lernen"]
 image = "26081226-cf3b-46ee-8124-22c98700a971.jpg"
 description = "Seit zwei Jahren mache ich nun Podcasts und habe dabei einige Erkenntnisse und Erfahrungen gemacht. Darüber schreibe ich heute ein paar Zeilen. "
 +++
