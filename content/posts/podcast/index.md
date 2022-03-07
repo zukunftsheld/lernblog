@@ -20,7 +20,7 @@ Podcasts nehme ich an den unterschiedlichsten Orten auf. Am wichtigsten finde ic
 * in Sitzungszimmern
 * online
 
-### Vorbereitung 
+### Vorbereitung
 
 Eigentlich müsste man sagen, dass es eine gute Vorbereitung braucht. Das hängt aber ganz stark mit dem Inhalt, dem Sprecher, der Sprecherin sowie den möglichen Gästen zusammen. 
 
@@ -30,14 +30,14 @@ Beim Podcast [entwicklungsfreiraum](https://www.entwicklungsfreiraum.ch) brauche
 
 Bei den Podcast-Formaten [24 Stunden](https://www.24stunden.life) und [ZUKUNFTSHELDEN](https://www.zukunftshelden.ch) spreche ich mit Menschen und dabei ist es aus meiner Sicht am wichtigsten, dass sie gut vorbereitet sind. Gut heisst nicht zwingend umfassend, aber so, dass sie sich wohlfühlen können. Dafür habe ich zum einen ein Infoschreiben in dem ich über den Inhalt, die Dauer, mögliche Fragen (nur die Thematik) und was sie benötigen (falls es online stattfindet). 
 
-### Damit arbeite ich 
+### Damit arbeite ich
 
 * **Macbook und Garageband**
 * **[Shure MV7](https://www.shure.com/en-MEA/products/microphones/mv7)** (dieses verbinde ich meistens mit XLR über das Audio Interface. Es hat aber auch einen USB-Anschluss und manchmal nutze ich auch den), mittlerweile gibt es ein günstigeres Shure MV7X (nur mit XLR-Anschluss)
 * **[Audio Interface Adapter Focusrite Scarlett 2i2 3rd Gen](https://focusrite.com/de/news/introducing-scarlett-3rd-gen)**
 * **1 - 2 Tischstative**, hier gibt es etliche Möglichkeiten, am flexibelsten bin ich mit dem Dreibein-Tischstativ: [**K&M 23150-3** ](<* **K&M 23150-3**>)
 
-Weil ich verschiedene Stative für verschiedene Produkte verwende, habe ich mir auch [Reduziergewinse/Adapter](Gewindereduktionen/Adapter) gekauft. So nutze ich sie auch für das **[Shure MV88+ Video-Kit](https://www.shure.com/de-DE/produkte/mikrofone/mv88plus)** oder die Smartphone-Halterung **[Joby Grip Tight PRO 2 Mount](https://joby.com/global/griptight-pro-2-mount-jb01525-bww/).** 
+Weil ich verschiedene Stative für verschiedene Produkte verwende, habe ich mir auch **[Reduziergewinde/Adapter](Gewindereduktionen/Adapter)** gekauft. So nutze ich sie auch für das **[Shure MV88+ Video-Kit](https://www.shure.com/de-DE/produkte/mikrofone/mv88plus)** oder die Smartphone-Halterung **[Joby Grip Tight PRO 2 Mount](https://joby.com/global/griptight-pro-2-mount-jb01525-bww/).** 
 
 * da meine Gesprächsgäste mit dem (eigentlich einfachen) Onlinetool [zencastr](https://zencastr.com/) zunehmend Probleme hatten (Zugriffsberechtigungen aktivieren, nicht auf allen Browsern verfügbar) nutze ich mittlerweile [zoom](https://zoom.us/signin) zur Aufnahme. Das ist echt einfach, du hast am Ende zwei Tonspuren und kannst nur den Ton oder natürlich auch Bild und Ton aufnehmen. 
 
@@ -59,4 +59,4 @@ Bist du oft unterwegs oder möchtest dir diese Option offen halten? Dann könnte
 
 Kopfhörer sehen zwar cool aus, aber eigentlich benötige ich die zum Aufnehmen nicht unbedingt. Klar, man kann sie fürs Monitoring nutzen und dafür kann es Sinn machen. Auch beim Schnitt hörst du einiges noch präziser und doch nutze ich sie eigentlich selten. Zu Beginn hatte ich die [ATH M50x](https://www.audio-technica.com/de-de/ath-m50x) und die sind echt toll. Leider habe ich sie verkauft 😕. Dann hatte ich die Idee, auf die Bluetooth-Version zu wechseln und auch die sind cool. Beim Schneiden habe sie sich jedoch als nicht ideal erwiesen, da bei mir beim ständigen Start und Stopp manchmal Verzögerungen oder Störgeräusche auftreten. 
 
-Das legendäre **[SM 58 (A Beta)](https://www.shure.com/de-DE/produkte/mikrofone/sm58)** ist natürlich auch immer noch super. Vor kurzer Zeit bin ich auf dieses [Video ](https://youtu.be/95U7wxPQZdE)gestossen.
+Das legendäre **[SM 58 (A Beta)](https://www.shure.com/de-DE/produkte/mikrofone/sm58)** ist natürlich auch immer noch super. Vor kurzer Zeit bin ich auf dieses [Video ](https://youtu.be/95U7wxPQZdE)gestossen. Das gibt einen Hinweis darauf, warum es (auch) eine Legende ist.
