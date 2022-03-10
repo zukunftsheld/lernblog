@@ -1,5 +1,5 @@
 +++
-title = "Start with Why Teil 1"
+title = "Start with Why - Teil 1"
 date = "2022-03-10"
 draft = false
 pinned = false
