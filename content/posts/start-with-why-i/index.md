@@ -4,6 +4,7 @@ date = "2022-03-10"
 draft = false
 pinned = false
 tags = ["NewWork", "NewLearning", "colearning.org", "colearning", "Lernen", "Arbeit"]
+image = "img_4792-2.jpg"
 description = "Wenn viele Visionen, viel Passion und Menschen zusammenkommen, dann kann Grossartiges entstehen. Diesen Eindruck habe ich beim Aufbau von colearning.org. Noch immer ganz am Anfang, widmen wir uns unserem Warum. "
 +++
 ### Das Warum freilegen - Teil 1
