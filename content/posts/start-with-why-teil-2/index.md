@@ -3,6 +3,7 @@ title = "colearning.org"
 date = "2022-03-19"
 draft = true
 pinned = false
+tags = ["colearning.org"]
 +++
 Vor ein paar Wochen sind wir in den Prozess der Freilegung des «Warums» gestartet. Dieser dauert bis heute an und wird in kurzer Zeit (zumindest vorläufig) abgeschlossen sein. Wie lange widmet man sich so einem Prozess, wie genau und wie fix muss dieses «Warum» denn sein? Wer muss es verstehen können und in welchem Detaillierungsgrad. Muss denn da alles in dieses «Warum» oder ist es eben dieser kurze und prägnante Satz, wie ihn Simon Sinek in seinem Buch beschreibt? Das sind Fragen und Gedanken, die uns rund um die Freilegun ebenfalls beschäftigen. 
 
