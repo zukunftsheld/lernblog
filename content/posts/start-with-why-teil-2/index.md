@@ -1,5 +1,5 @@
 +++
-title = "colearning.org"
+title = "colearning.org - Aufbruch"
 date = "2022-04-04"
 draft = false
 pinned = false
