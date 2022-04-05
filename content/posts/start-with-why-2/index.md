@@ -1,9 +1,9 @@
 +++
 title = "Viele Bälle gleichzeitig in der Luft"
 date = "2022-04-05"
-draft = true
+draft = false
 pinned = false
-tags = ["Tagebuch", "Biografie", "Gesundheit"]
+tags = ["Tagebuch", "Biografie", "Gesundheit", "Arbeit", ""]
 image = "pexels-shiva-smyth-1051449.jpg"
 description = "Was passiert, wenn ich zu viele Bälle in der Luft haben und wie schaffe ich es loszulassen. Darüber schreibe ich in diesem Beitrag. "
 footnotes = "Foto von **[Shiva Smyth](https://www.pexels.com/de-de/@shiva-smyth-394854?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)** von **[Pexels](https://www.pexels.com/de-de/foto/nahaufnahme-fotografie-von-gestapelten-steinen-1051449/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)**"
