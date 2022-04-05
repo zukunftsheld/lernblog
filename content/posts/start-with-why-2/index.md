@@ -1,5 +1,5 @@
 +++
-title = "Viele Bälle gleichzeitig in der Luft"
+title = "Von der Kunst die Balance zu finden"
 date = "2022-04-05"
 draft = false
 pinned = false
