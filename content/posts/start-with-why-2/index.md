@@ -1,5 +1,5 @@
 +++
-title = "Von der Kunst die Balance zu finden"
+title = "Von der Kunst, die Balance zu finden"
 date = "2022-04-05"
 draft = false
 pinned = false
