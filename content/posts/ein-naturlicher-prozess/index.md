@@ -30,6 +30,61 @@ Mir scheint und das können oder müssen alle für sich selbst beantworten, dass
 
 Weil ich nunmal meine Lern- und Entwicklungsbiografie am besten kenne und heute zu einer schönen Erkenntnis und oder Einsicht gelangt bin versuche ich es anhand davon zu erklären. Dafür ziehe ich keine Methodisch-Didaktischen Konzepte und Theorien herbei sonder nehme die fünf Säulen von Ikigai, wie sie im Buch Ken Mogi beschrieben sind. 
 
-**Die Ausgangslage**
+#### Die Ausgangslage
 
 Bereits einige Zeit trug ich die Idee oder den Gedanken mit mir, einen Podcast zu beginnen. Meine Kompetenzen rund um Audio waren gleich Null. Klar, man sagte mir schon immer, dass ich viel rede und daran sollte es schon einmal nicht scheitern. Aber wie bereitet man diese Inhalte auf, wie wählt man die Themen, wie lang soll eine Folge sein? Mit Intro-Musik oder ohne? Soll ich mit Gästen sprechen oder lieber nur ich? In welchem Raum nimmt man am besten auf? Muss wirklich alles so prefekt sein, wie einige schreiben?
+
+#### Die fünf Säulen des Ikigai
+
+> «Die fünf Säulen bilden das tragende Gerüst, auf dem ikigai gedeiht. Sie schliessen sich nicht gegenseitig aus und sie sind nicht allumfassend; ebensowenig folgen sie einer bestimmten Reihenfolge der Hirarchie.»
+>
+> *Ken Mogi*
+
+1. Klein Anfangen
+
+2. Loslassen lernen
+
+3. Harmonie und Nachhaltigkeit leben
+
+4. Die Freude an den kleinen Dingen entdecken
+
+5. Im Hier und Jetzt sein
+
+Auch wenn sie nicht in einer Reihenfolge sein müssen, beginne ich doch mit der Nummer **1. Klein anfangen**. Am 19. April 2020 habe ich, nach Gesprächen und dem wirklichen inneren Drang, meine Gedanken zu teilen und das mit dem Podcasten trotz aller Ängste und Bedenken auszuprobieren, angefangen. In dieser Folge ging es um das Buch Ikigai und darum klein anzufangen. Sieben Minuten und siebenundreissig Sekunden dauerten sie. Meine ersten Gedanken, die ich so mit der Welt teilte. Bereits hier kommt 2. **loslassen lernen** ins Spiel. Es sind die Ängste, Gedanken und Unsicherheiten die in dem Moment auftauchen. Hört sich das überhaupt jemand an? Was denken die? Solche Gedanken und auch damit verbundene negative Gefühle hatte ich das eine oder andere Mal. Es ging dann immer wieder darum, loslassen zu lernen. Falls du dich fragst, warum ich weitermach(t)e, dann ist die Antwort ganz einfach. Es ist so schön und tut mir so gut. Ich würde es sogar tun, wenn niemand zuhören würde. Wenn ich die Folgen aufnehme, egal ob solche in denen nur ich spreche oder in Gesprächen mit anderen bin ich im **5. Hier und Jetzt**. Ich konzentriere mich auf das was ist. Ich spreche, atme, beginne vielleicht noch einmal von vorne, höre mir die Aufnahe an und bin einfach da. Noch intensiver ist dieses Hier und Jetzt, wenn ich mit anderen Menschen spreche. Ich bin dann bei den Fragen und vor allem bei meinem Gegenüber. Es ist wirklich immer einfach schön (aber auch anstrengend). **Loslassen lernen** kann auch hier wieder wichtig werden. Wenn zum Beispiel etwas nicht so läuft, wie ich es möchte oder wenn ein Gespräche nicht den Verlauf nimmt, den ich mir gewünscht oder vorgestellt habe. **4. Die Freude an den kleinen Dingen entdecken** heisst manchmal, dass es genau in diesen Momenten wichtig ist, den Fokus auf die schönen kleinen Dinge zu lenken. Das kann zum Beispiel sein, wenn mir eine gesprochene Passage besonders gut gefällt, wenn jemand erwähnt, dass er ein Buch gekaut hat über das ich gesprochen habe oder einfach die Zeit und die Begegnung, die mit einem Menschen hatte. Es gäbe Möglichkeiten, Gesprächsgäste oder Themen, die mir wahrscheinlich mehr Hörer*innen bringen würden. Da kommt **3. Harmonie und Nachhaltigkeit leben** ins Spiel. Fragen wie: was passt für mich, wo fühle ich mich gut, passt es zu mir, zu diesem Format und zu dem, was mir wichtig ist helfen hier. Harmonie und Nachhaltigkeit sind auch dann wichtig, wenn ich eben wie oben erwähnt, mit negativen Gedanken und Gefühlen verstrickt bin. Dann kann ich einfach weitermachen (Nachhaltigkeit) und zwar so wie ich bereits unterwegs bin (Harmonie). Da waren zum Beispiel Zweifel ob es sich lohnt das eine Format weiter zu betreiben und ich wollte mehr Hörer*innen. Also begann ich auf Hochdeutsch, fühlte mich jedoch unwohl und wechselte nach ein paar Folgen wieder zu Mundart. Diese beschriebenen Prozesse wiederholten sich auf die eine oder andere Art immer wieder und selten Linear und ich war mir dessen kaum bewusst. Beim Podcasten hatte ich nie grosse Ambitionen. Es machte mir einfach Freude und das macht es immer noch. Es kamen über die Zeit zwei neue eigene Formate hinzu und andere, die ich im Auftag mache. Erst heute wurde mir der ganze Zusammenhang zu Ikigai bewusst. 
+
+### Wenn jeder das tun würde, was er gerne macht
+
+Wo kämen wir hin, wenn jeder das tun würde, was er gerne macht? Das Leben ist doch kein Wunschkonzert. Hast du auch schon gehört? Ich definitiv. Bis hierhin haben wir sehr oft das gemacht, was andere von uns wollten, was die Gesellschaft, die Schule, der Arbeitgeber etc. forderten. Natürlich irgendwie freiwillig und doch verspüren viele eine mehr oder weniger starke Unzifriedenheit. Viele verkrustete Strukturen brechen langsam auf und mehr wird möglich. Was nun gerne gefodert wird ist das lebenslange Lernen. Das sollte man, wenn man anschlussfähig bleiben möchte und dem Gehirn würde das sowieso gut tun. Vor allem im Alter! Man muss das lebenslange Lernen noch lernen? 
+
+#### Floskeln dreschen bis zum geht nicht mehr
+
+Für mich ist diese Idee von lebenslangem Lernen schon lange zur Floskel geworden. Denn Leute! Wir lernen! Immer. Manchmal lernen wir mehr und manchmal weniger, das eine Mal ist es uns total klar und bewusst und meistens merken wir es kaum. Diese Floskel-Drescher wollen einfach etwas verkaufen oder etwas kluges von sich geben. Dabei würden sie besser einfach mehr Möglichkeiten schaffen, damit Menschen sich dem widmen können was ihnen Spass macht, wo ihre Energie fliesst und Lernen ganz natürlich und nebenbei möglich wird. 
+
+#### Das Lernen befreien
+
+Es geht also darum, das Lernen zu befreien. So sehe ich und wir rund um Colearning Bern und Colearning.org das auf jeden Fall. Aber eigentlich ging es ja um Ikigai. 
+
+#### Ikigai und Lernen
+
+Der Duden definiert Lernen also mit:
+
+* sich Wissen, Kenntnisse aneignen
+* sich, seinem Gedächtnis einprägen
+* Fertigkeiten erwerben
+* im Laufe der Zeit \[durch Erfahrungen, Einsichten] zu einer bestimmten Einstellung, einem bestimmten Verhalten gelangen
+
+und das passt doch ganz gut zu dem, was ich beschrieben habe. Ich habe mir Wissen angeeignet, vielleicht habe ich mir sogar Dinge in meinem Gedächtnis eingeprägt(?). Neue Fertigkeiten habe ich definitiv erworben und ganz viele neue Erfahrungen gemacht und Einsichten gehabt. Dafür habe ich keine Sekunde in einem Schulzimmer und keinen Moment mit einem Lehrer verbracht. Trotz oder gerade deswegen mache ich es heute (immer noch) mit grosser Freude. Dabei gab und gibt es Hochs und Tiefs. Auf diesem Weg begleiten und leiten mich die fünf Säulen von Ikigai ohne das ich es merke. 
+
+### Etwas stimmt nicht ganz
+
+Was mir bei meinen Podcasts wichtig ist, ist folgendes:
+
+* Gedanken teilen, inspirieren, zur Reflexion anregen, Wissen und Informationen kombieren, verdichten und weitergeben
+* den Menschen zuhören und ihnen die Möglichkeit geben sich zu zeigen
+* anderen Menschen die Gelegenheit geben, sich inspirieren und ermutigen zu lassen
+
+Die Kompetenzen dafür habe ich mir bereits früh angeeignet. Ich wurde als Aussenseiter zum Beobachter und zum Zuhörer. Damit erhielt ich ein Gespür für die Menschen. Später lernte ich Verkäufer, machte Zeugs rund um Erwachsenenbildung und Coaching. Also alles Dinge, die bei meiner Art von Podcasts helfen und wichtig sein können. .....
+
+......
+
+.....
