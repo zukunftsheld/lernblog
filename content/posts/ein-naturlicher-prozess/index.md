@@ -11,10 +11,25 @@ In meinem Lernblog dreht sich vieles um meine Biografie und um das, was ich in d
 
 #### Was wir nicht lernen
 
-Wir lernen nicht, dass wir eigentlich immer lernen und immer in einem Lern- und Entwicklungsprozess sind. «Was Hänschen nicht lernt, lernt Hans nimmermehr». Was für eine Sch\*\*\*\**. Ich kann mich noch gut erinnern, das man mir das auch mehr als einmal gesagt hat, als ich nicht lernen wollte. Es hält sich fest in den Köpfen der Menschen, dass Lernen nur dann statfindet, wenn wir in Schulen, Ausbildungen, Weiterbildungen, Kursen, Workshops uns so weiter sind
+Wir lernen nicht, dass wir eigentlich immer lernen und immer in einem Lern- und Entwicklungsprozess sind. «Was Hänschen nicht lernt, lernt Hans nimmermehr». Was für eine Sch\*\*\*\*\*. Ich kann mich noch gut erinnern, das man mir das auch mehr als einmal gesagt hat, als ich nicht lernen wollte. Es hält sich fest in den Köpfen der Menschen, dass Lernen nur dann statfindet, wenn wir in Schulen, Ausbildungen, Weiterbildungen, Kursen, Workshops und so weiter sind. Wirklich gelernt wurde nur dann, wenn man gute Noten, ein Zertifikat, ein Diplom oder irgendeinen anderen Abschluss erhält. Sonst war man zu faul, hat es nicht begriffen, war zu langsam oder was weiss ich. Die Ilusion ist ja, das man nichts oder nur wenig gelernt hat. Es stimmt einzig, dass man den Stoff nicht wie gewünscht (Gem. Reglemten etc.) wiedergeben kann. Wenn ich so zurückdenke, dann habe ich Menschen gesehen, die in Kurssituationen vielleicht nicht die besten «Schüler\*innen» waren, aber tolle Lern- und Entwicklungsprozesse gemacht haben. Es waren Menschen, die mit mir in Weiterbildungen waren und solche, deren Kursleiter oder Coach ich war. Vielleicht waren diese Lern- und Entwicklungserlebnisse weit mehr Wert, als die Abschlüsse. Wer weiss. 
 
-sich Wissen, Kenntnisse aneignen
+#### So definiert der Duden Lernen
 
-sich, seinem Gedächtnis einprägen
+* sich Wissen, Kenntnisse aneignen
+* sich, seinem Gedächtnis einprägen
+* Fertigkeiten erwerben
+* im Laufe der Zeit \[durch Erfahrungen, Einsichten] zu einer bestimmten Einstellung, einem bestimmten Verhalten gelangen
 
-Fertigkeiten erwerbenim Laufe der Zeit \[durch Erfahrungen, Einsichten] zu einer bestimmten Einstellung, einem bestimmten Verhalten gelangen
+Synonyme: [ablernen](https://www.duden.de/rechtschreibung/ablernen), sich aneignen, [aufnehmen](https://www.duden.de/rechtschreibung/aufnehmen), sich bilden
+
+### Die vielen Arten des Lernens
+
+Mir scheint und das können oder müssen alle für sich selbst beantworten, dass Lernen vor allem mit Wissen und Kenntnisse aneignen und einprägen, sowie Fertigkeiten erwerben gleichgesetzt werden. Das wiederum wird, so erlebe ich es zumindest, mit eben diesen arrangierten Lernsituationen gleichgesetzt. Da ist aber noch so viel mehr. 
+
+#### Ein Erklärungsversuch
+
+Weil ich nunmal meine Lern- und Entwicklungsbiografie am besten kenne und heute zu einer schönen Erkenntnis und oder Einsicht gelangt bin versuche ich es anhand davon zu erklären. Dafür ziehe ich keine Methodisch-Didaktischen Konzepte und Theorien herbei sonder nehme die fünf Säulen von Ikigai, wie sie im Buch Ken Mogi beschrieben sind. 
+
+**Die Ausgangslage**
+
+Bereits einige Zeit trug ich die Idee oder den Gedanken mit mir, einen Podcast zu beginnen. Meine Kompetenzen rund um Audio waren gleich Null. Klar, man sagte mir schon immer, dass ich viel rede und daran sollte es schon einmal nicht scheitern. Aber wie bereitet man diese Inhalte auf, wie wählt man die Themen, wie lang soll eine Folge sein? Mit Intro-Musik oder ohne? Soll ich mit Gästen sprechen oder lieber nur ich? In welchem Raum nimmt man am besten auf? Muss wirklich alles so prefekt sein, wie einige schreiben?
