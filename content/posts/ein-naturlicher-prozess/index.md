@@ -1,9 +1,10 @@
 +++
 title = "Ein natürlicher Prozess"
 date = "2022-04-17"
-draft = true
+draft = false
 pinned = false
 tags = ["Ikigai", "Biografie", "Gedanken"]
+image = "img_1133.jpg"
 description = "Vieles lässt sich erst spät(er) verstehen. Hier schreibe ich über Ikigai und Lernen. Ich schreibe über meinen Prozess, über Hochs und Tiefs rund um die Produktion von meinen Podcasts. "
 +++
 ### Lernen - ein natürlicher Prozess
@@ -33,7 +34,7 @@ Weil ich nun mal meine Lern- und Entwicklungsbiografie am besten kenne und heute
 
 #### Die Ausgangslage
 
-Bereits einige Zeit trug ich die Idee oder den Gedanken mit mir einen Podcast zu beginnen. Meine Kompetenzen rund um Audio waren gleich null. Klar, man sagte mir schon immer, dass ich viel rede und daran sollte es schon einmal nicht scheitern. Aber wie bereitet man diese Inhalte auf, wie wählt man die Themen, wie lang soll eine Folge sein? Mit Intro-Musik oder ohne? Soll ich mit Gästen sprechen oder lieber nur ich? In welchem Raum nimmt man am besten auf? Muss wirklich alles so perfekt sein, wie viele schreiben?
+Bereits einige Zeit trug ich die Idee oder den Gedanken mit mir einen Podcast zu beginnen. Meine Kompetenzen rund um Audio waren gleich null. Klar, man sagte mir schon immer, dass ich viel rede und daran sollte es schon einmal nicht scheitern. Aber wie bereitet man diese Inhalte auf, wie wählt man die Themen, wie lang soll eine Folge sein? Mit Intro-Musik oder ohne? Soll ich mit Gästen sprechen oder lieber nur ich? In welchem Raum nimmt man am besten auf? Muss wirklich alles so perfekt sein, wie viele schreiben? Nun kann ich auf zwei Jahre zurückblicken und fand bei vielem einen Zusammenhang zu Ikigai und zum Lernen. 
 
 #### Die fünf Säulen des Ikigai
 
