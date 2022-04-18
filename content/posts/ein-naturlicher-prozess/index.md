@@ -42,7 +42,7 @@ Bereits einige Zeit trug ich die Idee oder den Gedanken mit mir einen Podcast zu
 >
 > *Ken Mogi*
 
-1. Klein Anfangen
+1. Klein anfangen
 2. Loslassen lernen
 3. Harmonie und Nachhaltigkeit leben
 4. Die Freude an den kleinen Dingen entdecken
