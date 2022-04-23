@@ -30,7 +30,7 @@ Mir scheint und das können oder müssen alle für sich selbst beantworten, dass
 
 #### Ein Erklärungsversuch
 
-Weil ich nun mal meine Lern- und Entwicklungsbiografie am besten kenne und heute zu einer schönen Erkenntnis und oder Einsicht gelangt bin, versuche ich es anhand davon zu erklären. Dafür ziehe ich keine methodisch-didaktischen Konzepte und Theorien herbei, sondern
+Weil ich nun mal meine Lern- und Entwicklungsbiografie am besten kenne und heute zu einer schönen Erkenntnis und oder Einsicht gelangt bin, versuche ich es anhand davon zu erklären. 
 
 #### Die Ausgangslage
 
