@@ -2,7 +2,7 @@
 title = "Über mich"
 draft = false
 image = "ben_foto2.jpg"
-description = "Hallo, ich bin Ben. \nInspirieren l Gestalten l Begleiten I Verbinden. \nIrgendwo zwischen Bildung und Arbeit.\n\n"
+description = "Hallo, ich bin Ben. \n🔥 Neue Arbeit, Neues Lernen, Bildung, Beruf und Potenzialentfaltung\n\n"
 +++
 ![](ben_foto2.jpg)
 
@@ -10,8 +10,7 @@ description = "Hallo, ich bin Ben. \nInspirieren l Gestalten l Begleiten I Verbi
 
 Hallo, ich bin Ben. 
 
-Gestalten l Begleiten I Denken I Inspirieren I Verbinden. 
-Irgendwo zwischen Bildung und Arbeit.
+🔥 Neue Arbeit, Neues Lernen, Bildung, Beruf und Potenzialentfaltung
 
 Hier gibts einen Einblick in mein Leben und mein Lernen. 
 
