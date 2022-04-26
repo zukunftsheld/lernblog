@@ -42,7 +42,7 @@ Das sind nun einige mögliche Veränderungen, die alle auch in einer Form Lernen
 
 Es gibt Bücher, Erkenntnisse, Studien, Neurobiologie, (zu) viele negative Schul- und Lernerfahrungen und trotzdem ändert sich kaum etwas. Klar, hier und da gibt es Lichtblicke und doch sind wir flächendeckend noch weit von einer kollektiven Freude am Lernen entfernt. Warum? Dazu habe ich ein paar Gedanken.
 
-Remote, Blendedlearning etc. sind Worte und Konzepte der Stunde. Ja, Lernen wird so zum Teil freier, zugänglicher und trotz der Distanz irgendwie gemeinschaftlicher. Wir können zusammen mit Menschen am anderen Ende der Welt etwas lernen. Wie cool ist das! Aber (leider kommt das aber), ist das meiste immer noch reguliert, Lernziele werden vorgegeben, das Lerntempo ist für alle gleich, die Tiefe natürlich auch und es wird zertifiziert. Mit dem Digitalen wird viel Altes einfach neu verkauft. 
+Remote, Blended Learning etc. sind Worte und Konzepte der Stunde. Ja, Lernen wird so zum Teil freier, zugänglicher und trotz der Distanz irgendwie gemeinschaftlicher. Wir können zusammen mit Menschen am anderen Ende der Welt etwas lernen. Wie cool ist das! Aber (leider kommt das aber), ist das meiste immer noch reguliert, Lernziele werden vorgegeben, das Lerntempo ist für alle gleich, die Tiefe natürlich auch und es wird zertifiziert. Mit dem Digitalen wird viel Altes einfach neu verkauft. 
 
 Das Schul- und Weiterbildungssystem wird von innenheraus angepasst. Es sind einzelne (wenige) Schulen, Lehrpersonen, die es anders machen und das oft heimlich. Das hält das alte System auch am Leben. 
 
