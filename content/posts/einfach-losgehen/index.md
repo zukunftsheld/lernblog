@@ -12,11 +12,11 @@ footnotes = "Auch hier möchte ich wieder auf Bücher verweisen, die mit differe
 
 Einfach losgehen ist einfacher gesagt als getan. Wenn wir eine (neue) Idee haben, eine Vision, aber auch wenn wir uns in Ängsten, Sorgen, in einer schwierigen Beziehung oder an einem unbefriedigenden Arbeitsplatz befinden können oder müssen wir irgendwann losgehen. Müssen ist eigentlich nicht das passendste Wort, weil müssen tun wir gar nichts. Wenn wir aber Veränderung wollen, dann müssen wir. Natürlich können wir auch abwarten, hoffen und manchmal ergibt oder löst sich etwas. Das ist aber selten.
 
-#### Vom Anfangen und Losgehen
+#### Anfangen und losgehen
 
 Gibt es zwischen anfangen und losgehen einen Unterschied? In diesem Fall möchte ich diese zwei Worte gerne unterscheiden. Wenn wir uns bewusst werden, dass wir eine Idee oder Vision haben, dann ist das bereits ein Anfang. Genau so ist es, wenn wir uns unseren Ängsten, Sorgen oder schwierigen Situationen bewusst werden. Natürlich wissen wir oft, dass wir eine Idee oder eine Vision haben, wir spüren auch die Angst oder erleben den Konflikt. Aber erst wenn wir uns dessen bewusst werden und Dinge sagen können wie: «Ich habe eine Vision und die möchte ich verfolgen», «Da ist Angst und ich möchte trotz (oder noch besser) auch mit der Angst meinen Weg gehen», «an diesem Arbeitsplatz fühle ich mich nicht wohl und ich möchte etwas ändern», dann ist da ein Anfang. Es ist aber immer noch beim Wollen. Wie können wir nun loslegen?
 
-#### Zwischen Anfangen und Losgehen
+#### Zwischen anfangen und losgehen
 
 Wenn wir uns unserer Situation bewusst werden, dann ist das ein Anfang und der ist wichtig. Damit aber etwas passieren kann, müssen wir aktiv werden. Wenn ich von aktiv spreche, dann meine ich nicht, in Hektik zu verfallen und möglichst schnell zu einer Lösung zu kommen. Was hier helfen kann, sind Gespräche mit guten Freunden, mit einer Therapeutin oder einem Coach. Vielleicht schaust du dir zuerst aber lieber Youtube-Videos an, liest passende Bücher oder hörst Podcasts. Das alles zähle ich in dem Fall noch immer zum Anfangen. Hier kann schon ganz viel in Bewegung kommen und doch ist es noch ein Anfang. Denn irgendwo hier gehen viele nicht los.
 
@@ -39,7 +39,5 @@ Nicht nur Mut, sondern auch Durchhaltewillen sind gefragt, wenn man sich auf sei
 Wenn es so einfach wäre
 
 Ja, das denkst du vielleicht nun. Einfach ist es nicht, das ist klar. Was ich hier schreibe scheint oder ist sogar sehr verallgemeinert und doch kann ich nach vielen Jahren auf diesem Weg sagen, dass das Los- und das Weitergehen entscheidend sind. Natürlich versprechen dir Selbsthilfegurus Freiheit und Glück, wenn du nur dein Denken änderst. Wenn es nur so einfach wäre.. Jede Biografie ist individuell. Jede und Jeder muss seinen eigenen Weg finden. Es beginnt alles mit dem ersten kleinen Schritt.
-
-
 
 Wie immer ist hier vieles unfertig. Zu einzelnen Elementen und zu eigenen Erfahrungen finden sich auf dieser Seite weitere Blogbeiträge.
