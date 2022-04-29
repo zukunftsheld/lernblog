@@ -36,7 +36,7 @@ Nicht nur Mut, sondern auch Durchhaltewillen sind gefragt, wenn man sich auf sei
 >
 > *Carl R. Rogers*
 
-Wenn es so einfach wäre
+#### Wenn es so einfach wäre
 
 Ja, das denkst du vielleicht nun. Einfach ist es nicht, das ist klar. Was ich hier schreibe scheint oder ist sogar sehr verallgemeinert und doch kann ich nach vielen Jahren auf diesem Weg sagen, dass das Los- und das Weitergehen entscheidend sind. Natürlich versprechen dir Selbsthilfegurus Freiheit und Glück, wenn du nur dein Denken änderst. Wenn es nur so einfach wäre.. Jede Biografie ist individuell. Jede und Jeder muss seinen eigenen Weg finden. Es beginnt alles mit dem ersten kleinen Schritt.
 
