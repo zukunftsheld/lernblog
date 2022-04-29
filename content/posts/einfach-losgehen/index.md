@@ -1,7 +1,7 @@
 +++
 title = "Einfach losgehen "
 date = "2022-04-29"
-draft = true
+draft = false
 pinned = false
 tags = ["Gedanken", "Lernen", "Psyche", "Recovery", "Selbstmanagement"]
 image = "high-grass-g4c0146198_640.jpg"
@@ -10,7 +10,7 @@ footnotes = "Auch hier möchte ich wieder auf Bücher verweisen, die mit differe
 +++
 ### Einfach losgehen
 
-Einfach losgehen ist einfacher gesagt als getan. Wenn wir eine (neue) Idee haben, eine Vision aber auch, wenn wir uns in Ängsten, Sorgen, in einer schwierigen Beziehung oder an einem unbefriedigenden Arbeitsplatz befinden, können oder müssen wir irgendwann losgehen. Müssen ist eigentlich nicht das passendste Wort, weil müssen tun wir gar nichts. Wenn wir aber Veränderung wollen, dann müssen wir. Natürlich können wir auch abwarten, hoffen und manchmal ergibt oder löst sich etwas. Das ist aber selten. 
+Einfach losgehen ist einfacher gesagt als getan. Wenn wir eine (neue) Idee haben, eine Vision, aber auch wenn wir uns in Ängsten, Sorgen, in einer schwierigen Beziehung oder an einem unbefriedigenden Arbeitsplatz befinden können oder müssen wir irgendwann losgehen. Müssen ist eigentlich nicht das passendste Wort, weil müssen tun wir gar nichts. Wenn wir aber Veränderung wollen, dann müssen wir. Natürlich können wir auch abwarten, hoffen und manchmal ergibt oder löst sich etwas. Das ist aber selten.
 
 #### Vom Anfangen und Losgehen
 
@@ -18,11 +18,11 @@ Gibt es zwischen anfangen und losgehen einen Unterschied? In diesem Fall möchte
 
 #### Zwischen Anfangen und Losgehen
 
-Wenn wir uns unserer Situation bewusst werden, dann ist das ein Anfang und der ist wichtig. Damit aber etwas passieren kann müssen wir aktiv werden. Wenn ich von aktiv spreche, dann meine ich nicht, in Hektik zu verfallen und möglichst schnell zu einer Lösung zu kommen. Was hier helfen kann sind Gespräche mit guten Freunden, mit einer Therapeutin oder einem Coach. Vielleicht schaust du dir zuerst aber lieber Youtube-Videos an, liest passende Bücher oder hörst Podcasts. Das alles zähle ich in dem Fall noch immer zum Anfangen. Hier kann schon ganz viel in Bewegung kommen und doch ist es noch ein Anfang. Denn irgendwo hier gehen viele nicht los. 
+Wenn wir uns unserer Situation bewusst werden, dann ist das ein Anfang und der ist wichtig. Damit aber etwas passieren kann, müssen wir aktiv werden. Wenn ich von aktiv spreche, dann meine ich nicht, in Hektik zu verfallen und möglichst schnell zu einer Lösung zu kommen. Was hier helfen kann, sind Gespräche mit guten Freunden, mit einer Therapeutin oder einem Coach. Vielleicht schaust du dir zuerst aber lieber Youtube-Videos an, liest passende Bücher oder hörst Podcasts. Das alles zähle ich in dem Fall noch immer zum Anfangen. Hier kann schon ganz viel in Bewegung kommen und doch ist es noch ein Anfang. Denn irgendwo hier gehen viele nicht los.
 
 #### Losgehen
 
-Ohne Zweifel sind bereits viele dieser Anfänge mutig. Wirklich Mut braucht aber dieses losgehen und noch vielmehr das Weitergehen. Denn ganz oft heisst das, sich auf einen unbekannten Pfad zu machen, sich seinen Weg zuerst zu bahnen und mit den Widrigkeiten des Wetters umgehen zu lernen. Anders ausgedrückt, es kommen Unsicherheiten, Ängste, Kommentare von Menschen, die dich nicht verstehen wollen (und auch nicht müssen) und ganz oft werden die negativen Gedanken einfach lauter. Es scheint dann oft gemütlicher doch bei der alten Arbeitsstelle zu verweilen, die Beziehung weiterzuführen, Medikamente gegen die Angst zu nehmen oder die Situation(en) einfach zu meiden. Hilft es dir aber, langfristig ein einigermassen glückliches und zufriedenes Leben zu führen?
+Ohne Zweifel sind bereits viele dieser Anfänge mutig. Wirklich Mut braucht aber dieses losgehen und noch vielmehr das Weitergehen. Denn ganz oft heisst das, sich auf einen unbekannten Pfad zu machen, sich seinen Weg zuerst zu bahnen und mit den Widrigkeiten des Wetters umgehen zu lernen. Anders ausgedrückt, es kommen Unsicherheiten, Ängste, Kommentare von Menschen, die dich nicht verstehen wollen (und auch nicht müssen) und ganz oft werden die negativen Gedanken einfach lauter. Es scheint dann oft gemütlicher, doch bei der alten Arbeitsstelle zu verweilen, die Beziehung weiterzuführen, Medikamente gegen die Angst zu nehmen oder die Situation(en) einfach zu meiden. Hilft es dir aber, langfristig ein einigermassen glückliches und zufriedenes Leben zu führen?
 
 > «Wenn sie durch die Hölle gehen, gehen sie einfach weiter.» 
 >
@@ -36,7 +36,10 @@ Nicht nur Mut, sondern auch Durchhaltewillen sind gefragt, wenn man sich auf sei
 >
 > *Carl R. Rogers*
 
-#### \
 Wenn es so einfach wäre
 
 Ja, das denkst du vielleicht nun. Einfach ist es nicht, das ist klar. Was ich hier schreibe scheint oder ist sogar sehr verallgemeinert und doch kann ich nach vielen Jahren auf diesem Weg sagen, dass das Los- und das Weitergehen entscheidend sind. Natürlich versprechen dir Selbsthilfegurus Freiheit und Glück, wenn du nur dein Denken änderst. Wenn es nur so einfach wäre.. Jede Biografie ist individuell. Jede und Jeder muss seinen eigenen Weg finden. Es beginnt alles mit dem ersten kleinen Schritt.
+
+
+
+Wie immer ist hier vieles unfertig. Zu einzelnen Elementen und zu eigenen Erfahrungen finden sich auf dieser Seite weitere Blogbeiträge.
