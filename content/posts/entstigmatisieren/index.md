@@ -4,7 +4,7 @@ date = "2022-05-05"
 draft = true
 pinned = false
 +++
-### Gedanken zu Themen, die eigentlich normal sind 
+### Gedanken zu Themen, die eigentlich normal sind
 
 In den letzten Tagen habe ich mir wieder vermehrt Gedanken über die Stigmatisierung oder eben Entstigmatisierung gemacht. 
 
@@ -20,4 +20,4 @@ Nur ein paar Themen, die in unserer Gesellschaft keinen oder wenig Platz haben:
 
 Depressionen, Schizophrenie, Suchterkrankungen, Ängste, Hömoroiden, Menstruationsbeschwerden, Endometriose, Kindsverlust/Fehlgeburt, der Tod allgemein, Schwierigkeiten mit der Rechtschreibung, beim Rechnen usw. 
 
-Nun, meine lieben Lesenden. Das alles ist Realität und mehr als wir oft meinen.
+Das alles ist Realität und mehr als wir meinen. Natürlich sind es private und persönliche Themen, sie sind mit schmerzhafen Gefühlen verbunden und schränken uns auf die eine oder andere Weise im Alltag ein. Sie sind aber nichts anderes als menschlich.
