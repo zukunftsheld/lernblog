@@ -20,8 +20,8 @@ Ich möchte noch einmal zurückblicken, weil ich merke, dass die Zeit dieses int
 
 ![](4.jpg)
 
-> #### Zwüschä zwöi Läbä
->
+#### Zwüschä zwöi Läbä
+
 > Zwüschä zwöi Läbä,
 >
 > da bini gsi,
@@ -50,8 +50,8 @@ Es war eine Art Therapie und ein Verarbeitungsprozess, den ich unbewusst in Gang
 
 ![](3.jpg)
 
-> #### Autag
->
+#### Autag
+
 > Und wieder
 >
 > ä Momänt
@@ -88,8 +88,8 @@ Es ist noch nicht so, dass das Neue N[](https://denk-weise.jimdofree.com/)ormal 
 
 Als ich das aufgeschrieben habe, dachte ich, dass ich gleich in diesem «neuen» Leben landen würde. Das ist nun schon einige Jahre her. Jetzt wird mir langsam bewusst, dass ich zwas in diesem «Neuen» angekommen bin, es aber immer noch neu und in vielem auch unbekannt ist. 
 
-> #### Zwüschä zwöi Läbä
->
+#### Zwüschä zwöi Läbä
+
 > **Zwüschä zwöi Läbä,**
 >
 > **da bini gsi,**
