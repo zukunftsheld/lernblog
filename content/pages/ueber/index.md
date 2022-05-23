@@ -12,7 +12,7 @@ Hallo, ich bin Ben.
 
 🔥 Neue Arbeit, Neues Lernen, Bildung, Beruf und Potenzialentfaltung
 
-Hier gibts einen Einblick in mein Leben und mein Lernen. 
+In diesem Blog schreibe ich über meine Biografie, über das Lernen und Leben. 
 
 mehr über mich gibts hier: \
 <https://www.benzaugg.ch>
