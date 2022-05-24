@@ -1,7 +1,7 @@
 +++
 title = "Wenn Lösungen und Wege vor der Nase liegen"
 date = "2021-12-11"
-draft = false
+draft = true
 pinned = false
 tags = ["Tagebuch", "Biografie", "Gedanken"]
 image = "994f2b5a-c9a2-467c-90e9-b6b8335d8b8d.jpg"
