@@ -29,3 +29,7 @@ Zu Beginn habe ich von meiner Bubble gesprochen, in der ich mich bewege. Mir sch
 Eigentlich sind doch alle neuen Ansätze von Arbeit und Lernen irgendwie «New»
 
 Wie die Welt hat sich auch die Arbeit bereits immer irgendwie gewandelt. Es sind vor allem die äusseren Umstände, die sich verändert haben aber wie haben sich die Menschen verändert oder welche Möglichkeiten haben sich für diese Menschen ergeben? Sowohl in Bezug auf Schule wie auch die Arbeitswelt lese und höre ich in letzter Zeit vermehrt, wie sie aus einem miliärischen Denken und Handeln entstanden sind. Obwohl sich so vieles gewandelt hat, lernen und arbeiten wir noch immer nach diesem System. Einfach gesagt: Jemand befiehlt/lehrt und die anderen folgen. Ist denn wirklich alles neue irgendwie New Work oder nur altes mit etwas Lametta drum?
+
+#### Die Realität
+
+Es ist nicht so, dass ich einen Anspruch darauf hätte, die Realität zu kennen. Ich möchte viel eher das oder ein Bild zeichnen, welches das Grosse Ganze etwas besser zeichnet und nicht Menschen ausschliesst oder die ganze neue Arbeit romantisiert.
