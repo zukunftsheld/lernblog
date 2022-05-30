@@ -23,7 +23,7 @@ Die Welt hat sich immer schon verändert und das wurde vor allem durch den techn
 #### \
 Da sind noch blinde Flecken
 
-Zu Beginn habe ich von meiner Bubble gesprochen, in der ich mich bewege. Mir scheint es, als gingen in (fast) all den Themen Menschen vergessen und zwar die, die nicht sogenannte Wissensarbeiter\*innen sind. Es gehen die vergessen, die am Existenzminimum oder in Armut leben, die Stellensuchenden in der Arbeitslosigkeit, die stillen und wichtigen Arbeiter\*innen wie zum Beispiel in der Reinigung, im Transportwesen und all die anderen, die ich leider nicht alle aufzähle. Was haben sie alle von der schönen neuen Lern- und Arbeitswelt?
+Zu Beginn habe ich von meiner Bubble gesprochen, in der ich mich bewege. Mir scheint es, als gingen in (fast) all den Themen Menschen vergessen und zwar die, die nicht sogenannte Wissensarbeiter\*innen sind. Es gehen die vergessen, die am Existenzminimum oder in Armut leben, die Stellensuchenden in der Arbeitslosigkeit, die stillen und wichtigen Arbeiter\*innen wie zum Beispiel in der Reinigung, im Transportwesen oder die Menschen, denen Grundkompetenzen wie Lesen, Schreiben, Umgang mit Smartphone und Computer fehlen und all die anderen, die ich leider nicht alle aufzähle. Was haben sie alle von der schönen neuen Lern- und Arbeitswelt?
 
 #### \
 Eigentlich sind doch alle neuen Ansätze von Arbeit und Lernen irgendwie «New»
@@ -32,4 +32,15 @@ Wie die Welt hat sich auch die Arbeit bereits immer irgendwie gewandelt. Es sind
 
 #### Die Realität
 
-Es ist nicht so, dass ich einen Anspruch darauf hätte, die Realität zu kennen. Ich möchte viel eher das oder ein Bild zeichnen, welches das Grosse Ganze etwas besser zeichnet und nicht Menschen ausschliesst oder die ganze neue Arbeit romantisiert.
+Es ist nicht so, dass ich einen Anspruch darauf hätte, die Realität zu kennen. Ich möchte viel eher das oder ein Bild zeichnen, welches das Grosse Ganze etwas besser zeigt und nicht Menschen ausschliesst oder die ganze neue Arbeit romantisiert. Es gibt für mich nicht das Patentrezept für andere und bessere Arbeitsformen oder neues Lernen. Wichtig ist aber, dass wir alle auf diesen Weg mitnehmen. 
+
+#### Neue Arbeit - wie soll denn das nun gehen?
+
+Schon wieder eine Frage, auf die ich keine fertige Antwort habe. In diesem Text habe ich immer wieder Neue Arbeit mit neuem Lernen ergänzt. Für mich gehen diese beiden Begriffe Hand in Hand. Wenn Unternehmen sich auf den Weg zu «New Work» machen und eine Idee, ein Ziel oder eine Vision haben, dann kommt noch vieles auf sie zu. Es geht um das Lösen vom gewohnten, also auch von der Komfortzone. Das ist nicht nur für das Unternehmen so, sondern auch für alle Menschen in diesem System. Es beginnt also neben dem  Veränderungs- auch ein Lernprozess, bei dem die Lerninhalte und -ziele oft noch gar nicht klar sein können. Es ist also ein Lernen im Gehen, im Scheitern und in den Erfolgen. 
+
+Deshalb ist dieser Weg zu neuen Arbeits- und Lernformen auch ein ganz individueller. Natürlich kann man sich auf bekannte Dinge wie Design Thinking, Agilität, Organisations-, System- und Führungstheorien sowie auf bekannte Beispiele beziehen. Es bleibt aber doch immer ein individueller Prozess, den ein Unternehmen und die Menschen, die dazu gehören gehen muss. 
+
+#### \
+Na wie passt denn das jetzt alles zusammen
+
+Die Zukunft können wir nur dann nachhaltig gestalten, wenn wir alle Menschen mitnehmen. Dafür müssen und dürfen wir neue Wege finden. Wenn wir die Arbeitswelt verändern oder verbessern und die Themen rund um den Fachkräftemangel angehen wollen, dann braucht es alle und es braucht neben einem neuen Verständnis für Arbeit auch eines fürs Lernen.
