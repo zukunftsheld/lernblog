@@ -1,8 +1,10 @@
 +++
-title = "Neue Arbeitswelt"
+title = "Neue Arbeitswelt - aber wie?"
 date = "2022-05-29"
-draft = true
+draft = false
 pinned = false
+tags = ["NewWork", "Arbeit", "Gedanken"]
+image = "whatsapp-image-2022-05-31-at-10.02.00.jpeg"
 description = "Wie kann neue Arbeit funktionieren und wie können wir alle Menschen mit auf diesen Weg nehmen? "
 footnotes = "**Weiterführende Informationen und Bücher**\n\n**Einige Bücher:** \\\n\\\n[Neue Arbeit, neue Kultur](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/frithjof-bergmann/neue-arbeit-neue-kultur/id/9783867812085), Frithjof Bergmann\n\n[Reinventing Organizations, ](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/frederic-laloux/reinventing-organizations/id/9783800649136)Ein Leitfaden zur Gestaltung sinnstiftender Formen der Zusammenarbeit, Frederic Laloux\n\n[Corporate Rebels](https://shop.corporate-rebels.com/products/corporate-rebels-wie-pioniere-die-arbeitswelt-revolutionieren), Wie Pioniere die Arbeitswelt revolutionieren\\\n\\\n**Podcasts**\n\n[New Work Utopia](https://arbeitsphilosophen.podigee.io/163-carsten-schermuly): Eine bessere Arbeitswelt ohne Angst und Panikmache! Prof. Carstenn Schermuly - Wissenschaftler, Wie funktioniert New Work, wenn wir es wirklich, wirklich ernst meinen?\\\n\\\n[New Work Bullshit](https://arbeitsphilosophen.podigee.io/162-carlos-frischmuth): Werden die Erwartungen einfach nicht erfüllt? Carlos Frischmuth - Managing Director Hays + Autor, Erwartungen, die nicht erfüllt werden, führen zu Enttäuschungen. Eine selbsterfüllende Prophezeiung?\n\n**Webseiten**\n\n[Informationen zu Grundkompetenzen](https://www.besser-jetzt.ch)"
 +++
