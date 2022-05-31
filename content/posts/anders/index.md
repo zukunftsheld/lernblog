@@ -3,6 +3,8 @@ title = "Neue Arbeitswelt"
 date = "2022-05-29"
 draft = true
 pinned = false
+description = "Wie kann neue Arbeit funktionieren und wie können wir alle Menschen mit auf diesen Weg nehmen? "
+footnotes = "**Weiterführende Informationen und Bücher**\n\n**Einige Bücher:** \\\n\\\n[Neue Arbeit, neue Kultur](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/frithjof-bergmann/neue-arbeit-neue-kultur/id/9783867812085), Frithjof Bergmann\n\n[Reinventing Organizations, ](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/frederic-laloux/reinventing-organizations/id/9783800649136)Ein Leitfaden zur Gestaltung sinnstiftender Formen der Zusammenarbeit, Frederic Laloux\n\n[Corporate Rebels](https://shop.corporate-rebels.com/products/corporate-rebels-wie-pioniere-die-arbeitswelt-revolutionieren), Wie Pioniere die Arbeitswelt revolutionieren\\\n\\\n**Podcasts**\n\n[New Work Utopia](https://arbeitsphilosophen.podigee.io/163-carsten-schermuly): Eine bessere Arbeitswelt ohne Angst und Panikmache! Prof. Carstenn Schermuly - Wissenschaftler, Wie funktioniert New Work, wenn wir es wirklich, wirklich ernst meinen?\\\n\\\n[New Work Bullshit](https://arbeitsphilosophen.podigee.io/162-carlos-frischmuth): Werden die Erwartungen einfach nicht erfüllt? Carlos Frischmuth - Managing Director Hays + Autor, Erwartungen, die nicht erfüllt werden, führen zu Enttäuschungen. Eine selbsterfüllende Prophezeiung?\n\n**Webseiten**\n\n[Informationen zu Grundkompetenzen](https://www.besser-jetzt.ch)"
 +++
 ### Eine neue Arbeiswelt. Aber wie?
 
@@ -40,4 +42,4 @@ Deshalb ist dieser Weg zu neuen Arbeits- und Lernformen auch ein ganz individuel
 
 #### Na wie passt denn das jetzt alles zusammen
 
-Die Zukunft können wir nur dann nachhaltig gestalten, wenn wir alle Menschen mitnehmen. Dafür müssen und dürfen wir neue Wege finden. Wenn wir die Arbeitswelt verändern oder verbessern und die Themen rund um New Work, den Fachkräftemangel, psychische Gesundheit am Arbeitsplatz, Förderung von Grundkompetenzen (und ich schweife schon wieder etwas ab) angehen wollen, dann braucht es alle und es braucht neben einem neuen Verständnis für Arbeit auch ein anderes Verständnis fürs Lernen.
+Die Zukunft können wir nur dann wirklich nachhaltig gestalten, wenn wir alle Menschen mitnehmen. Dafür müssen und dürfen wir neue Wege finden. Wenn wir die Arbeitswelt verändern oder verbessern und die Themen rund um New Work, den Fachkräftemangel, psychische Gesundheit am Arbeitsplatz, Förderung von Grundkompetenzen (und ich schweife schon wieder etwas ab) angehen wollen, dann braucht es alle und es braucht neben einem neuen Verständnis für Arbeit auch ein anderes Verständnis fürs Lernen.
