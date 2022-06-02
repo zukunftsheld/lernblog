@@ -27,7 +27,7 @@ Ich habe eingangs erwähnt, dass ich nicht mehr an die Berufung, den Sinn oder d
 Es ist das (vielleicht vorläufige) Resultat 
 
 * der intensiven Auseinandersetzung mit meinem eigenen Prozess 
-*  von dem, was ich bei meinen Kund*innen und Menschen rund um mich beobachten konnte
+* von dem, was ich bei meinen Kund*innen und Menschen rund um mich beobachten konnte
 * Erkenntnissen und Theorien aus Büchern, Podcasts etc.
 
 Viel eher als die Berufung, das Talent, den Sinn gibt es Berufungsmöglichkeiten, verschiedenen Talente in unterschiedlichen Ausprägungen oder Sinn-Möglichkeiten, die gefunden und gelebt werden können. Es ist auch nicht so, dass die (vorläufige) Erkenntnis von Sinn, Talent und Berufung in einer Vollzeitarbeit oder in Selbstständigkeit umgesetzt werden muss. Das gilt übrigens auch für [Ikigai](https://www.bensblog.ch/ikigai-schon-wieder/) (nicht das Venndiagram), dort beschreibt Ken Mogi ähnliche Beispiele von Menschen, die ihr Ikigai in der Freizeit leben.
@@ -36,8 +36,7 @@ Und so war ich auf meiner ganz persönlichen Reise in der Rolle als Selbstständ
 
 Hier bin ich nun angekommen und habe ein ganz starkes Gefühl für das, was mir wichtig ist, für das was ich kann und will. 
 
-#### \
-Einige Gedanken zu diesem Weg in Kurzform
+#### Einige Gedanken zu diesem Weg in Kurzform
 
 * Es war am Anfang sehr unangenehm, mich, meine Gedanken und Gefühle zu teilen und gleichzeitig schien es mir eine Notwendigkeit. Rückblickend hat es sich gelohnt. Nicht nur, weil es mir in meinem Prozess half, sondern weil ich andere Menschen inspirieren und ihnen Mut machen konnte. 
 * Um sich der eigenen Berufung, den Talenten und dem Sinn zu nähern, muss man sich auf den Weg machen. Je mehr Möglichkeiten und Freiheiten man sich dafür schaffen kann, umso mehr kann passieren. 
