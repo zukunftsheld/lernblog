@@ -1,7 +1,7 @@
 +++
 title = "Ende und Anfang"
 date = "2022-06-02"
-draft = false
+draft = true
 pinned = false
 tags = ["Biografie", "Ikigai", "Colearning", "Biografie", "Recovery", "Sinn"]
 image = "_dsc7048-kopie.jpg"
