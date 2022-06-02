@@ -3,6 +3,7 @@ title = "Ende und Anfang"
 date = "2022-06-02"
 draft = true
 pinned = false
+tags = ["Biografie", "Ikigai", "Colearning"]
 +++
 ### Ende und Anfang
 
@@ -36,10 +37,7 @@ Hier bin ich nun angekommen und habe ein ganz starkes Gefühl für das, was mir 
 #### \
 Einige Gedanken zu diesem Weg in Kurzform
 
-Es war am Anfang sehr unangenehm mich, meine Gedanken und Gefühle zu teilen und gleichzeitig schien es mir eine Notwendigkeit. Rückblickend hat es sich gelohnt. Nicht nur weil es mir in meinem Prozess half, sondern weil ich andere Menschen inspirieren und ihnen Mut machen konnte. 
-
-Um sich der eigenen Berufung, den Talenten und dem Sinn zu nähern, muss man sich auf den Weg machen. Je mehr Möglichkeiten und Freiheiten man sich dafür schaffen kann, umso mehr kann passieren. 
-
-Diesen Frühling ist mir das Buch Life Design begegnet und rückblickend habe ich vieles von dem bereits umgesetzt oder gelebt, jedoch kein gutes Gefühl beim Aufhören und Neuanfangen gehabt. Je mehr wir uns diese Life Loops erlauben, umso eher finden wir heraus, was wir gut können und gerne machen.
-
-Ich habe so viel Zeit, Geld und Energie investiert und ich konnte in dieser Zeit vieles aufbauen. Dann wurde mir trotzdem oder vielleicht gerade deshlab klar, dass die Selbstständigkeit nicht mein Weg ist. Nicht weil ich zu "faul" oder zu ängstlich wäre, Unternehmer zu sein sondern weil ich glaube, dass ich meine Kern-Fähigkeiten anders besser einsetzen kann.
+* Es war am Anfang sehr unangenehm mich, meine Gedanken und Gefühle zu teilen und gleichzeitig schien es mir eine Notwendigkeit. Rückblickend hat es sich gelohnt. Nicht nur weil es mir in meinem Prozess half, sondern weil ich andere Menschen inspirieren und ihnen Mut machen konnte. 
+* Um sich der eigenen Berufung, den Talenten und dem Sinn zu nähern, muss man sich auf den Weg machen. Je mehr Möglichkeiten und Freiheiten man sich dafür schaffen kann, umso mehr kann passieren. 
+* Diesen Frühling ist mir das Buch Life Design begegnet und rückblickend habe ich vieles von dem bereits umgesetzt oder gelebt, jedoch kein gutes Gefühl beim Aufhören und Neuanfangen gehabt. Je mehr wir uns diese Life Loops erlauben, umso eher finden wir heraus, was wir gut können und gerne machen.
+* Ich habe so viel Zeit, Geld und Energie investiert und ich konnte in dieser Zeit vieles aufbauen. Dann wurde mir trotzdem oder vielleicht gerade deshlab klar, dass die Selbstständigkeit nicht mein Weg ist. Nicht weil ich zu "faul" oder zu ängstlich wäre, Unternehmer zu sein sondern weil ich glaube, dass ich meine Kern-Fähigkeiten anders besser einsetzen kann.
