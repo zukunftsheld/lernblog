@@ -4,7 +4,7 @@ date = "2022-06-03"
 draft = false
 pinned = false
 tags = ["Biografie", "Ikigai", "Colearning", "Biografie", "Recovery", "Sinn"]
-image = "_dsc7048-kopie.jpg"
+image = "whatsapp-image-2021-11-13-at-20.10.53.jpeg"
 description = "Gibt es die Berufung, das Talent oder den Sinn? Wie findet man sein Ikigai und muss man das überhaupt? Heute habe ich (zumindest vorläufige) Antworten auf einige dieser Fragen und verbinde sie hier vor allem mit meinen ganz persönlichen Erkenntnissen. "
 +++
 ### Ende und Anfang oder vielleicht einfach Life Loop
