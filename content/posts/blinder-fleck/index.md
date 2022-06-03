@@ -1,7 +1,7 @@
 +++
 title = ".. und es kommt anders als man denkt"
 date = "2021-11-14"
-draft = false
+draft = true
 pinned = false
 tags = ["Podcast", "Biografie", "Tagebuch"]
 image = "whatsapp-image-2021-11-13-at-20.10.53.jpeg"
