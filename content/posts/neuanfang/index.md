@@ -28,7 +28,7 @@ Es ist das (vielleicht vorläufige) Resultat
 
 * der intensiven Auseinandersetzung mit meinem eigenen Prozess 
 * von dem, was ich bei meinen Kund*innen und Menschen rund um mich beobachten konnte
-* Erkenntnissen und Theorien aus Büchern, Podcasts etc.
+* von Erkenntnissen und Theorien aus Büchern, Podcasts etc.
 
 Viel eher als *die* Berufung, *das* Talent, *den* Sinn gibt es Berufungsmöglichkeiten, verschiedene Talente in unterschiedlichen Ausprägungen oder Sinn-Möglichkeiten, die gefunden und gelebt werden können. Es ist auch nicht so, dass die (vorläufige) Erkenntnis von Sinn, Talent und Berufung in einer Vollzeitarbeit oder in Selbstständigkeit umgesetzt werden muss. Viel wichtiger ist es, sich mit diesen Erkenntnissen und Ideen auf den Weg zu machen. Das gilt übrigens auch für [Ikigai](https://www.bensblog.ch/ikigai-schon-wieder/) (nicht das Venndiagram), dort beschreibt Ken Mogi ähnliche Beispiele von Menschen, die ihr Ikigai beispielsweise in der Freizeit leben.
 
@@ -39,8 +39,6 @@ Hier bin ich nun angekommen und habe ein ganz starkes Gefühl für das, was mir 
 Vor 11 Monaten haben ich meinen schon fast berühmten Linkedin-Post geschrieben. Dort stand ganz am Anfang: *«Für meine beste Ausbildung gabs kein Zeugnis, kein Zertifikat und kein Diplom und zudem war sie oft einfach hässlich und schmerzhaft.»* Heute, ein Jahr später könnte ich diese Aussage zur «besten Ausbildung» ergänzen mit den letzten 1 1/2 Jahren. Auch dafür gibts kein Zeugnis und kein Zertifikat und ich bin mir wahrscheinlich noch kaum bewusst, was ich alles gelernt habe.
 
 ![](linkedin-post.jpg)
-
-
 
 #### Einige Gedanken zu diesem Weg in Kurzform
 
