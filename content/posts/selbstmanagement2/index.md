@@ -1,5 +1,5 @@
 +++
-title = "Noch mehr Selbstmanagement"
+title = "Selbstmanagement"
 date = "2022-01-25"
 draft = false
 pinned = false
@@ -8,11 +8,11 @@ image = "tee.jpg"
 description = "Fragen brauchen nicht immer Antworten. Es reicht oft aus, wenn sie zu weiteren Gedanken führen. Deshalb gibts gleich noch ein paar Gedanken zu Selbstmanagement. "
 footnotes = "Ein paar Bücher, die ich gelesen habe und die mir beim Schreiben in den Sinn kamen, also aus meiner Perspektive irgendwie einen Zusammenhang haben:\n\n**Der Clown in uns**, Humor und die Kraft des Lachens, David Gilmore\n\n**Wer dem Glück hinterherrent, rennt daran vorbei**, Russ Harris\n\n**Drei Fragen**, Wer bin ich? Wohin will ich? Und mit wem? Jorge Bucay\n\n**Psychologie des Lebenssinns**, Tatjana Schnell\n\n**Selbstmanagement - ressourcenorientiert** \nGrundlagen und Trainingsmanual für die Arbeit mit dem Zürcher Ressourcen Modell (ZRM®), Maja Storch, Frank Krause\n\nGedanken dazu finden sich auch in einigen [entwicklungsfreiraum](https://www.entwicklungsfreiraum.ch) Podcast-Folgen.\n\nFoto: Ben Zaugg"
 +++
-# Weitere Gedanken zu [Selbstmanagement](https://www.bensblog.ch/selbstmanagement/)
+# Gedanken zu Selbstmanagement
 
 Fragen brauchen nicht immer Antworten. Es reicht oft aus, wenn sie zu weiteren Gedanken führen. Deshalb gibts gleich noch ein paar Gedanken dazu. Dafür starte ich gleich mit der [Begriffsdefinition von Wikipedia](https://de.wikipedia.org/wiki/Selbstmanagement).
 
-*Der Begriff **Selbstmanagement** bezeichnet die [Kompetenz](https://de.wikipedia.org/wiki/Kompetenz_(Organisation) "Kompetenz (Organisation)"), die eigene persönliche und berufliche Entwicklung weitgehend unabhängig von äußeren [Einflüssen](https://de.wikipedia.org/wiki/Einfluss "Einfluss") zu gestalten. Dazu gehören Teilkompetenzen wie zum Beispiel selbständige [Motivation](https://de.wikipedia.org/wiki/Motivation "Motivation"), [Zielsetzung](https://de.wikipedia.org/wiki/Zielsetzung "Zielsetzung"), [Planung](https://de.wikipedia.org/wiki/Planung "Planung"), [Zeitmanagement](https://de.wikipedia.org/wiki/Zeitmanagement "Zeitmanagement"), [Organisation](https://de.wikipedia.org/wiki/Organisation "Organisation"), [Lernfähigkeit](https://de.wikipedia.org/wiki/Lernf%C3%A4higkeit "Lernfähigkeit") und [Erfolgs](https://de.wikipedia.org/wiki/Erfolg "Erfolg")­kontrolle durch [Feedback](https://de.wikipedia.org/wiki/R%C3%BCckkopplung "Rückkopplung").*
+*Der Begriff **Selbstmanagement** bezeichnet die [Kompetenz](https://de.wikipedia.org/wiki/Kompetenz_(Organisation) "Kompetenz (Organisation)"), die eigene persönliche und berufliche Entwicklung weitgehend unabhängig von äußeren [Einflüssen](https://de.wikipedia.org/wiki/Einfluss "Einfluss") zu gestalten. Dazu gehören Teilkompetenzen wie zum Beispiel selbständige [Motivation](https://de.wikipedia.org/wiki/Motivation "Motivation"), [Zielsetzung](https://de.wikipedia.org/wiki/Zielsetzung), [Planung](https://de.wikipedia.org/wiki/Planung "Planung"), [Zeitmanagement](https://de.wikipedia.org/wiki/Zeitmanagement "Zeitmanagement"), [Organisation](https://de.wikipedia.org/wiki/Organisation "Organisation"), [Lernfähigkeit](https://de.wikipedia.org/wiki/Lernf%C3%A4higkeit "Lernfähigkeit") und [Erfolgs](https://de.wikipedia.org/wiki/Erfolg "Erfolg")­kontrolle durch [Feedback](https://de.wikipedia.org/wiki/R%C3%BCckkopplung "Rückkopplung").*
 
 Ich richte mich beim weiteren Schreiben nicht nach dieser Definition. Wir behalten sie aber im Hinterkopf und schauen vielleicht, wo wir beim Lesen, bei Mitdenken und Hinterfragen bestätigt werden, wo es Widersprüche gibt und was es halt so mit uns macht.
 
