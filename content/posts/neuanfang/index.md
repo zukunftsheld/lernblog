@@ -55,4 +55,4 @@ Vor 11 Monaten haben ich meinen schon fast berühmten Linkedin-Post geschrieben.
 
 #### Hättest du dir doch noch etwas konkreteres gwünscht? Dann ist das für dich.
 
-Ich sei ein wacher Zuhörer und Beobachter mit einem feinen Gespür für die Dinge hinter dem Offensichtlichen. Einer, der Möglichkeiten sieht und andere inspiriert. Das ist es, was sich aus den Gesprächen und Rückmeldungen aus den letzten Jahren zusammenfassen lässt un ich wünsche mir, dass es stimmt. Wenn ich so unterwegs sein kann, dann habe ich ein Sinngefühl und bin nahe an dem, was man Ikigai nennen kann.
+Ich sei ein wacher Zuhörer und Beobachter mit einem feinen Gespür für die Dinge hinter dem Offensichtlichen. Einer, der Möglichkeiten sieht und andere inspiriert. Das ist es, was sich aus den Gesprächen und Rückmeldungen aus den letzten Jahren zusammenfassen lässt und ich wünsche mir, dass es stimmt. Wenn ich so unterwegs sein kann, dann habe ich ein Sinngefühl und bin nahe an dem, was man Ikigai nennen kann.
