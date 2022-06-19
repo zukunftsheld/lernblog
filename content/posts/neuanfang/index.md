@@ -9,7 +9,7 @@ description = "Gibt es die Berufung, das Talent oder den Sinn? Wie findet man se
 +++
 ### Ende und Anfang oder vielleicht einfach Life Loop
 
-Es ist mittlerweile kein Geheimnis mehr, dass ich meine Schulzeit in schlechtester Erinnerung habe und in meiner Jugend- und frühen Erwachsenenzeit mit schlimmen Ängsten, Panikattacken und mit dem Essen zu kämpfen hatte. Dieses «Leben» ist so weit in die Ferne gerückt, dass sie kaum mehr wahr scheint. Wenn ich nun von Ende und Anfang schreibe, dann schaue ich zurück und zwar zu dem Zeitpunkt Aan dem ich ganz bewusst meiner Berufung folgen wollte, respektive dem nachgehen, was meine Berufung sein könnte. Es scheint mir nämlich eine Illusion und heute mehr denn je, dass es *das* Talent, *die* Berufung oder *den* Sinn gibt. 
+Es ist mittlerweile kein Geheimnis mehr, dass ich meine Schulzeit in schlechtester Erinnerung habe und in meiner Jugend- und frühen Erwachsenenzeit mit schlimmen Ängsten, Panikattacken und mit dem Essen zu kämpfen hatte. Dieses «Leben» ist so weit in die Ferne gerückt, dass sie kaum mehr wahr scheint. Wenn ich nun von Ende und Anfang schreibe, dann schaue ich zurück und zwar zu dem Zeitpunkt, an dem ich ganz bewusst meiner Berufung folgen wollte, respektive dem nachgehen, was meine Berufung sein könnte. Es scheint mir nämlich eine Illusion und heute mehr denn je, dass es *das* Talent, *die* Berufung oder *den* Sinn gibt. 
 
 \
 Die Frage ist erlaubt, warum ich immer noch von meiner Vergangenheit schreibe, obwohl sie in weite Ferne gerückt ist. Ganz einfach, weil ich noch einmal unterstreichen will, dass die Vergangenheit nicht die Zukunft bestimmt und das wir auch unter sehr widrigen Umständen unseren Weg gehen können. 
