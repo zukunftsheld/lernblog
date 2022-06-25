@@ -44,7 +44,7 @@ Meine Arbeit als Coach ist u. a. von der personenzentrierten Gesprächsführung
 
 *Ich bin der Meinung, jeder Mensch trägt seine ganz individuelle Biografie mit sich und ist ein einzigartiges Individuum mit eigenen Verhaltensweisen und einer persönlichen Sichtweise auf sich und die Umgebung. Ich akzeptiere diese Einzigartigkeit und bin mir sicher, dass jeder über individuelle Stärken und Fähigkeiten verfügt. Als Coach begleite ich Menschen in ihrem Entwicklungsprozess und unterstütze sie, ihr eigenes Potenzial zu entdecken, selber Lösungen zu finden und ihrem Ziel ein Stück näher zu kommen oder dieses zu erreichen.* 
 
-##### *Beziehung als Grundlage eines gelingenden Coachings*
+##### ***Beziehung als Grundlage eines gelingenden Coachings***
 
 *Ich stelle im Begleitprozess ein Beziehungsangebot her. Dieses definiere ich durch, wie von C. R. Rogers beschrieben, empathisches Verstehen, unbedingte Wertschätzung und Kongruenz. Dass sich Coach und Klient als Partner begegnen erachte ich, wie bereits Rogers, als Grundlage einer gelingenden Begleitung. Ich sehe mich im Coaching in der Rolle des lösungsorientierten Prozessbegleiters und **nehme eine nichtwissende und neugierige Haltung ein**. Das heisst, ich muss das Problem des Kunden nicht zwingend analysieren und verstehen, um an der Lösung arbeiten zu können. Ich gehe davon aus, dass Menschen bereits über persönliche Ressourcen, die Lösung oder einen Teil der Lösung verfügen und **eine Fokussierung auf die einzelnen Aspekte einer Lösung** zielführender ist.*
 
