@@ -31,7 +31,7 @@ Auch hier ist es schwierig, die Coaching-Haltung zu definieren (in meiner Wirkli
 > Die objektive Wirklichkeit gibt es nicht - sie entsteht im Auge des Betrachters.\
 > *Aus Beraten ohne Ratschlag von Sonja Radatz*
 
-Ich beziehe mich hier grob auf die systemisch-konstruktivistische Denkweise und bedenke: «Zu erklären, was systemisch-konstruktivistisches Denken nun wirklich ist, begründet bereits den Widerspruch in sich: Es gibt wohl unendlich viele unterschiedliche Definitionen von Konstruktivismus ebenso wie von systemischer Arbeit - Definitionen, die hautpsächlich aus dem Blickwinkel des individuellen Tätigkeitsbereiches festgelegt werden.» *Radatz (2000), Beraten ohne Ratschlag: Systemisches Coaching für Führungskräfte undBeraterInnen*
+Ich beziehe mich hier grob auf die systemisch-konstruktivistische Denkweise und bedenke: «Zu erklären, was systemisch-konstruktivistisches Denken nun wirklich ist, begründet bereits den Widerspruch in sich: Es gibt wohl unendlich viele unterschiedliche Definitionen von Konstruktivismus ebenso wie von systemischer Arbeit - Definitionen, die hautpsächlich aus dem Blickwinkel des individuellen Tätigkeitsbereiches festgelegt werden.» *Radatz (2000), Beraten ohne Ratschlag: Systemisches Coaching für Führungskräfte und BeraterInnen*
 
 ##### So könnte (m)ein Ansatz ungefährt so lauten:
 
@@ -56,12 +56,9 @@ Natürlich wollen wir unsere Theorien, Ansätze und Erfahrungen verteidigen, wen
 
 ##### VUCA-Welt
 
-\
 Es ist, denke ich unbestritten, dass wir uns in einer Zeit befinden, in der vieles Volatil, Unsicher, Mehrdeutig und Komplex ist. Es ist aber so, dass die Auswirkungen nicht für alle im gleichen Ausmass spürbar oder zumindest nicht direkt spürbar sind. Was für einige das Zentrum des Denkens und Handels geworden ist, scheint für andere noch unsichtbar und undenkbar. Bereits hier zeigen sich ganz unterschiedliche Wirklichkeiten. 
 
 ##### New Work
-
-
 
 Soll ich mich überhaupt noch an diesen Begriff wagen? Was für einige Benefits, mobiles Arbeiten und Homeoffice bedeutet, ist für andere «*ein umfassendes Gedankengebäude, das auf grundlegenden sozio-ökonomischen und philosophischen Überlegungen beruht.»* Es wird also kaum zielführend sein, bei einem Unternehmen gleich mit dem umfassenden Gedankengebäude zu kommen, wenn vieles noch so ist wie früher. Ganz ähnlich ist es bei (zumindest gefühlt) verwandten Themen wie Agilität und New Learning.\
 \
@@ -69,7 +66,7 @@ In letzter Zeit fallen mir auch immer mehr Beiträge auf, bei denen es darum geh
 
 > Solange wir an den Begriffen festhalten, werden wir keine erfolgreise Kommunikation führen und keine Probleme lösen können. Wir müssen ein Stücker hinter die Begriffswelt wandern und unseren Fokus darauf richten, was der jeweils andere mit dem meint, was er sagt. 
 >
-> *Radatz (2000), Beraten ohne Ratschlag: Systemisches Coaching für Führungskräfte undBeraterInnen*
+> *Radatz (2000), Beraten ohne Ratschlag: Systemisches Coaching für Führungskräfte und BeraterInnen*
 
 Wenn nun jemand merkt, dass man doch New Work machen sollte, um in dieser VUCA-Welt zu bestehen oder ein gesundes Arbeitsumfeld mit psychologischer Sicherheit für seine Mitarbeitenden und sich selbst zu schaffen, dann ist es bereits ein erster Schritt. Man könnte schnelle und bereits bekannte Lösungen übernehmen. Aber was steckt wirklich hinter der Motivation der Veränderung? Wo sind innere und äussere Hürden? Welche Ressourcen stehen zur Verfügung? 
 
