@@ -26,7 +26,7 @@ Auch hier ist es schwierig, die Coaching-Haltung zu definieren (in meiner Wirkli
 > Die objektive Wirklichkeit gibt es nicht - sie entsteht im Auge des Betrachters.\
 > *Aus Beraten ohne Ratschlag von Sonja Radatz*
 
-Ich beziehe mich hier grob auf die systemisch-konstruktivistische Denkweise und bedenke: «Zu erklären, was systemisch-konstruktivistisches Denken nun wirklich ist, begründet bereits den Widersprich in sich: Es gibt wohl unendlich viele unterschiedliche Definitionen von Konstruktivismus benso wie von systemischer Arbeit - Definitionen die hautpsächlich aus dem Blickwinkle des individuellen Tätigkeitsbereiches festgelegt werden.» *Radatz (2000), Beraten ohne Ratschlag: Systemisches Coaching für Führungskräfte undBeraterInnen*
+Ich beziehe mich hier grob auf die systemisch-konstruktivistische Denkweise und bedenke: «Zu erklären, was systemisch-konstruktivistisches Denken nun wirklich ist, begründet bereits den Widersprich in sich: Es gibt wohl unendlich viele unterschiedliche Definitionen von Konstruktivismus ebenso wie von systemischer Arbeit - Definitionen die hautpsächlich aus dem Blickwinkle des individuellen Tätigkeitsbereiches festgelegt werden.» *Radatz (2000), Beraten ohne Ratschlag: Systemisches Coaching für Führungskräfte undBeraterInnen*
 
  
 
@@ -45,7 +45,7 @@ Ich beziehe mich hier grob auf die systemisch-konstruktivistische Denkweise und 
 
 ##### *Beziehung als Grundlage eines gelingenden Coachings*
 
-*Ich stelle im Begleitprozess ein Beziehungsangebot her. Dieses definiere ich durch, wie von C. R. Rogers beschrieben, empathisches Verstehehen, unbedingte Wertschätzung und Kongruenz. Dass sich Coach und Klient als Partner begegnen erachte ich, wie bereits Rogers, als Grundlage einer gelingenden Begleitung. Ich sehe mich im Coaching in der Rolle des lösungsorientierten Prozessbegleiters und **nehme eine nichtwissende und neugierige Haltung ein**. Das heisst, ich muss das Problem des Kunden nicht zwingend analysieren und verstehen, um an der Lösung arbeiten zu können. Ich gehe davon aus, dass Menschen bereits über persönliche Ressourcen, die Lösung oder einen Teil der Lösung verfügen und **eine Fokussierung auf die einzelnen Aspekte einer Lösung** zielführender ist.*
+*Ich stelle im Begleitprozess ein Beziehungsangebot her. Dieses definiere ich durch, wie von C. R. Rogers beschrieben, empathisches Verstehen, unbedingte Wertschätzung und Kongruenz. Dass sich Coach und Klient als Partner begegnen erachte ich, wie bereits Rogers, als Grundlage einer gelingenden Begleitung. Ich sehe mich im Coaching in der Rolle des lösungsorientierten Prozessbegleiters und **nehme eine nichtwissende und neugierige Haltung ein**. Das heisst, ich muss das Problem des Kunden nicht zwingend analysieren und verstehen, um an der Lösung arbeiten zu können. Ich gehe davon aus, dass Menschen bereits über persönliche Ressourcen, die Lösung oder einen Teil der Lösung verfügen und **eine Fokussierung auf die einzelnen Aspekte einer Lösung** zielführender ist.*
 
 Was hier auf Einzelpersonen bezogen steht, könnte auch auf Organisationen angepasst werden. Natürlich wird es dann komplexer und doch werden individuelle Lösungen (oder vielleicht eher Wege) immer nachhaltiger sein als etwas, das so halb passt. 
 
@@ -71,7 +71,7 @@ In letzter Zeit fallen mir auch immer mehr Beiträge auf, bei denen es darum geh
 
 Wenn nun jemand merkt, dass man doch New Work machen sollte, um in dieser VUCA-Welt zu bestehen oder ein gesundes Arbeitsumfeld mit psychologischer Sicherheit für seine Mitarbeitenden und sich selbst zu schaffen, dann ist es bereits ein erster Schritt. Man könnte schnelle und bereits bekannte Lösungen übernehmen. Aber was steckt wirklich hinter der Motivation der Veränderung? Wo sind innere und äussere Hürden? Welche Ressourcen stehen zur Verfügung? 
 
-So scheint es mir hilfreicher, kleinere Schritte zu machen und egal ob als Coach, Berater*in von aussen oder als Unternehmen selbst, zuerst einmal neugierig und mit Offenheit hinzuschauen und hinzuhören. Das ist eine riesen Herausforderung, die sich aber lohnt. Es gibt also nicht DIE LÖSUNG. Frederic Laloux schreibt von ganz viele verschiedenen Möglichkeiten, Veränderungen im Unternehmen vorzunehmen und alle können funktionieren. 
+So scheint es mir hilfreicher, kleinere Schritte zu machen und egal ob als Coach, Berater*in von aussen oder als Unternehmen selbst, zuerst einmal neugierig und mit Offenheit hinzuschauen und hinzuhören. Das ist eine riesen Herausforderung, die sich aber lohnt. Es gibt also nicht DIE LÖSUNG. Frederic Laloux schreibt von ganz viele verschiedenen Möglichkeiten, Veränderungen im Unternehmen vorzunehmen und alle können funktionieren. Die Wege sind so individuell wie die Unternehmen selbst.  
 
 > «Je mehr ich einfach gewillt bin, inmitten dieser ganzen Komplexität des Lebens ich selbst zu sein, und je mehr ich gewillt bin, die Realitäten in mir selbst und im anderen zu verstehen und zu akzeptieren, desto mehr Veränderung scheint in Gang zu kommen.
 >
