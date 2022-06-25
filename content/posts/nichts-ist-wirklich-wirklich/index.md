@@ -26,7 +26,9 @@ Auch hier ist es schwierig, die Coaching-Haltung zu definieren (in meiner Wirkli
 > Die objektive Wirklichkeit gibt es nicht - sie entsteht im Auge des Betrachters.\
 > *Aus Beraten ohne Ratschlag von Sonja Radatz*
 
-Ich beziehe mich hier grob auf die systemisch-konstruktivistische Denkweise und bedenke: «Zu erklären, was systemisch-konstruktivistisches Denken nun wirklich ist, begründet bereits den Widersprich in sich: Es gibt wohl unendlich viele unterschiedliche Definitionen von Konstruktivismus benso wie von systemischer Arbeit - Definitionen die hautpsächlich aus dem Blickwinkle des individuellen Tätigkeitsbereiches festgelegt werden.» Radatz S., S31
+Ich beziehe mich hier grob auf die systemisch-konstruktivistische Denkweise und bedenke: «Zu erklären, was systemisch-konstruktivistisches Denken nun wirklich ist, begründet bereits den Widersprich in sich: Es gibt wohl unendlich viele unterschiedliche Definitionen von Konstruktivismus benso wie von systemischer Arbeit - Definitionen die hautpsächlich aus dem Blickwinkle des individuellen Tätigkeitsbereiches festgelegt werden.» *Radatz (2000), Beraten ohne Ratschlag: Systemisches Coaching für Führungskräfte undBeraterInnen*
+
+ 
 
 
 
@@ -57,19 +59,24 @@ Natürlich wollen wir unsere Theorien, Ansätze und Erfahrungen verteidigen, wen
 Es ist, denke ich unbestritten, dass wir uns in einer Zeit befinden, in der vieles Volatil, Unsicher, Mehrdeutig und Komplex ist. Es ist aber so, dass die Auswirkungen nicht für alle im gleichen Ausmass spürbar oder zumindest nicht direkt spürbar sind. Was für einige das Zentrum des Denkens und Handels geworden ist, scheint für andere noch unsichtbar und undenkbar. Bereits hier zeigen sich ganz unterschiedliche Wirklichkeiten. 
 
 ##### \
-\
 New Work
 
 Soll ich mich überhaupt noch an diesen Begriff wagen? Was für einige Benefits, mobiles Arbeiten und Homeoffice bedeutet, ist für andere «*ein umfassendes Gedankengebäude, das auf grundlegenden sozio-ökonomischen und philosophischen Überlegungen beruht.»* Es wird also kaum zielführend sein, bei einem Unternehmen gleich mit dem umfassenden Gedankengebäude zu kommen, wenn vieles noch so ist wie früher. Ganz ähnlich ist es bei (zumindest gefühlt) verwandten Themen wie Agilitä und New Learning.\
 \
 In letzter Zeit fallen mir auch immer mehr Beiträge auf, bei denen es darum geht, dass es bei der digitalen Transformation um Menschen geht und nicht um IT. Für mich geht es ganz klar um beides. 
 
-> Solange wir an den Begriffen festhalten, werden wir keine erfolgreise Kommunikation führen und keine Probleme lösen können. Wir müssen ein Stücker hinter die Begriffswelt wandern und unseren Fokus darauf richten, was der jeweils andere mit dem meint, was er sagt. Radatz S., S. 34........
+> Solange wir an den Begriffen festhalten, werden wir keine erfolgreise Kommunikation führen und keine Probleme lösen können. Wir müssen ein Stücker hinter die Begriffswelt wandern und unseren Fokus darauf richten, was der jeweils andere mit dem meint, was er sagt. 
+>
+> *Radatz (2000), Beraten ohne Ratschlag: Systemisches Coaching für Führungskräfte undBeraterInnen*
 
 Wenn nun jemand merkt, dass man doch New Work machen sollte, um in dieser VUCA-Welt zu bestehen oder ein gesundes Arbeitsumfeld mit psychologischer Sicherheit für seine Mitarbeitenden und sich selbst zu schaffen, dann ist es bereits ein erster Schritt. Man könnte schnelle und bereits bekannte Lösungen übernehmen. Aber was steckt wirklich hinter der Motivation der Veränderung? Wo sind innere und äussere Hürden? Welche Ressourcen stehen zur Verfügung? 
 
 So scheint es mir hilfreicher, kleinere Schritte zu machen und egal ob als Coach, Berater*in von aussen oder als Unternehmen selbst, zuerst einmal neugierig und mit Offenheit hinzuschauen und hinzuhören. Das ist eine riesen Herausforderung, die sich aber lohnt. Es gibt also nicht DIE LÖSUNG. Frederic Laloux schreibt von ganz viele verschiedenen Möglichkeiten, Veränderungen im Unternehmen vorzunehmen und alle können funktionieren. 
 
+> «Je mehr ich einfach gewillt bin, inmitten dieser ganzen Komplexität des Lebens ich selbst zu sein, und je mehr ich gewillt bin, die Realitäten in mir selbst und im anderen zu verstehen und zu akzeptieren, desto mehr Veränderung scheint in Gang zu kommen.
+>
+>  *Carl R. Rogers*
+
 #### und wenn alles ganz anders ist?
 
-Vielleicht ist alles ganz anders und auf jeden Fall tiefer und komplexer als hier beschrieben.
+Vielleicht ist alles ganz anders und auf jeden Fall tiefer und komplexer als hier beschrieben. Es ist der Versuch, nicht offensichtlich zusammenhängende Themen, die mir wichtig sind in Verbindung zu stellen.
