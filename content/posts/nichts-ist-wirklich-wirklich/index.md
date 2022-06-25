@@ -3,7 +3,7 @@ title = "Nichts ist wirklich wirklich"
 date = "2022-06-25"
 draft = false
 pinned = false
-tags = ["Gedanken", "NewWork", "Coaching"]
+tags = ["Gedanken", "NewWork", "Coaching", "Arbeit", "NewLearning"]
 image = "staircase-g5501a7147_1280.jpg"
 description = "Woran soll man sich in dieser (Arbeits-)Welt und den Veränderungen eigentlich orientieren? Wie wäre es, wenn wir uns einmal bewusst machen: «Nichts ist wirklich wirklich - aber jeder tut so, als gäbe es die Wirklichkeit». "
 footnotes = "Bild von [fda54](https://pixabay.com/de/users/fda54-145996/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=274614) auf [Pixabay](https://pixabay.com/de/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=274614)"
