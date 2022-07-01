@@ -3,6 +3,7 @@ title = "Selbstorganisation "
 date = "2022-06-29"
 draft = false
 pinned = false
+tags = ["Gedanken", "Arbeit", "NewWork", "Selbstmanagement", ""]
 image = "birds-g8cca3d21e_640.jpg"
 description = "Eigentlich würden wir uns also selbst organisieren. Eigentlich. Warum gelingt uns die Selbstorganisation so schlecht und wird alles einfacher, wenn wir es weniger kompliziert machen? "
 footnotes = "Bild von [flockine](https://pixabay.com/de/users/flockine-5479910/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2799993) auf [Pixabay](https://pixabay.com/de/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2799993)"
