@@ -1,9 +1,11 @@
 +++
 title = "Selbstorganisation "
 date = "2022-06-29"
-draft = true
+draft = false
 pinned = false
+image = "birds-g8cca3d21e_640.jpg"
 description = "Eigentlich würden wir uns also selbst organisieren. Eigentlich. Warum gelingt uns die Selbstorganisation so schlecht und wird alles einfacher, wenn wir es weniger kompliziert machen? "
+footnotes = "Bild von [flockine](https://pixabay.com/de/users/flockine-5479910/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2799993) auf [Pixabay](https://pixabay.com/de/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2799993)"
 +++
 > «Selbstorganisation ist kein überraschendes, neues Merkmal der Welt. Es ist eine Art und Weise, wie sich die Welt seit Milliarden von Jahren selbst geschaffen hat. Selbstorganisation steht am Anfang allen menschlichen Handelns. So arbeiten wir, bis wir den Prozess unterbrechen, um zu versuchen, uns gegenseitig zu kontrollieren.» 
 >
@@ -11,7 +13,7 @@ description = "Eigentlich würden wir uns also selbst organisieren. Eigentlich. 
 
 #### Selbstorganisation ist natürlich. Eigentlich.
 
-Eigentlich würden wir uns also selbst organisieren. Eigentlich. Menschen sind ein Teil der Natur, auch wenn das gerne vergessen geht oder ignoriert wird. Auch die Natur organisiert sich immer wieder selbst, wenn wir sie denn lassen. Wenn es heute um Selbstorganisation geht, dann ist aber heute meistens nicht die Natur, sondern ein Unternehmen oder ein Team gemeint. Am häufigsten ist das wohl in IT- oder IT nahem Unternehmen der Fall. Die Gründe, eine Selbstorganisation einzuführen oder einführen zu wollen, sind sicher vielfältig und oft nicht aus Überzeugung, sondern eher um ein «attraktiver» Arbeitgeber zu werden oder schneller zu mehr Erfolg (Geld, Wachstum etc.) zu kommen.
+Eigentlich würden wir uns also selbst organisieren. Eigentlich. Menschen sind ein Teil der Natur, auch wenn das gerne vergessen geht oder ignoriert wird. Auch die Natur organisiert sich immer wieder selbst, wenn wir sie denn lassen. Wenn es heute um Selbstorganisation geht, dann ist aber heute meistens nicht die Natur, sondern ein Unternehmen oder ein Team gemeint. Am häufigsten ist das wohl in IT- oder IT nahen Unternehmen der Fall. Die Gründe, eine Selbstorganisation einzuführen oder einführen zu wollen, sind sicher vielfältig und oft nicht aus Überzeugung, sondern eher um ein «attraktiver» Arbeitgeber zu werden oder schneller zu mehr Erfolg (Geld, Wachstum etc.) zu kommen.
 
 #### Hier sind wir nun
 
@@ -41,7 +43,7 @@ So sieht die Zukunft irgendwie scheisse aus. Eigentlich hätten wir alles, so vi
 
 Wo könnten bei so dunklen Prognosen und Kritik noch Lösungen liegen? In der Vergangenheit ging vieles um Spezialisierung und um Wachstum. Das kann den Blick verengen und Zusammenhänge gehen verloren. Wenn wir an die Zukunft denken, dann könnten humanistische und gemeinschaftliche Gedanken in die richtige Richtung weisen. Wie können wir zusammen eine Zukunft gestalten, in der es uns Menschen und der Natur gut geht. Als Massstab könnte die Enkeltauglichkeit dienen, also die Frage: Ist das, was wir tun und wie wir es tun, gut für das Leben der Kinder unserer Kinder? Dafür müssen wir die Antworten (noch) nicht kennen, sondern Vertrauen und Raum für Selbstorganisation schaffen.
 
-Vielleicht hast du dich beim Lesen verstanden gefühlt oder in dir ist Wut oder Ablehnung aufgestiegen. Hast du dich gefragt, wo die Zusammenhänge sind? Gut so. In diesem Blog stehen einige Begriffe und Themen völlig undifferenziert in der Kritik. Es werden «Alte» oder «Junge» in einen Topf geworfen und ein Bezug zwischen der Bewertungskultur resp. Corona und psychischen Leiden hergestellt. Es ist nie so einfach und nur einseitig, aber genau das wird uns immer wieder vermittelt.
+Vielleicht hast du dich beim Lesen verstanden gefühlt oder in dir ist Wut oder Ablehnung aufgestiegen. Hast du dich gefragt, wo die Zusammenhänge sind? Gut so. In diesem Blog stehen einige Begriffe und Themen völlig undifferenziert in der Kritik. Es werden «Alte» oder «Junge» in jeweils einen Topf geworfen und ein Bezug zwischen der Bewertungskultur resp. Corona und psychischen Leiden hergestellt. Es ist nie so einfach und nur einseitig, aber genau das wird uns immer wieder vermittelt und weil das für unser Hirn energiesparend ist, nehmen wir das gerne auch so hin.
 
 Wie die Zukunft wird, wissen wir nicht, sie beginnt aber bereits heute. Die Gegenwart und das morgen können wir nur zusammen gestalten. Dafür müssen wir Widersprüche oder Unsicherheiten aushalten und immer wieder ausprobieren, hinterfragen und neuanfangen.
 
