@@ -22,7 +22,7 @@ Menschen fühlen eine zunehmende Unzufriedenheit, die sich in physischen oder ps
 
 #### Auch «Expert:innen» mögen es einfach
 
-Wer sind eigentlich diese Expert:innen? Bereits das ist eine Frage der Perspektive. Das hängt stark davon ab, auf was wir anspringen. Ist es das Wissenschaftliche, das Spirituelle, trauen wir Erfahrungsberichten oder komplexe Theorien? Ich habe den Eindruck, dass sich auch Expert:innen gerne in eine Richtung bewegen und spezialisieren. Daran ist übrigens nichts schlecht, falls hier dieser Eindruck entstehen sollte. Daran sollten wir aber denken, wenn wir von einem Ansatz oder von Gedanken richtig begeistert sind und denken, DIE Lösung gefunden zu haben.
+Wer sind eigentlich diese Expert:innen? Bereits das ist eine Frage der Perspektive. Das hängt stark davon ab, auf was wir anspringen. Ist es das Wissenschaftliche, das Spirituelle, trauen wir Erfahrungsberichten oder komplexen Theorien? Ich habe den Eindruck, dass sich auch Expert:innen gerne in eine Richtung bewegen und spezialisieren. Daran ist übrigens nichts schlecht, falls hier dieser Eindruck entstehen sollte. Daran sollten wir aber denken, wenn wir von einem Ansatz oder von Gedanken richtig begeistert sind und denken, DIE Lösung gefunden zu haben.
 
 #### Gutes von Schlechtem Unterscheiden
 
