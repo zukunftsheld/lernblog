@@ -1,9 +1,12 @@
 +++
 title = "Das (Arbeits-) Leben selbst gestalten"
 date = "2022-07-06"
-draft = true
+draft = false
 pinned = false
-description = "gfsdfgsdf"
+tags = ["Gedanken", "NewWork", "Selbstmanagement", "Sinn", "Werte"]
+image = "people-ga93582a71_640.jpg"
+description = "Wir haben vieles nicht in der Hand und doch können wir vieles in unserem (Arbeits-) Leben selbst gestalten. "
+footnotes = "Bild von [StockSnap](https://pixabay.com/de/users/stocksnap-894430/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2591874) auf [Pixabay](https://pixabay.com/de/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2591874)"
 +++
 ### **Das (Arbeits-) Leben selbst gestalten**
 
@@ -11,17 +14,16 @@ description = "gfsdfgsdf"
 
 **Selbstmanagement - Eine Kernkompetenz der Zukunft. Mit Orientierung und Gelassenheit die eigene berufliche Zukunft gestalten**  
 
-Das sind zwei Titel von Arbeiten, die ich in den letzten Jahren geschrieben habe. Wenn man die Titel so liest, sehen beide nach Lösungen aus, die zu mehr Zufriedenheit bei der Arbeit führen. Das ist zwar nicht falsch aber auch nicht ganz richtig. Die Wertearbeit oder Selbstmanagement sind zwei Ansätze, die ich als wichtig erachte, damit Menschen ihr (Arbeits-) Leben selbst gestalten können. Oft werden uns aber solche Lösungen als DER Weg verkauft, um ein «besseres» Leben zu führen ohne wichtige Elemente zu beleuchten. Nämlich, dass nicht jeder Ansatz zu uns oder unserer Lebenssituation passt oder viele Themen ineinanderfliessen. Solche Prozesse sind nicht nur Entwicklungsprozesse sondern auch Lernprozesse. 
+Das sind zwei Titel von Arbeiten, die ich in den letzten Jahren geschrieben habe. Wenn man die Titel so liest, sehen beide nach Lösungen aus, die zu mehr Zufriedenheit bei der Arbeit führen. Das ist zwar nicht falsch, aber auch nicht ganz richtig. Die Wertearbeit oder Selbstmanagement sind zwei Ansätze, die ich als wichtig erachte, damit Menschen ihr (Arbeits-) Leben selbst gestalten können. Oft werden uns aber solche Lösungen als DER Weg verkauft, um ein «besseres» Leben zu führen, ohne wichtige Elemente zu beleuchten. Nämlich, dass nicht jeder Ansatz zu uns oder unserer Lebenssituation passt oder viele Themen ineinanderfliessen. Solche Prozesse sind nicht nur Entwicklungsprozesse, sondern auch Lernprozesse.
 
 #### \
-\
 So beginnt es (meistens)
 
-Menschen fühlen eine zunehmende Unzufriedenheit, die sich in physichen oder psychischen Symptomen äussern kann aber nicht muss. Der oft genannte Leidensdruck wird immer höher und irgendwann beginnt man zu googeln, greift nach einem Selbsthilfebuch oder sucht sich (professionelle) Hilfe. Weil wir Menschen es gerne möglichst einfach haben und schnelle Lösungen möchten, steigen wir gerne auf Versprechen und reisserische Titel ein. Manchmal kann man Glück haben aber nur manchmal. 
+Menschen fühlen eine zunehmende Unzufriedenheit, die sich in physischen oder psychischen Symptomen äussern kann, aber nicht muss. Der oft genannte Leidensdruck wird immer höher und irgendwann beginnt man zu googeln, greift nach einem Selbsthilfebuch oder sucht sich (professionelle) Hilfe. Weil wir Menschen es gerne möglichst einfach haben und schnelle Lösungen möchten, steigen wir gerne auf Versprechen und reisserische Titel ein. Manchmal kann man Glück haben, aber nur manchmal.
 
 #### Auch «Expert:innen» mögen es einfach
 
-Wer sind eigentlich diese Expert:innen? Bereits das ist ein Frage der Perspektive. Das hängt stark davon ab, auf was wir anspringen. Ist es das Wissenschaftliche, das Spirituelle, trauen wir Erfahrungsberichte oder komplexe Theorien? Ich haben den Eindruck, dass sich auch Expert:innen gerne in eine Richtung bewegen und spezialisieren. Daran ist übrigens nichts schlecht, falls hier dieser Eindruck entstehen sollte. Daran sollten wir aber denken, wenn wir von einem Ansatz oder von Gedanken richtig begeistert sind und denken, DIE Lösung gefunden zu haben. 
+Wer sind eigentlich diese Expert:innen? Bereits das ist eine Frage der Perspektive. Das hängt stark davon ab, auf was wir anspringen. Ist es das Wissenschaftliche, das Spirituelle, trauen wir Erfahrungsberichte oder komplexe Theorien? Ich habe den Eindruck, dass sich auch Expert:innen gerne in eine Richtung bewegen und spezialisieren. Daran ist übrigens nichts schlecht, falls hier dieser Eindruck entstehen sollte. Daran sollten wir aber denken, wenn wir von einem Ansatz oder von Gedanken richtig begeistert sind und denken, DIE Lösung gefunden zu haben.
 
 #### Gutes von Schlechtem Unterscheiden
 
@@ -33,24 +35,21 @@ Wenn es nur so einfach wäre. Gut ist, was uns gut tut und doch sollten wir vors
 
 #### Das Leben ist ein Prozess
 
-Wir Menschen sind ein Teil der Erde und ein Teil der Natur. Davon schreibe ich immer wieder, weil es helfen kann zu erkennen, dass alles ein Prozess ist und selten etwas von heute auf morgen ändert. Stellen wir uns einmal einnen mächtigen Baum vor, der im Wind stehen bleibt und uns Schatten gibt. Der war einmal nur ein Samen, kaum sichtbar und alles andere als das, was er heute ist. Wir könnten auch einen Schädling wie die Raupe nehmen. Wie oft scheinen sie hässlich, stören und keiner würde auch nur vermuten (wenn wir es nicht wüssten), was da schönes entsteht. Ich könnte noch etliche Beispiele anfügen, die in der einen oder anderen Form diese natürlichen Prozesse zeigen. 
+Wir Menschen sind ein Teil der Erde und ein Teil der Natur. Davon schreibe ich immer wieder, weil es helfen kann zu erkennen, dass alles ein Prozess ist und selten etwas von heute auf morgen ändert. Stellen wir uns einmal einen mächtigen Baum vor, der im Wind stehen bleibt und uns Schatten gibt. Der war einmal nur ein Samen, kaum sichtbar und alles andere als das, was er heute ist. Wir könnten auch einen Schädling wie die Raupe nehmen. Wie oft scheinen sie hässlich, stören und keiner würde auch nur vermuten (wenn wir es nicht wüssten), was da Schönes entsteht. Ich könnte noch etliche Beispiele anfügen, die in der einen oder anderen Form diese natürlichen Prozesse zeigen.
 
 #### Was ist denn die Lösung?
 
-Die Lösung und den Weg gibt es nicht. Jeder Mensch muss (leider? zum Glück?) den eigenen Weg finden. Nicht nur die Situationen in denen wir stecken (auch wenn sie ähnlich sein mögen) sind ganz verschieden sondern auch unsere Erfahrungen, unser Wissensstand, unsere Verbindung zu uns selbst uns so weiter. 
+Die Lösung und den Weg gibt es nicht. Jeder Mensch muss (leider? zum Glück?) den eigenen Weg finden. Nicht nur die Situationen, in denen wir stecken (auch, wenn sie ähnlich sein mögen), sind ganz verschieden, sondern auch unsere Erfahrungen, unser Wissensstand, unsere Verbindung zu uns selbst so weiter.
 
 #### Alles beginnt mit der Auseinandersetzung mit sich selbst
 
-Das ist der Weg für tiefgreifende und nachhaltige Veränderungen. Davon bin ich überzeugt und doch gibt es schon wieder ein Aber. Wenn wir Schwierigkeiten stecken wie zum Beispiel in finaziellen Problemen, gesundheitlich oder psychisch angeschlagen sind, dann müssen wir vielleicht zuerst wieder zur Ruhe kommen können und unseren Alltag organisieren. Wenn wir aber Ressourcen zur Verfügung haben, dann können wir uns immer wieder uns selbst widmen und schauen wer bin ich, was ist mir wichtig und wo will ich hin. Selbstmanagement kann hier ein guter Weg sein, wenn wir mehr darin sehen als nur Selbstoptimierung und Zeitmanagement. Darüber habe ich [hier konkreter geschrieben](https://www.bensblog.ch/selbstmanagement2/). Eine andere Möglichkeit ist, sich mit dem Sinn in der eigenen Arbeit auseinanderzusetzen. Auch [hier gibt einen tieferen Einblick](https://www.bensblog.ch/sinn-in-der-arbeit-finden/). 
+Das ist der Weg für tiefgreifende und nachhaltige Veränderungen. Davon bin ich überzeugt und doch gibt es schon wieder ein Aber. Wenn wir Schwierigkeiten stecken, wie zum Beispiel in finanziellen Problemen, gesundheitlich oder psychisch angeschlagen sind, dann müssen wir vielleicht zuerst wieder zur Ruhe kommen können und unseren Alltag organisieren. Wenn wir aber Ressourcen zur Verfügung haben, dann können wir uns immer wieder selbst widmen und schauen, wer bin ich, was ist mir wichtig und wo will ich hin. Selbstmanagement kann hier ein guter Weg sein, wenn wir mehr darin sehen als nur Selbstoptimierung und Zeitmanagement. Darüber habe ich [hier konkreter geschrieben](https://www.bensblog.ch/selbstmanagement2/). Eine andere Möglichkeit ist, sich mit dem Sinn in der eigenen Arbeit auseinanderzusetzen. Auch [hier gibt einen tieferen Einblick](https://www.bensblog.ch/sinn-in-der-arbeit-finden/). 
 
-#### \
-Nur beginnen reicht nicht
+#### Nur beginnen reicht nicht
 
 Auch wenn es oft bereits viel Mut braucht, um den ersten Schritt zu machen, reicht eine Auseinandersetzung im stillen Kämmerlein nicht. Irgendwann musst du rausgehen, ausprobieren, «scheitern», wieder anfangen und dich vielleicht wieder neu ausrichten. Das alles gehört zu einem reichen und erfüllten Leben. 
 
-#### \
-\
-Ansätze, die dir auf diesem Weg helfen können
+#### Ansätze, die dir auf diesem Weg helfen können
 
 #### Die Akzeptanz- und Commitmenttherapie (Therapie kann man hier ganz gut auch durch Training oder ähnliches ersetzen.)
 
@@ -69,4 +68,4 @@ Mehr und aktuelle Informationen gibt es hier <https://www.sinnforschung.org/mein
 
 #### Selbstmanagement
 
-Auch Selbstmanagement kann wieder über so viele Wege führen. Etwas neueres ist [Life Design](https://www.lifedesignlab.ch), hier gibt es Inspiration, Tools und Möglichkeiten, sich selbst besser kennenzulernen und Dinge auszuprobieren, die man gerne machen würde und wie man Schritt für Schritt das Leben selbst gestalten kann.
+Auch Selbstmanagement kann wieder über so viele Wege führen. Ein neuerer Ansatz ist [Life Design](https://www.lifedesignlab.ch), hier gibt es Inspiration, Tools und Möglichkeiten, sich selbst besser kennenzulernen und Dinge auszuprobieren, die man gerne machen würde und wie man Schritt für Schritt das Leben selbst gestalten kann.
