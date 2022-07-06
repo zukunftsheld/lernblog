@@ -28,17 +28,17 @@ Wer sind eigentlich diese Expert:innen? Bereits das ist eine Frage der Perspekti
 
 Wenn es nur so einfach wäre. Gut ist, was uns gut tut und doch sollten wir vorsichtig sein. Ein paar Hinweise auf Dinge, die langfristig nicht hilfreich sind:
 
-* Du musst nur dein Denken, dein Mindset ändern und es wird besser oder gut.
+* Du musst nur dein Denken, dein Mindset ändern und es wird alles besser oder gut.
 * Die Menschen um dich sind das Problem, weil sie narzisstisch sind, toxisch, etc. 
 * In 5 (hier können ganz verschiedene Zahlen stehen) Schritten, Minuten, Wochen.. Stressfrei, zum Wunschgewicht, etc. 
 
 #### Das Leben ist ein Prozess
 
-Wir Menschen sind ein Teil der Erde und ein Teil der Natur. Davon schreibe ich immer wieder, weil es helfen kann zu erkennen, dass alles ein Prozess ist und selten etwas von heute auf morgen ändert. Stellen wir uns einmal einen mächtigen Baum vor, der im Wind stehen bleibt und uns Schatten gibt. Der war einmal nur ein Samen, kaum sichtbar und alles andere als das, was er heute ist. Wir könnten auch einen Schädling wie die Raupe nehmen. Wie oft scheinen sie hässlich, stören und keiner würde auch nur vermuten (wenn wir es nicht wüssten), was da Schönes entsteht. Ich könnte noch etliche Beispiele anfügen, die in der einen oder anderen Form diese natürlichen Prozesse zeigen.
+Wir Menschen sind ein Teil der Erde und ein Teil der Natur. Davon schreibe ich immer wieder, weil es helfen kann zu erkennen, dass alles ein Prozess ist und selten etwas von heute auf morgen ändert. Stellen wir uns einmal einen mächtigen Baum vor, der im Wind stehen bleibt und uns Schatten gibt. Der war einmal nur ein Samen, kaum sichtbar und alles andere als das, was er heute ist. Bis er so mächtig war hat es Jahre gedauert. Wir könnten auch einen Schädling wie die Raupe nehmen. Wie oft scheinen sie hässlich, stören und keiner würde auch nur vermuten (wenn wir es nicht wüssten), was da Schönes entsteht. Ich könnte noch etliche Beispiele anfügen, die in der einen oder anderen Form diese natürlichen Prozesse zeigen.
 
 #### Was ist denn die Lösung?
 
-Die Lösung und den Weg gibt es nicht. Jeder Mensch muss (leider? zum Glück?) den eigenen Weg finden. Nicht nur die Situationen, in denen wir stecken (auch, wenn sie ähnlich sein mögen), sind ganz verschieden, sondern auch unsere Erfahrungen, unser Wissensstand, unsere Verbindung zu uns selbst so weiter.
+Die Lösung und den Weg gibt es nicht. Jeder Mensch muss (leider? zum Glück?) den eigenen Weg finden. Nicht nur die Situationen, in denen wir stecken (auch, wenn sie ähnlich sein mögen), sind ganz verschieden, sondern auch unsere Erfahrungen, unser Wissensstand, unsere Verbindung zu uns selbst und so weiter.
 
 #### Alles beginnt mit der Auseinandersetzung mit sich selbst
 
