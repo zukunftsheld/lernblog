@@ -18,7 +18,7 @@ Das sind zwei Titel von Arbeiten, die ich in den letzten Jahren geschrieben habe
 
 #### So beginnt es (meistens)
 
-Menschen fühlen eine zunehmende Unzufriedenheit, die sich in physischen oder psychischen Symptomen äussern kann, aber nicht muss. Der oft genannte Leidensdruck wird immer höher und irgendwann beginnt man zu googeln, greift nach einem Selbsthilfebuch oder sucht sich (professionelle) Hilfe. Weil wir Menschen es gerne möglichst einfach haben und schnelle Lösungen möchten, steigen wir gerne auf Versprechen und reisserische Titel ein. Manchmal kann man Glück haben, aber nur manchmal.
+Menschen fühlen eine zunehmende Unzufriedenheit, die sich in physischen oder psychischen Symptomen äussern kann, aber nicht muss. Der oft genannte Leidensdruck wird immer höher und irgendwann beginnt man zu googeln, greift nach einem Selbsthilfebuch oder sucht sich (professionelle) Hilfe. Weil wir Menschen es gerne möglichst einfach haben und schnelle Lösungen möchten, steigen wir auf (fragwürdige) Versprechen und reisserische Titel ein. Manchmal kann man Glück haben, aber nur manchmal.
 
 #### Auch «Expert:innen» mögen es einfach
 
