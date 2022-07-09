@@ -36,7 +36,7 @@ Und so war ich auf meiner ganz persönlichen Reise in der Rolle als Selbstständ
 
 Hier bin ich nun angekommen und habe ein ganz starkes Gefühl für das, was mir wichtig ist, für das was ich kann und will. \
 \
-Vor 11 Monaten haben ich meinen schon fast berühmten Linkedin-Post geschrieben. Dort stand ganz am Anfang: *«Für meine beste Ausbildung gabs kein Zeugnis, kein Zertifikat und kein Diplom und zudem war sie oft einfach hässlich und schmerzhaft.»* Heute, ein Jahr später könnte ich diese Aussage zur «besten Ausbildung» ergänzen mit den letzten 1 1/2 Jahren. Auch dafür gibts kein Zeugnis und kein Zertifikat und ich bin mir wahrscheinlich noch kaum bewusst, was ich alles gelernt habe.
+Vor 11 Monaten habe ich meinen schon fast berühmten Linkedin-Post geschrieben. Dort stand ganz am Anfang: *«Für meine beste Ausbildung gabs kein Zeugnis, kein Zertifikat und kein Diplom und zudem war sie oft einfach hässlich und schmerzhaft.»* Heute, ein Jahr später könnte ich diese Aussage zur «besten Ausbildung» ergänzen mit den letzten 1 1/2 Jahren. Auch dafür gibts kein Zeugnis und kein Zertifikat und ich bin mir wahrscheinlich noch kaum bewusst, was ich alles gelernt habe.
 
 ![](linkedin-post.jpg)
 
