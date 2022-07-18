@@ -3,6 +3,9 @@ title = "Wirkliche Veränderung"
 date = "2022-07-18"
 draft = true
 pinned = false
+tags = ["NewWork", "Gedanken", "NewLearning", "Leadership"]
+image = "pexels-moritz-ba-ing-1649512.jpg"
+footnotes = "Foto von [Moritz Böing](https://www.pexels.com/de-de/foto/felsen-neben-dem-weg-1649512/)\\\n\\\nWie so oft in diesem Blog, bleiben einige Fragen offen. Vielleicht greife ich sie zu einem späteren Zeitpunkt wieder auf und vielleicht hast oder findest du deine eigenen Antworten. Einiges ist am Fachkräftemangel aufgehängt, es spielt aber keine Rolle ob die Fachkräfte bereits fehlen, fehlen werden oder könnten. Am besten trauen wir uns gegenseitig etwas zu und gestalten die Zukunft gemeinsam."
 +++
 Überall fehlt es an Arbeitskräften. Es fehlt also an Menschen. Die Gründe dafür sind vielfältig, wenn auch einige offensichtlich sind. Nicht nur die Gründe sind unterschiedlich, sondern auch die damit verbundenen Probleme. Da sind Lieferschwierigkeiten, die Unfähigkeit den Bedürfnissen der Kund:innen, Patient:innen, Verwaltungsrät:innen etc. gerecht zu werden. Ja, da sind viele Anspruchsgruppen, die etwas möchten. Sie möchten, aber brauchen sie das, was sie möchten auch? 
 
