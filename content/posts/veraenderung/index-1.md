@@ -8,14 +8,11 @@ pinned = false
 
 Ganz offensichtlich und vor allem auch medienwirksam fehlen die Fachkräfte in der Pflege und in der Schule. Es sind aber noch ganz viele andere Bereiche betroffen und werden in Zukunft betroffen sein. 
 
-
-
 #### Es fehlt an Menschen
 
 Fachkräfte sind zuallererst einmal Menschen. Die Erfahrung und (ich vermute vor allem) die Zertifikate zeigen, den Unternehmen, den HR-Fachleuten, wer eine Fachkraft ist und wer nicht. Es fehlt also an Menschen mit den Erfahrungen und Zertifikaten, die für die jeweiligen Positionen gewünscht sind. Auf der Jagd nach diesen Fachkräften oder dem «War for Talents» wird zu verschiedenen Mitteln gegriffen. Irgendwie agil werden, New Work-Massnahmen ergreifen, Employer Branding betreiben (meistens nichts anderes als Werbung), Arbeitszeiten und Löhne anpassen.. die Liste könnte noch ganz lang werden. Ich unterstütze Massnahmen zur Verbesserung der Arbeit sofort! Keine Frage. Nur, verbessern diese Massnahmen die Arbeit wirklich langfristig? Würden sie das aber wirklich tun, wäre die Situation in vielen Unternehmen anders. Es fehlt also vielleicht gar nicht unbedingt an Menschen (oder Fachkräften) sondern an falschen Anreizen und Überzeugungen. 
 
-#### \
-Es fehlt an mutigen Unternehmen und Unternehmer:innen, an mutigen Geschäftsführer:innen, die sich trauen neue Wege zu gehen
+#### Es fehlt an mutigen Unternehmen und Unternehmer:innen, an mutigen Geschäftsführer:innen, die sich trauen neue Wege zu gehen
 
 Was für eine Überschrift. Die zwar stimmt aber irgendwie wieder nur so halb richtig ist. Es fehlt nicht nur an den Unternehmen und den Vorgesetzten sondern auch an allen anderen, die in einem Unternehmen arbeiten. Wir sind uns gewohnt, dass es ein Geschäft Arbeit gegen Lohn ist oder Lohn gegen Arbeit. Da könnte aber noch viel mehr sein. Stellen wir uns einmal folgendes vor: 
 
@@ -28,13 +25,9 @@ Was für eine Überschrift. Die zwar stimmt aber irgendwie wieder nur so halb ri
 
 Um die Prozesse zu verbessern, die fehlenden Menschen zu «ersetzen», sich als Arbeitgeber:in attraktiver zu machen, werden oben genannte Massnahmen getroffen. Es ist also eine Reaktion, um das Bestehende und Bekannte solange weiterzuziehen, bis es irgendwann nicht mehr geht. Das frisst wertvolle Ressourcen. Wie wäre es, anstatt zu reagieren die Zukunft selbst zu gestalten? 
 
-#### \
-\
-Wir werden alle durch Roboter und Automatisierung ersetzt
+#### Wir werden alle durch Roboter und Automatisierung ersetzt
 
 Diese oder ähnliche Gedanken und Realitäten tauchen in der Geschichte der Menschheit nicht das erste Mal auf. Ich erinnere mich wie Frithjof Bergmann in seinem Buch «Neue Arbeit, neue Kultur» von der US-Autoindistrie schreibt und wie ganze Berufe der Automatisierung zum Opfer gefallen sind. Natürlich können wir durch die digitalen Möglichkeiten und den technologischen Fortschritt noch mehr automatisieren aber am Ende sollten und diese Dinge nützlich sein. Es wird immer um uns Menschen gehen oder würden Roboter für sich weiterleben, wenn es keine Menschen mehr gäbe? Naja, eigenartige Frage und nicht wirklich relevant. 
-
-
 
 #### Meistens wissen die Menschen (die Angestellten) recht genau wo der Schuh drückt
 
