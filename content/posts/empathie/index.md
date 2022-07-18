@@ -1,8 +1,12 @@
 +++
-title = "Empathie"
+title = "Tools vs. Haltung"
 date = "2022-07-17"
-draft = true
+draft = false
 pinned = false
+tags = ["Gedanken", "Werte", "Coaching", "NewWork", "NewLearning"]
+image = "pexels-pixabay-220836.jpg"
+description = "Mit manchen Dingen habe ich so meine Probleme. So zum Beispiel mit «Ver-Tool-isierung» von Dingen oder Themen, die eigentlich (zumindest nach meiner Überzeugung) nur als Haltung wirklich wirken. Es geht nicht zwingend darum, dass Methoden und Tools falsch oder nicht hilfreich wären. Vielmehr sind die Wirkungen für mich unterschiedlich, je nach dem ob jemand mit Haltung oder Methoden und Tools arbeitet."
+footnotes = "Foto von [Pixabay](<Foto von Pixabay: https://www.pexels.com/de-de/foto/zwei-leute-die-auf-pier-gehen-220836/>)"
 +++
 #### Meine Schwierigkeiten mit Tools
 
@@ -10,15 +14,15 @@ Mit manchen Dingen habe ich so meine Probleme. So zum Beispiel mit «Ver-Tool-is
 
 #### Muss man das trennen
 
-Haltungen, Methoden und Tools zu trennen funktioniert nicht immer und ich finde auch nicht, dass man diese trennen muss. Aber! Aus meiner Erfahrung und Überzeugung wird zu wenig an der inneren Haltung der «helfenden» Person gearbeitet, oder sich diese bewusst gemacht und zu viel Energie und Fokus auf Tools/Methoden verwendet. 
+Haltungen, Methoden und Tools zu trennen, funktioniert nicht immer und ich finde auch nicht, dass man diese trennen muss. Aber! Aus meiner Erfahrung und Überzeugung wird zu wenig an der inneren Haltung der «helfenden» Person gearbeitet, oder sich diese bewusst gemacht und zu viel Energie und Fokus auf Tools/Methoden verwendet. 
 
 #### Eines tut weh und das andere gibt Expert:innen-Status
 
-In diesem Blog ist es definitiv kein Geheimnis mehr, dass ich viele Stunden bei Expert:innen verbracht habe, die mich «heilen» oder mir «helfen» sollten und wollten. Auch wenn ich das natürlich nie bewusst gemacht habe, konnte ich vieles beobachten, fühlen und daraus Schlüsse ziehen. Was ich damals nur irgendwie fühlen konnte, kann ich heute mit Theorie und fachlicher Erfahrung untermalen. Schauen wir uns nun einmal die Haltung an. **Haltung** könnte man vielleicht als inneren Ruf oder innere Melodie beschreiben. Wie sehe ich die Menschen, die Welt und was ist mir wichtig. **Methoden/Tools** sind Werkzeuge und Vorgehensweisen, sie sind mechanisch und wenig natürlich und stören die Begegnung zwischen Menschen eher. Wenn man sich mit der eigenen Haltung auseinandersetzt, diese als Basis für seine Arbeit mit Menschen nutzt, dann scheint mir das immer wieder schmerzhaft zu sein. Es braucht justierungen und echte Selbstreflexion, es braucht aber auch Abgrenzung, Selbstakzeptanz und Selbstfürsorge. Tools sind nicht lebendig, man kann sich hinter ihnen verstecken, sich schützen und sich damit schmücken. Tools und Methoden kann man oft aufzeichnen oder aufstellen. Sie sind klar sichtbar. So tut Haltung also auch weh (weil ich Dinge hinterfrage, mich mit mir auseinandersetzt etc.) und Tools vermitteln nach aussen Expert:innen-Status. 
+In diesem Blog ist es definitiv kein Geheimnis mehr, dass ich viele Stunden bei Expert:innen verbracht habe, die mich «heilen» oder mir «helfen» sollten und wollten. Auch wenn ich das natürlich nie bewusst gemacht habe, konnte ich vieles beobachten, fühlen und daraus Schlüsse ziehen. Was ich damals nur irgendwie fühlen konnte, kann ich heute mit Theorie und fachlicher Erfahrung untermalen. Schauen wir uns nun einmal die Haltung an. **Haltung** könnte man vielleicht als inneren Ruf oder innere Melodie beschreiben. Wie sehe ich die Menschen, die Welt und was ist mir wichtig. **Methoden/Tools** sind Werkzeuge und Vorgehensweisen, sie sind mechanisch und wenig natürlich und stören die Begegnung zwischen Menschen eher. Wenn man sich mit der eigenen Haltung auseinandersetzt, diese als Basis für seine Arbeit mit Menschen nutzt, dann scheint mir das immer wieder schmerzhaft zu sein. Es braucht Justierungen und echte Selbstreflexion, es braucht aber auch Abgrenzung, Selbstakzeptanz und Selbstfürsorge. Tools sind nicht lebendig, man kann sich hinter ihnen verstecken, sich schützen und sich damit schmücken. Tools und Methoden kann man oft aufzeichnen oder aufstellen. Sie sind klar sichtbar. So tut Haltung also auch weh (weil ich Dinge hinterfrage, mich mit mir auseinandersetzt etc.) und Tools vermitteln nach aussen Expert:innen-Status. 
 
 #### Meine ganz persönlichen Erfahrungen
 
-Um das Ganze zu verdeutlichen muss ich wohl hier noch einmal ein Beispiel meiner ganz persönlichen Erfahrung teilen. Die ganzen Jahre rund um Lehrpersonen, die mich be- und vor allem verurteilten, analysierten etc. und mir doch nur helfen und mich weiterbringen wollten, all die Therapeut:innen, Berater:innen, die mir helfen wollten in die Muster zu passen, sie alle haben mir nie geholfen. Nie haben sie mir WIRKLICH zugehört. Als Kind (so vermute ich) fühlt man das noch viel intensiver. Aber sie alle arbeiteten doch in Berufen, in denen Empathie wichtig ist? Rogers kannte man schon, sie hatten studiert (also das Wissen müsste vorhanden gewesen sein), sie hatten Erfahrungen und warum half trotzdem nichts? Die Antwort liegt in der Begegnung mit einer Experin, die ich nie treffen wollte. Ich hatte sie alle satt, diese Helfer:innen. Obwohl alles irgendwie gleich war, war eines offensichtlich anders. Was ich heute in Worte fasse, war damals nichts anderes als das tiefe Gefühl **verstanden zu werden**. Ja, es war echte Empathie, es war echte Akzeptanz und es war kongruent. Nicht sofort, aber von da an begann sich mein Leben zu ändern. 
+Um das Ganze zu verdeutlichen, muss ich wohl hier noch einmal ein Beispiel meiner ganz persönlichen Erfahrung teilen. Die ganzen Jahre rund um Lehrpersonen, die mich be- und vor allem verurteilten, analysierten etc. und mir doch nur helfen und mich weiterbringen wollten, all die Therapeut:innen, Berater:innen, die mir helfen wollten in die Muster zu passen, sie alle haben mir nie geholfen. Nie haben sie mir WIRKLICH zugehört. Als Kind (so vermute ich) fühlt man das noch viel intensiver. Aber sie alle arbeiteten doch in Berufen, in denen Empathie wichtig ist? Rogers kannte man schon, sie hatten studiert (also, das Wissen müsste vorhanden gewesen sein), sie hatten Erfahrungen und warum half trotzdem nichts? Die Antwort liegt in der Begegnung mit einer Experin, die ich nie treffen wollte. Ich hatte sie alle satt, diese Helfer:innen. Obwohl alles irgendwie gleich war, war eines offensichtlich anders. Was ich heute in Worte fasse, war damals nichts anderes als das tiefe Gefühl **verstanden zu werden**. Ja, es war echte Empathie, es war echte Akzeptanz und es war kongruent. Nicht sofort, aber von da an begann sich mein Leben zu ändern. 
 
 #### Haltung ist entscheidend nicht Worte
 
