@@ -17,4 +17,25 @@ Fachkräfte sind zuallererst einmal Menschen. Die Erfahrung und (ich vermute vor
 #### \
 Es fehlt an mutigen Unternehmen und Unternehmer:innen, an mutigen Geschäftsführer:innen, die sich trauen neue Wege zu gehen
 
-Was für eine Überschrift. Es fehlt nicht nur an den Strukturen, sondern auch an den Menschen, die bereit sind neue Wege zu gehen, bei denen n
+Was für eine Überschrift. Die zwar stimmt aber irgendwie wieder nur so halb richtig ist. Es fehlt nicht nur an den Unternehmen und den Vorgesetzten sondern auch an allen anderen, die in einem Unternehmen arbeiten. Wir sind uns gewohnt, dass es ein Geschäft Arbeit gegen Lohn ist oder Lohn gegen Arbeit. Da könnte aber noch viel mehr sein. Stellen wir uns einmal folgendes vor: 
+
+* In Unternehmen arbeiten Menschen. 
+* Diese Menschen fehlen zunehmend
+* damit genügend Produkte und Dienstleistungen erschaffen oder zur Verfügung gestellt werden können, 
+* die wiederum von (anderen) Menschen konsumiert/genutzt werden. 
+
+(Ich frage mich gerade, ob ich hier mit dem Schreiben aufhören soll, weils wirklich kompliziert wird und mache einmal weiter.)
+
+Um die Prozesse zu verbessern, die fehlenden Menschen zu «ersetzen», sich als Arbeitgeber:in attraktiver zu machen, werden oben genannte Massnahmen getroffen. Es ist also eine Reaktion, um das Bestehende und Bekannte solange weiterzuziehen, bis es irgendwann nicht mehr geht. Das frisst wertvolle Ressourcen. Wie wäre es, anstatt zu reagieren die Zukunft selbst zu gestalten? 
+
+#### \
+\
+Wir werden alle durch Roboter und Automatisierung ersetzt
+
+Diese oder ähnliche Gedanken und Realitäten tauchen in der Geschichte der Menschheit nicht das erste Mal auf. Ich erinnere mich wie Frithjof Bergmann in seinem Buch «Neue Arbeit, neue Kultur» von der US-Autoindistrie schreibt und wie ganze Berufe der Automatisierung zum Opfer gefallen sind. Natürlich können wir durch die digitalen Möglichkeiten und den technologischen Fortschritt noch mehr automatisieren aber am Ende sollten und diese Dinge nützlich sein. Es wird immer um uns Menschen gehen oder würden Roboter für sich weiterleben, wenn es keine Menschen mehr gäbe? Naja, eigenartige Frage und nicht wirklich relevant. 
+
+
+
+#### Meistens wissen die Menschen (die Angestellten) recht genau wo der Schuh drückt
+
+In letzter Zeit hatte ich einige Gespräche in denen es um den Kampf gegen den Fachkräftemangel, um Anpassungen in der Organisation o. ä. ging. Es werden Dinge entschieden und umgesetzt (Events für die Mitarbeitenden, Eiswagen, Grillwürste am Mittag, der Obervorgesetzte schaut etwas häufiger vorbei) die zwar schön sind, auf lange Frist aber wenig bringen. Es sind Versuche, sich als Unternehmen attraktiv für aktuelle und potenzielle Angestellte zu machen, es sind Versuche, die Probleme oder Herausforderungen nicht an der Wurzel angehen zu müssen oder sich überhaupt auf die Suche nach der Wurzel zu machen. Kommen wir zurück zu diesen Menschen. Ja, es sind die (humanen) Ressourcen eines Unternehmens. Es sind die an der Front, die im Hintergrund, die mit den Erfahrungen und Kompetenzen (auch ausserhalb der Arbeit und ohne Zertifikate und Titel). Warum also für (echte) Veränderungen nicht die Mitarbeitenden in die Prozesse einbeziehen? Warum nicht das Wohl der Mitarbeitenden in den Vordergrund stellen? Warum nicht sie die Lösungen für erarbeiten lassen? Sie sind bereits da, diese humanen Ressourcen, sie können und dürfen genutzt werden. Ja, vielleicht braucht es Zeit, bis die bisher manchmal erlernte Hilflosigkeit der Gestaltungslust weicht. Irgendwann kommt sie aber zurück oder es wird ein Platz frei für Menschen, die gestalten wollen. Nicht nur die Produkte und Dienstleistungen sondern auch den eigenen Arbeitsplatz.
