@@ -1,5 +1,5 @@
 +++
-title = "Wirkliche-Veraenderung"
+title = "Wirkliche Veränderung"
 date = "2022-07-18"
 draft = false
 pinned = false
