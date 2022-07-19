@@ -1,7 +1,7 @@
 +++
 title = "Wirkliche Veränderung"
 date = "2022-07-18"
-draft = true
+draft = false
 pinned = false
 tags = ["NewWork", "Gedanken", "NewLearning", "Leadership"]
 image = "pexels-moritz-ba-ing-1649512.jpg"
