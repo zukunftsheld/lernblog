@@ -1,7 +1,7 @@
 +++
 title = "Wirkliche Veränderung"
 date = "2022-07-19"
-draft = true
+draft = false
 pinned = false
 tags = ["NewWork", "Gedanken", "NewLearning", "Leadership", "Coaching"]
 image = "pexels-moritz-ba-ing-1649512.jpg"
@@ -11,8 +11,6 @@ footnotes = "Foto von [Moritz Böing](https://www.pexels.com/de-de/foto/felsen-n
 Überall fehlt es an Arbeitskräften. Es fehlt also an Menschen. Die Gründe dafür sind vielfältig, wenn auch einige offensichtlich sind. Nicht nur die Gründe sind unterschiedlich, sondern auch die damit verbundenen Probleme. Da sind Lieferschwierigkeiten, die Unfähigkeit, den Bedürfnissen der Kund:innen, Patient:innen, Verwaltungsrät:innen etc. gerecht zu werden. Ja, da sind viele Anspruchsgruppen, die etwas möchten. Sie möchten, aber brauchen sie das, was sie möchten, auch?
 
 Ganz offensichtlich und vor allem auch medienwirksam fehlen die Fachkräfte in der Pflege und in der Schule. Es sind aber noch ganz viele andere Bereiche betroffen und werden in Zukunft betroffen sein.
-
-
 
 #### Es fehlt an Menschen
 
@@ -31,7 +29,7 @@ Was für eine Überschrift. Die zwar stimmt, aber irgendwie wieder nur so halb r
 
 Um die Prozesse zu verbessern, die fehlenden Menschen zu «*Ersetzen*», sich als Arbeitgeber:in attraktiver zu machen, werden oben genannte Massnahmen getroffen. Es ist also eine Reaktion, um das Bestehende und Bekannte solange weiterzuziehen, bis es irgendwann nicht mehr geht. Das frisst wertvolle Ressourcen. Wie wäre es, anstatt zu reagieren, die Zukunft selbst zu gestalten?
 
-#### Wir werden alle durch Roboter und Automatisierung ersetzt
+#### Hilfe, wir werden alle durch Roboter und Automatisierung ersetzt
 
 Diese oder ähnliche Gedanken und Realitäten tauchen in der Geschichte der Menschheit nicht das erste Mal auf. Ich erinnere mich, wie Frithjof Bergmann in seinem Buch «Neue Arbeit, neue Kultur» von der US-Autoindistrie schreibt und wie ganze Berufe der Automatisierung zum Opfer gefallen sind. Natürlich können wir durch die digitalen Möglichkeiten und den technologischen Fortschritt noch mehr automatisieren, aber am Ende sollten und diese Dinge nützlich sein. Es wird immer um uns Menschen gehen oder würden Roboter für sich weiterleben, wenn es keine Menschen mehr gäbe? Naja, eigenartige Frage und nicht wirklich relevant.
 
