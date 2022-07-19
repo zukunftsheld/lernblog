@@ -18,7 +18,7 @@ Widerstände, denen diese Führungspersönlichkeiten begegnen:
 
 * Hindernde Struktur der Organisation und fehlende Unterstützung
 * Mitarbeitende die sich Freiheiten (noch) nicht gewohnt sind und damit (noch) nicht umgehen können
-* Kampf mit Gedanken und Prägungen, doch mehr «der Chef, die Chefin» rauszuhängen
+* Kampf mit Gedanken und Prägungen, doch mehr «den Chef, die Chefin» rauszuhängen
 * Unverständnis von anderen Führungskräften
 
 Das sind nur einige, der inneren und äusseren Widerstände, denen diese Menschen begegnen, obwohl sie etwas gutes tun und etwas, gegen den Fachkräftemangel. Denn was ist besser für einen Beruf als Menschen, die zufrieden sind und sich persönlich und fachlich in ihrem Beruf entwickeln können? 
