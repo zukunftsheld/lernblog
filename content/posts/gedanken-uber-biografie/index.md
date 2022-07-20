@@ -35,23 +35,17 @@ Diese Geschichte scheint mir hier ganz gut zu passen. Die Quelle der Geschichte 
 
 Ob etwas Glück oder Pech war, lässt sich oft erst viel später sagen, wenn überhaupt. Natürlich versuchen wir Zusammenhänge zu sehen und sie sind sicher auch da. 
 
-
-
 #### Unsere Biografie ist eine Geschichte
-
-
 
 Unsere Biografie ist eine Geschichte über uns und unser Leben, die wir uns selbst kreiert haben. Es gibt unbestreitbare Fakten und vieles, das sich nicht so einfach definieren lässt. Haben wir uns unser Bild über uns selbst kreiert? Wer hatte einen Einfluss auf unsere Geschichte und unser Selbstbild? Ist es eher von Schmerz, Wut und Ausreden geprägt oder von Freude, Lust und Möglichkeiten? 
 
-#### \
-Ab hier ist alles möglich
+#### Ab hier ist alles möglich
 
 Wie ein Super-Selbsthilfe-Guru platziere ich den Titel «Alles ist möglich» und das ist wahr. Wahr heisst aber nicht, dass es einfach ist. Es ist ebenso unsicher, wie ob die Arbeit und die investierte Energie die gewünschten Früchte tragen werden. Wir können unser Leben aber selbst gestalten. Ja, ich schreibe und spreche immer wieder davon. Zu einem selbstbestimmten Leben gehören Freude, Energie, Mut, Wut, Scheitern, Neuausrichten, ein paar Schritte zurückmachen, Trauer, Euphorie und noch so vieles mehr. 
 
 Wenn du also von hier aus auf eine schwierige Biografie zurückblickst, die von fremden Prägungen, Ungerechtigkeit oder anderen Dingen geprägt ist oder zu sein scheint, dann kannst du dich auf den Weg machen. 
 
-#### \
-Wir sind Autor:innen unserer Geschichte
+#### Wir sind Autor:innen unserer Geschichte
 
 Wir können zu Autor:innen unserer eigenen Geschichte werden. Wir können den Anfang und das Ende nicht bestimmen und wir können das Ende nicht vorhersehen. Wir können aber dafür sorgen, dass es unsere Geschichte wird, die von unserer Persönlichkeit, von unseren Werten, Träumen und Wünschen geprägt ist. \
 \
