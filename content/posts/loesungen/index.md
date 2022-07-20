@@ -6,7 +6,7 @@ pinned = false
 tags = ["Gedanken", "NewWork", "Selbstmanagement", "Sinn", "Werte"]
 image = "people-ga93582a71_640.jpg"
 description = "Wir haben vieles nicht in der Hand und doch können wir vieles in unserem (Arbeits-) Leben selbst gestalten. "
-footnotes = "Du möchtest dich selbst auf den Weg machen dein (Arbeits-) Leben selbst bewusster zu gestalten, mehr von dir in dein Leben zu bringen oder wieder mehr Harmonie und Gleichgewicht zwischen deiner aktuellen Situation und dem Wunschzustand herzustellen? [Dann melde dich für ein Coaching. ](https://www.bensblog.ch/ueber/)\\\n\\\n\\\nBild von [StockSnap](https://pixabay.com/de/users/stocksnap-894430/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2591874) auf [Pixabay](https://pixabay.com/de/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2591874)"
+footnotes = "Du möchtest dich selbst auf den Weg machen dein (Arbeits-) Leben selbst bewusster zu gestalten, mehr von dir in dein Leben zu bringen oder wieder mehr Harmonie und Gleichgewicht zwischen deiner aktuellen Situation und dem Wunschzustand herzustellen? Ich bin dein Zuhörer, Fragensteller und biete dir eine Aussensicht. [Hier findest du den Kontakt für ein Coaching.](https://www.bensblog.ch/ueber/)\\\n\\\n\\\nBild von [StockSnap](https://pixabay.com/de/users/stocksnap-894430/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2591874) auf [Pixabay](https://pixabay.com/de/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2591874)"
 +++
 ### **Das (Arbeits-) Leben selbst gestalten**
 
