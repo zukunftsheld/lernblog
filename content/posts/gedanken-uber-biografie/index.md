@@ -41,7 +41,7 @@ Unsere Biografie ist eine Geschichte über uns und unser Leben, die wir uns selb
 
 #### Ab hier ist alles möglich
 
-Wie ein Super-Selbsthilfe-Guru platziere ich den Titel «Alles ist möglich» und das ist wahr. Wahr heisst aber nicht, dass es einfach ist. Es ist ebenso unsicher, wie ob die Arbeit und die investierte Energie die gewünschten Früchte tragen werden. Wir können unser Leben aber selbst gestalten. Ja, ich schreibe und spreche immer wieder davon. Zu einem selbstbestimmten Leben gehören Freude, Energie, Mut, Wut, Scheitern, Neuausrichten, ein paar Schritte zurückmachen, Trauer, Euphorie und noch so vieles mehr. 
+Wie ein Super-Selbsthilfe-Guru platziere ich den Titel «Alles ist möglich» und das ist wahr. Wahr heisst aber nicht, dass es einfach ist. Es ist auch nicht sicher, ob die Arbeit und die investierte Energie die gewünschten Früchte tragen werden. Wir können unser Leben aber selbst gestalten. Ja, ich schreibe und spreche immer wieder davon. Zu einem selbstbestimmten Leben gehören Freude, Energie, Mut, Wut, Scheitern, Neuausrichten, ein paar Schritte zurückmachen, Trauer, Euphorie und noch so vieles mehr. 
 
 Wenn du also von hier aus auf eine schwierige Biografie zurückblickst, die von fremden Prägungen, Ungerechtigkeit oder anderen Dingen geprägt ist oder zu sein scheint, dann kannst du dich auf den Weg machen. 
 
