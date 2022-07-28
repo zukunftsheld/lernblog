@@ -32,8 +32,7 @@ Mittlerweile ist «Was Hänschen nicht lernt, lernt Hans nimmermehr» veraltet. 
 
 In allen drei Situationen haben wir nicht nur das, nennen wir es einmal «Mechanische» gelernt. Vielleicht haben wir um Hilfe gefragt, vielleicht mussten wir uns in Geduld üben, vielleicht mussten wir uns, unser Leben, die Situation aus neuen Blickwinkeln betrachten, vielleicht haben wir etwas geschafft, von dem wir dachten es sei unmöglich. Das sind unsere ganz natürlichen Lernbewegungen im Leben, die auch oder gerade ausserhalb von formaler Bildung stattfinden. Wir sind uns aber selten über diese Lernprozesse bewusst und so wissen viele nicht, was für tolle und kompetente Lerner:innen sie sind. 
 
-#### \
-Lernen bewusst machen
+#### Lernen bewusst machen
 
 Lernen findet immer statt. Wie kann man denn selbst sehen, was man gelernt hat? Wie kann man es anderen zeigen? Ganz am Anfang müssen wir das Lernen für uns selbst sichtbar machen oder noch vorher müssen wir ein Gefühl für unser Lernen entwickeln. Am einfachsten ist es wohl zu Beginn, wenn du dich auf ein Thema fokussierst. Was ist gerade aktuell? Wo möchtest du dir Kompetenzen aneignen oder deine Kompetenzen verbessern? \
 \
@@ -48,8 +47,7 @@ Am besten beginnst du hier bereits, das zu dokumentieren. Das können Fotos sein
 \
 Auch wenn du alleine beginnen kannst, empfiehlt es sich, Lernpartner:innen zu suchen. Das können Menschen sein, die auch selbstorganisiert und selbstbestimmt Lernen (wollen) oder Mentor:innen, die dich auf diesem Weg begleiten. Das müssen nicht Fachmentor:innen sein. Es reicht, wenn sie dich oder ihr euch gegenseitig bei der Reflexion unterstützt. Es ist gut, jemanden zu haben, der oder die dich immer wieder ermutigt.
 
-#### \
-Lernen sichtbar machen
+#### Lernen sichtbar machen
 
 \
 Endlich sind wir beim Titelthema. Du kannst das Lernen nicht nur für dich selbst sondern auch für andere sichtbar machen. Warum?
@@ -58,8 +56,6 @@ Endlich sind wir beim Titelthema. Du kannst das Lernen nicht nur für dich selbs
 * Es werden neben den fachlichen Kompetenzen auch viele andere sichtbar.
 * Andere interessierte können sich mit dir in Verbindung setzten und von dir und deinem Lernprozess lernen.
 * Was sonst «einfach so» passiert, wird sichtbar und wertvoll
-
-
 
 Das Sichtbarmachen kann ganz verschieden stattfinden. Rund um Colearning Bern schreiben wir [Lernblogs](https://www.lernblog.org). Du kannst aber auch Videos machen, Podcasts produzieren, mit Fotos dokumentieren oder das alles kombinieren. Den Möglichkeiten sind keine Grenzen gesetzt. Lernen ist nie fertig, es ist immer in Bewegung und was heute eine Erkenntnis ist, kann sich in einem Monat als Fehler, Missverständnis, ... herausstellen. Deshalb ist die Idee bei «Lernen sichtbar machen» nicht, nur Schönes und Fertiges zu teilen. Es geht darum, dem gesamten Prozess Raum zu geben. \
 \
