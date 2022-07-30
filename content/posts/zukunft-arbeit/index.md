@@ -48,4 +48,4 @@ New Work und Handwerk passt nicht! Handwerker:innen können nicht einfach im sch
 
 #### Alles Bullshit?
 
-Bei einem New Work-Buzzword-Bullshit-Bingo würde der Text wohl echt punkten. Bei all dem, was geschrieben ist geht es aber um Menschen. Es geht um uns! Ich hoffe, dass dieser Text das rüberbringen kann. Wir können heute die Zukunft der Arbeit selbst gestalten. Dafür dürfen wir das Alte würdigen, das Bewährte hinterfragen und damit weitermachen oder es verabschieden, das Neue mir Neugier betrachten und damit experimentieren.
+Bei einem New Work-Buzzword-Bullshit-Bingo würde der Text wohl echt punkten. Bei all dem, was geschrieben ist geht es aber um Menschen. Es geht um uns! Ich hoffe, dass dieser Text das rüberbringen kann. Wir können heute die Zukunft der Arbeit selbst gestalten. Dafür dürfen wir das Alte würdigen, das Bewährte hinterfragen und damit weitermachen oder es verabschieden. Wir dürfen das Neue mit Neugier betrachten und damit experimentieren.
