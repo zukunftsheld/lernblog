@@ -12,7 +12,7 @@ footnotes = "Du oder dein Unternehmen möchten sich selbst auf diesen Weg machen
 
 #### Meine Generation
 
-Ich bin einer der Generation Y und eigentlich mag ich diese Generationen-Zuschreibungen gar nicht so. Trotzdem sind Unterschiede erkennbar und jede Generation hat ihre eigene Zeit geprägt und/oder wurde von ihrer Zeit geprägt. Meine Prägung erkenne ich relativ klar. Ich kann sehen, wie mich die Werte und Haltung der Generation meiner Eltern (Boomer) geprägt hat und welche Prägungen ich aus der Zeit, in der ich aufgewachsen bin habe. Ich kann auch regionale Prägungen erkennen. In diesen Prägungen sehe ich Widersprüche. Das Erkennen, Akzeptieren und Hinterfragen dieser Widersprüche ermöglicht mir wiederum verschiedenen Perspektiven einzunehmen. Welche Eigenschaften meiner Generation zugeschrieben werden, kannst du googeln und selbst entscheiden, wie viel wohl auf mich zutrifft.
+Ich bin einer der Generation Y und eigentlich mag ich diese Generationen-Zuschreibungen gar nicht so. Trotzdem sind Unterschiede erkennbar und jede Generation hat ihre eigene Zeit geprägt und/oder wurde von ihrer Zeit geprägt. Meine Prägungen erkenne ich relativ klar. Ich kann sehen, wie mich die Werte und Haltung der Generation meiner Eltern (Boomer) geprägt hat und welche Prägungen ich aus der Zeit, in der ich aufgewachsen bin habe. Ich kann auch regionale Prägungen erkennen. In diesen Prägungen sehe ich Widersprüche. Das Erkennen, Akzeptieren und Hinterfragen dieser Widersprüche ermöglicht mir wiederum verschiedene Perspektiven einzunehmen. Welche Eigenschaften meiner Generation zugeschrieben werden, kannst du googeln und selbst entscheiden, wie viel wohl auf mich zutrifft.
 
 #### Die Arbeitswelt und die Generationen
 
