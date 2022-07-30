@@ -46,7 +46,6 @@ Es würde oft auch helfen, Bestehendes nicht einfach anpassen oder optimieren zu
 
 New Work und Handwerk passt nicht! Handwerker können nicht einfach im schönen Büro sitzen, Teilzeit arbeiten und Workations machen. Oder doch? Ich verstehe den Frust und die Gedanken hinter diesen Aussagen, teile sie aber nicht. Weil hier müsste zuerst wieder der New Work Begriff definiert werden. Betrachten wir New Work aber einfach einmal als eine humane(re) Form der Arbeit, bei der die Bedürfnisse der Arbeitnehmenden wichtig sind, dann wird schon ganz vieles möglich. Das gilt dann für alle Berufe. 
 
-#### \
-Alles Bullshit?
+#### Alles Bullshit?
 
 Bei einem New Work-Buzzword-Bullshit-Bingo würde der Text wohl echt punkten. Bei all dem, was geschrieben ist geht es aber um Menschen. Es geht um uns! Ich hoffe, dass dieser Text das rüberbringen kann. Wir können heute die Zukunft der Arbeit selbst gestalten. Dafür dürfen wir das Alte würdigen, das Bewährte hinterfragen und damit weitermachen oder es verabschieden, das Neue mir Neugier betrachten und damit experimentieren.
