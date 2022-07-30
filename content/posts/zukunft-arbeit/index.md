@@ -40,7 +40,7 @@ In einer Zeit wie der unseren scheint es mir wichtig, nicht die schnellen Lösun
 
 Aus meiner Sicht und bisherigen Erfahrung können wir die Zukunft nur gestalten, wenn wir in der Gegenwart beginnen. Dabei sollten wir akzeptieren, dass wir die Zukunft noch nicht kennen und in einer Zeit des Ausprobierens und neu Entdeckens leben. Dazu gehört auch Scheitern. Erfolgreich zu Scheitern haben die wenigsten von uns gelernt und deshalb ist es höchste Zeit.
 
-Es würde oft auch helfen, Bestehendes nicht einfach anpassen oder optimieren zu wollen, sondern wirklich neu zu machen. Es ist mir klar, das braucht Mut, Energie und so vieles mehr. Was wäre aber, wenn es funktioniert und das Unternehmen stark in die Zukunft geht?
+Es würde oft auch helfen, Bestehendes nicht einfach anpassen oder optimieren zu wollen, sondern wirklich neu zu machen. Es ist mir klar, das braucht Mut, Energie und so vieles mehr. Was wäre aber, wenn es funktioniert und das Unternehmen gestärkt in die Zukunft geht?
 
 #### Achtung bei New Work und Handwerk!
 
