@@ -3,7 +3,7 @@ title = "Learning by Doing"
 date = "2022-08-08"
 draft = true
 pinned = false
-footnotes = "Mehr zum selbstbestimmten Lernen findest du bei [colearning.org](https://www.colearning.org>)\\\n\\\nEinen anderen Blogbeitrag zum Thema [Learning by Doing findest du bei Fredi Zumbrunn](https://www.fredizumbrunn.ch/learnings-by-doing/)"
+footnotes = "Mehr zum selbstbestimmten Lernen findest du bei [colearning.org](https://www.colearning.org>)\\\n\\\nEinen anderen Blogbeitrag zum Thema [Learning by Doing findest du bei Fredi Zumbrunn](https://www.fredizumbrunn.ch/learnings-by-doing/)\\\n\\\nWeitere passende Bücher:\n\n[Berufen statt Zertifiziert, Neues Lernen, Neue Chancen, Anja C. Wagner](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/anja-c-wagner/berufen-statt-zertifiziert/id/9783035518689/)\\\n\\\n[Entlehrt euch!, Dr. Rolf Arnold](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/rolf-arnold/entlehrt-euch/id/9783035504590/)"
 +++
 ### Learning by Doing
 
@@ -41,12 +41,16 @@ Wir müssen also das Lernen der Menschen im Betrieb nicht planen oder steuern, s
 
 Menschen lernen von Menschen. So könnten Möglichkeiten geschaffen werden, damit Menschen im Unternehmen (auch Abteilungsübergreifend) mit- und voneinander lernen können. Eine einfache und schlanke Möglichkeit ist ein [gegenseitiges Mentoring](https://www.colearning.org/#mentoring) oder etwas weitreichender, wenn..
 
-##### \
-\
-Lernen sichtbar machen
+##### Lernen sichtbar machen
 
 .. das Lernen sichtbar gemacht wird. Das kann ganz unterschiedlich gemacht werden. Es können Veranstaltungen sein, bei denen sich Menschen über die eigenen Lernerlebnisse austauschen. Mit individuellen [Lernblogs](https://www.colearning.org/#lernblog) (das könnten auch Podcasts oder Videos sein) können die eigenen Lernerfahrungen mit allen geteilt werden. Dadurch können anderen von den eigenen Erfahrungen lernen, es finden sich vielleicht ähnliche Interessen, Problemstellungen oder andere Verbindungen.
 
 ##### Zeit einplanen
 
 [Harald Schirmer spricht und schreibt über das Einplanen von Lernzeiten.](https://harald-schirmer.de/2021/03/21/meine-keynote-zum-thema-lernen/) Es ist wichtig, dass wir uns Lernzeiten planen, sonst gehen sie unter. Diese Zeit muss m. E. nicht als aktive Lernzeit genutzt werden sondern kann als Reflexionszeit genutz werden. So könntest du dir zum Beispiel diese Mentoring-Fragen selbst stellen.
+
+#### 70:20:10
+
+Das 70:20:10 Framework hier aus dem Buch [Lernhacks](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/thomas-tillmann/lernhacks/id/9783800664986/), Mit einfachen Routinen Schritt für Schritt zur agilen Lernkultur zeigt ebenfalls die Wichtigkeit und Wirkung des informellen Lernens. 
+
+![](bildschirmfoto-2022-08-08-um-12.21.24.png)
