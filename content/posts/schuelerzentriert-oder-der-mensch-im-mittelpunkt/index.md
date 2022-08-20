@@ -5,7 +5,7 @@ draft = false
 pinned = false
 tags = ["Lernen", "Colearning", "Gedanken", "NewLearning"]
 image = "paraglider-g0e00ff0d2_640.jpg"
-description = "Schulwandel, Schule neu denken und neu machen, New Learning etc. sind immer häufiger zu lesen und zu hören. Wir sind rund um [Colearning](https://www.colearningbern.ch) ein Teil von dieser Bewegung oder diesen Bewegungen und Gedanken, die viel älter sind, als viele denken. Denn es sind nicht erst wir, die sich diesen Themen annehmen."
+description = "Schulwandel, Schule neu denken und neu machen, New Learning etc. sind immer häufiger zu lesen und zu hören. Wir sind rund um [Colearning](https://www.colearningbern.ch) und [Colearning.org](https://www.colearning.org)ein Teil von dieser Bewegung oder diesen Bewegungen und Gedanken, die viel älter sind, als viele denken. Denn es sind nicht erst wir, die sich diesen Themen annehmen."
 footnotes = "Rogers R, Die Entwicklung der Persönlichkeit\\\nBild von [suju-foto](https://pixabay.com/de/users/suju-foto-165106/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4806383) auf [Pixabay](https://pixabay.com/de/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4806383)"
 +++
 ### Schülerzentriert oder der Mensch im Mittelpunkt
