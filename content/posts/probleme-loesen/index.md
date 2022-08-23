@@ -8,7 +8,7 @@ pinned = false
 >
 > *[Urheber:in nicht ganz identifizierbar](https://falschzitate.blogspot.com/2019/06/wer-als-werkzeug-nur-einen-hammer-hat.html)*
 
-Heute stehen wir vor vielen Möglichkeiten, die Arbeitswelt selbst zu verändern. Je nach Sichtweise sind es zu lösende Probleme, grosse Chancen, nie dagewesene Herausforderungen, elementare Veränderungen etc. die uns bevorstehen oder in denen wir stecken. Es werden Lösungen gesucht, die dann bitte auch wieder die nächsten 10, 15, 20 Jahre halten sollen. Diese Lösungen werden immer noch gerne in Sitzungszimmern oder Seminarhotels ausgearbeitet und dann den Mitarbeitenden in Massnahmepaketen vorgestellt. Das kann man so machen, denn man hat es ja schon immer so gemacht. Die etwas moderneren gehen da schon agiler vor. Sie stellen Mitarbeitende vor neue Tatsachen wie zum Beispiel agiles arbeiten und dann sollen sie möglichst bald produktiv(er) werden. Wenns nicht klappt, dann sind wohl die nicht anpassungsfähigen Menschen schuld, die ihre Freiheit dann doch nicht nutzen wollen und können. Also wieder zurück zum Alten. Eigentlich hätte man sich das ja denken können. 
+Heute stehen wir vor vielen Möglichkeiten, die Arbeitswelt selbst zu verändern. Je nach Sichtweise sind es zu lösende Probleme, grosse Chancen, nie dagewesene Herausforderungen, elementare Veränderungen etc. die uns bevorstehen oder in denen wir stecken. Es werden Lösungen gesucht, die dann bitte auch wieder die nächsten 10, 15, 20 Jahre halten sollen. Diese Lösungen werden immer noch gerne in Sitzungszimmern oder Seminarhotels ausgearbeitet und dann den Mitarbeitenden in Massnahmepaketen vorgestellt. Das kann man so machen, denn man hat es ja schon immer so gemacht. Die etwas moderneren gehen da schon agiler vor. Sie stellen Mitarbeitende vor neue Tatsachen wie zum Beispiel agiles Arbeiten und dann sollen sie möglichst bald produktiv(er) werden. Wenns nicht klappt, dann sind wohl die nicht anpassungsfähigen Menschen schuld, die ihre Freiheit dann doch nicht nutzen wollen und können. Also wieder zurück zum Alten. Eigentlich hätte man sich das ja denken können. 
 
 #### Wo kommen wir her?
 
@@ -34,4 +34,4 @@ Unser Schul-, Arbeits- und Weiterbildungssystem basiert auf klaren Strukturen. E
 
 #### Was wäre, wenn wir einen ganzen Werkzeugkasten zur Verfügung hätten?
 
-Nachdem der Hammer so lange Zeit funktioniert hat wäre es kaum hilfreich zu sagen, dass der nun nichts mehr taugt. Es ist aber sehr wahrscheinlich, dass er nicht mehr die Lösung ist.
+Nachdem der Hammer so lange Zeit funktioniert hat wäre es kaum hilfreich zu sagen, dass der nun nichts mehr taugt. Es ist aber sehr wahrscheinlich, dass er nicht mehr die Lösung ist. Wenn wir einen Nagel einschlagen wollen, dann werden wir uns für den Hammer entscheiden (alles andere wäre dann auch nicht hilfreich).
