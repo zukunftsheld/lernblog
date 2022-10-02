@@ -3,6 +3,7 @@ title = "Learning by Doing"
 date = "2022-08-08"
 draft = false
 pinned = false
+tags = ["Lernen", "NewLearning", "NewWork"]
 image = "startup-g94a56e7f2_1280.jpg"
 description = "Learning by Doing ist Lernen in seiner natürlichen Form. Wie bringen wir wieder mehr davon in unser (Arbeits-) Leben? Dazu gibt es in diesem Beitrag einige Gedanken. "
 footnotes = "Mehr zum selbstbestimmten Lernen findest du bei [colearning.org](https://www.colearning.org>)\\\n\\\n[Hier gibt es mehr über Social Learning zu lesen ](https://www.linkedin.com/pulse/wissen-teilen-ist-macht-mit-social-learning-die-zukunft-dunkel/?trackingId=kvgwofmq8TXxlmJdFocQtg%3D%3D)\\\n\\\nEinen anderen Blogbeitrag zum Thema [Learning by Doing findest du bei Fredi Zumbrunn](https://www.fredizumbrunn.ch/learnings-by-doing/)\\\n\\\n**Weitere passende Bücher:**\n\n[Berufen statt Zertifiziert, Neues Lernen, Neue Chancen, Anja C. Wagner](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/anja-c-wagner/berufen-statt-zertifiziert/id/9783035518689/)\\\n\\\n[Entlehrt euch!, Dr. Rolf Arnold](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/rolf-arnold/entlehrt-euch/id/9783035504590/)\\\n\\\nTitelbild:  [StartupStockPhotos](https://pixabay.com/de/users/startupstockphotos-690514/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=593341) auf [Pixabay](https://pixabay.com/de//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=593341)"
