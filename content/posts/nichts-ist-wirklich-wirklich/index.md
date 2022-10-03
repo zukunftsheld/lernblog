@@ -12,7 +12,7 @@ footnotes = "Bild von [fda54](https://pixabay.com/de/users/fda54-145996/?utm_so
 
 > Nichts ist wirklich wirklich - aber jeder tut so, als gäbe es die Wirklichkeit
 >
-> *Aus Beraten ohne Ratschlag von Sonja Radatz*
+> *Radatz (2000), Beraten ohne Ratschlag: Systemisches Coaching für Führungskräfte und BeraterInnen*
 
 #### Einleitende Gedanken
 
@@ -29,7 +29,7 @@ Natürlich kennen wir die Zukunft nicht. Wir können sie uns konstruieren und wi
 Auch hier ist es schwierig, die Coaching-Haltung zu definieren (in meiner Wirklichkeit nicht, da habe ich eine klare Vorstellung. Aber unter Coaching wird ja so vieles verkauft). Also mach dir beim Lesen doch noch einmal bewusst, dass es sich hier um meine Wirklichkeit handelt. 
 
 > Die objektive Wirklichkeit gibt es nicht - sie entsteht im Auge des Betrachters.\
-> *Aus Beraten ohne Ratschlag von Sonja Radatz* 
+> *Radatz (2000), Beraten ohne Ratschlag: Systemisches Coaching für Führungskräfte und BeraterInnen*
 
 Ich beziehe mich hier grob auf die systemisch-konstruktivistische Denkweise und bedenke: «Zu erklären, was systemisch-konstruktivistisches Denken nun wirklich ist, begründet bereits den Widerspruch in sich: Es gibt wohl unendlich viele unterschiedliche Definitionen von Konstruktivismus ebenso wie von systemischer Arbeit - Definitionen, die hautpsächlich aus dem Blickwinkel des individuellen Tätigkeitsbereiches festgelegt werden.» *Radatz (2000), Beraten ohne Ratschlag: Systemisches Coaching für Führungskräfte und BeraterInnen*
 
@@ -37,7 +37,7 @@ Ich beziehe mich hier grob auf die systemisch-konstruktivistische Denkweise und 
 
 > «Kein Ansatz, der sich auf Wissen, auf Training, auf die Annahme irgendeiner Lehre verlässt, kann auf Dauer von Nutzen sein. Haltung ist entscheidend, nicht Worte.» 
 >
-> *Carl R. Rogers* 
+> *Carl R. Rogers* (Rogers 1989)
 
 \
 Meine Arbeit als Coach ist u. a. von der personenzentrierten Gesprächsführung nach Carl R. Rogers sowie der «Coaching-Haltung», wie sie Sonja Radatz beschreibt, geprägt: **«Helfen SIE mir dabei, dass ICH erkenne, wo mein Problem liegt, und unterstützen Sie mich bei MEINEN daran angrenzenden Lösungsversuchen!»*** 
@@ -74,7 +74,7 @@ So scheint es mir hilfreicher, kleinere Schritte zu machen und egal ob als Coach
 
 > «Je mehr ich einfach gewillt bin, inmitten dieser ganzen Komplexität des Lebens ich selbst zu sein, und je mehr ich gewillt bin, die Realitäten in mir selbst und im anderen zu verstehen und zu akzeptieren, desto mehr Veränderung scheint in Gang zu kommen.
 >
->  *Carl R. Rogers*
+>  *Carl R. Rogers (Rogers 1973)*
 
 #### und wenn alles ganz anders ist?
 
