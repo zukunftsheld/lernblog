@@ -29,7 +29,7 @@ Natürlich kennen wir die Zukunft nicht. Wir können sie uns konstruieren und wi
 Auch hier ist es schwierig, die Coaching-Haltung zu definieren (in meiner Wirklichkeit nicht, da habe ich eine klare Vorstellung. Aber unter Coaching wird ja so vieles verkauft). Also mach dir beim Lesen doch noch einmal bewusst, dass es sich hier um meine Wirklichkeit handelt. 
 
 > Die objektive Wirklichkeit gibt es nicht - sie entsteht im Auge des Betrachters.\
-> *Aus Beraten ohne Ratschlag von Sonja Radatz*
+> *Aus Beraten ohne Ratschlag von Sonja Radatz* 
 
 Ich beziehe mich hier grob auf die systemisch-konstruktivistische Denkweise und bedenke: «Zu erklären, was systemisch-konstruktivistisches Denken nun wirklich ist, begründet bereits den Widerspruch in sich: Es gibt wohl unendlich viele unterschiedliche Definitionen von Konstruktivismus ebenso wie von systemischer Arbeit - Definitionen, die hautpsächlich aus dem Blickwinkel des individuellen Tätigkeitsbereiches festgelegt werden.» *Radatz (2000), Beraten ohne Ratschlag: Systemisches Coaching für Führungskräfte und BeraterInnen*
 
@@ -70,7 +70,7 @@ In letzter Zeit fallen mir auch immer mehr Beiträge auf, bei denen es darum geh
 
 Wenn nun jemand merkt, dass man doch New Work machen sollte, um in dieser VUCA-Welt zu bestehen oder ein gesundes Arbeitsumfeld mit psychologischer Sicherheit für seine Mitarbeitenden und sich selbst zu schaffen, dann ist es bereits ein erster Schritt. Man könnte schnelle und bereits bekannte Lösungen übernehmen. Aber was steckt wirklich hinter der Motivation der Veränderung? Wo sind innere und äussere Hürden? Welche Ressourcen stehen zur Verfügung? 
 
-So scheint es mir hilfreicher, kleinere Schritte zu machen und egal ob als Coach, Berater*in von aussen oder als Unternehmen selbst, zuerst einmal neugierig und mit Offenheit hinzuschauen und hinzuhören. Das ist eine riesen Herausforderung, die sich aber lohnt. Es gibt also nicht DIE LÖSUNG. Frederic Laloux schreibt von ganz vielen verschiedenen Möglichkeiten, Veränderungen im Unternehmen vorzunehmen und alle können funktionieren. Die Wege sind so individuell wie die Unternehmen selbst.  
+So scheint es mir hilfreicher, kleinere Schritte zu machen und egal ob als Coach, Berater*in von aussen oder als Unternehmen selbst, zuerst einmal neugierig und mit Offenheit hinzuschauen und hinzuhören. Das ist eine riesen Herausforderung, die sich aber lohnt. Es gibt also nicht DIE LÖSUNG. Frederic Laloux (Laloux 2015) schreibt von ganz vielen verschiedenen Möglichkeiten, Veränderungen im Unternehmen vorzunehmen und alle können funktionieren. Die Wege sind so individuell wie die Unternehmen selbst.  
 
 > «Je mehr ich einfach gewillt bin, inmitten dieser ganzen Komplexität des Lebens ich selbst zu sein, und je mehr ich gewillt bin, die Realitäten in mir selbst und im anderen zu verstehen und zu akzeptieren, desto mehr Veränderung scheint in Gang zu kommen.
 >
