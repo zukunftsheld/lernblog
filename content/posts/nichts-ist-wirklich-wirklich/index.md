@@ -6,7 +6,7 @@ pinned = false
 tags = ["Gedanken", "NewWork", "Coaching", "Arbeit", "NewLearning"]
 image = "staircase-g5501a7147_1280.jpg"
 description = "Woran soll man sich in dieser (Arbeits-)Welt und den Veränderungen eigentlich orientieren? Wie wäre es, wenn wir uns einmal bewusst machen: «Nichts ist wirklich wirklich - aber jeder tut so, als gäbe es die Wirklichkeit». "
-footnotes = "\\\n\\\nBild von [fda54](https://pixabay.com/de/users/fda54-145996/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=274614) auf [Pixabay](https://pixabay.com/de/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=274614)"
+footnotes = "Radatz Sonja (2000), Beraten ohne Ratschlag: Systemisches Coaching für Führungskräfte und BeraterInnen\n\nRogers Carl. R. (1973), Entwicklung der Persönlichkeit: Psychotherapie aus Sicht eines Therapeuten\n\n\\\nBild von [fda54](https://pixabay.com/de/users/fda54-145996/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=274614) auf [Pixabay](https://pixabay.com/de/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=274614)"
 +++
 ### Was ist, wenn nichts wirklich wirklich ist?
 
@@ -36,7 +36,7 @@ Ich beziehe mich hier grob auf die systemisch-konstruktivistische Denkweise und 
 
 > «Kein Ansatz, der sich auf Wissen, auf Training, auf die Annahme irgendeiner Lehre verlässt, kann auf Dauer von Nutzen sein. Haltung ist entscheidend, nicht Worte.» 
 >
-> *Carl R. Rogers* (Rogers 1989)
+> *Carl R. Rogers* 
 
 \
 Meine Arbeit als Coach ist u. a. von der personenzentrierten Gesprächsführung nach Carl R. Rogers sowie der «Coaching-Haltung», wie sie Sonja Radatz beschreibt, geprägt: **«Helfen SIE mir dabei, dass ICH erkenne, wo mein Problem liegt, und unterstützen Sie mich bei MEINEN daran angrenzenden Lösungsversuchen!»*** 
