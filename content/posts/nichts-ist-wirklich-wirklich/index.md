@@ -6,7 +6,7 @@ pinned = false
 tags = ["Gedanken", "NewWork", "Coaching", "Arbeit", "NewLearning"]
 image = "staircase-g5501a7147_1280.jpg"
 description = "Woran soll man sich in dieser (Arbeits-)Welt und den Veränderungen eigentlich orientieren? Wie wäre es, wenn wir uns einmal bewusst machen: «Nichts ist wirklich wirklich - aber jeder tut so, als gäbe es die Wirklichkeit». "
-footnotes = "Bild von [fda54](https://pixabay.com/de/users/fda54-145996/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=274614) auf [Pixabay](https://pixabay.com/de/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=274614)"
+footnotes = "\\\n\\\nBild von [fda54](https://pixabay.com/de/users/fda54-145996/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=274614) auf [Pixabay](https://pixabay.com/de/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=274614)"
 +++
 ### Was ist, wenn nichts wirklich wirklich ist?
 
@@ -26,9 +26,8 @@ Natürlich kennen wir die Zukunft nicht. Wir können sie uns konstruieren und wi
 
 #### Wie wärs mit der «Coaching-Haltung»?
 
-Auch hier ist es schwierig, die Coaching-Haltung zu definieren (in meiner Wirklichkeit nicht, da habe ich eine klare Vorstellung. Aber unter Coaching wird ja so vieles verkauft). Also mach dir beim Lesen doch noch einmal bewusst, dass es sich hier um meine Wirklichkeit handelt. 
-
-> Die objektive Wirklichkeit gibt es nicht - sie entsteht im Auge des Betrachters.\
+> Auch hier ist es schwierig, die Coaching-Haltung zu definieren (in meiner Wirklichkeit nicht, da habe ich eine klare Vorstellung. Aber unter Coaching wird ja so vieles verkauft). Also mach dir beim Lesen doch noch einmal bewusst, dass es sich hier um meine Wirklichkeit handelt. 
+>
 > *Radatz (2000), Beraten ohne Ratschlag: Systemisches Coaching für Führungskräfte und BeraterInnen*
 
 Ich beziehe mich hier grob auf die systemisch-konstruktivistische Denkweise und bedenke: «Zu erklären, was systemisch-konstruktivistisches Denken nun wirklich ist, begründet bereits den Widerspruch in sich: Es gibt wohl unendlich viele unterschiedliche Definitionen von Konstruktivismus ebenso wie von systemischer Arbeit - Definitionen, die hautpsächlich aus dem Blickwinkel des individuellen Tätigkeitsbereiches festgelegt werden.» *Radatz (2000), Beraten ohne Ratschlag: Systemisches Coaching für Führungskräfte und BeraterInnen*
