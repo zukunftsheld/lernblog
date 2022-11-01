@@ -1,5 +1,34 @@
 # Changelog
 
+## Version 2.0.0
+
+- Update Hugo to v0.105.0.
+- Upgrade to Bootstrap 5.2. Remove jQuery.
+- Paginate improvements and archive:
+  - Paginate home and tag pages differently (show more entries in tag pages).
+  - Fix paginator showing too many page numbers.
+  - Better paginator styling.
+  - Add an archive page under `/posts/`.
+- ATOM feed improvements (JSON feed will be removed):
+  - Create feeds for each tag in addition to the main feed.
+  - Paginate feed (same pagination rules as the home and tag pages).
+  - Use [webfeeds](http://webfeeds.org/rss/1.0) namespace for `icon`, `logo`, `cover`, `accentColor`, and `featuredImage`.
+  - Add featured image to feed content if the feed contains no image.
+  - Improve `<updated>` field in entries: Use `:fileModTime` if `:git` info and `lastmod` (in frontmatter) are not available.
+- BREAKING: Remove JSON feed (did not increase in popularity in recent years and is a hassle to keep synced with ATOM feed).
+- Layout: Do not use image zoom of images that are used as links.
+- Improve `figcaption` regex to identify images.
+- Improve print layout.
+- Add shortcodes for `{{<box>}}{{</box>}}`, `{{<lead>}}{{</lead>}}`.
+  Also `{{<youtube video_id>}}` and `{{<vimeo video_id>}}` in non-tracking mode can be used.
+- Add examples for box, lead, youtube, and vimeo.
+- Show related blog posts at the bottom of each post.
+
+## Version 1.5.1 (2022-09-22)
+
+- Remove `utm_source` in atom feed links again (I don't like it in URLs).  
+- Fix Netlify CMS cursor jump issue in Chrome/Edge (see https://github.com/netlify/netlify-cms/issues/5092).
+
 ## Version 1.5.0 (2020-11-01)
 
 - Change from lernblog.ch to lernblog.org.
