@@ -21,6 +21,7 @@ Lernen ist das Natürlichste auf der Welt. Ich lerne mir ihr und von ihr. 
 Meine ersten fünf Lebensjahre verbrachte ich in einem sehr lebendigen Umfeld zwischen Bauernhöfen (Kühen, Traktoren, beim Mähen) ..., der Gemeindeverwaltung (mein Grossvater war nebenberuflich Gemeindeschreiber, meine Grossmutter arbeitete auch mit und das im selben Haus, in dem wir wohnten) und mein Vater arbeitete im Krankenhaus, später im Aussendienst mit dem Büro in unserer Wohnung. Ich war also umgeben von Menschen, die irgendwie voll am Puls des Lebens arbeiteten. Ich hatte die wunderbare Möglichkeit, so viel zu beobachten, zu hören und zu erleben. Was für ein Geschenk.  
 
 ####  \
+
 Dann kommt die Schulzeit 
 
 Hier möchte ich gar nicht zu stark darauf eingehen. In verschiedenen anderen Beiträgen in diesem Blog finden sich Erlebnisse und Gedanken dazu. Jede und jeder hat hier seine eigenen guten oder schlechten Erfahrungen gemacht. Zu dem, was vorher war, ist m. E. hier aber ein grosser Bruch. Ich wollte nach neun Schuljahren und einem zehnten Schuljahr auf jeden Fall nie wieder etwas mit Schule (Lernen, Lehrer:innen, ...) zu tun haben. Lange Zeit hatte ich das Gefühl, dieses Lernen müsste doch anders gehen. Es müsste doch möglich sein, den Interessen zu folgen. Es müsste doch möglich sein, draussen zu lernen, sich zu bewegen, ... .  
@@ -29,8 +30,7 @@ Hier möchte ich gar nicht zu stark darauf eingehen. In verschiedenen anderen Be
 
 Heute weiss ich, dass es dieses Lernen, wie ich es mir gewünscht hätte, gibt. Es war immer da. Heute spricht man auch von agilem Lernen oder von New Learning. Eigentlich ist vieles gar nicht so neu, aber es scheint uns wie eine Innovation, wie eine vielversprechende Neuheit, weil wir vergessen haben, wie Arbeiten und Lernen einmal ganz natürlich und normal ineinanderflossen.  
 
-#### \
-Im Leben lernen 
+#### Im Leben lernen 
 
 Ich war damals (als Schüler) der Meinung (auch, wenn ich es nie so hätte ausdrücken können), wir lernen am besten im echten Leben. Arbeitszeit? Freizeit? Schulzeit? Auszeit? Lebenszeit! Lernzeit. Ja, wir finden überall Lerngelegenheiten. Heute weiss ich, Lernen ist Leben und Leben ist Lernen. Heute habe ich die Möglichkeit, Möglichkeiten und Bewusstsein dafür zu schaffen. 
 
