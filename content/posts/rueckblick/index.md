@@ -1,7 +1,7 @@
 +++
 title = "Rückblick"
 date = "2022-11-02"
-draft = true
+draft = false
 pinned = false
 tags = ["Lernen", "Colearning", "Biografie", ""]
 image = "bildschirmfoto-2022-11-01-um-16.35.21.png"
