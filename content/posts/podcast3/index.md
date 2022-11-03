@@ -49,6 +49,14 @@ Für mich ist nach wie vor wichtig, Podcasts aufzunehmen, die echt sind. Sie dü
 
 In diesem Jahr verdiente ich das erste Mal Geld mit Auftragspodcasts. Weil ich unterwegs war und alles etwas stimmiger sein musste, passte ich mein Equipment noch einmal an. So bin ich heute unterwegs. 
 
-Shure MV7X
+1 Mikrofon [Shure MV7X](https://www.galaxus.ch/en/s1/product/shure-mv7x-dynamic-podcast-microphone-xlr-microphones-22671278)(nur XLR-Anschluss)
 
-Shure MV7
+1 Mikrofon [Shure MV7](https://www.galaxus.ch/en/s1/product/shure-mv7-broadcast-podcasting-microphones-14356382)(nur USB- und XLR-Anschluss)
+
+12 Tischstative [K&M 23150-3](*%20**K&M%2023150-3**)
+
+2 XLR-Kabel (1x kurz & 1x lang)
+
+[Zoom H5 Audiorecorder](https://www.galaxus.ch/en/s1/product/zoom-h5-handheld-audio-recorders-2752880?isSecondHand=true&shid=859802&gclid=CjwKCAjwzY2bBhB6EiwAPpUpZva_CiUtftB2qvH0eGWExtafrxemnRR1wxK7CtvZ_OIL05-MDwEjcxoC9rMQAvD_BwE&gclsrc=aw.ds) (mit 2 XLR-Anschlüssen)
+
+1 Koffer [B+WOutdoor case type 3000 - SI](https://www.galaxus.ch/en/s1/product/bw-outdoor-case-type-3000-si-suitcase-camera-bag-7105761?supplier=406802) (Wasser- und Staubdicht)
