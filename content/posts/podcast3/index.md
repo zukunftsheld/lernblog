@@ -73,8 +73,29 @@ Kopfhörer [Audio Technica ATH-M30x](https://www.galaxus.ch/en/s1/product/audio-
 
 #### Und jetzt?
 
-So bin ich mittlerweile unterwegs und bin ganz zufrieden mit dem Material. Es hat eine gute Qualität und macht sich auch auf Bildern gut. Die Stative sind nicht ganz so stabil und fest wie ich es mir wünschen würde, sie erfüllen aber ihren Zweck. Den Koffer nutze ich vor allem bei längeren Reisen und bei schlechtem Wetter. Es lässt sich auch alles ganz gut im Rucksack verstauen. 
+So bin ich mittlerweile unterwegs und bin ganz zufrieden mit dem Material. Es hat eine gute Qualität und die Mikrofone machen sich auch auf den Bildern gut. Die Stative sind nicht ganz so stabil und fest wie ich es mir wünschen würde, sie erfüllen aber ihren Zweck. Den Koffer nutze ich vor allem bei längeren Reisen und bei schlechtem Wetter. Es lässt sich auch alles ganz gut im Rucksack verstauen. 
 
 #### Podcast-Formate
 
-Mittlerweile sind einige Formate zusammengekommen.
+##### Mittlerweile sind einige Formate zusammengekommen\
+\
+entwicklungsfreiraum 
+
+Solo-Folgen, aufgenommen am Schreib- oder Küchentisch mit den verschiedenen, in den Blogbeiträgen erwähnten Mikrofonen.
+
+##### ZUKUNFTSHELDEN
+
+Gespräche und Solo-Folgen. Aufgenommen an verschiedenen Orten (Sofa, Sitzungszimmer, zoom, zencaster)
+
+##### 24 Stunden
+
+Gespräche (bis heute nur 2), aufgenommen über zoom
+
+##### Colearning.org
+
+Aufgenommen im Effinger Studio, inkl. Videoaufnahme\
+Mikrofone MV7 und MV7X
+
+##### Podcast rund um des Neubauprojekt Mühelmatt in Belp
+
+Aufgenommen in verschiedenen Sitzungszimmern, Mikrofone immer Shure MV7 & MV7X
