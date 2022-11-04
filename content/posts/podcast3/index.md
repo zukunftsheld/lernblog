@@ -4,6 +4,7 @@ date = "2022-11-04"
 draft = false
 pinned = false
 tags = ["Podcast"]
+image = "6a473fef-8df6-4e9f-b7b9-327ddd90afdf.jpg"
 description = "Aktuelle Erkenntnisse, Erfahrungen und Überblick über das aktuelle Material nach zwei Jahren als Podcaster."
 +++
 ### Erfahrungen aus mehr als zwei Jahren als Podcaster
