@@ -1,9 +1,10 @@
 +++
 title = "Erfahrungen aus zwei Jahren als Podcaster"
-date = "2022-11-03"
-draft = true
+date = "2022-11-04"
+draft = false
 pinned = false
 tags = ["Podcast"]
+description = "Aktuelle Erkenntnisse, Erfahrungen und Überblick über das aktuelle Material nach zwei Jahren als Podcaster."
 +++
 ### Erfahrungen aus mehr als zwei Jahren als Podcaster
 
@@ -78,12 +79,17 @@ So bin ich mittlerweile unterwegs und bin ganz zufrieden mit dem Material. Es ha
 #### Podcast-Formate
 
 ##### Mittlerweile sind einige Formate zusammengekommen\
-\
+
+##### \
 entwicklungsfreiraum 
 
 Solo-Folgen, aufgenommen am Schreib- oder Küchentisch mit den verschiedenen, in den Blogbeiträgen erwähnten Mikrofonen.
 
 ##### ZUKUNFTSHELDEN
+
+```
+<script class="podigee-podcast-player" src="https://player.podigee-cdn.net/podcast-player/javascripts/podigee-podcast-player.js" data-configuration="https://zukunftshelden.podigee.io/embed?context=external"></script>
+```
 
 Gespräche und Solo-Folgen. Aufgenommen an verschiedenen Orten (Sofa, Sitzungszimmer, zoom, zencaster)
 
@@ -92,6 +98,10 @@ Gespräche und Solo-Folgen. Aufgenommen an verschiedenen Orten (Sofa, Sitzungszi
 Gespräche (bis heute nur 2), aufgenommen über zoom
 
 ##### Colearning.org
+
+```
+{{<youtube 7x_fDi_87UM&t=11s>}}
+```
 
 Aufgenommen im Effinger Studio, inkl. Videoaufnahme\
 Mikrofone MV7 und MV7X
