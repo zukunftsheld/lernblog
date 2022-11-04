@@ -35,7 +35,7 @@ Für mich ist nach wie vor wichtig, Podcasts aufzunehmen, die echt sind. Sie dü
 * Zuhause in verschiedenen Räumen
 * über zoom
 
-![](bildschirmfoto-2022-11-03-um-12.30.17.png "Studio Effinger")
+![](bildschirmfoto-2022-11-04-um-11.08.36.png "Studio Effinger")
 
 ![](img_5123.jpg "Bild aus dem Studio Effinger, Foto: Joscha Tschanz")
 
