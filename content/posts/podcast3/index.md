@@ -1,7 +1,7 @@
 +++
 title = "Erfahrungen aus zwei Jahren als Podcaster"
 date = "2022-11-04"
-draft = false
+draft = true
 pinned = false
 tags = ["Podcast"]
 image = "6a473fef-8df6-4e9f-b7b9-327ddd90afdf.jpg"
