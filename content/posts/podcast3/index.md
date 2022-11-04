@@ -1,10 +1,10 @@
 +++
 title = "Erfahrungen aus zwei Jahren als Podcaster"
 date = "2022-11-04"
-draft = true
+draft = false
 pinned = false
 tags = ["Podcast"]
-image = "6a473fef-8df6-4e9f-b7b9-327ddd90afdf.jpg"
+image = "img_5123.jpg"
 description = "Aktuelle Erkenntnisse, Erfahrungen und Überblick über das aktuelle Material nach zwei Jahren als Podcaster."
 +++
 ### Erfahrungen aus mehr als zwei Jahren als Podcaster
@@ -81,21 +81,21 @@ So bin ich mittlerweile unterwegs und bin ganz zufrieden mit dem Material. Es ha
 
 ##### Mittlerweile sind einige Formate zusammengekommen
 
-##### entwicklungsfreiraum
+##### [entwicklungsfreiraum](https://www.entwicklungsfreiraum.ch)
 
 Solo-Folgen, aufgenommen am Schreib- oder Küchentisch mit den verschiedenen, in den Blogbeiträgen erwähnten Mikrofonen.
 
-##### ZUKUNFTSHELDEN
+##### [ZUKUNFTSHELDEN](https://www.zukunftshelden.ch/podcast)
 
-Gespräche und Solo-Folgen. Aufgenommen an verschiedenen Orten (Sofa, Sitzungszimmer, zoom, zencaster)
+[](https://www.zukunftshelden.ch/podcast)Gespräche und Solo-Folgen. Aufgenommen an verschiedenen Orten (Sofa, Sitzungszimmer, zoom, zencaster)
 
-##### 24 Stunden
+##### [24 Stunden](https://www.24stunden.life)
 
 Gespräche (bis heute nur 2), aufgenommen über zoom
 
-##### Colearning.org
+##### [Colearning.org](https://colearning.podigee.io)
 
-Aufgenommen im Effinger Studio, inkl. Videoaufnahme\
+Aufgenommen im Effinger Studio, inkl. [Videoaufnahme](https://www.youtube.com/channel/UC06qEJZv4sB5LkAYUhkyJww) von [Joscha Tschanz](https://www.joschatschanz.ch)\
 Mikrofone MV7 und MV7X
 
 ##### Podcast rund um des Neubauprojekt Mühelmatt in Belp
