@@ -100,6 +100,10 @@ Gespräche und Solo-Folgen. Aufgenommen an verschiedenen Orten (Sofa, Sitzungszi
 
 ##### 24 Stunden
 
+```
+<script class="podigee-podcast-player" src="https://player.podigee-cdn.net/podcast-player/javascripts/podigee-podcast-player.js" data-configuration="https://24stunden.podigee.io/embed?context=external"></script>
+```
+
 Gespräche (bis heute nur 2), aufgenommen über zoom
 
 ##### Colearning.org
