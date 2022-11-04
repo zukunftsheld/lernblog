@@ -79,7 +79,7 @@ So bin ich mittlerweile unterwegs und bin ganz zufrieden mit dem Material. Es ha
 
 #### Podcast-Formate
 
-##### Mittlerweile sind einige Formate zusammengekommen\
+##### Mittlerweile sind einige Formate zusammengekommen
 
 ##### entwicklungsfreiraum 
 
