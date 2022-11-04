@@ -37,9 +37,9 @@ Für mich ist nach wie vor wichtig, Podcasts aufzunehmen, die echt sind. Sie dü
 
 ![](bildschirmfoto-2022-11-03-um-12.30.17.png "Studio Effinger")
 
-![](img_5123.jpg)
+![](img_5123.jpg "Bild aus dem Studio Effinger, Foto: Joscha Tschanz")
 
-![](6a473fef-8df6-4e9f-b7b9-327ddd90afdf.jpg)
+![](6a473fef-8df6-4e9f-b7b9-327ddd90afdf.jpg "Podcastaufnahme im Esszimmer")
 
 ##### Hier sind meine Gesprächsparner:innen, wenn wir über zoom aufnehmen
 
@@ -83,6 +83,10 @@ So bin ich mittlerweile unterwegs und bin ganz zufrieden mit dem Material. Es ha
 
 ##### \
 entwicklungsfreiraum 
+
+```
+<script class="podigee-podcast-player" src="https://player.podigee-cdn.net/podcast-player/javascripts/podigee-podcast-player.js" data-configuration="https://entwicklungsfreiraum.podigee.io/embed?context=external"></script>
+```
 
 Solo-Folgen, aufgenommen am Schreib- oder Küchentisch mit den verschiedenen, in den Blogbeiträgen erwähnten Mikrofonen.
 
