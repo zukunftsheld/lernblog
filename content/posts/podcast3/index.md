@@ -35,11 +35,11 @@ Für mich ist nach wie vor wichtig, Podcasts aufzunehmen, die echt sind. Sie dü
 * Zuhause in verschiedenen Räumen
 * über zoom
 
-![](bildschirmfoto-2022-11-04-um-11.08.36.png "Studio Effinger")
+![Im Studio Effinger ](bildschirmfoto-2022-11-04-um-11.08.36.png "Studio Effinger")
 
-![](img_5123.jpg "Bild aus dem Studio Effinger, Foto: Joscha Tschanz")
+![Bild aus dem Studio Effinger, Foto: Joscha Tschanz](img_5123.jpg "Bild aus dem Studio Effinger, Foto: Joscha Tschanz")
 
-![](6a473fef-8df6-4e9f-b7b9-327ddd90afdf.jpg "Podcastaufnahme im Esszimmer")
+![Podcastaufnahme im Esszimmer](6a473fef-8df6-4e9f-b7b9-327ddd90afdf.jpg "Podcastaufnahme im Esszimmer")
 
 ##### Hier sind meine Gesprächsparner:innen, wenn wir über zoom aufnehmen
 
@@ -71,7 +71,7 @@ Kopfhörer [Audio Technica ATH-M30x](https://www.galaxus.ch/en/s1/product/audio-
 
 1 Koffer [B+WOutdoor case type 3000 - SI](https://www.galaxus.ch/en/s1/product/bw-outdoor-case-type-3000-si-suitcase-camera-bag-7105761?supplier=406802) (Wasser- und Staubdicht)
 
-![](img_6476.jpg)
+![Aktuelles Podcast Equipment](img_6476.jpg)
 
 #### Und jetzt?
 
