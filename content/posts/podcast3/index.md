@@ -117,4 +117,6 @@ Mikrofone MV7 und MV7X
 
 ##### Podcast rund um des Neubauprojekt Mühelmatt in Belp
 
+[Hier gehts zur Kommunikationsplattform inkl. Podcastinterviews](https://www.muehlemattbelp.ch/tags/podcast/)
+
 Aufgenommen in verschiedenen Sitzungszimmern, Mikrofone immer Shure MV7 & MV7X
