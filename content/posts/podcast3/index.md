@@ -81,8 +81,7 @@ So bin ich mittlerweile unterwegs und bin ganz zufrieden mit dem Material. Es ha
 
 ##### Mittlerweile sind einige Formate zusammengekommen\
 
-##### \
-entwicklungsfreiraum 
+##### entwicklungsfreiraum 
 
 ```
 <script class="podigee-podcast-player" src="https://player.podigee-cdn.net/podcast-player/javascripts/podigee-podcast-player.js" data-configuration="https://entwicklungsfreiraum.podigee.io/embed?context=external"></script>
