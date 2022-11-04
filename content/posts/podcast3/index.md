@@ -1,7 +1,7 @@
 +++
 title = "Erfahrungen aus zwei Jahren als Podcaster"
 date = "2022-11-04"
-draft = true
+draft = false
 pinned = false
 tags = ["Podcast"]
 image = "6a473fef-8df6-4e9f-b7b9-327ddd90afdf.jpg"
@@ -81,35 +81,19 @@ So bin ich mittlerweile unterwegs und bin ganz zufrieden mit dem Material. Es ha
 
 ##### Mittlerweile sind einige Formate zusammengekommen
 
-##### entwicklungsfreiraum 
-
-```
-<script class="podigee-podcast-player" src="https://player.podigee-cdn.net/podcast-player/javascripts/podigee-podcast-player.js" data-configuration="https://entwicklungsfreiraum.podigee.io/embed?context=external"></script>
-```
+##### entwicklungsfreiraum
 
 Solo-Folgen, aufgenommen am Schreib- oder Küchentisch mit den verschiedenen, in den Blogbeiträgen erwähnten Mikrofonen.
 
 ##### ZUKUNFTSHELDEN
 
-
-<script class="podigee-podcast-player" src="https://player.podigee-cdn.net/podcast-player/javascripts/podigee-podcast-player.js" data-configuration="https://zukunftshelden.podigee.io/embed?context=external"></script>
-
-
 Gespräche und Solo-Folgen. Aufgenommen an verschiedenen Orten (Sofa, Sitzungszimmer, zoom, zencaster)
 
 ##### 24 Stunden
 
-
-<script class="podigee-podcast-player" src="https://player.podigee-cdn.net/podcast-player/javascripts/podigee-podcast-player.js" data-configuration="https://24stunden.podigee.io/embed?context=external"></script>
-
-
 Gespräche (bis heute nur 2), aufgenommen über zoom
 
 ##### Colearning.org
-
-
-{{<youtube 7x_fDi_87UM&t=11s>}}
-
 
 Aufgenommen im Effinger Studio, inkl. Videoaufnahme\
 Mikrofone MV7 und MV7X
