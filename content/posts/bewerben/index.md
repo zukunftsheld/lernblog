@@ -1,7 +1,7 @@
 +++
 title = "Bewerbungsprozess - andere Zeiten brechen an"
 date = "2022-11-05"
-draft = false
+draft = true
 pinned = false
 tags = ["Arbeit", "Gedanken"]
 image = "career-3449422_640.png"
