@@ -57,7 +57,7 @@ Die Ansprüche an Bewerbungsunterlagen sind heute vielleicht so unterschiedlich 
 
 #### Vorgegebene Raster 
 
-Absagen können schmerzen, sie können demotivieren und einem zum Verzweifeln bringen. Ganz oft ist es aber so, dass bereits ganz klare Vorstellungen vorhanden sind, wer denn gesucht wird. Das kann und wird kaum in Stellenausschreibungen kommuniziert. Zu beachten ist auch, dass einige Unternehmen viele Teile des Bewerbungsprozesses automatisiert haben oder zunehmend automatisieren. \
+Absagen können schmerzen, sie können demotivieren und einem zum Verzweifeln bringen. Ganz oft ist es aber so, dass bereits ganz klare Vorstellungen vorhanden sind, wer denn gesucht wird. Das kann und wird kaum in Stellenausschreibungen kommuniziert. Zu beachten ist auch, dass einige Unternehmen viele Teile des Bewerbungsprozesses automatisiert haben oder zunehmend automatisieren. 
 
 {{<box title="Mehr zur Automatisierung von Bewerbungsprozessen">}}
 \
