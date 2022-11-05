@@ -78,8 +78,6 @@ Ein aktuelles Beispiel hier im Bericht von watson \
 [«Migros-Personalchef: Es fehlt überall an Leuten»](https://www.watson.ch/wirtschaft/migros/661863158-migros-personalchef-es-fehlt-ueberall-an-leuten)
 {{<box>}}
 
- [](https://www.watson.ch/wirtschaft/migros/661863158-migros-personalchef-es-fehlt-ueberall-an-leuten)
-
 #### Es gibt viele Wahrheiten 
 
 In den letzten Monaten war ich nach meiner Selbstständigkeit wider auf Stellensuche. In dieser Zeit habe ich aktiv mit meinem bestehenden und immer grösser werdenden Netzwerk gearbeitet. Ich habe mich auf Stellen beworben und Spontanbewerbungen geschrieben. Ich erhielt manchmal keine Antwort, sammelte Absagen, ging zu ersten Vorstellungsgesprächen, wurde zu zweiten Vorstellungsgesprächen eingeladen und hatte kurze Kennenlerninterviews. Es waren Treffen über Microsoft Teams, am Telefon, über zoom und natürlich physische.  
