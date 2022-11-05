@@ -73,6 +73,7 @@ Absagen können schmerzen, sie können demotivieren und einem zum Verzweifeln br
 Durch den Fachkräftemangel wandelt sich der Arbeitsmarkt. Es sind nicht mehr immer die Arbeitgeber, die aus den Bewerber:innen auswählen können, sondern immer mehr auch die Arbeitnehmer:innen, die sich das Unternehmen aussuchen dürfen. Das ist und bleibt aber von Branche zu Branche und von Unternehmen zu Unternehmen unterschiedlich.  \
  \
 Ein aktuelles Beispiel hier im Bericht von watson \
+
 {{<box>}}\
 «Migros-Personalchef: Es fehlt überall an Leuten»
 {{<box>}}
