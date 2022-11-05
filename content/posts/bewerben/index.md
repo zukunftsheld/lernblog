@@ -1,12 +1,12 @@
 +++
 title = "Bewerbungsprozess - andere Zeiten brechen an"
-date = "2022-11-05"
-draft = true
+date = "2022-11-06"
+draft = false
 pinned = false
 tags = ["Arbeit", "Gedanken"]
 image = "career-3449422_640.png"
 description = "Der Arbeitsmarkt verändert sich und auch die Bewerbungsprozesse sind nicht mehr so einheitlich wie noch vor ein paar Jahren. Wie bewirbt man sich aber richtig? "
-footnotes = "Image by [Coffee Bean](https://pixabay.com/users/coffeebeanworks-558718/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3449422) from [Pixabay](https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3449422)"
+footnotes = "Titelbild by [Coffee Bean](https://pixabay.com/users/coffeebeanworks-558718/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3449422) from [Pixabay](https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3449422)"
 +++
 ### Bewerbungsprozess - andere Zeiten brechen an
 
@@ -24,28 +24,30 @@ Bei den Stellenausschreibungen ist noch vieles wie früher. Wobei hier auffällt
 **Ein sehr häufiger Ablauf ist:** 
 
 * Stellenausschreibung
-* Bewerbung 
-* Gespräch 1 
+* Bewerbung per Mail oder über eine Onlineplattform 
+* Gespräch 1 oder Kurzinterview per Telefon
 * Allenfalls Gespräch 2 
 * Referenzen einholen 
 * Anstellung/Absage 
-{{</box>}}
+  {{</box>}}
 
 Mittlerweile gibt es aber beispielsweise «Job-Tinder». Jobeagle ermöglicht ansprechende Stellenbeschreibungen und einfaches Bewerben. Alles sehr ähnlich wie bei Tinder. Andere Firmen möchten ein kurzes Bewerbungsvideo oder den Lebenslauf per PDF und ein paar Worte zur Motivation per Whats-App.  
 
 #### Unterschiedliche Ansprüche 
 
-«Job-Tinder» Den Bewerber:innen wird ein einfachen und schnelles Bewerben angepriesen. Ist einmal gewischt, werden aber einige Daten verlangt. Viele Firmen wünschen sich hier (verständlicherweise) trotz der Einfachheit möglichst viele ausgefüllte Felder, um ein gutes Bild zu erhalten. Bewerber:innen füllen aber relativ wenig bis nichts aus, da es ja einfach und schnell sein soll(te).  
+«Job-Tinder»: Den Bewerber:innen wird ein einfachen und schnelles Bewerben angepriesen. Ist einmal gewischt, werden aber einige Daten (wie beim Lebenslauf) verlangt. Viele Firmen wünschen sich hier (verständlicherweise) trotz der Einfachheit möglichst viele ausgefüllte Felder, um ein gutes Bild zu erhalten. Bewerber:innen füllen aber relativ wenig bis nichts aus, da es ja einfach und schnell sein soll(te) und auch so angepriesen wird. 
 
-Das scheint bei vielen neueren Bewerbungsformen und Tools der Fall zu sein. Es sind unterschiedliche Ansprüche und die sind nicht geklärt.  
+Das scheint bei vielen neueren Bewerbungsformen und Tools der Fall zu sein. Es sind unterschiedliche Ansprüche und die sind nicht geklärt oder nicht kommuniziert.  
 
 #### Die Marktverschiebung  
 
-Bisher hatten wir einen Arbeitgebermarkt. Wer Jobs hatte, konnte oft zwischen vielen Bewerbenden auswählen. Das hat sich in den letzten Jahren in verschiedenen Branchen bereits verschoben und es wird sich weiterhin verschieben. Es werden mehr Menschen pensioniert, als auf den Arbeitsmarkt kommen und die Macht wechselt hin zu den Bewerber:innen. Wir haben also zunehmend einen Arbeitnehmendenmarkt.  
+Bisher hatten wir einen Arbeitgebermarkt. Unternehmen die Jobs im Angebot hatten, konnten oft zwischen vielen Bewerbenden auswählen. Das hat sich in den letzten Jahren in verschiedenen Branchen bereits (z. T. drastisch) verschoben und es wird sich weiterhin verschieben. Es werden mehr Menschen pensioniert, als auf den Arbeitsmarkt kommen und die Macht wechselt zunehmend hin zu den Bewerber:innen. Wir haben also zunehmend einen Arbeitnehmendenmarkt.  
 
 #### Verdeckter Arbeitsmarkt 
 
-Kennst du den verdeckten Arbeitsmarkt? Man beschreibt ihn auch gerne mit dem Eisbergmodell. Das heisst, der grösste Teil der offenen Stellen ist unsichtbar. Diese Stellen werden nicht ausgeschrieben. Du findest sie über Kontakte, über Spontanbewerbungen usw.  
+Kennst du den verdeckten Arbeitsmarkt? Man beschreibt ihn auch gerne mit dem Eisbergmodell. Das heisst, der grösste Teil der offenen Stellen ist unsichtbar. Diese Stellen werden nicht ausgeschrieben. Du findest sie über Kontakte, über Spontanbewerbungen usw.  Je nach Branche spricht man von rund 75 % aller Stellen. 
+
+![Image by Mote Oo Education from Pixabay](iceberg-3273216_1280.png)
 
 #### Was ist bei einer Bewerbung wichtig?  
 
@@ -70,7 +72,12 @@ Absagen können schmerzen, sie können demotivieren und einem zum Verzweifeln br
 
 Durch den Fachkräftemangel wandelt sich der Arbeitsmarkt. Es sind nicht mehr immer die Arbeitgeber, die aus den Bewerber:innen auswählen können, sondern immer mehr auch die Arbeitnehmer:innen, die sich das Unternehmen aussuchen dürfen. Das ist und bleibt aber von Branche zu Branche und von Unternehmen zu Unternehmen unterschiedlich.  \
  \
-Ein aktuelles Beispiel hier im Bericht von watson «Migros-Personalchef: Es fehlt überall an Leuten» <https://www.watson.ch/wirtschaft/migros/661863158-migros-personalchef-es-fehlt-ueberall-an-leuten> 
+Ein aktuelles Beispiel hier im Bericht von watson \
+{{<box>}}\
+«Migros-Personalchef: Es fehlt überall an Leuten»
+{{<box>}}
+
+ [](<https://www.watson.ch/wirtschaft/migros/661863158-migros-personalchef-es-fehlt-ueberall-an-leuten>)
 
 #### Es gibt viele Wahrheiten 
 
@@ -82,12 +89,18 @@ Manchmal erhielt ich Rückmeldungen, wie ich wahrgenommen wurde oder gab selbst 
 
 Der Lohn ist und bleibt ein schwieriges Thema. Während Bewerbende bereits im Bewerbungsprozess oder spätestens im Gespräch ihre Vorstellungen bekanntgeben sollten, halten sich Firmen bis am Schluss zurück. Bei der Lohntransparenz ist also nach gaaanz viel Luft nach oben. \
 \
-Zum Thema Lohn empfehle ich gerne die [SRF-Input Sendung](https://www.srf.ch/audio/input/und-was-verdienst-du-so-wir-brechen-das-tabuthema-lohn?id=11181600) aus dem Jahr 2017.
+Zum Thema Lohn empfehle ich gerne eine SRF-Input Sendung
+{{<box>}}
+(https://www.srf.ch/audio/input/und-was-verdienst-du-so-wir-brechen-das-tabuthema-lohn?id=11181600) aus dem Jahr 2017.
+{{<box>}}
 
 #### Da passiert noch viel 
 
 Der Arbeitsmarkt bewegt sich. (Komplett) neue Anforderungen verlangen nach neuen Berufen und vorhandene Berufsbilder verändern sich unterschiedlich schnell. Es verändert sich aber alles. Es braucht auf allen Seiten Flexibilität und Anpassungsfähigkeit.  \
  \
-Wie es mit deinem Job im Bezug auf Automatisierbarkeit aussehen könnte, kannst du hier checken: [https://job-futuromat.iab.de/  ](https://job-futuromat.iab.de/) 
+Wie es mit deinem Job im Bezug auf Automatisierbarkeit aussehen könnte, kannst du auf einer Webseite checken.
+{{<box>}}
+[https://job-futuromat.iab.de/  ](https://job-futuromat.iab.de/) 
+{{</box>}}
 
-Das hier ist wie immer nicht das Ende. Es ist nicht abschliessend und nicht vollständig. Es ist (m)eine Momentaufnahme. Es ist ein Zwischenfazit und es ist die Zeit, in dem wir die Zukunft gestalten können. Das sich die Lage «zuspitzt» und sich auch dadurch noch einiges verändern wird, zeigt auch der oben erwähnte watson-Beitrag, der genau in dem Moment online geht, in dem ich diesen Beitrag fertig schreibe.
+Das hier ist wie immer nicht das Ende. Es ist nicht abschliessend und nicht vollständig. Es ist (m)eine Momentaufnahme. Es ist ein Zwischenfazit und es ist die Zeit, in der wir die Zukunft gestalten können. Das sich die Lage «zuspitzt» und sich auch dadurch noch einiges verändern wird, zeigt der oben erwähnte watson-Beitrag, der genau in dem Moment online geht, in dem ich diesen Beitrag fertig schreibe.
