@@ -75,10 +75,10 @@ Durch den Fachkräftemangel wandelt sich der Arbeitsmarkt. Es sind nicht mehr im
 Ein aktuelles Beispiel hier im Bericht von watson \
 
 {{<box>}}\
-«Migros-Personalchef: Es fehlt überall an Leuten»
+[«Migros-Personalchef: Es fehlt überall an Leuten»](https://www.watson.ch/wirtschaft/migros/661863158-migros-personalchef-es-fehlt-ueberall-an-leuten)
 {{<box>}}
 
- [](<https://www.watson.ch/wirtschaft/migros/661863158-migros-personalchef-es-fehlt-ueberall-an-leuten>)
+ [](https://www.watson.ch/wirtschaft/migros/661863158-migros-personalchef-es-fehlt-ueberall-an-leuten)
 
 #### Es gibt viele Wahrheiten 
 
