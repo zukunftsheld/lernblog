@@ -90,7 +90,8 @@ Manchmal erhielt ich Rückmeldungen, wie ich wahrgenommen wurde oder gab selbst 
 
 Der Lohn ist und bleibt ein schwieriges Thema. Während Bewerbende bereits im Bewerbungsprozess oder spätestens im Gespräch ihre Vorstellungen bekanntgeben sollten, halten sich Firmen bis am Schluss zurück. Bei der Lohntransparenz ist also nach gaaanz viel Luft nach oben. \
 \
-Zum Thema Lohn empfehle ich gerne eine SRF-Input Sendung
+Zum Thema Lohn empfehle ich gerne eine SRF-Input Sendung\
+
 {{<box>}}
 (https://www.srf.ch/audio/input/und-was-verdienst-du-so-wir-brechen-das-tabuthema-lohn?id=11181600) aus dem Jahr 2017.
 {{<box>}}
@@ -99,7 +100,8 @@ Zum Thema Lohn empfehle ich gerne eine SRF-Input Sendung
 
 Der Arbeitsmarkt bewegt sich. (Komplett) neue Anforderungen verlangen nach neuen Berufen und vorhandene Berufsbilder verändern sich unterschiedlich schnell. Es verändert sich aber alles. Es braucht auf allen Seiten Flexibilität und Anpassungsfähigkeit.  \
  \
-Wie es mit deinem Job im Bezug auf Automatisierbarkeit aussehen könnte, kannst du auf einer Webseite checken.
+Wie es mit deinem Job im Bezug auf Automatisierbarkeit aussehen könnte, kannst du auf einer Webseite checken.\
+
 {{<box>}}
 [https://job-futuromat.iab.de/  ](https://job-futuromat.iab.de/) 
 {{</box>}}
