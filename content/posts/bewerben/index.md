@@ -72,11 +72,9 @@ Absagen können schmerzen, sie können demotivieren und einem zum Verzweifeln br
 
 Durch den Fachkräftemangel wandelt sich der Arbeitsmarkt. Es sind nicht mehr immer die Arbeitgeber, die aus den Bewerber:innen auswählen können, sondern immer mehr auch die Arbeitnehmer:innen, die sich das Unternehmen aussuchen dürfen. Das ist und bleibt aber von Branche zu Branche und von Unternehmen zu Unternehmen unterschiedlich.  \
  \
-Ein aktuelles Beispiel hier im Bericht von watson \
+Ein aktuelles Beispiel hier im Bericht von watson
 
-{{<box>}}\
 [«Migros-Personalchef: Es fehlt überall an Leuten»](https://www.watson.ch/wirtschaft/migros/661863158-migros-personalchef-es-fehlt-ueberall-an-leuten)
-{{<box>}}
 
 #### Es gibt viele Wahrheiten 
 
@@ -90,9 +88,7 @@ Der Lohn ist und bleibt ein schwieriges Thema. Während Bewerbende bereits im Be
 \
 Zum Thema Lohn empfehle ich gerne eine SRF-Input Sendung\
 
-{{<box>}}
 (https://www.srf.ch/audio/input/und-was-verdienst-du-so-wir-brechen-das-tabuthema-lohn?id=11181600) aus dem Jahr 2017.
-{{<box>}}
 
 #### Da passiert noch viel 
 
@@ -100,8 +96,6 @@ Der Arbeitsmarkt bewegt sich. (Komplett) neue Anforderungen verlangen nach neuen
  \
 Wie es mit deinem Job im Bezug auf Automatisierbarkeit aussehen könnte, kannst du auf einer Webseite checken.\
 
-{{<box>}}
 [https://job-futuromat.iab.de/  ](https://job-futuromat.iab.de/) 
-{{</box>}}
 
 Das hier ist wie immer nicht das Ende. Es ist nicht abschliessend und nicht vollständig. Es ist (m)eine Momentaufnahme. Es ist ein Zwischenfazit und es ist die Zeit, in der wir die Zukunft gestalten können. Das sich die Lage «zuspitzt» und sich auch dadurch noch einiges verändern wird, zeigt der oben erwähnte watson-Beitrag, der genau in dem Moment online geht, in dem ich diesen Beitrag fertig schreibe.
