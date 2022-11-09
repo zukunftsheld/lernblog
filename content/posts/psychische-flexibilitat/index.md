@@ -29,14 +29,14 @@ Entgegen weitverbreiteter Annahmen müssen wir die negativen Gedanken und Gefüh
 
 In diesem Video gibt es eine gute und übersichtliche Erklärung, wie wir psychische Flexibilität entwickeln können.  
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L8_ssFiXJ_E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 #### [Die Seite gibt einen guten Überblick über ACT ](https://www.actitude.de/magazin/akzeptanz-und-commitment-therapie)
 
 #### \
 Steven C. Hayes spricht über psychische Flexibilität und seine eigene Geschichte
 
-```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/o79_gmO5ppg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-```
 
 Bücher 
 
