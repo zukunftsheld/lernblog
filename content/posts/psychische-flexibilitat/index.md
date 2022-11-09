@@ -33,15 +33,15 @@ In diesem Video gibt es eine gute und übersichtliche Erklärung, wie wir psychi
 {{<youtube v=L8_ssFiXJ_E>}}
 ```
 
-#### [Die Seite gibt einen guten Überblick über ACT ](<https://www.actitude.de/magazin/akzeptanz-und-commitment-therapie>)\
-\
+#### [Die Seite gibt einen guten Überblick über ACT ](https://www.actitude.de/magazin/akzeptanz-und-commitment-therapie)
+
+#### \
 Steven C. Hayes spricht über psychische Flexibilität und seine eigene Geschichte
 
 ```
-{{<youtube v=o79_gmO5ppg&t=183s>}}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o79_gmO5ppg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ```
 
-#### \
 Bücher 
 
 Zur Akzeptanz- und Commitmenttherapie gibt es einige Bücher. Ein neues Buch stammt von Steven C. Hayes und heisst [«Kurswechsel im Kopf»](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/steven-c-hayes/kurswechsel-im-kopf/id/9783407864475/?gclid=Cj0KCQiAmaibBhCAARIsAKUlaKQKW-1xY485yBNnHxnRFX6uAZkw1pAh0_vD4ab_dDxOudECcfWAYqcaAtwXEALw_wcB&gclsrc=aw.ds). In diesem Buch schreibt er über den Ursprung von ACT, über die Forschung und es es gibt eine «Anleitung» ACT im eigenen Leben zu integrieren.
