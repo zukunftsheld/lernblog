@@ -29,10 +29,6 @@ Entgegen weitverbreiteter Annahmen müssen wir die negativen Gedanken und Gefüh
 
 In diesem Video gibt es eine gute und übersichtliche Erklärung, wie wir psychische Flexibilität entwickeln können.  
 
-```
-{{<youtube v=L8_ssFiXJ_E>}}
-```
-
 #### [Die Seite gibt einen guten Überblick über ACT ](https://www.actitude.de/magazin/akzeptanz-und-commitment-therapie)
 
 #### \
