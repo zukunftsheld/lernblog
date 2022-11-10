@@ -10,7 +10,7 @@ footnotes = "Titelbild by [Coffee Bean](https://pixabay.com/users/coffeebeanwor
 +++
 ### Bewerbungsprozess - andere Zeiten brechen an
 
-Wer sich einen neuen Job sucht, kennt es. Jobportale durchsuchen, Stellenausschreibungen lesen und sich dort bewerben, wo man den Anforderungen entspricht. Dann darauf hoffen, dass jemand die Bewerbungsunterlagen liest. Was lesen die HR-Menschen aber genau? Was interessiert sie? Warum kommt es zu einer Absage? Wir die Bewerbung überhaupt noch gelesen?
+Wer sich einen neuen Job sucht, kennt es. Jobportale durchsuchen, Stellenausschreibungen lesen und sich dort bewerben, wo man den Anforderungen entspricht. Dann darauf hoffen, dass jemand die Bewerbungsunterlagen liest. Was lesen die HR-Menschen aber genau? Was interessiert sie? Warum kommt es zu einer Absage? Wird die Bewerbung überhaupt noch gelesen?
 
 #### Wie läuft ein Bewerbungsprozess ab? 
 
