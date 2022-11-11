@@ -3,7 +3,7 @@ title = "Rückblick"
 date = "2022-11-02"
 draft = false
 pinned = false
-tags = ["Lernen", "Colearning", "Biografie", ""]
+tags = ["Lernen", "Colearning", "Biografie"]
 image = "bildschirmfoto-2022-11-01-um-16.35.21.png"
 description = "Vor einem Jahr habe ich meinen ersten Lernblog geschrieben. Hier mache ich einen kurzen Rückblick. "
 +++
