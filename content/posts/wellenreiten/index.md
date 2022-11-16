@@ -2,7 +2,8 @@
 title = "Du kannst die Wellen nicht anhalten"
 date = "2022-11-16"
 draft = false
-pinned = true
+pinned = false
+image = "bildschirmfoto-2022-11-16-um-13.16.56.png"
 description = "Die Wellen des Lebens können wir nicht anhalten, wir können aber lernen mit ihnen umzugehen. Ein paar Gedanken, Erfahrungen und Erlebnisse dazu in diesem Beitrag. "
 +++
 > «Du kannst die Wellen nicht stoppen, aber du kannst lernen sie zu surfen.» 
@@ -41,6 +42,8 @@ Wir können also entscheiden und wir müssen entscheiden. Auch ein nicht Entsche
 
 Vom Gelassenheitsgebet zum Stand Up Paddling? Wie kommts? \
 Stand Up Paddling - ein Sport, der nichts für mich ist. Das war mich schon in der Zeit klar, in der ich die ersten Flyer und Prospekte mit diesen neuen Trend-Dingern erstellt habe. Gegen Ende dieses Sommers landete ich aber aus Langeweile (weil ich warten musste) auf einem Stand Up Paddle. Ich war in meinen Alltagskleidern und das Ziel war, nicht ins Wasser zu fallen, sonst hätte wäre ich wohl für den Rest des Tages nass gewesen. Ich weiss nicht wie, aber es hat mich gepackt. Und ohne, dass ich das wollte, lande ich auch bei diesem Beitrag beim Paddeln. Auch beim Paddeln beeinflussen Wind, Wetter, Wellen (auf dem See meistens nicht so stark) und das eigene Befinden das Erlebnis. Wie reagiere ich auf grössere Wellen, die plötzlich von einem Boot kommen? Wo bin ich mit meinem Kopf? Wie viel Energie habe ich? Wo schaue ich hin? Wann mache ich eine Pause? Alles nicht unwichtig beim Paddeln. Denn nur so bleibe ich im Gleichgewicht. 
+
+![Der erste Versuch](bildschirmfoto-2022-11-16-um-13.17.35.png "Der erste Versuch")
 
 #### Wirr oder einfach die Wellen des Lebens?
 
