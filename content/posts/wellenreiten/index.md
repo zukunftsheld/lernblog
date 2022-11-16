@@ -18,7 +18,7 @@ Lern-, Entdeckungs- und Entwicklungsreise heisst auch, dass sich einiges bewegt 
 
 #### Unbekannte Gewässer
 
-Das Leben ist für mich oft mit dem Meer (oder anderen Gewässern) vergleichbar. Surfen auf den Wellen des Lebens hatte ich bis dahin gelernt. Nur so war es überhaupt möglich, in die Selbstständigkeit oder in neue Gewässer einzutauchen. Diese Zeit war aber dann nicht nur surfen. Das stille Wasser war manchmal Spiegel und ermöglichte mir unter die Oberfläche zu sehen. Manchmal (vermutlich) bis auf den Grund. Da waren aber auch Unterströmungen, Tiefen und Untiefen, da waren neue, andere Wellen, die ich noch nicht kannte, der Wind war anders, die Wassertemperatur. 
+Was hat das nun alles mit den Wellen und dem Wasser zu tun? Das Leben ist für mich oft mit dem Meer (oder anderen Gewässern) vergleichbar. Surfen auf den Wellen des Lebens hatte ich bis dahin gelernt. Nur so war es überhaupt möglich, in die Selbstständigkeit oder in neue Gewässer einzutauchen. Diese Zeit war aber dann nicht nur surfen. Das stille Wasser war manchmal Spiegel und ermöglichte mir unter die Oberfläche zu sehen. Manchmal (vermutlich) bis auf den Grund. Da waren aber auch Unterströmungen, Tiefen und Untiefen, da waren neue, andere Wellen, die ich noch nicht kannte, der Wind war anders, die Wassertemperatur. 
 
 #### Die Wellen
 
@@ -38,4 +38,13 @@ Wir können also entscheiden und wir müssen entscheiden. Auch ein nicht entsche
 
 #### Stand Up Paddling
 
-Ein Sport, der nichts für mich ist. Das war mich schon in der Zeit klar, in der ich die ersten Flyer und Prospekte mit diesen neuen Trend-Dingern erstellt habe. Gegen Ende dieses Sommers
+Vom Gelassenheitsgebet zum Stand Up Paddling? Wie kommts? \
+Stant Up Paddling - ein Sport, der nichts für mich ist. Das war mich schon in der Zeit klar, in der ich die ersten Flyer und Prospekte mit diesen neuen Trend-Dingern erstellt habe. Gegen Ende dieses Sommers landete ich aber aus Langeweile (weil ich warten musste) auf einem Stand Up Paddle. Ich war in meinen Alltagskleidern und das Ziel war, nicht ins Wasser zu fallen, sonst hätte wäre ich wohl für den Rest des Tages nass gewesen. Ich weiss nicht wie, aber es hat mich gepackt. Und ohne, dass ich das wollte, lande ich auch bei diesem Beitrag beim Paddeln. Auch beim Paddeln beeinflussen Wind, Wetter, Wellen (auf dem See meistens nicht so stark) und das eigene Befinden das Erlebnis. Wie reagiere ich auf grössere Wellen, die plötzlich von einem Boot kommen? Wo bin ich mit meinem Kopf? Wie viel Energie habe ich? Wo schaue ich hin? Wann mache ich eine Pause? Alles nicht unwichtig beim Paddeln. Denn nur so bleibe ich im Gleichgewicht. 
+
+#### Wirr oder einfach die Wellen des Lebens?
+
+Hier frage ich mich selbst, ob dieser Beitrag nun etwas zu wirr ist oder ob das einfach die Wellen des Lebens sind. Das Leben ist nicht sauber und linear. Hier beschreibe ich einen Teil meiner inneren und äusseren Reise. Es ist mir wichtig zu zeigen, wie Höhen und Tiefen dazugehören. Es ist mir auch wichtig zu zeigen, dass wir dem nicht hilflos ausgeliefert sind und trotzdem nicht immer etwas tun können. Manchmal sind es die Stürme die uns stärker machen und manchmal die ruhige See. 
+
+#### So gehts weiter
+
+Ich wusste bis am Schluss nicht so genau, was ich denn nun arbeiten möchte. Meine Ideen und Ziele wurden immer konkreter, ich ging aber mit den Wellen. Manchmal als cooler surfer und manchmal fegte es mich vom Brett. Nun freue ich mich sehr, im nächsten Jahr einen neuen Job in der Berufsbildung zu beginnen.
