@@ -3,7 +3,7 @@ title = "Du kannst die Wellen nicht anhalten"
 date = "2022-11-17"
 draft = false
 pinned = false
-tags = ["Lernen", "Biografie", "Arbeit", ""]
+tags = ["Lernen", "Biografie", "Arbeit"]
 image = "bildschirmfoto-2022-11-16-um-13.16.56.png"
 description = "Die Wellen des Lebens können wir nicht anhalten, wir können aber lernen mit ihnen umzugehen. Ein paar Gedanken, Erfahrungen und Erlebnisse dazu in diesem Beitrag. "
 +++
