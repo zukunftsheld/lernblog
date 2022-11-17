@@ -52,4 +52,4 @@ Hier frage ich mich selbst, ob dieser Beitrag nun etwas zu wirr ist oder ob das 
 
 #### So gehts weiter
 
-Ich wusste bis am Schluss nicht so genau, was ich denn nun arbeiten möchte. Meine Ideen und Ziele wurden immer konkreter, ich ging aber mit den Wellen. Manchmal als «cooler» Surfer und manchmal fegte es mich bitterböse vom Brett. Nun freue ich mich sehr, im nächsten Jahr einen neuen Job in der Berufsbildung zu beginnen.
+Ich wusste bis am Schluss nicht so genau, was oder wo ich denn nun arbeiten möchte. Meine Ideen und Ziele wurden immer konkreter, ich ging aber mit den Wellen. Manchmal als «cooler» Surfer und manchmal fegte es mich bitterböse vom Brett. Nun freue ich mich sehr, im nächsten Jahr einen neuen Job in der Berufsbildung zu beginnen.
