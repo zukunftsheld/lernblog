@@ -1,7 +1,7 @@
 +++
 title = "Du kannst die Wellen nicht anhalten"
 date = "2022-11-16"
-draft = false
+draft = true
 pinned = false
 tags = ["Lernen", "Biografie"]
 image = "bildschirmfoto-2022-11-16-um-13.16.56.png"
