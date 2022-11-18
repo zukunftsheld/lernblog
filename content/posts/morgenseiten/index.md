@@ -6,7 +6,7 @@ pinned = false
 tags = ["Kreativität", "Lernen", "Biografie", "Humor", "Schreiben"]
 image = "dall-e-2022-11-18-12.45.57.png"
 description = "Vor einigen Tagen habe ich angefangen, am Morgen jeweils drei Seiten zu schreiben. Das hilft mir irgendwie und dieser Blogbeitrag sollte eigentlich von diesen Morgenseiten handeln. "
-footnotes = "Dieser Beitrag ist wieder einmal im Flow entstanden. Vielleicht hat es sich breits gelohnt, jeden Morgen diese drei Seiten zu schreiben. Auch wenn ich eigentlich etwas anderes schreiben wollte. \n\nEin Buch über den eigenen Clown ist **Der Clown in uns,  Humor und die Kraft des Lachens von David Gilmore**\\\n\\\nTitelbild: Erstellt mit [Dall E](https://openai.com/dall-e-2/)"
+footnotes = "Dieser Beitrag ist wieder einmal im Flow entstanden. Vielleicht hat es sich breits gelohnt, jeden Morgen diese drei Seiten zu schreiben. Auch wenn ich eigentlich etwas anderes schreiben wollte. \n\nEin Buch über den eigenen Clown ist **Der Clown in uns,  Humor und die Kraft des Lachens von David Gilmore**\n\nÜber Humor in schwierigen Situationen habe ich mit Gabriela in der [Podcast-Folge «Telefonseelsorge»](https://24stunden.podigee.io/2-telefonseelsorge) gesprochen. \\\n\\\nTitelbild: Erstellt mit [Dall E](https://openai.com/dall-e-2/)"
 +++
 ### Schreiben hilft
 
