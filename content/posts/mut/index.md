@@ -16,7 +16,7 @@ footnotes = "Image by [Public Co](https://pixabay.com/users/publicco-5009832/?u
 
 Als ich die erste Podcast-Folge veröffentlicht habe, als ich in Blogs über meine Biografie geschrieben habe und seither immer wieder. Die Menschen schreiben und sagen mir «du bist mutig». Die Menschen sagen «das könnte ich nicht». Sie bewundern mich. Wofür? 
 
-Ich habe, wie jede und jeder andere eine Vergangenheit. In dieser war ich zuerst ein interessiertes Kind. In der Schule passte ich nicht so ganz ins Raster und anstatt draussen zu sein, zu spielen oder im Wald zu sein, sass ich in Wartezimmern, in Praxisräumen und sprach mit Erwachsenen. Hermann schreibt in seinem Blog übrigens im Moment über die Wichtigkeit des Spiels und der Freiheit bei Kindern.  
+Ich habe, wie jede und jeder andere eine Vergangenheit. In dieser war ich zuerst ein interessiertes Kind. In der Schule passte ich nicht so ganz ins Raster und anstatt draussen zu sein, zu spielen oder im Wald zu sein, sass ich in Wartezimmern, in Praxisräumen und sprach mit Erwachsenen. [Hermann schreibt in seinem Blog ](https://hermann.netlify.app)übrigens im Moment über die Wichtigkeit des Spiels und der Freiheit bei Kindern.  
 
 Später kämpfte ich mit Sozialängsten, Panikattacken, hatte Essprobleme und isolierte mich immer mehr. Dieser Teil der Geschichte ist in Podcasts und in diesem Blog erzählt.  
 
