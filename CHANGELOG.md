@@ -1,11 +1,29 @@
 # Changelog
 
-## Version 2.0.1
+## Version 2.0.5 (2022-11-17)
+
+- Format config.toml.
+
+## Version 2.0.4 (2022-11-07)
+
+- Fix navigation autohide bug: In Safari the scroll position at the top was not correctly dectected because of the 
+  browsers bounce effect. This caused the navigation to be hidden when it should not be hidden.
+
+## Version 2.0.3 (2022-11-05)
+
+- Fix first heading in box (alert, accordion) having a large top margin.
+
+## Version 2.0.2 (2022-11-03)
+
+- 💛 Use yellow heart in footer. Just because.
+- Add example Links in right footer.
+
+## Version 2.0.1 (2022-11-03)
 
 - Replace deprecated 'dateFormat' with 'date_format' and 'editorComponents' with 'editor_components' in CMS Admin config.yml.
 - Replace deprecated 'date' widget with 'datetime' in CMS Admin config.yml.
 
-## Version 2.0.0
+## Version 2.0.0 (2022-11-01)
 
 - Update Hugo to v0.105.0.
 - Upgrade to Bootstrap 5.2. Remove jQuery.
