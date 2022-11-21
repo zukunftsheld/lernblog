@@ -40,7 +40,7 @@ Ja, warum wollen andere eigentlich wiederum andere entwickeln? Ich habe den Eind
 
 Wir können Menschen beraten, wir können Menschen coachen, wir können Menschen trainieren, wir können Menschen (sofern wir die Ausbildung und Bewilligung haben) therapieren. Wir können ihnen etwas beibringen, sie etwas lehren, ... . Wir können aktiv handeln, aber können wir die Menschen entwicklen? Ich denken nicht. 
 
-#### Was können wir dann tun?
+#### Was können wir tun?
 
 Rahmenbedingungen schaffen und gemeinsame Rahmen festlegen. Was passt zur Situation, was passt zum Menschen, was passt zum Lehrer, zum Coach, zur Beraterin, zur Therapeutin. Dann können wir eine Beziehung und eine Umgebung schaffen, in der Entwicklung möglich wird. Entwickeln können sich die Menschen dann nur selbst. Diese Entwicklung(en) finden ganz selten in kurzer Zeit statt. Dafür ist über eine längere Zeit ganz viel Veränderung, Wachstum und Entwicklung möglich. 
 
