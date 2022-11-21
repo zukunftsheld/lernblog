@@ -13,6 +13,10 @@ Dazu habe ich heute ein paar Gedanken. Ich bin ein starker Kritiker von all dies
 
 Trotzdem: Falls es dich interessiert, hier ein paar Ansätze, die meine Gedanken begleiten (sich vielleicht manchmal auch etwas widersprechen)
 
+
+
+{{<box title="Trotzdem: Falls es dich interessiert, hier ein paar Ansätze, die meine Gedanken begleiten (sich vielleicht manchmal auch etwas widersprechen)">}}
+
 * Rational Emotive Verhaltenstherapie (REVT) (Albert Ellis)
 * Coaching(theorie) Ressourcen- und Lösungsorientiert, sowie Abgrenzungen Therapie, Beratung, Training etc. 
 * Akzeptanz- und Commitmenttherapie sowie achtsamkeitsbasierte Themen (MBSR, Selbstfürsorge, Selbstmitgefühl)
@@ -20,6 +24,9 @@ Trotzdem: Falls es dich interessiert, hier ein paar Ansätze, die meine Gedanken
 * Personenzentrierter Ansatz (Carl Rogers)
 * Systemisch- Konstruktivistischer Ansatz
 * Themenzentrierte Interaktion TZI
+  {{</box>}}
+
+
 
 #### Warum so kritisch?
 
