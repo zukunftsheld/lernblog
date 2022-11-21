@@ -50,28 +50,28 @@ Mit Menschen (als Coach, Berater, Trainer, ...) zu arbeiten ist also eine verant
 \
 Zum Schluss noch ein paar Textteile, die hier nicht schlecht passen und vielleicht auch zum Nachdenken anregen. 
 
-> «Mein Lieblingsthema ist: Was mache ich mit mir, wenn der andere nicht so ist, wie ich ihn haben möchte?» *Ruth C. Cohn*
+> «Mein Lieblingsthema ist: Was mache ich mit mir, wenn der andere nicht so ist, wie ich ihn haben möchte?» *[Ruth C. Cohn](https://de.wikipedia.org/wiki/Ruth_Cohn)*
 
 
 
 > «Die Aufgabe wechselt nicht nur von Mensch zu Mensch – entsprechend der Einzigartigkeit jeder Person – sondern auch von Stunde zu Stunde, gemäß der Einmaligkeit jeder Situation.»
 >
-> *Viktor E. Frankl*
+> *[Viktor E. Frankl](https://de.wikipedia.org/wiki/Viktor_Frankl)*
 
 
 
 > «Ich fühle mich glücklicher, nur weil ich ich selbst bin und andere sie selbst sein lasse.»
 >
-> *Carl R. Rogers*
+> *[Carl R. Rogers](https://de.wikipedia.org/wiki/Carl_Rogers)*
 
 
 
 > «Menschen sind lernfähig, aber unbelehrbar.»
 >
-> *Dr. Rolf Arnold*
+> *[Dr. Rolf Arnold](https://de.wikipedia.org/wiki/Rolf_Arnold)*
 
 
 
 > «Wenn du andere Leute ansiehst, frage dich, ob du sie wirklich siehst, oder ob du nur deine Gedanken über sie siehst.»
 >
-> *Jon Kabat-Zinn*
+> *[Jon Kabat-Zinn](https://de.wikipedia.org/wiki/Jon_Kabat-Zinn)*
