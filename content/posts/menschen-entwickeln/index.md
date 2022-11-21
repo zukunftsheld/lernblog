@@ -19,11 +19,11 @@ Trotzdem: Falls es dich interessiert, hier ein paar Ansätze, die meine Gedanken
 
 * Rational Emotive Verhaltenstherapie (REVT) (Albert Ellis)
 * Coaching(theorie) Ressourcen- und Lösungsorientiert, sowie Abgrenzungen Therapie, Beratung, Training etc. 
-* Akzeptanz- und Commitmenttherapie sowie achtsamkeitsbasierte Themen (MBSR, Selbstfürsorge, Selbstmitgefühl)
-* Logotherapie, Sinnzentrierte-Themen (Viktor E. Frankl, Tatjana Schnell)
-* Personenzentrierter Ansatz (Carl Rogers)
-* Systemisch- Konstruktivistischer Ansatz
-* Themenzentrierte Interaktion TZI
+* A[kzeptanz- und Commitmenttherapie](https://dgkv.info/act-co/akzeptanz-und-commitment-therapie-act/) sowie achtsamkeitsbasierte Themen ([MBSR](https://www.mindfulness.swiss/kurse/mbsr/), Selbstfürsorge, [Selbstmitgefühl](https://www.mindfulselfcompassion.ch/forschung-zu-selbstmitgefuehl/))
+* [Logotherapie](https://de.wikipedia.org/wiki/Logotherapie_und_Existenzanalyse), Sinnzentrierte-Themen (Viktor E. Frankl, [Tatjana Schnell](https://www.sinnforschung.org))
+* [Personenzentrierter Ansatz (Carl Rogers)](https://www.carlrogers.de)
+* [Systemisch- Konstruktivistischer Ansatz](https://de.wikipedia.org/wiki/Systemisch-konstruktivistische_Perspektive)
+* [Themenzentrierte Interaktion TZI](https://de.wikipedia.org/wiki/Themenzentrierte_Interaktion)
   {{</box>}}
 
 
