@@ -3,6 +3,7 @@ title = "Menschen entwickeln"
 date = "2022-11-21"
 draft = true
 pinned = false
+description = "Menschen entwickeln. Geht das? "
 +++
 ### Kann man Menschen entwickeln?
 
@@ -32,7 +33,7 @@ Wir können Menschen beraten, wir können Menschen coachen, wir können Menschen
 
 #### Was können wir dann tun?
 
-Rahmenbedingungen schaffen und gemeinsame Rahmen festlegen. Was passt zur Situation, was passt zum Menschen, was passt zum Lehrer, zum Coach, zur Beraterin, zur Therapeutin. Dann können wir eine Beziehung und eine Umgebung schaffen, in der Entwicklung möglich wird. Entwickeln können sich die Menschen dann nur selbst. 
+Rahmenbedingungen schaffen und gemeinsame Rahmen festlegen. Was passt zur Situation, was passt zum Menschen, was passt zum Lehrer, zum Coach, zur Beraterin, zur Therapeutin. Dann können wir eine Beziehung und eine Umgebung schaffen, in der Entwicklung möglich wird. Entwickeln können sich die Menschen dann nur selbst. Diese Entwicklung(en) finden ganz selten in kurzer Zeit statt. Dafür ist über eine längere Zeit ganz viel Veränderung, Wachstum und Entwicklung möglich. 
 
 #### Eine Verantwortungsvolle Aufgabe
 
