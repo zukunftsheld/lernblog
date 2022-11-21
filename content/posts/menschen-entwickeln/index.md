@@ -17,7 +17,7 @@ Trotzdem: Falls es dich interessiert, hier ein paar Ansätze, die meine Gedanken
 
 {{<box title="Trotzdem: Falls es dich interessiert, hier ein paar Ansätze, die meine Gedanken begleiten (sich vielleicht manchmal auch etwas widersprechen)">}}
 
-* Rational Emotive Verhaltenstherapie (REVT) (Albert Ellis)
+* [Rational Emotive Verhaltenstherapie](https://de.wikipedia.org/wiki/Rational-Emotive_Verhaltenstherapie) (REVT) ([Albert Ellis](https://de.wikipedia.org/wiki/Albert_Ellis))
 * Coaching(theorie) Ressourcen- und Lösungsorientiert, sowie Abgrenzungen Therapie, Beratung, Training etc. 
 * A[kzeptanz- und Commitmenttherapie](https://dgkv.info/act-co/akzeptanz-und-commitment-therapie-act/) sowie achtsamkeitsbasierte Themen ([MBSR](https://www.mindfulness.swiss/kurse/mbsr/), Selbstfürsorge, [Selbstmitgefühl](https://www.mindfulselfcompassion.ch/forschung-zu-selbstmitgefuehl/))
 * [Logotherapie](https://de.wikipedia.org/wiki/Logotherapie_und_Existenzanalyse), Sinnzentrierte-Themen (Viktor E. Frankl, [Tatjana Schnell](https://www.sinnforschung.org))
