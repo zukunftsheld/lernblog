@@ -26,9 +26,7 @@ Natürlich kennen wir die Zukunft nicht. Wir können sie uns konstruieren und wi
 
 #### Wie wärs mit der «Coaching-Haltung»?
 
-> Auch hier ist es schwierig, die Coaching-Haltung zu definieren (in meiner Wirklichkeit nicht, da habe ich eine klare Vorstellung. Aber unter Coaching wird ja so vieles verkauft). Also mach dir beim Lesen doch noch einmal bewusst, dass es sich hier um meine Wirklichkeit handelt. 
->
-> *Radatz (2000), Beraten ohne Ratschlag: Systemisches Coaching für Führungskräfte und BeraterInnen*
+> Auch hier ist es schwierig, die Coaching-Haltung zu definieren (in meiner Wirklichkeit nicht, da habe ich eine klare Vorstellung. Aber unter Coaching wird ja so vieles verkauft). Also mach dir beim Lesen doch noch einmal bewusst, dass es sich hier um meine Wirklichkeit handelt.
 
 Ich beziehe mich hier grob auf die systemisch-konstruktivistische Denkweise und bedenke: «Zu erklären, was systemisch-konstruktivistisches Denken nun wirklich ist, begründet bereits den Widerspruch in sich: Es gibt wohl unendlich viele unterschiedliche Definitionen von Konstruktivismus ebenso wie von systemischer Arbeit - Definitionen, die hautpsächlich aus dem Blickwinkel des individuellen Tätigkeitsbereiches festgelegt werden.» *Radatz (2000), Beraten ohne Ratschlag: Systemisches Coaching für Führungskräfte und BeraterInnen*
 
