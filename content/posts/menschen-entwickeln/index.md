@@ -44,7 +44,7 @@ Wir können Menschen beraten, wir können Menschen coachen, wir können Menschen
 
 Rahmenbedingungen schaffen und gemeinsame Rahmen festlegen. Was passt zur Situation, was passt zum Menschen, was passt zum Lehrer, zum Coach, zur Beraterin, zur Therapeutin. Dann können wir eine Beziehung und eine Umgebung schaffen, in der Entwicklung möglich wird. Entwickeln können sich die Menschen dann nur selbst. Diese Entwicklung(en) finden ganz selten in kurzer Zeit statt. Dafür ist über eine längere Zeit ganz viel Veränderung, Wachstum und Entwicklung möglich. 
 
-#### Eine Verantwortungsvolle Aufgabe
+#### Eine verantwortungsvolle Aufgabe
 
 Mit Menschen (als Coach, Berater, Trainer, ...) zu arbeiten ist also eine verantwortungsvolle Aufgabe. Wir haben zwar nicht die Verantwortung für unser Gegenüber (ausser natürlich in gewissen Situationen & Berufen) aber, wir sind verantwortlich für uns selbst und den Prozess. Dieser Verantwortung wird, so denke und empfinde ich zumindest immer wieder zu wenig Rechnung getragen. Es ist aber auch genau dort, wo es unangenehm wird. \
 \
