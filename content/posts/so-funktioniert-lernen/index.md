@@ -6,6 +6,7 @@ pinned = false
 tags = ["Lernen"]
 image = "board-928390_640.jpg"
 description = "Du möchtest dir also Tipps abholen, wie man richtig lernt? Dann lies diesen Beitrag! (Oder vielleicht besser nicht)."
+footnotes = "Image by [Gerd Altmann](https://pixabay.com/users/geralt-9301/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=928390) from [Pixabay](https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=928390)"
 +++
 Hallo!\
 Du möchtest dir also Tipps abholen, wie man richtig lernt? Ich bin dir sehr dankbar, wenn du bis ganz am Schluss liest. 
