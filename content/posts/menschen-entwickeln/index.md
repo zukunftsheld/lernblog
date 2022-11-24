@@ -3,6 +3,7 @@ title = "Menschen entwickeln"
 date = "2022-11-21"
 draft = false
 pinned = false
+tags = ["Gedanken", "Coaching", "Leadership", "Lernen"]
 image = "bildschirmfoto-2022-11-21-um-13.38.35.png"
 description = "Menschen entwickeln. Geht das? "
 footnotes = "Auch dieser Text ist unfertig und «nur» ein Denkanreiz. Denn natürlich gibt oder gäbe es noch andere Blickwinkel. Vermutlich werde ich keine direkte Fortsetzung zu diesem Beitrag machen und so wird vieles unbeantwortet bleiben, nur an der Oberfläche kratzen und die Differenzierung fehlt. Du hast selbst Gedanken dazu und möchtest dich dazu austauschen? Dann kannst du dich gerne melden.\n\nTitelbild: Ben Zaugg, bei einem meiner Waldspaziergänge"
