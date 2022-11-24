@@ -8,7 +8,7 @@ image = "pexels-amine-m-siouri-2050590.jpg"
 description = "Authentisch soll man sein. Aber wie geht das eigentlich und was braucht es dafür?"
 footnotes = "[Foto von Amine M'siouri](https://www.pexels.com/de-de/foto/graustufenfoto-der-menschlichen-hand-2050590/)"
 +++
-### Sei authentisch! 
+### Sei authentisch!
 
 Mir selbst ist Authentizität wichtig. Deshalb beschäftigte ich mich immer wieder mit dem Thema. Ich lese oft, man solle authentisch sein. Zum Beispiel immer wieder, wie wichtig es ist, eine authentische Führungskraft zu sein. Dann fragen sich andere, ob man denn wirklich authentisch sein könne. Weil zur Authentizität, zur Echtheit würde dann ja auch Wut und andere Gefühle, Gedanken und Handlungen zählen, die nicht gewünscht oder als schlecht bewertet werden.
 
@@ -41,6 +41,8 @@ Es gibt also eine Möglichkeit authentisch zu sein und doch nicht einfach zu rea
 Im Buch TZI, Die Kunst sich selbst und eine Gruppe zu leiten, Einführung in die Themenzentrierte Interaktion steht:  
 
 *«Sei authentisch und selektiv in deiner Kommunikation. Mache dir bewusst, was du denkst, fühlst und glaubst, und überdenke vorher, was du sagst und tust.» «Selektive Authentizität bedeutet, dass alles was \[...] gesagt wird, echt sein soll, was jedoch nicht bedeutet, dass auch alles gesagt werden muss.»*  
+
+Was hier im Kontext der TZI und der Gruppenführung steht, kann m. E. in viele andere Bereiche der Kommunikation und Zusammenarbeit übertragen werden. 
 
 #### Was sagt Wikipedia über Authentizität? 
 
