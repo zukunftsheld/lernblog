@@ -26,7 +26,7 @@ Mittlerweile hatte ich wieder etwas mehr Zeit und bin durch die [Youtube Serie 7
 
 Wenn ich so schaue wie (nicht Allergiker) mit den Händen fuchteln, aufstehen, weglaufen ö. Ä. wenn sie Bienen oder Wespen um sich haben, ja, sie vielleicht sogar töten, dann denke ich mir oft, wie weit sind die eigentlich von der Natur entfernt. Insekten wollen wir nicht um uns haben und darum töten oder verjagen sie möglichst schnell. Warum? Weil wir sie nicht (gut genug) kennen. Weil wir uns ekeln, weil wir Angst haben. Ja, Spinnen sind gar nicht meins und andere (vor allem unbekannte) Krabbeltiere auch nicht. Ich kann sie dann töten oder mich überwinden und ihnen einen Weg in die Freiheit suchen. 
 
-![Biene im Garten](dsc_0029.jpg "Biene im Garten")
+![Biene im Garten](bildschirm-foto-2022-12-16-um-13.27.27.png "Biene im Garten")
 
 ![Schmetterling im Garten](dsc_0141.jpg "Schmetterling im Garten")
 
