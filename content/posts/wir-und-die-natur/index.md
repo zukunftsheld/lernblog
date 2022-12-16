@@ -22,7 +22,7 @@ Mittlerweile hatte ich wieder etwas mehr Zeit und bin durch die Youtube Serie 7 
 
 Wenn ich so schaue wie (nicht Allergiker) mit den Händen fuchteln, aufstehen, weglaufen ö. Ä. wenn sie Bienen oder Wespen um sich haben, ja, sie vielleicht sogar töten, dann denke ich mir oft, wie weit sind die eigentlich von der Natur entfernt. Insekten wollen wir nicht um uns haben und darum töten oder verjagen sie möglichst schnell. Warum? Weil wir sie nicht (gut genug) kennen. Weil wir uns ekeln, weil wir Angst haben. Ja, Spinnen sind gar nicht meins und andere (vor allem unbekannte) Krabbeltiere auch nicht. Ich kann sie dann töten oder mich überwinden und ihnen einen Weg in die Freiheit suchen. 
 
-#### Unkraut? Bitte nicht. 
+#### Unkraut? Bitte nicht.
 
 Während zwei oder drei Jahren habe ich mit meiner Frau einen Garten bewirtschaftet. Ich hatte keine sonderlich grossen Kenntnisse, aber ich wollte vieles so natürlich wachsen lassen wie möglich. Aber andere meinten, man müsse Unkraut jäten, man sollte dieses oder jenes nicht stehen lassen. Das ist in den Köpfen vieler Gärtner:innen und dabei könnten Gärten so schön sein und einen (wenn vielleicht auch nur kleinen) Beitrag zur Artenerhaltung und Artenvielfalt leisten. 
 
@@ -37,6 +37,10 @@ Die Videos von RML waren bereits informativ, unterhaltsam und bewegend. Das Buch
 ![Quelle 20minuten.ch](bildschirm-foto-2022-12-16-um-11.47.33.png "Quelle 20minuten.ch")
 
 RML gibt in seinem Buch einen Einblick hinter die Kulissen von (lokalen) Tierschützern, die oft für wenige Geld und viel Arbeit ihr Leben riskieren, um nicht «nur» einzelne Tiere, sondern ganze Arten zu beschützen. Er zeigt dabei (wie auch in seinen Youtube-Videos), wie er selbst leidet und was für eine Arbeit hinter schönen Tierfotos und Dokumentarfilmen steckt. 
+
+`{{<box title="Trailer Bildband Mission Erde">}}`\
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vjZ4q5tRzvA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>\
+`{{</box>}}`
 
 #### Wie soll ich jetzt von hier aus ein Nashorn retten?
 
