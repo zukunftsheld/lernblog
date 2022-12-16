@@ -10,7 +10,13 @@ footnotes = "Buch: [Mission Erde, die Welt ist es wert, um sie zu kämpfen, Robe
 +++
 ### Wir und die Natur
 
-Heute ist in Berlin ein Aquarium in einem Hotel geplatzt oder explodiert. Gestern hat Joscha Tschanz über «den richtgen Weg etwas zu ändern» geschrieben. Jetzt schreibe ich meine Gedanken, weil beides gerade zu dem passt, womit ich mich immer wieder beschäftige. Denn ich wollte eh zu Mission Erde, resp. [Robert Marc Lehmann](https://www.robertmarclehmann.com/de) etwas schreiben. Ihn könnte man m. E. auch als gutes Beispiel für selbstbestimmtes und selbstorganisiertes Lernen nehmen und als jemanden, der sein Lernen teilt. Das ist aber heute nicht das Thema. 
+[Heute ist in Berlin ein Aquarium in einem Hotel geplatzt oder explodiert](https://www.watson.ch/international/deutschland/417384461-alle-1500-sind-tot-diese-fische-lebten-im-zerstoerten-aquarium). 
+
+![Quelle watson.ch](bildschirm-foto-2022-12-16-um-13.38.37.png "Quelle watson.ch")
+
+Gestern hat [Joscha Tschanz über «den richtgen Weg etwas zu ändern»](https://www.joschatschanz.ch/mit-agression-meinungen-vertretten/) geschrieben. Jetzt schreibe ich meine Gedanken, weil beides gerade zu dem passt, womit ich mich immer wieder beschäftige. Denn ich wollte eh zu Mission Erde, resp. [Robert Marc Lehmann](https://www.robertmarclehmann.com/de) etwas schreiben. Ihn könnte man m. E. auch als gutes Beispiel für selbstbestimmtes und selbstorganisiertes Lernen nehmen und als jemanden, der sein Lernen teilt. Das ist aber heute nicht das Thema. 
+
+
 
 Übrigens irritierte mich beim Lesen seines Buches (und manchmal auch auf Youtube) die häufigen Bezüge zu sich selbst, die auch einfach Selbstdarstellung sein könnten oder auch sind. Ich mache das aber auch oft und denke, diese Art zu schreiben oder etwas zu zeigen ist nötig. Nötig, um authentisch zu sein und nötig, um  Theorie und Erleben in Zusammenhang zu stellen. 
 
@@ -49,12 +55,11 @@ Die Videos von RML waren bereits informativ, unterhaltsam und bewegend. Das Buch
 RML gibt in seinem Buch einen Einblick hinter die Kulissen von (lokalen) Tierschützern, die oft für wenige Geld und viel Arbeit ihr Leben riskieren, um nicht «nur» einzelne Tiere, sondern ganze Arten zu beschützen. Er zeigt dabei (wie auch in seinen Youtube-Videos), wie er selbst leidet und was für eine Arbeit hinter schönen Tierfotos und Dokumentarfilmen steckt. 
 
 {{<box title="Einblick in die Bildwelt von Mission Erde">}}
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vjZ4q5tRzvA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 {{</box>}}
 
-
 #### Wie soll ich jetzt von hier aus ein Nashorn retten?
-
 
 Ich habe oben bereits geschrieben, wie ich den Bezug zur Natur mit der Zeit etwas verloren hatte und ich denke (eigentlich bin ich mir sicher), dass viele Menschen diesen Kontakt verloren haben resp. diesen gar nie so richtig hatten. Dann gibt es natürlich viele, die sich engagieren wollen. Aber auch das «richtig» zu tun ist gar nicht so einfach. Dafür müssen wir aber nicht weit reisen und auch keine anderen grossen Sprünge machen. Es würde bereits reichen, wenn man damit beginnt, den Balkon mit einheimischen blühenden Pflanzen zu verschönern und dann die über 30 in Deutschland (sind es in der Schweiz gleich viele?) zu findenden Hummelarten beobachtet und identifiziert. Das kann man mit Kindern tun, geht aber ganz gut auch ohne.
 
