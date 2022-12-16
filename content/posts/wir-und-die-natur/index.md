@@ -30,6 +30,8 @@ Während zwei oder drei Jahren habe ich mit meiner Frau einen Garten bewirtschaf
 
 Irgendwann habe ich angefangen zu fischen. Es ist entspannend, die Zeit in der Natur zu verbringen, gespannt zu sein, wann einer anbeisst und einfach im Moment zu sein. Lange haben wir nichts gefangen, weil Anfänger und weil es eben nicht mehr so viele Fische gibt. Dann kam der Moment und der 1. hing am Haken, Adrenalin und Konzentration, bis der Fisch an Land ist und dann.. Shit, dann zappelt der im Netz, flutscht aus den Händen. Ein Fisch. Ein Lebewesen. Ich weiss genau, wie er tierschutzgerecht zu töten ist. Mache ich. Fühlt sich nicht gut an. Seither habe ich die Angel nicht mehr ausgeworfen. Dafür sehe ich auf dem Weg zum Bahnhof in einem kleinen Becken in einem Bächlein immer wieder Fische. Wunderschön.
 
+![](bildschirm-foto-2022-12-16-um-13.08.24.png)
+
 #### Zurück zu Mission Erde
 
 Die Videos von RML waren bereits informativ, unterhaltsam und bewegend. Das Buch gibt aber m. E. noch einmal einen ganz anderen Einblick. Wenn man sich überlegt, dass Tierschutz oder Tierrettungsaktionen manchmal ablaufen wie Militäroperationen und sogar von ehemaligen Elitesoldaten wie zum Beispiel ehem. Navy Seals durchgeführt werden (müssen), dann gibt das noch einmal eine ganz andere Perspektive. Hast du gewusst, dass 99 % der kommerziell interessanten, international angebotenen Salzwasser-Zierfische nicht gezüchtet werden können und «direkt» als Wildfang aus den Ozeanen kommen? Mission Erde (2021), S. 39. Wenn du dann noch liest, wie diese Fische gefangen werden oder wie viele beim Transport sterben, könnte dir das Kotzen kommen. Erst recht, wenn du siehst, wie viele hier gestorben sind.
