@@ -48,9 +48,9 @@ Die Videos von RML waren bereits informativ, unterhaltsam und bewegend. Das Buch
 
 RML gibt in seinem Buch einen Einblick hinter die Kulissen von (lokalen) Tierschützern, die oft für wenige Geld und viel Arbeit ihr Leben riskieren, um nicht «nur» einzelne Tiere, sondern ganze Arten zu beschützen. Er zeigt dabei (wie auch in seinen Youtube-Videos), wie er selbst leidet und was für eine Arbeit hinter schönen Tierfotos und Dokumentarfilmen steckt. 
 
-#### Trailer zum Bildband Mission Erde
-
+{{<box title="Einblick in die Bildwelt von Mission Erde">}}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vjZ4q5tRzvA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>\
+{{</box>}}
 
 
 #### Wie soll ich jetzt von hier aus ein Nashorn retten?
