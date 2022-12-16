@@ -3,6 +3,7 @@ title = "Wir und die Natur"
 date = "2022-12-16"
 draft = true
 pinned = false
+footnotes = "Buch"
 +++
 ### Wir und die Natur
 
@@ -44,10 +45,10 @@ Die Videos von RML waren bereits informativ, unterhaltsam und bewegend. Das Buch
 
 RML gibt in seinem Buch einen Einblick hinter die Kulissen von (lokalen) Tierschützern, die oft für wenige Geld und viel Arbeit ihr Leben riskieren, um nicht «nur» einzelne Tiere, sondern ganze Arten zu beschützen. Er zeigt dabei (wie auch in seinen Youtube-Videos), wie er selbst leidet und was für eine Arbeit hinter schönen Tierfotos und Dokumentarfilmen steckt. 
 
-`{{<box title="Trailer Bildband Mission Erde">}}`\
+#### Trailer zum Bildband Mission Erde
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vjZ4q5tRzvA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>\
-\`{{</box>}}\`
+
 
 #### Wie soll ich jetzt von hier aus ein Nashorn retten?
 
