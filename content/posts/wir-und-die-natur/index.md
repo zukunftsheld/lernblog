@@ -58,4 +58,4 @@ RML gibt in seinem Buch einen Einblick hinter die Kulissen von (lokalen) Tiersch
 \
 Ich habe oben bereits geschrieben, wie ich den Bezug zur Natur mit der Zeit etwas verloren hatte und ich denke (eigentlich bin ich mir sicher), dass viele Menschen diesen Kontakt verloren haben resp. diesen gar nie so richtig hatten. Dann gibt es natürlich viele, die sich engagieren wollen. Aber auch das «richtig» zu tun ist gar nicht so einfach. Dafür müssen wir aber nicht weit reisen und auch keine anderen grossen Sprünge machen. Es würde bereits reichen, wenn man damit beginnt, den Balkon mit einheimischen blühenden Pflanzen zu verschönern und dann die über 30 in Deutschland (sind es in der Schweiz gleich viele?) zu findenden Hummelarten beobachtet und identifiziert. Das kann man mit Kindern tun, geht aber ganz gut auch ohne.
 
-**Ja, die Welt ist es Wert um sie zu kämpfen.**
+**Ja, die Welt ist es wert um sie zu kämpfen.**
