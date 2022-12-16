@@ -49,13 +49,13 @@ Die Videos von RML waren bereits informativ, unterhaltsam und bewegend. Das Buch
 RML gibt in seinem Buch einen Einblick hinter die Kulissen von (lokalen) Tierschützern, die oft für wenige Geld und viel Arbeit ihr Leben riskieren, um nicht «nur» einzelne Tiere, sondern ganze Arten zu beschützen. Er zeigt dabei (wie auch in seinen Youtube-Videos), wie er selbst leidet und was für eine Arbeit hinter schönen Tierfotos und Dokumentarfilmen steckt. 
 
 {{<box title="Einblick in die Bildwelt von Mission Erde">}}
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vjZ4q5tRzvA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>\
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vjZ4q5tRzvA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 {{</box>}}
 
 
 #### Wie soll ich jetzt von hier aus ein Nashorn retten?
 
-\
+
 Ich habe oben bereits geschrieben, wie ich den Bezug zur Natur mit der Zeit etwas verloren hatte und ich denke (eigentlich bin ich mir sicher), dass viele Menschen diesen Kontakt verloren haben resp. diesen gar nie so richtig hatten. Dann gibt es natürlich viele, die sich engagieren wollen. Aber auch das «richtig» zu tun ist gar nicht so einfach. Dafür müssen wir aber nicht weit reisen und auch keine anderen grossen Sprünge machen. Es würde bereits reichen, wenn man damit beginnt, den Balkon mit einheimischen blühenden Pflanzen zu verschönern und dann die über 30 in Deutschland (sind es in der Schweiz gleich viele?) zu findenden Hummelarten beobachtet und identifiziert. Das kann man mit Kindern tun, geht aber ganz gut auch ohne.
 
 **Ja, die Welt ist es wert, um sie zu kämpfen.**
