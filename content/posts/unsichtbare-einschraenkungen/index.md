@@ -9,19 +9,19 @@ description = "Ich me"
 
 *Dieser Text könnte Menschen aufwühlen. Ich empfehle dir diesen Text nur zu lesen, wenn du dich in guter Verfassung fühlst.* 
 
-Heute habe ich einen Linkedin Post über mich und meine Angst gemacht. Es fällt mir wirklich nicht mehr so leicht, solche Posts zu machen oder darüber zu schreiben. Vor allem mein Leben mit Ängsten und Essproblemen habe ich noch nie im Detail geteilt. Natürlich habe ich immer wieder in irgendeiner Form darüber geschrieben. Mein Leben und meine Erfahrungen mit der Angst sind einfach (zu) vielschichtig und es scheint mir schwierig, die wichtgen Details in einem Text abzubilden. Trotzdem hatte ich nach dem Post noch Impulse, mehr über mich oder meine Erlebnisse zu schreiben. Denn ich wurde (wie viele andere auch) in den letzten Wochen oft mit Medienberichten, persönlichen Gesprächen oder aufgeschnappten Aussagen mit dem psychischen Zustand vieler Kinder, Jugendlichen und jungen Erwachsenen konfrontiert. Vor einigen Jahren war ich einer von ihnen. 
+Heute habe ich einen Linkedin Post über mich und meine Angst gemacht. Es fällt mir wirklich nicht mehr so leicht, solche Posts zu machen oder darüber zu schreiben. Vor allem mein Leben mit Ängsten und Essproblemen habe ich noch nie im Detail geteilt. Natürlich habe ich immer wieder in irgendeiner Form darüber geschrieben. (M)ein Leben und (m)eine Erfahrung(en) mit der Angst sind einfach (zu) vielschichtig und es scheint mir schwierig, die wichtgen Details in einem Text abzubilden. Trotzdem hatte ich nach dem Post noch Impulse, mehr über mich oder meine Erlebnisse zu schreiben. Denn ich wurde (wie viele andere auch) in den letzten Wochen oft mit Medienberichten, persönlichen Gesprächen oder aufgeschnappten Aussagen mit dem psychischen Zustand vieler Kinder, Jugendlichen und jungen Erwachsenen konfrontiert. Vor einigen Jahren war ich einer von ihnen. 
 
 #### Ein kurzer Einblick in meine «Angst-Biografie»
 
-Wann es angefangen hat weiss ich nicht mehr. Irgendwann war die Angst aber so stark, dass sie mich immer mehr einschränkte. Meine Angst zeigte sich vor allem im Kontakt mit anderen Menschen. Gerade gemeinsam mit anderen Essen zu gehen war unmöglich, auch wenn ich es immer wieder versucht habe. Meistens wurde es mir sehr schlecht und ich fand mich in einer Restaurant-Toilette wieder. Die Angst floss in eine Art Essstörung und ich konnte in immer weniger Situationen essen. Irgendwann wurde es leicht kritisch. Ich mied immer mehr Situationen mit anderen Menschen, verabredete mich und sagte kurz vorher ab. Einladungen zum Abendessen o. ä. waren die Hölle. Bereits Tage oder Wochen vorher machte ich mir Gedanken wie ich das anstellen soll, was ich tun soll wenn es mir wieder schlecht wird, was die anderen denken und ... . Es war ein Dauerstress. Diese Angst sah mir kaum jemand an. Angst und andere psychische Krankheiten und Einschränkungen sind unsichtbar.  
+Wann es angefangen hat weiss ich nicht mehr. Irgendwann war die Angst aber so stark, dass sie mich immer mehr einschränkte. Meine Angst zeigte sich vor allem im Kontakt mit anderen Menschen. Gerade gemeinsam mit anderen Essen zu gehen war unmöglich, auch wenn ich es immer wieder versucht habe. Meistens wurde es mir sehr schlecht und ich fand mich auf einer Restaurant-Toilette wieder. Die Angst floss in eine Art Essstörung und ich konnte in immer weniger Situationen essen. Irgendwann wurde es leicht kritisch. Ich mied immer mehr Situationen mit anderen Menschen, verabredete mich und sagte kurz vorher ab. Einladungen zum Abendessen o. ä. waren die Hölle. Bereits Tage oder Wochen vorher machte ich mir Gedanken wie ich das anstellen soll, was ich tun soll wenn es mir wieder schlecht wird, was die anderen denken und ... . Es war ein Dauerstress. Diese Angst sah mir kaum jemand an. Angst, andere psychische Krankheiten und Einschränkungen sind unsichtbar.  
 
 #### Wie konnte es soweit kommen?
 
-Vor einigen Jahren habe ich versucht meine Akten von Kinderärztinnen, Psychologen etc. zu organisieren und leider waren alle Akten vernichtet. Es hätte mich sehr interessiert, was dort drin stand. Es wäre die Zeit vor meinen Ängsten gewesen. Es wäre um meine Schulzeit gegangen, um mein fehldiagnostiziertes AD(H)S und um meine Aussagen, nicht mehr Leben zu wollen. Es waren Aussagen der Verzweiflung, die aber ernst genommen werden mussten. Klar. Ich war, so würde ich es heute beschreiben, in einer Abklärungsmaschinerie und so lässt sich gutes Geld verdienen. Einer schickt dich zur Nächsten und so weiter. Wenn du einmal in dieser Maschinerie bist, dann viel Glück.
+Vor einigen Jahren habe ich versucht meine Akten von Kinderärztinnen, Psychologen etc. zu organisieren und leider waren alle bereits vernichtet. Es hätte mich sehr interessiert, was dort drin stand. Es wäre die Zeit vor meinen Ängsten gewesen. Es wäre um meine Schulzeit gegangen, um mein fehldiagnostiziertes AD(H)S und um meine Aussagen, nicht mehr Leben zu wollen. Es waren Aussagen der Verzweiflung, die aber ernst genommen werden mussten. Klar. Ich war, so würde ich es heute beschreiben, in einer Abklärungsmaschinerie und so lässt sich auch gutes Geld verdienen. Einer schickt dich zur Nächsten und so weiter. Wenn du einmal in dieser Maschinerie bist, dann viel Glück. (Das soll keine generelle Abwertung sein, sondern meine eigene Erfahrung widerspiegeln).
 
 #### Angst meine gute Freundin
 
-Die Angst ist eine «gute» Freundin. Ich verbrachte viele Stunden mit ihr und ich konnte mich festhalten. Sie war zwar immer wieder die Hölle aber sie war ganz nah bei mir. Sie zwang mich unangenheme Situationen immer häufiger zu meiden und ich kannte 1001 Ausreden um Verabredungen abzusagen. Meine Angst war für andere Unsichtbar aber sie war mein Diktator. Irgendwo zwischen Jugend und Erwachsenenleben, irgendwo in einer Ausbildung, in der die Umstände für mich alles andere als gut waren. 
+Die Angst war eine «gute» Freundin. Ich verbrachte viele Stunden mit ihr und ich konnte (musste) mich festhalten. Sie war zwar immer wieder die Hölle, aber sie war ganz nah bei mir. Sie zwang mich unangenheme Situationen immer häufiger zu meiden und ich kannte 1001 Ausreden um Verabredungen abzusagen. Meine Angst war für andere Unsichtbar aber sie war mein Diktator. Irgendwo zwischen Jugend und Erwachsenenleben, irgendwo in einer Ausbildung, in der die Umstände für mich alles andere als gut waren. 
 
 #### Es gibt einen Ausweg
 
@@ -29,18 +29,16 @@ Eigentlich war es klar und doch musst abgeklärt werden ob mein sinkendes Körpe
 
 #### Was kam dann?
 
-Ich habe vieles gemacht und trainiert wie ein Hochleistungssportler. Ich habe an und mit meiner Angst gearbeitet und (wenig hilfreich) immer wieder gegen sie. Ein paar Dinge die mir geholfen haben, die ich aber nicht als Lösung teilen möchte. 
+Ich habe vieles gemacht und trainiert wie ein Hochleistungssportler. Ich habe an und mit meiner Angst gearbeitet und (wenig hilfreich) immer wieder gegen sie. Ein paar Dinge die mir geholfen haben, die ich aber nicht als Lösung(en) teilen möchte. 
 
 * Rational Emotive Verhaltenstherapie (das war relativ am Anfang und der rationale Blickwinkel war wirklich hilfreich)
-* Akzeptanz- und Commitmenttherapie (damit habe ich ausschliesslich selbst mit Selbsthilfe- und Fachbüchern gearbeitet und allenfalls Teile ins Coaching mitgenommen). Dieser Ansatz war wohl der Schlüssel.
-* MBSR als Ergänzung und auch von dort konnte ich vieles in meinen Genesungsprozess einfliessen lassen
+* Akzeptanz- und Commitmenttherapie (damit habe ich ausschliesslich selbst mit Selbsthilfe- und Fachbüchern gearbeitet und allenfalls Teile ins Coaching mitgenommen). Dieser Ansatz war wohl der Schlüssel. Damit habe ich mich später auch fachlich (Nutzen im Coaching) noch vertiefter auseinandergesetzt.
+* MBSR (eine gute Ergänzung zur ACT) und auch von dort konnte ich vieles in meinen Genesungsprozess einfliessen lassen
 * Bücher von Nossrat Peseschkian (gerade die Geschichten und der Einblick in eine andere Kultur halfen mir)
 * Bücher von Viktor Frankl und der logotherapeutische Ansatz
-* Eine Coaching Weiterbildung 
-* Eine Genusstrainer-Ausbildung
-* Die Menschen, die mich immer so akzeptiert haben wie ich bin
-
-Ich habe meinen «Zustand» oft kommuniziert und das hat geholfen. 
+* Meine 1. Coaching Weiterbildung (da war die Angst und die Thematik mit dem Essen noch da, wenn auch weniger)
+* Eine Genusstrainer-Ausbildung (da war die Angst und die Thematik mit dem Essen noch da, wenn auch weniger)
+* ...
 
 #### Die unsichtbaren Feinde
 
