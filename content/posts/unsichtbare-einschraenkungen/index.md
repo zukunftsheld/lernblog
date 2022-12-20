@@ -25,4 +25,25 @@ Die Angst ist eine «gute» Freundin. Ich verbrachte viele Stunden mit ihr und i
 
 #### Es gibt einen Ausweg
 
-Eigentlich war es klar und doch musst abgeklärt werden ob mein sinkendes Körpergewicht eine medizinische Ursache hatte. Nach Abkärungen ohne Resultat gab es eine Überweisung zu einem Psycho.. (leider weiss ich nicht mehr ob es Psychologe oder Psychiater war, es ist auch nicht so wichtig). Bei diesem war ich nur kurz, ich fand es schrecklich und ich ging zu einem (professionellen!!) Coach, die ich bereits kannte. Ich erinnere mich noch an einige Termine, nach denen ich wütend raus ging. Ich erinnere mich an Termine, nach denen ich richtig happy war. Dann erinnere ich mich an den wohl entscheidendsten Moment und die Frage: «Was wäre, wenn deine Angst immer da ist?». Denn ich kämpfte gegen die Angst, ich kämpfte gegen die schlechten Gefühle und die schlechten Gedanken. Ich wollte, dass es weg ist. Denn nur wenn ich frei davon bin, dann ist mein Leben gut. Das dachte ich. Diese scheiss Frage machte mich wütend! Ich dachte sie sei da um mir zu helfen und sicher wollte ich nicht, dass die Angst immer da ist. Gleichzeitig wurde mir schlagartig bewusst, dass das die Lösung sein kann. Ich will mein Leben leben! (was ich zeitweise wirklich nicht mehr wollte). Von da an würde es erst einmal nicht besser aber die Richtung war klar.
+Eigentlich war es klar und doch musst abgeklärt werden ob mein sinkendes Körpergewicht eine medizinische Ursache hatte. Nach Abkärungen ohne Resultat gab es eine Überweisung zu einem Psycho.. (leider weiss ich nicht mehr ob es Psychologe oder Psychiater war, es ist auch nicht so wichtig). Bei diesem war ich nur kurz, ich fand es schrecklich und ich ging zu einem (professionellen!!) Coach, die ich bereits kannte. Ich erinnere mich noch an einige Termine, nach denen ich wütend raus ging. Ich erinnere mich an Termine, nach denen ich richtig happy war. Dann erinnere ich mich an den wohl entscheidendsten Moment und die Frage: «Was wäre, wenn deine Angst immer da ist?». Denn ich kämpfte gegen die Angst, ich kämpfte gegen die schlechten Gefühle und die schlechten Gedanken. Ich wollte, dass es weg ist. Denn nur wenn ich frei davon bin, dann ist mein Leben gut. Das dachte ich. Diese scheiss Frage machte mich wütend! Ich dachte sie sei da um mir zu helfen und sicher wollte ich nicht, dass die Angst immer da ist. Gleichzeitig wurde mir schlagartig bewusst, dass das die Lösung sein kann. Ich will mein Leben leben! (was ich zeitweise wirklich nicht mehr wollte). Von da an würde es erst einmal nicht besser aber die Richtung war klar. 
+
+#### Was kam dann?
+
+Ich habe vieles gemacht und trainiert wie ein Hochleistungssportler. Ich habe an und mit meiner Angst gearbeitet und (wenig hilfreich) immer wieder gegen sie. Ein paar Dinge die mir geholfen haben, die ich aber nicht als Lösung teilen möchte. 
+
+* Rational Emotive Verhaltenstherapie (das war relativ am Anfang und der rationale Blickwinkel war wirklich hilfreich)
+* Akzeptanz- und Commitmenttherapie (damit habe ich ausschliesslich selbst mit Selbsthilfe- und Fachbüchern gearbeitet und allenfalls Teile ins Coaching mitgenommen). Dieser Ansatz war wohl der Schlüssel.
+* MBSR als Ergänzung und auch von dort konnte ich vieles in meinen Genesungsprozess einfliessen lassen
+* Bücher von Nossrat Peseschkian (gerade die Geschichten und der Einblick in eine andere Kultur halfen mir)
+* Bücher von Viktor Frankl und der logotherapeutische Ansatz
+* Eine Coaching Weiterbildung 
+* Eine Genusstrainer-Ausbildung
+* Die Menschen, die mich immer so akzeptiert haben wie ich bin
+
+Ich habe meinen «Zustand» oft kommuniziert und das hat geholfen. 
+
+#### Die unsichtbaren Feinde
+
+Vielleicht könnte man psychische Krankheiten, Einschränkungen, Krisen etc. als unsichtbare Feinde beschreiben. Ich weiss nicht ob es Feinde sind oder Um- und Zustände mit denen wir leben können, wenn wir einen guten Weg für uns finden. Diese Wege sind individuell und sie brauchen Zeit. 
+
+Dieser Beitrag soll einen Einblick in eine von vielen Biografien geben. Der Einblick ist noch immer sehr oberflächlich und so vieles was auch wichtig wäre steht hier nicht. Ich möchte etwas Mut machen. Mut für die, die irgendwo drin stecken und Mut für die, die schier hilflos zusehen (müssen). Es gibt Wege und manchmal (ja oft) sind sie lang. Es geht m. E. nicht darum «das Problem» loszuwerden, sondern einen guten Umgang damit zu finden. Der Weg kann hart und hässlich sein aber ich finde, es lohnt sich.
