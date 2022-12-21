@@ -3,7 +3,7 @@ title = "Dranbleiben trotz Hindernissen"
 date = "2022-02-18"
 draft = false
 pinned = false
-tags = ["Sinn", "Arbeit", "Gedanken", "Selbstmanagement", "Ikigai", "Werte"]
+tags = ["Sinn", "Arbeit", "Selbstmanagement", "Ikigai", "Werte"]
 image = "pexels-olya-kobruseva-5238645.jpg"
 description = "Neues kann etwas magisches haben. Eine magische Anziehung und auch eine Energie die freigesetzt wird, machmal aber dann nicht so lange anhält. Es werden wohl die Meisten, die sich neuen, grösseren Vorhaben widmeten irgendwann mit (Selbst-)Zweifeln im Berührung gekommen sein. Je nach Ausgangslage (finanziell, körperlich, etc.), persönlichen Erfahrungen und Prägungen kann es schon einmal passieren, dass man sich dort verstrickt. Was dann helfen kann ist, wieder einen Kontakt zur Magie, die da am Anfang war herzustellen."
 footnotes = "Titelbild: Foto von **[Olya Kobruseva](https://www.pexels.com/de-de/@olyakobruseva?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)** von **[Pexels](https://www.pexels.com/de-de/foto/motivierende-einfache-inschrift-gegen-zweifel-5238645/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)**"
