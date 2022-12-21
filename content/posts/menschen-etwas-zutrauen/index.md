@@ -3,7 +3,7 @@ title = "Menschen etwas zutrauen"
 date = "2022-04-30"
 draft = false
 pinned = false
-tags = ["Arbeit", "Lernen", "NewWork"]
+tags = ["Arbeit", "Lernen", "NewWork", "Leadership"]
 image = "pexels-rakicevic-nenad-1262304.jpg"
 description = "Darf man Menschen etwas zumuten? "
 footnotes = "Foto von **[Rakicevic Nenad](https://www.pexels.com/de-de/@rakicevic-nenad-233369?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)** von **[Pexels](https://www.pexels.com/de-de/foto/silhouette-foto-von-man-throw-paper-plane-1262304/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)**"
