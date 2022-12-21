@@ -3,7 +3,7 @@ title = "Es geht um Menschen"
 date = "2022-02-07"
 draft = false
 pinned = false
-tags = ["Gedanken", "Arbeit", "Kommunikation"]
+tags = ["Arbeit", "Kommunikation"]
 image = "blonde-1867768_1920.jpg"
 description = "Bei allem, was wir tun, geht es um Menschen. Ein Blick auf das Verkaufen."
 footnotes = "Bild von [Pexels](https://pixabay.com/de/users/pexels-2286921/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1867768) auf [Pixabay](https://pixabay.com/de/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1867768)"
