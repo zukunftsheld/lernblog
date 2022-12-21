@@ -1,9 +1,9 @@
 +++
 title = "Biografisches dringt an die Oberfläche"
 date = "2022-02-13"
-draft = false
+draft = true
 pinned = false
-tags = ["Biografie", "Tagebuch"]
+tags = ["Biografie"]
 image = "img_9726.jpg"
 description = "Dabei will ich doch gar nicht mehr so viel über mich oder meine Biografie schreiben.. Aber irgendwie dringen Dinge an die Oberfläche. Noch vielmehr will ich das hier gar nicht schreiben, es scheint mit aber eine Pflicht (warum auch immer) oder eine Notwendigkeit zu sein."
 footnotes = "Bild: Ben Zaugg"
