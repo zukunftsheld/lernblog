@@ -1,7 +1,7 @@
 +++
 title = "Die Welt verändern"
 date = "2022-01-20"
-draft = false
+draft = true
 pinned = false
 tags = ["Tagebuch", "Biografie", "Sinn"]
 image = "81c3adb3-489b-46c2-b98b-bdcc2f0458ce.jpg"
