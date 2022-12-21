@@ -1,9 +1,9 @@
 +++
 title = "Vertrauen in das was war, ist und kommt"
 date = "2021-12-18"
-draft = false
+draft = true
 pinned = false
-tags = ["Gedanken", "Tagebuch", "Biografie"]
+tags = ["Gedanken", "Selbstmanagement", "Selbstständigkeit"]
 image = "whatsapp-image-2021-12-18-at-12.00.52.jpeg"
 description = "Es ist Dezember, kalt, neblig und das hält mich nicht davon ab, gedanklich in die Gartenwelt abzutauchen. In einem Reflexionsgespräch diese Woche landeten wir plötzlich bei Verbindungen und Metahphern zur Natur und zum Garten."
 footnotes = "**Podcast-Folge «Wie doch etwas aus dir wird»**\\\n[Spotify](https://open.spotify.com/episode/5jq0KNzO7fTx2YILTcFlSy?si=520991c2650f4c42)\n\n[Webplayer ](https://derpossibilist.podigee.io)[](https://derpossibilist.podigee.io)\n\nFotos: Marco Mischler"
