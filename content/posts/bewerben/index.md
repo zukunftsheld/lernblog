@@ -3,7 +3,7 @@ title = "Bewerbungsprozess - andere Zeiten brechen an"
 date = "2022-11-06"
 draft = false
 pinned = false
-tags = ["Arbeit", "Gedanken"]
+tags = ["Arbeit", "Bewerbungsprozess"]
 image = "career-3449422_640.png"
 description = "Der Arbeitsmarkt verändert sich und auch die Bewerbungsprozesse sind nicht mehr so einheitlich wie noch vor ein paar Jahren. Wie bewirbt man sich aber richtig? "
 footnotes = "Titelbild by [Coffee Bean](https://pixabay.com/users/coffeebeanworks-558718/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3449422) from [Pixabay](https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3449422)"
