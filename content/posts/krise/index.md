@@ -1,7 +1,7 @@
 +++
 title = "Krise"
 date = "2022-01-07"
-draft = false
+draft = true
 pinned = false
 tags = ["Biografie", "Tagebuch"]
 image = "mountains-190055_640.jpg"
