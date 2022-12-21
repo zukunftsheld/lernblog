@@ -3,10 +3,10 @@ title = "Lernen sichtbar machen"
 date = "2022-07-28"
 draft = false
 pinned = false
-tags = ["Lernen", "Lernblog", "NewLearning"]
+tags = ["Lernen", "Colearning", "NewLearning"]
 image = "pexels-chevanon-photography-324028.jpg"
 description = "Wir lernen immer und überall, nur ist es uns oft nicht bewusst. Wir haben gelernt oder wurden darauf konditioniert, dass Lernen mit Anstrengung zu tun hat. Eigentlich ist Lernen ganz natürlich. Wie kommen wir aber zu diesen natürlichen Lernprozessen und wie machen wir diese sichtbar?"
-footnotes = "Du oder dein Unternehmen möchten sich selbst auf diesen Weg machen und ihr braucht einen Zukunftsgestalter, der sich um die Menschen, deren Wohlbefinden, Lern- und Entwicklungsprozesse im Unternehmen kümmert? [Dann sollten wir uns kennenlernen](https://www.benjaminzaugg.ch).\\\n\\\n[Foto von Chevanon Photography](https://www.pexels.com/de-de/foto/nahaufnahme-der-kaffeetasse-324028/)"
+footnotes = "[Foto von Chevanon Photography](https://www.pexels.com/de-de/foto/nahaufnahme-der-kaffeetasse-324028/)"
 +++
 ### Gelernt wird immer und überall
 
