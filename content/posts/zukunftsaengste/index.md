@@ -1,12 +1,12 @@
 +++
-title = "Zukunftsängste"
+title = "Zukunftsängste und Hoffnung"
 date = "2022-12-30"
-draft = true
+draft = false
 pinned = false
 tags = ["Sinn", "Selbstmanagement"]
 image = "pexels-arthur-brognoli-2260967.jpg"
 description = "Multikrise, fast überall negative Schlagzeilen, Nachrichten und Zukunftsprognosen. Die Zukunft kann und Angst machen, muss sie aber nicht. "
-footnotes = "[Foto von Arthur Brognoli](https://www.pexels.com/de-de/foto/meer-unter-weissem-dramatischem-himmel-2260967/)"
+footnotes = "Natürlich ist es gut und sinnvoll, sich für die Lage in der Welt zu interessieren. Hier plädiere ich jedoch für einen bewussteren Konsum und eine differenzierte(re) Sicht- und Denkweise. Da alles mit allem Verbunden ist, spüren wir natürlich in der einen oder anderen Form die Auswirkungen von Ereignissen, die uns überhaupt nicht betreffen oder zu betreffen scheinen. Auch hier geht es mir darum, zuerst die Verantwortung für sich selbst zu übernehmen und dann zur Gestalterin, zum Gestalter zu werden, anstatt «einfach» empört zu sein oder vorschnell und wenig hilfreich resp. nachhaltig zu handeln. \\\n\\\nDann gibt es tatsächlich ganz viele Menschen, die direkt von den Auswirkungen betroffen sind. Menschen, bei denen sich beispielsweise die Teuerung sehr spürbar auswirkt. Die sind oft mitten unter uns. Vielleicht sehen wir sie oder geben ihnen die Möglichkeit sich zu zeigen, wenn wir mit mehr Bewusstsein durch die Welt gehen. Dann können wir vielleicht helfen. Viel schneller, wirksamer und einfacher als wir meinen. Vielleicht. \\\n\\\nDie kommentierten Textausschnitte sind nicht nur von zwei Menschen für deren Ansätze, Gedanken und Leben ich mich interessiere. Es sind auch Menschen, deren Aussagen für mich Gewicht haben, weil sie verfolgt wurden, weil sie viel Grund für Wut, Frustration und Pessimismus hatten. Weil sie wussten, wovon sie sprachen. \\\n\\\n[Foto von Arthur Brognoli](https://www.pexels.com/de-de/foto/meer-unter-weissem-dramatischem-himmel-2260967/)"
 +++
 ### Zukunftsängste
 
