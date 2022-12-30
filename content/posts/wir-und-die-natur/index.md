@@ -6,7 +6,7 @@ pinned = false
 tags = ["Natur", "Tiere", "Gedanken"]
 image = "bildschirm-foto-2022-12-16-um-13.27.27.png"
 description = "Die Natur ist stark, wunderschön und auch so verletzlich. \n"
-footnotes = "Buch: [Mission Erde, die Welt ist es wert, um sie zu kämpfen, Robert Marc Lehmann](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/robert-marc-lehmann/mission-erde-meer-als-nur-ein-bildband/id/9783982457307/?utm_source=google&utm_medium=cpc&utm_campaign=Performance+Max+CSS+Rang+10+(pm-CH-de)&utm_content=&utm_term=&gclid=CjwKCAiAy_CcBhBeEiwAcoMRHIh8JfZf54KoIzrQNrihv8mkR94Uj4uEbFCWEUW5AdZklWJ63jHJDBoCrBYQAvD_BwE&gclsrc=aw.ds)"
+footnotes = "Fotos: Ben Zaugg\\\nBuch: [Mission Erde, die Welt ist es wert, um sie zu kämpfen, Robert Marc Lehmann](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/robert-marc-lehmann/mission-erde-meer-als-nur-ein-bildband/id/9783982457307/?utm_source=google&utm_medium=cpc&utm_campaign=Performance+Max+CSS+Rang+10+(pm-CH-de)&utm_content=&utm_term=&gclid=CjwKCAiAy_CcBhBeEiwAcoMRHIh8JfZf54KoIzrQNrihv8mkR94Uj4uEbFCWEUW5AdZklWJ63jHJDBoCrBYQAvD_BwE&gclsrc=aw.ds)"
 +++
 ### Wir und die Natur
 
