@@ -3,6 +3,7 @@ title = "Zukunftsängste"
 date = "2022-12-30"
 draft = true
 pinned = false
+description = "Multikrise, fast überall negative Schlagzeilen, Nachrichten und Zukunftsprognosen. Die Zukunft kann und Angst machen, muss sie aber nicht. "
 +++
 ### Zukunftsängste
 
@@ -60,6 +61,8 @@ Währen des Schreibens sind mir immer wieder Aussagen aus Büchern durch den Kop
 
 **«Mensch-sein heisst bewusst-sein und Verantwortlich-sein.»** Viktor E. Frankl
 
-*Vielleicht fasst dieses Aussage das, was ich in diesem Beitrag sagen will am besten zusammen. Wir sind verantwortlich für uns. Freiheit und Verantwortung gehören zusammen. Gerade jetzt sind wir aufgerufen, weg vom Autopiloten (auch wenn der manchmal ganz gut oder angenehm ist) hin zu einem bewussten Leben. Wenn ich mich und meine Umwelt bewusst(er) wahrnehme, mich* 
+*Vielleicht fasst dieses Aussage das, was ich in diesem Beitrag sagen will am besten zusammen. Wir sind verantwortlich für uns. Freiheit und Verantwortung gehören zusammen. Gerade jetzt sind wir aufgerufen, weg vom Autopiloten (auch wenn der manchmal gut oder angenehm ist) hin zu einem bewussten Leben. Wenn ich mich und meine Umwelt bewusst(er) wahrnehme, wenn ich Verantwortung für mich und mein Handeln übernehme, wenn ich mich als Gestalter wahrnehmen kann und weiss, dass ich ein Teil von allem bin, dann spüre ich (hoffentlich) diese, wie in der Aussage von Ruth C. Cohn, partielle Mächtigkeit.* 
 
 **«Die Frage ist falsch gestellt, wenn wir nach dem Sinn des Lebens fragen. Das Leben ist es, das Fragen stellt.»** Viktor E. Frankl
+
+*Sind wir an einem Punkt angekommen, an dem viele vor allem fordern? Nicht nur von anderen sondern auch von sich selbst. Braucht es diese aktive vorwärtsbewegung, das Finden von Antworten oder sollten wir hören welche Fragen uns das Leben stellt. Auch hier wäre es wirder wichtig, Achtsamkeit zu praktizieren und eine Verbidung zu sich und den eigenen Bedürfnissen, Gedanken, (automatischen) Handlungsweisen herzustellen. Wir wollen Sinn (und versprechen und damit möglicherweise auch Freiheit), dann sollten wir auch die Verantwortung dafür übernehmen.*
