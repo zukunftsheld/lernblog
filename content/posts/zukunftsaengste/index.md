@@ -44,7 +44,7 @@ Währen des Schreibens sind mir immer wieder Aussagen aus Büchern durch den Kop
 
 **«Ich bin nicht allmächtig. Ich bin nicht ohnmächtig. Ich bin partiell mächtig.» Ruth C. Cohn**
 
-*Oft meinen wir vielleicht angesichts all dieser Herausforderungen (bereits denen im "ganz normalen" Leben) und Krisen, ohnmächtig zu sein. Was können wir schon ausrichten? Wir sind weder allmächtig noch ohnmächtig, wir können etwas bewirken oder verändern und sei es auch nur darin, die Situation vorerst «nur» zu erkennen und zu akzeptieren, wie sie ist.* 
+*Oft meinen wir vielleicht, angesichts all dieser Herausforderungen (bereits denen im "ganz normalen" Leben) und Krisen, ohnmächtig zu sein. Was können wir schon ausrichten? Wir sind weder allmächtig noch ohnmächtig, wir können etwas bewirken oder verändern und sei es auch nur darin, die Situation vorerst «nur» zu erkennen und zu akzeptieren, wie sie ist.* 
 
 **«Ich kümmere mich um meine Angelegenheit, ich bin ich; Du kümmerst Dich um Deine, Du bist Du. Die Welt ist unsere Aufgabe; sie entspricht nicht unseren Erwartungen. Doch wenn wir uns um sie kümmern, wird sie sehr schön sein, wenn nicht, wird sie nicht sein.»** Ruth C. Cohn
 
