@@ -36,4 +36,18 @@ Viele Menschen habe sich von sich und ihren wirklichen Bedürfnissen entfremdet.
 
 #### Noch ein paar Ergänzungen
 
-Währen des Schreibens sind mir immer wieder Aussagen aus Büchern durch den Kopf gegangen. Zuerst wollte ich die in den Text integieren, aber jetzt erägänze ich sie einfach hier mit je einem persönlichen Kommentar.
+Währen des Schreibens sind mir immer wieder Aussagen aus Büchern durch den Kopf gegangen. Zuerst wollte ich die in den Text integieren, aber jetzt erägänze ich sie einfach hier mit je einem persönlichen Kommentar. 
+
+Ich bin nicht allmächtig. Ich bin nicht ohnmächtig. Ich bin partiell mächtg.
+
+"Ich kümmere mich um meine Angelegenheit, ich bin ich; Du kümmerst Dich um Deine, Du bist Du. Die Welt ist unsere Aufgabe; sie entspricht nicht unseren Erwartungen. Doch wenn wir uns um sie kümmern, wird sie sehr schön sein, wenn nicht, wird sie nicht sein."
+
+„Eine Gruppe wird nicht dadurch gestärkt, daß Personen ihre Individualität aufgeben, sondern dadurch, daß diese sich in der jeweiligen Gemeinschaft aktualisieren. Jeder Mensch verwirklicht sich in der Beziehung zu den anderen und in der Zuwendung zur Aufgabe."
+
+„Ich möchte Menschen, die all dieses Leid nicht wollen, ermutigen, nicht zu resignieren und sich ohnmächtig zu fühlen, sondern ihre Vorstellungskräfte und Handlungsvermögen einzusetzen, um sich solidarisch zu erklären und zu verhalten, solange wir selbst noch autonome Kräfte in uns spüren. - Das  ist das Eigentliche, was ich mit TZI möchte."
+
+„Zwischen Reiz und Reaktion liegt ein Raum. In diesem Raum liegt unsere Macht zur Wahl unserer Reaktion. In unserer Reaktion liegen unsere Entwicklung und unsere Freiheit.“
+
+Mensch-sein heisst bewusst-sein und Verantwortlich-sein.
+
+*„Die Frage ist falsch gestellt, wenn wir nach dem Sinn des Lebens fragen. Das Leben ist es, das Fragen stellt.“*
