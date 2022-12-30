@@ -10,7 +10,7 @@ footnotes = "Natürlich ist es gut und sinnvoll, sich für die Lage in der Welt 
 +++
 ### Zukunftsängste
 
-Es scheint, als wäre die Welt ein schlechter Ort (geworden). 60 % der Bevölkerung in der Schweiz schaut pessimistisch in die Zukunft, das sagt das Hoffnungsbarometer 2023 der Universität St. Gallen und Swissfuture. Das habe ich heute gelesen und irgendwie ist jetzt vielleicht Zeit für einen paar Gedanken dazu. 
+Es scheint, als wäre die Welt ein schlechter Ort (geworden). 60 % der Bevölkerung in der Schweiz schaut pessimistisch in die Zukunft, das sagt das Hoffnungsbarometer 2023 der Universität St. Gallen und Swissfuture. Das habe ich heute gelesen und irgendwie ist jetzt vielleicht Zeit für ein paar Gedanken dazu. 
 
 Wenn wir Nachrichten schauen, dann geht es um den Krieg in der Ukraine, zunehmende Spannungen im Kosovo, Spitalbetten auf den Gängen, fehlende Fachkräfte (insbesondere im Gesundheitswesen), steigende Krankenkassenprämien, Strommangellage, Inflation, ... . Das reicht, oder? 
 
@@ -24,7 +24,7 @@ Bei all den negativen Nachrichten scheint es, als gäbe es nicht (mehr) viel Gut
 
 Klingt gross und beginnt (so sehe ich das zumindest) ganz klein. Wenn wir einen Schritt zurückmachen, dann könnten wir uns fragen, welche von den Krisen dieser Multikrise betrifft und ganz direkt? Also, wenn wir keine Medien konsumieren würden, wovon wüssten wir? Wovon würden wir ganz direkt etwas sehen oder spüren? Das mag angesichts der oft kollektiven Empörung, Verängstigung etc. ignorant klingen, aber ist es das wirklich? Es könnte ein leerer Raum entstehen. Ein Raum, in dem wir uns fragen könnten, wie geht es mir? Was ist mir wichtig? Wofür möchte ich einstehen? Es wäre ein Akt der Achtsamkeit. 
 
-#### Eine Person allein kann nichts ausrichten 
+#### Eine Person allein kann nichts ausrichten
 
 Das würden wir wohl oft hören, wenn wir darüber sprechen, wie eine Person den Unterschied machen kann. Die Frage ist, was dieses «Nichts» ist. Wenn wir davon ausgehen, den Krieg zu beenden, den Klimawandel sofort zu stoppen, den Fachkräftemangel zu «besiegen» etc., dann können wir nichts ausrichten. Das müssen wir aber gar nicht. Wir müss(t)en uns nicht einmal aktiv damit beschäftigen. Wir könnten uns mit dem verbinden, was uns wichtig ist, wir könnten freundlich und aufmerksam gegenüber unseren Bedürfnissen sein, wir könnten für unsere Mitmenschen da sein und ihnen Aufmerksamkeit schenken. Es wäre ein Akt der Achtsamkeit.
 
