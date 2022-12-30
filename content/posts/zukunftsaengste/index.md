@@ -22,7 +22,7 @@ Bei all den negativen Nachrichten scheint es, als gäbe es nicht (mehr) viel Gut
 
 #### Die Welt verändern?
 
-Klingt gross und beginnt (so sehe ich das zumindest) ganz klein. Wenn wir einen Schritt zurückmachen, dann könnten wir uns fragen, welche von den Krisen dieser Multikrise betrifft und ganz direkt? Also, wenn wir keine Medien konsumieren würden, wovon wüssten wir? Wovon würden wir ganz direkt etwas sehen oder spüren? Das mag angesichts der oft kollektiven Empörung, Verängstigung etc. ignorant klingen, aber ist es das wirklich? Es könnte ein leerer Raum entstehen. Ein Raum, in dem wir uns fragen könnten, wie geht es mir? Was ist mir wichtig? Wofür möchte ich einstehen? Es wäre ein Akt der Achtsamkeit. 
+Klingt gross und beginnt (so sehe ich das zumindest) ganz klein. Wenn wir einen Schritt zurückmachen, dann könnten wir uns fragen, welche von den Krisen dieser Multikrise betrifft uns ganz direkt? Also, wenn wir keine Medien konsumieren würden, wovon wüssten wir? Wovon würden wir ganz direkt etwas sehen oder spüren? Das mag angesichts der oft kollektiven Empörung, Verängstigung etc. ignorant klingen, aber ist es das wirklich? Es könnte ein leerer Raum entstehen. Ein Raum, in dem wir uns fragen könnten, wie geht es mir? Was ist mir wichtig? Wofür möchte ich einstehen? Es wäre ein Akt der Achtsamkeit. 
 
 #### Eine Person allein kann nichts ausrichten
 
