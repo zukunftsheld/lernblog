@@ -3,7 +3,10 @@ title = "Zukunftsängste"
 date = "2022-12-30"
 draft = true
 pinned = false
+tags = ["Sinn", "Selbstmanagement"]
+image = "pexels-arthur-brognoli-2260967.jpg"
 description = "Multikrise, fast überall negative Schlagzeilen, Nachrichten und Zukunftsprognosen. Die Zukunft kann und Angst machen, muss sie aber nicht. "
+footnotes = "[Foto von Arthur Brognoli](https://www.pexels.com/de-de/foto/meer-unter-weissem-dramatischem-himmel-2260967/)"
 +++
 ### Zukunftsängste
 
@@ -15,21 +18,21 @@ Es ist offensichtlich. Die Welt ist schlecht und die Menschen auch. Wenn sie nic
 
 #### So einfach ist es nicht
 
-Bei all den negativen Nachrichten scheint es, als gäbe es nicht (mehr) viel gutes. Ach, in der Einleitung hätte noch Corona oder Klimakrise stehen können oder sollen. Die Zukunft sieht düster aus. Das heisst aber auch, dass ich mich am aussen orientiere, an dem, was ich kaum beeinflussen kann und somit die vielen Möglichkeiten verpasse. Möglichkeiten, gutes zu tun. Möglichkeiten, die Welt zu verändern. 
+Bei all den negativen Nachrichten scheint es, als gäbe es nicht (mehr) viel Gutes. Ach, in der Einleitung hätte noch Corona oder Klimakrise stehen können oder sollen. Die Zukunft sieht düster aus. Das heisst aber auch, dass ich mich am aussen orientiere, an dem, was ich kaum beeinflussen kann und somit die vielen Möglichkeiten verpasse. Möglichkeiten, Gutes zu tun. Möglichkeiten, die Welt zu verändern. 
 
 #### Die Welt verändern?
 
-Klingt gross und beginnt (so sehe ich das zumindest) ganz klein. Wenn wir einen Schritt zurück machen, dann könnten wir uns fragen, welche von den Krisen dieser Multikrise betrifft und ganz direkt? Also, wenn wir keine Medien konsumieren würden, wovon wüssten wir? Wovon würden wir ganz direkt etwas sehen oder spüren? Das mag angesichts der oft kollektiven Empörung, Verängstigung etc. ignorant klingen, aber ist es das wirklich? Es könnte ein leerer Raum entstehen. Ein Raum, in dem wir uns fragen könnten, wie geht es mir? Was ist mir wichtig? Wofür möchte ich einstehen? Es wäre ein Akt der Achtsamkeit. 
+Klingt gross und beginnt (so sehe ich das zumindest) ganz klein. Wenn wir einen Schritt zurückmachen, dann könnten wir uns fragen, welche von den Krisen dieser Multikrise betrifft und ganz direkt? Also, wenn wir keine Medien konsumieren würden, wovon wüssten wir? Wovon würden wir ganz direkt etwas sehen oder spüren? Das mag angesichts der oft kollektiven Empörung, Verängstigung etc. ignorant klingen, aber ist es das wirklich? Es könnte ein leerer Raum entstehen. Ein Raum, in dem wir uns fragen könnten, wie geht es mir? Was ist mir wichtig? Wofür möchte ich einstehen? Es wäre ein Akt der Achtsamkeit. 
 
 #### Eine Person allein kann nichts ausrichten 
 
-Das würden wir wohl oft hören, wenn wir darüber sprechen wie eine Person den Unterschied machen kann. Die Frage ist, was dieses «Nichts» ist. Wenn wir davon ausgehen den Krieg zu beenden, den Klimawandel sofort zu stoppen, den Fachkräftemangel zu «besiegen» etc., dann können wir nichts ausrichten. Das müssen wir aber gar nicht. Wir müss(t)en uns nicht einmal aktiv damit beschäftigen. Wir könnten uns mit dem verbinden, was uns wichtig ist, wir könnten freundlich und aufmerksam gegenüber unseren Bedürfnissen sein, wir könnten für unsere Mitmenschen da sein und ihnen aufmerksamkeit schenken. Es wäre ein Akt der Achtsamkeit. 
+Das würden wir wohl oft hören, wenn wir darüber sprechen, wie eine Person den Unterschied machen kann. Die Frage ist, was dieses «Nichts» ist. Wenn wir davon ausgehen, den Krieg zu beenden, den Klimawandel sofort zu stoppen, den Fachkräftemangel zu «besiegen» etc., dann können wir nichts ausrichten. Das müssen wir aber gar nicht. Wir müss(t)en uns nicht einmal aktiv damit beschäftigen. Wir könnten uns mit dem verbinden, was uns wichtig ist, wir könnten freundlich und aufmerksam gegenüber unseren Bedürfnissen sein, wir könnten für unsere Mitmenschen da sein und ihnen Aufmerksamkeit schenken. Es wäre ein Akt der Achtsamkeit.
 
 #### Wirksam für die (sozialen) Medien, aber sonst...
 
-Da kommt mir immer wieder der Applaus für die Pflegekräfte in den Sinn (und es gäbe noch viele andere Beispiele), die zwar gut gemeint sind aber halt nicht viel bewirken (oder sind wir ehrlich, nichts bewirken). Man tut lieber was die anderen tun, postet es auf Insta, Linkedin, in die Whatsapp Story oder wo auch immer und erntet selbst Likes dafür. Der Aufwand hält sich oft in Grenzen, dafür ist die erhaltene Aufmerksamkeit umso grösser. 
+Da kommt mir immer wieder der Applaus für die Pflegekräfte in den Sinn (und, es gäbe noch viele andere Beispiele), die zwar gut gemeint sind, aber halt nicht viel bewirken (oder, sind wir ehrlich, nichts bewirken). Man tut lieber, was die anderen tun, postet es auf Insta, Linkedin, in die Whatsapp Story oder wo auch immer und erntet selbst Likes dafür. Der Aufwand hält sich oft in Grenzen, dafür ist die erhaltene Aufmerksamkeit umso grösser. 
 
-Hier kommt mir ein anderes Beispiel in den Sinn, das mich eine Weile beschäftigt. Während der Fussball WM in Katar wurde das japanische Team so gelobt, weil es die Garderobe sauber und aufgeräumt verlassen hat, die japanischen Fans wurden gefeiert, weil sie die Tribüne aufräumten, der japanische Trainer weil es sich verbeute. Das sind zwar in einer Welt, in der eben vieles nicht so schön oder freundlich aussieht schöne Beispiele. Was der Preis dafür ist, das wird in unserer individualisierten Gesellschaft ignoriert. Es würde sich (immer) auch lohnen, hinter die Fassade einer Kultur (oder die Zusammenhänge) zu blicken. Ich möchte mich diesen komplexen Gesellschafts- und Hierarchieregeln in Japan auf jeden Fall nicht «beugen» müssen. 
+Hier kommt mir ein anderes Beispiel in den Sinn, das mich eine Weile beschäftigt. Während der Fussball WM in Katar wurde das japanische Team so gelobt, weil es die Garderobe sauber und aufgeräumt verlassen hat, die japanischen Fans wurden gefeiert, weil sie die Tribüne aufräumten, der japanische Trainer, weil es sich verbeute. Das sind zwar in einer Welt, in der eben vieles nicht so schön oder freundlich aussieht, schöne Beispiele. Was der Preis dafür ist, das wird in unserer individualisierten Gesellschaft ignoriert. Es würde sich (immer) auch lohnen, hinter die Fassade einer Kultur (oder die Zusammenhänge) zu blicken. Ich möchte mich diesen komplexen Gesellschafts- und Hierarchieregeln in Japan auf jeden Fall nicht «beugen» müssen. (Dann wären noch Arbeitsbedingungen, Gleichstellung, ... .)
 
 #### Selbst(er)kenntnis und Eigenverantwortung
 
@@ -41,15 +44,15 @@ Währen des Schreibens sind mir immer wieder Aussagen aus Büchern durch den Kop
 
 **«Ich bin nicht allmächtig. Ich bin nicht ohnmächtig. Ich bin partiell mächtig.» Ruth C. Cohn**
 
-*Oft meinen wir vielleicht angesichts all dieser Herausfoderungen (bereits denen im "ganz normalen" Leben) und Krisen ohmächtig zu sein. Was können wir schon ausrichten? Wir sind weder allmächtig noch ohnmächtig, wir können etwas bewirken oder verändern und sei es auch nur darin, die Situation vorerst «nur» zu erkennen und zu akzeptieren wie sie ist.* 
+*Oft meinen wir vielleicht angesichts all dieser Herausforderungen (bereits denen im "ganz normalen" Leben) und Krisen ohnmächtig zu sein. Was können wir schon ausrichten? Wir sind weder allmächtig noch ohnmächtig, wir können etwas bewirken oder verändern und sei es auch nur darin, die Situation vorerst «nur» zu erkennen und zu akzeptieren, wie sie ist.* 
 
 **«Ich kümmere mich um meine Angelegenheit, ich bin ich; Du kümmerst Dich um Deine, Du bist Du. Die Welt ist unsere Aufgabe; sie entspricht nicht unseren Erwartungen. Doch wenn wir uns um sie kümmern, wird sie sehr schön sein, wenn nicht, wird sie nicht sein.»** Ruth C. Cohn
 
-*Passen Individualität und Gemeinschaft zusammen? Oft scheint es mir, dass es entweder das Eine oder das Andere sein muss. Wir können (dürfen, sollen) aber uns selbst sein, auf unsere eigenen Bedürfnisse achten und die Verantwortung für uns selbst übernehmen. So ist für jeden gesorgt und zusammen können wir unsere Welt und die Zukunft gestalten. Wenn wir eine schöne Welt wollen dann müssen wir uns um sie kümmern, gemeinsam. Es geht nicht darum eine perfekte Welt zu schaffen, sondern eine, auf der wir gerne Leben und eine, auf der auch unsere Enkelkinder noch gerne leben und auch leben können.* 
+*Passen Individualität und Gemeinschaft zusammen? Oft scheint es mir, dass es entweder das eine oder das andere sein muss. Wir können (dürfen, sollen) aber uns selbst sein, auf unsere eigenen Bedürfnisse achten und die Verantwortung für uns selbst übernehmen. So ist für jeden gesorgt und zusammen können wir unsere Welt und die Zukunft gestalten. Wenn wir eine schöne Welt wollen, dann müssen wir uns um sie kümmern, gemeinsam. Es geht nicht darum eine perfekte Welt zu schaffen, sondern eine, auf der wir gerne Leben und eine, auf der auch unsere Enkelkinder noch gerne leben und auch leben können.* 
 
 **«Eine Gruppe wird nicht dadurch gestärkt, dass Personen ihre Individualität aufgeben, sondern dadurch, dass diese sich in der jeweiligen Gemeinschaft aktualisieren. Jeder Mensch verwirklicht sich in der Beziehung zu den anderen und in der Zuwendung zur Aufgabe.»** Ruth C. Cohn
 
-*Auch hier noch einmal. Es geht nicht darum, seine Individualität aufzugebenen. Es geht vielmehr darum, diese (und v. a. auch sich selbst) in die Gemeinschaft einzubringen. Dort passt man sich auch an, erkennt neue Seiten, wächst, ja, vielleicht erkennt man sich selbst. Man übernimmt Verantwortung für sich und das was man tut.*  
+*Auch hier noch einmal. Es geht nicht darum, seine Individualität aufzugebenen. Es geht vielmehr darum, diese (und v. a. auch sich selbst) in die Gemeinschaft einzubringen. Dort passt man sich auch an, erkennt neue Seiten, wächst, ja, vielleicht erkennt man sich selbst. Man übernimmt Verantwortung für sich und das, was man tut.*  
 
 **«Ich möchte Menschen, die all dieses Leid nicht wollen, ermutigen, nicht zu resignieren und sich ohnmächtig zu fühlen, sondern ihre Vorstellungskräfte und Handlungsvermögen einzusetzen, um sich solidarisch zu erklären und zu verhalten, solange wir selbst noch autonome Kräfte in uns spüren. - Das  ist das Eigentliche, was ich mit TZI möchte.»** Ruth C. Cohn
 
@@ -57,12 +60,12 @@ Währen des Schreibens sind mir immer wieder Aussagen aus Büchern durch den Kop
 
 **«Zwischen Reiz und Reaktion liegt ein Raum. In diesem Raum liegt unsere Macht zur Wahl unserer Reaktion. In unserer Reaktion liegen unsere Entwicklung und unsere Freiheit.»** Viktor E. Frankl
 
-*Diesen Raum gibt es und er ist ganz wichtig. Aus meiner Erfahrung kommen wir am ehesten dahin, wenn wir regelmässig achtsamkeit praktizieren. Wenn wir uns und unser Verhalten, unsere Reaktionen immer besser (er)kennen. Wir können dann anders handeln, wir können uns anders verhalten. Vielleicht handeln wir aber auch dann genau gleich wie vorher. Wir machen es aber bewusst. So können wir uns beispielsweise nach negativen Nachrichten schlecht fühlen, wir können aber auch erkennen was diese mit uns machen und weniger konsumieren. Vielleicht macht uns die Unsicherheit auch dünnhäutig und schnell(er) gereizt, was dann wieder andere zu spüren bekommen. Was wäre, wenn wir hier den Raum zwischen Reiz und Reaktion wahrnehmen könnten?*
+*Diesen Raum gibt es und er ist ganz wichtig. Aus meiner Erfahrung kommen wir am ehesten dahin, wenn wir regelmässig Achtsamkeit praktizieren. Wenn wir uns und unser Verhalten, unsere Reaktionen immer besser (er)kennen. Wir können dann anders handeln, wir können uns anders verhalten. Vielleicht handeln wir aber auch dann genau gleich wie vorher. Wir machen es aber bewusst. So können wir uns beispielsweise nach negativen Nachrichten schlecht fühlen, wir können aber auch erkennen, was diese mit uns machen und weniger konsumieren. Vielleicht macht uns die Unsicherheit auch dünnhäutig und schnell(er) gereizt, was dann wieder andere zu spüren bekommen. Was wäre, wenn wir hier den Raum zwischen Reiz und Reaktion wahrnehmen könnten?*
 
 **«Mensch-sein heisst bewusst-sein und Verantwortlich-sein.»** Viktor E. Frankl
 
-*Vielleicht fasst dieses Aussage das, was ich in diesem Beitrag sagen will am besten zusammen. Wir sind verantwortlich für uns. Freiheit und Verantwortung gehören zusammen. Gerade jetzt sind wir aufgerufen, weg vom Autopiloten (auch wenn der manchmal gut oder angenehm ist) hin zu einem bewussten Leben. Wenn ich mich und meine Umwelt bewusst(er) wahrnehme, wenn ich Verantwortung für mich und mein Handeln übernehme, wenn ich mich als Gestalter wahrnehmen kann und weiss, dass ich ein Teil von allem bin, dann spüre ich (hoffentlich) diese, wie in der Aussage von Ruth C. Cohn, partielle Mächtigkeit.* 
+*Vielleicht fasst dieses Aussage das, was ich in diesem Beitrag sagen will, am besten zusammen. Wir sind verantwortlich für uns. Freiheit und Verantwortung gehören zusammen. Gerade jetzt sind wir aufgerufen, weg vom Autopiloten (auch, wenn der manchmal gut oder angenehm ist) hin zu einem bewussten Leben. Wenn ich mich und meine Umwelt bewusst(er) wahrnehme, wenn ich Verantwortung für mich und mein Handeln übernehme, wenn ich mich als Gestalter wahrnehmen kann und weiss, dass ich ein Teil von allem bin, dann spüre ich (hoffentlich) diese, wie in der Aussage von Ruth C. Cohn, partielle Mächtigkeit.* 
 
 **«Die Frage ist falsch gestellt, wenn wir nach dem Sinn des Lebens fragen. Das Leben ist es, das Fragen stellt.»** Viktor E. Frankl
 
-*Sind wir an einem Punkt angekommen, an dem viele vor allem fordern? Nicht nur von anderen sondern auch von sich selbst. Braucht es diese aktive vorwärtsbewegung, das Finden von Antworten oder sollten wir hören welche Fragen uns das Leben stellt. Auch hier wäre es wirder wichtig, Achtsamkeit zu praktizieren und eine Verbidung zu sich und den eigenen Bedürfnissen, Gedanken, (automatischen) Handlungsweisen herzustellen. Wir wollen Sinn (und versprechen und damit möglicherweise auch Freiheit), dann sollten wir auch die Verantwortung dafür übernehmen.*
+*Sind wir an einem Punkt angekommen, an dem viele vor allem fordern? Nicht nur von anderen, sondern auch von sich selbst. Braucht es diese aktive Vorwärtsbewegung, das Finden von Antworten oder sollten wir hören welche Fragen uns das Leben stellt. Auch hier wäre es wirder wichtig, Achtsamkeit zu praktizieren und eine Verbindung zu sich und den eigenen Bedürfnissen, Gedanken, (automatischen) Handlungsweisen herzustellen. Wir wollen Sinn (und versprechen und damit möglicherweise auch Freiheit), dann sollten wir auch die Verantwortung dafür übernehmen.*
