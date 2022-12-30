@@ -52,7 +52,7 @@ Währen des Schreibens sind mir immer wieder Aussagen aus Büchern durch den Kop
 
 **«Eine Gruppe wird nicht dadurch gestärkt, dass Personen ihre Individualität aufgeben, sondern dadurch, dass diese sich in der jeweiligen Gemeinschaft aktualisieren. Jeder Mensch verwirklicht sich in der Beziehung zu den anderen und in der Zuwendung zur Aufgabe.»** Ruth C. Cohn
 
-*Auch hier noch einmal. Es geht nicht darum, seine Individualität aufzugebenen. Es geht vielmehr darum, diese (und v. a. auch sich selbst) in die Gemeinschaft einzubringen. Dort passt man sich auch an, erkennt neue Seiten, wächst, ja, vielleicht erkennt man sich selbst. Man übernimmt Verantwortung für sich und das, was man tut.*  
+*Auch hier noch einmal. Es geht nicht darum, seine Individualität aufzugebenen. Es geht vielmehr darum, sich selbst in die Gemeinschaft einzubringen. Dort passt man sich auch an, erkennt neue Seiten, wächst, ja, vielleicht erkennt man sich selbst. Man übernimmt Verantwortung für sich und das, was man tut.*  
 
 **«Ich möchte Menschen, die all dieses Leid nicht wollen, ermutigen, nicht zu resignieren und sich ohnmächtig zu fühlen, sondern ihre Vorstellungskräfte und Handlungsvermögen einzusetzen, um sich solidarisch zu erklären und zu verhalten, solange wir selbst noch autonome Kräfte in uns spüren. - Das  ist das Eigentliche, was ich mit TZI möchte.»** Ruth C. Cohn
 
