@@ -33,8 +33,8 @@ Im weiteren Verlauf habe ich folgende Produkte ausprobiert und genutzt:  
 
 **Software**
 
-**Podigee für Hosting und Verbreitung auf den Plattformen** \
-**Zencaster und später zoom für Onlineaufnahmen mit Gästen** 
+Podigee für Hosting und Verbreitung auf den Plattformen \
+Zencaster und später zoom für Onlineaufnahmen mit Gästen 
 
 **Vor Ort und Remoteaufnahmen**  
 
@@ -79,4 +79,26 @@ Erstellen von Bildern und Texten für die Kommunikationskanäle (Webseite, Soci
 [Erfahrungen von zwei Jahren als Podcaster vom 4. November 2022](https://www.bensblog.ch/podcast3/)
 
 Dieser Badge wird bestätigt von: 
+{{</box>}}
+
+{{<box title="Badge Pilzfarmer">}}
+
+![](lernbadge-3.png)
+
+Im Herbst 2021 bin ich gemeinsam mit anderen Colearner:innen in das Pilzfarmprojekt gestartet. Gemeinsam haben wir im Coworking Space Effinger eine Pilzzucht aufgebaut, den Vertrieb geregelt und im Herbst 2022 die ersten Pilzboxen für die Pilzzucht zuhause produziert. Bis Weihnachten haben wir fast 200 Stück verkauft. 
+
+**Mein Beitrag**
+
+* Mitaufbau Lernunternehmen nach agilem Vorgehen
+* Mithilfe beim Mischen der ersten Pilzsäcke
+* Organisation und Koordination Kommunikation (Webseite, Social Media gemeinsam mit jugenlichen Colearnern
+
+**Angeeignete und erweiterte Kompetenzen**
+
+* Einhalten der Hygiene beim Mischen von Pilzsubstrat
+* Kennen der Pilzwachstumszyklen
+* Unterstützung beim Aufbau von Kommunikationskompetenzen bei jugendlichen Colearnern
+
+Bestätigt von: 
+
 {{</box>}}
