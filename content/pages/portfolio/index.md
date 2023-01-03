@@ -141,4 +141,8 @@ Seit Frühling 2022 bin ich am Auf- und Ausbau von Colearning.org beteiligt. Mei
 * Präsentationskompetenzen 
 * ...
 
+**Relevante Lernblogbeiträge:**
+
+**Bestätigt von:** 
+
 {{</box>}}
