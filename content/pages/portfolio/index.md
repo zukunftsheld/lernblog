@@ -8,7 +8,7 @@ description = "Das ist mein Lernportfolio"
 
 {{<box title="Badge Podcaster">}}
 
-![](lernbadge.png)
+![](lernbadge-2.png)
 
 Seit April 2020 mache ich Podcasts. In dieser Zeit habe ich verschiedene Formate produziert.  \
 So habe ich mir im Bereich Podcasting verschiedene Kompetenzen erarbeitet.  
