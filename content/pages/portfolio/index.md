@@ -92,6 +92,7 @@ Im Herbst 2021 bin ich gemeinsam mit anderen Colearner:innen in das Pilzfarmproj
 * Mitaufbau Lernunternehmen nach agilem Vorgehen
 * Mithilfe beim Mischen der ersten Pilzsäcke
 * Organisation und Koordination Kommunikation (Webseite, Social Media gemeinsam mit jugenlichen Colearnern
+* Mentoring bei Colearning Bern
 
 **Angeeignete und erweiterte Kompetenzen**
 
@@ -100,5 +101,43 @@ Im Herbst 2021 bin ich gemeinsam mit anderen Colearner:innen in das Pilzfarmproj
 * Unterstützung beim Aufbau von Kommunikationskompetenzen bei jugendlichen Colearnern
 
 Bestätigt von: 
+
+{{</box>}}
+
+{{<box title="Badge Colearning Experte">}}
+
+![](bildschirm-foto-2023-01-03-um-15.53.40.png)
+
+Seit Frühling 2022 bin ich am Auf- und Ausbau von Colearning.org beteiligt. Mein Fokus liegt dabei vor allem auf dem Lernen von Erwachsenen im Arbeitskontext. 
+
+**(Lern-)Ziele**
+
+* Wie können wir Colearning und die Gedanken des selbstbestimmten und lebensbegleitenden Lernens sicht- und nutzbar für andere machen?
+* Was braucht es, damit Menschen selbstständig und doch gemeinsam lernend unterwegs sein können? 
+* Wie schaffen wir es, aus Colearning eine Bewegung zu machen? \
+    \
+    **Tätigkeiten**
+* Schaffen einer Grundlage für Colearning.org (wesentliche Themen und Inhalte eruieren/definieren sowie sichtbar machen)
+* Führungen und Präsentationen zum Thema Colearning im Arbeitskontext
+* Sichtbar machen und präzisieren von bestehenden Colearning Elementen
+* Colearningaspekte mit theoretischen, wissenschaftlichen Elementen unterlegen
+* Auseinandersetzung mit verschiedenen Lerntheorien
+
+**Learnings**
+
+* Interesse ist da, wobei die Menschen (noch) mehr Rahmenbedingungen benötigen
+* Umsetzung, also Ausbrechen aus den alten formalen Strukturen des Lernens ist oft schwierig
+* ...
+* ...
+
+**Erworbene Kompetenzen**
+
+* Verbindung von Lerntheorie und -praxis in verständlicher Form kommunizieren 
+* ...
+
+**Ausgebaute Kompetenzen**
+
+* Präsentationskompetenzen 
+* ...
 
 {{</box>}}
