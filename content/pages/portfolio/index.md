@@ -6,7 +6,7 @@ description = "Das ist mein Lernportfolio"
 +++
 #### Lernportfolio Benjamin Zaugg
 
-{{<box title="Podcaster">}}
+{{<box title="Badge Podcaster">}}
 Seit April 2020 mache ich Podcasts. In dieser Zeit habe ich verschiedene Formate produziert.  \
 So habe ich mir im Bereich Podcasting verschiedene Kompetenzen erarbeitet.  
 
@@ -68,6 +68,14 @@ Einige Aufnahmen fanden online statt, die Gesprächspartnerinnen waren also zuha
 Erstellen von Bildern und Texten für die Kommunikationskanäle (Webseite, Social Media Plattformen) 
 
 ![](lernbadge.png)
+
+**Hier gehts zu Podcast-Lernblogbeiträgen:** 
+
+[Wie startet man einen Podcast vom 21. Oktober 2021](https://www.bensblog.ch/wie-startet-man-einen-podcast/)
+
+[Podcast vom 6. März 2022](https://www.bensblog.ch/podcast/)
+
+[Erfahrungen von zwei Jahren als Podcaster vom 4. November 2022](https://www.bensblog.ch/podcast3/)
 
 Dieser Badge wird bestätigt von: 
 {{</box>}}
