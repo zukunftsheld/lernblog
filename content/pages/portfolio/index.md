@@ -114,9 +114,10 @@ Seit Frühling 2022 bin ich am Auf- und Ausbau von Colearning.org beteiligt. Mei
 
 * Wie können wir Colearning und die Gedanken des selbstbestimmten und lebensbegleitenden Lernens sicht- und nutzbar für andere machen?
 * Was braucht es, damit Menschen selbstständig und doch gemeinsam lernend unterwegs sein können? 
-* Wie schaffen wir es, aus Colearning eine Bewegung zu machen? \
-    \
-    **Tätigkeiten**
+* Wie schaffen wir es, aus Colearning eine Bewegung zu machen? 
+
+**Tätigkeiten**
+
 * Schaffen einer Grundlage für Colearning.org (wesentliche Themen und Inhalte eruieren/definieren sowie sichtbar machen)
 * Führungen und Präsentationen zum Thema Colearning im Arbeitskontext
 * Sichtbar machen und präzisieren von bestehenden Colearning Elementen
