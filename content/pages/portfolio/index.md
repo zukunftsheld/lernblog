@@ -7,6 +7,9 @@ description = "Das ist mein Lernportfolio"
 #### Lernportfolio Benjamin Zaugg
 
 {{<box title="Badge Podcaster">}}
+
+![](lernbadge.png)
+
 Seit April 2020 mache ich Podcasts. In dieser Zeit habe ich verschiedene Formate produziert.  \
 So habe ich mir im Bereich Podcasting verschiedene Kompetenzen erarbeitet.  
 
@@ -67,7 +70,7 @@ Einige Aufnahmen fanden online statt, die Gesprächspartnerinnen waren also zuha
 
 Erstellen von Bildern und Texten für die Kommunikationskanäle (Webseite, Social Media Plattformen) 
 
-![](lernbadge.png)
+
 
 **Hier gehts zu Podcast-Lernblogbeiträgen:** 
 
