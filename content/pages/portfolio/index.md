@@ -6,7 +6,7 @@ description = "Das ist mein Lernportfolio"
 +++
 #### Lernportfolio Benjamin Zaugg
 
-{{<box title="Badge Podcaster">}}
+{{<box title="![](lernbadge.png)">}}
 
 ![](lernbadge.png)
 
