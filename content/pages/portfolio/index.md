@@ -6,7 +6,7 @@ description = "Das ist mein Lernportfolio"
 +++
 #### Lernportfolio Benjamin Zaugg
 
-{{<box title="![](lernbadge.png)">}}
+{{<box title="Badge Podcaster">}}
 
 ![](lernbadge.png)
 
@@ -69,8 +69,6 @@ Einige Aufnahmen fanden online statt, die Gesprächspartnerinnen waren also zuha
 **Kommunikation Podcast** 
 
 Erstellen von Bildern und Texten für die Kommunikationskanäle (Webseite, Social Media Plattformen) 
-
-
 
 **Hier gehts zu Podcast-Lernblogbeiträgen:** 
 
