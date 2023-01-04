@@ -14,27 +14,27 @@ Wenn wir neue Dinge starten wollen oder schon gestartet haben, dann kommt es imm
 
 ### Die Magie des Neuen
 
-Neues kann etwas Magisches haben. Eine magische Anziehung und auch eine Energie, die freigesetzt wird, manchmal aber dann nicht so lange anhält. Es werden wohl die meisten, die sich neuen, grösseren Vorhaben widmeten, irgendwann mit (Selbst-)Zweifeln im Berührung gekommen sein. Je nach Ausgangslage (finanziell, körperlich etc.), persönlichen Erfahrungen und Prägungen kann es schon einmal passieren, dass man sich dort verstrickt. Was dann helfen kann ist, wieder einen Kontakt zur Magie, die da am Anfang war herzustellen.
+Neues kann etwas Magisches haben. Neues hat oft eine magische Anziehung und auch eine Energie, die freigesetzt wird, manchmal aber dann nicht so lange anhält. Es werden wohl die meisten, die sich neuen, grösseren Vorhaben widmeten, irgendwann mit (Selbst-)Zweifeln im Berührung gekommen sein. Je nach Ausgangslage (finanziell, körperlich etc.), persönlichen Erfahrungen und Prägungen kann es schon einmal passieren, dass man sich dort verstrickt. Was dann helfen kann ist, wieder einen Kontakt zu der Magie, die am Anfang war, herzustellen.
 
 ### Dranbleiben, Loslassen, neues probieren
 
-Beim Kontakt mit «dem Zauber des Anfangs» herstellen oder dem Innehalten zeigt sich vielleicht dann, ob es sich lohnt dranzubleiben oder ob es besser sein könnte, die Idee, das Vorhaben loszulassen. Denn diese Möglichkeit haben wir ja auch und können loslassen, was wir angefangen haben, wir können loslassen, was nicht (mehr) passt oder nicht (mehr) funktioniert
+Wenn wir Kontakt zu «dem Zauber des Anfangs» herstellen oder innehalten, zeigt sich vielleicht dann, ob es sich lohnt dranzubleiben oder ob es besser sein könnte, die Idee, das Vorhaben loszulassen. Denn diese Möglichkeit haben wir ja auch und können loslassen. Loslassen, was wir angefangen haben, wir können loslassen, was nicht (mehr) passt oder nicht (mehr) funktioniert
 
 > Wenn Du entdeckst, dass Du ein totes Pferd reitest, steig ab!
 >
 > *Weisheit der Dakota Indianer*
 
-Vielleicht merken oder wissen wir aber noch gar nicht, dass das Pferd tot ist oder es ist einfach nur erschöpft und braucht Ruhe.
+Vielleicht merken oder wissen wir aber noch gar nicht, dass das Pferd tot ist. Vielleicht ist es auch einfach nur erschöpft und braucht Ruhe.
 
-Das heisst es geht auch darum, aufmerksam zu sein und zu spüren, in welchem Zustand «das Pferd» gerade ist. Vielleicht ist es sogar so, dass wir «das Pferd» gar nicht so müde machen müssen, bis es dann an Erschöpfung stirbt. Aber natürlich ist es genauso möglich, dass es einfach tot ist. So, wie es einfach zum Leben gehört.
+Das heisst es geht auch darum, aufmerksam zu sein und zu spüren, in welchem Zustand «das Pferd» gerade ist. Vielleicht ist es sogar so, dass wir «das Pferd» gar nicht so müde machen müssen, bis es irgendwann an Erschöpfung stirbt. Aber natürlich ist es genauso möglich, dass «das Pferd» einfach tot ist. So, wie es einfach zum Leben gehört.
 
-Mir persönlich fällt es nicht gerade leicht zu sehen oder zu spüren, ob eines meiner Pferde nun tot ist, nur erschöpft oder ob es ein super Pferd ist, dass einfach nicht (mehr) zu mir passt. Da können Aussensichten helfen. Ich vermute, dass es sich lohnen kann, «das Pferd» einfach weiden zu lassen oder eine Auszeit im Stall zu gönnen. Bei mir schleicht sich in solchen Momenten dann schnell das Gefühl oder vorgelagert viel eher der Gedanke des Scheiterns ein. Wobei folgende Aussage helfen kann den Blickwinkel zu wechseln.
+Mir persönlich fällt es nicht immer leicht zu sehen oder zu spüren, ob eines meiner Pferde nun tot ist, nur erschöpft oder ob es ein super Pferd ist, dass einfach nicht (mehr) zu mir passt. Da können Aussensichten helfen. Ich vermute, dass es sich lohnen kann, «das Pferd» einfach weiden zu lassen oder ihm eine Auszeit im Stall zu gönnen. Bei mir schleicht sich in solchen Momenten dann schnell das Gefühl oder vorgelagert viel eher der Gedanke des Scheiterns ein. Wobei folgende Aussage helfen kann den Blickwinkel zu wechseln.
 
 > «Ich glaube, dass es den Zustand des «nicht Klappens» gar nicht gibt.»
 >
 > *Marco Jakob*
 
-Warum sollte zu merken, dass etwas nicht klappt, ein Scheitern sein? Das hat zumindest bei mir, sicher viel mit Prägung zu tun und dem damit verbundenen «was denken denn die andern». Aus der Sicht des Lernens könnte man das so sehen, dass etwas das nicht geklappt hat, ein Lernen, eine Lernerfahrung war und somit auch etwas, dass «geklappt» hat.
+Warum sollte zu merken, dass etwas nicht klappt, ein Scheitern sein? Das hat zumindest bei mir, sicher viel mit Prägung zu tun und dem damit verbundenen «was denken denn die andern». Aus der Sicht des Lernens könnte man das so sehen, dass etwas das nicht geklappt hat, ein Lernen, eine Lernerfahrung war und somit auch etwas, dass «geklappt» hat. 
 
 In diesem Prozess der eigenen Entwicklung, des sich Entfaltens und Entwickelns werden wir also voraussichtlich irgendwann mit Hindernissen, Hürden und Stoplersteinen zu kämpfen haben. Die Frage ist dann, ob wir den Kampf aufnehmen oder das als Spiel des Lebens betrachten können. Denn eigentlich ist es genau das.
 
