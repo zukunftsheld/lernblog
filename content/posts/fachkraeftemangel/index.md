@@ -59,4 +59,18 @@ Das Sinnerleben ist natürlich sehr individuell und dient hier (nur) als Denkanr
 **Kohärenz:** Mein Leben, das was ich tue und denke erscheint mir stimmig. Mein Arbeitsleben passt zu meinem Privatleben. 
 
 **Stellen wir uns einmal folgende Situation (Detailhandel Lebensmittel oder Mode) vor.** \
-Eine Person Mitte 50, mit Fixpensum im Stundenlohn angestellt, packt Waren aus *(die x-Fach in Karton und Plastik verpackt sind)*. Das Wetter ist schön und warm, die Kundinnen und Kunden bleiben aus. Irgendwann kommt eine vorgesetzte Person und sagt, dass heute zu wenig zu tun ist und die Person jetzt Feierabend machen soll. Anstatt der geplanten 7 Stunden heute, werden es nur 4.5. Ein paar Tage später, eigentlich wäre ein Arbeitseinsatz von 3h geplant, steht die Vorgesetzte Person da und bittet eindringlich, heute bis am Abend (am Ende werden es über 8h sein) zu arbeiten.
+Eine Person Mitte 50, mit Fixpensum im Stundenlohn angestellt, packt Waren aus (die x-Fach in Karton und Plastik verpackt sind). Das Wetter ist schön und warm, die Kundinnen und Kunden bleiben aus. Irgendwann kommt eine vorgesetzte Person und sagt, dass heute zu wenig zu tun ist und die Person jetzt Feierabend machen soll. Anstatt der geplanten 7 Stunden heute, werden es nur 4.5. Ein paar Tage später, eigentlich wäre ein Arbeitseinsatz von 3h geplant, steht die Vorgesetzte Person da und bittet eindringlich, heute bis am Abend (am Ende werden es über 8h sein) zu arbeiten. Der neue Arbeitsplan für die nächsten zwei Wochen ist auch da und wieder komplett anders als die letzten zwei. Der fix vereinbarte freie Tag wurde diesmal nicht vergessen. Immerhin. Die Beschwerde des Kunden, der sich wegen der nicht direkt bearbeiteten Reklamation am Kundendienst beschwerte (gem. Reglement darf die Person im Verkauf das auch nicht selbst machen), kommt via Vorgesetzte Person wieder zurück. Man hätte ja dieses Mal eine Ausnahme machen können. Fünf Minuten vor Feierabend kommt noch eine Kundin mit diversen Fragen und Anliegen und bemerkt, man dürfte auch freundlicher grüssen. 
+
+Warum eine Person Mitte 50ig? Ich kenne die Statistik nicht, aber schau einfach einmal bei einem Detailhändler wer an der Kasse sitzt. Es sind oft Frauen, die (in ihrer Zeit war es noch total normal) sich um die Kinder kümmerten, während ihr Ehemann das Geld verdiente. 
+
+Branche Lebensmittel und Mode: Dieses Beispiel können sich wohl die meisten vorstellen und es sind wohl auch sehr viele die dort arbeiten. 
+
+#### Ist da Sinn?
+
+Das kann natürlich nur jeder Mensch selbst beantworten. Schauen wir uns aber doch einmal die vier Merkmale an: \
+\
+Bedeutsamkeit: Wie wirksam erlebt sich wohl jemand, der Waren auspackt, die gleich wieder verkauft (und in andere Plastiktaschen verpackt) werden oder am Abend eine nicht unbeachtliche Menge Lebensmittel wegwerfen muss. 
+
+Orientierung: Für einige (vielleicht für viele) ist das ein Brotjob, einen, den sie machen um über die Runden zu kommen. \
+\
+Zugehörigkeit: Das gemeinsame Leiden hilft manchmal, sich zugehörig(er) zu fühlen.
