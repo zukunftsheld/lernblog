@@ -10,13 +10,9 @@ description = "Hallo, ich bin Ben. \n\n"
 
 Hallo, ich bin Ben. 
 
-🌱Ich beschäftige mich mit der Entwicklung, dem Lernen und der Begleitung von Menschen in der Arbeitswelt. 
-
-Ab Februar 2023 bin ich hauptberuflich in der Berufsbildung tätig. \
+🌱Ich beschäftige mich mit der Entwicklung, dem Lernen und der Begleitung von Menschen in der Arbeitswelt. Ab Februar 2023 bin ich hauptberuflich als Ausbildungsleiter in der Berufsbildung tätig. \
 \
 🎧 In zwei verschiedenen Podcast-Formaten 🎙️[zukunftshelden.ch](https://www.zukunftshelden.ch) & 🎙️[24stunden.life](https://www.24stunden.life) spreche ich mit Menschen, die ehrliche und tiefe Einblicke in ihre ganz verschiedenen Berufe, Biografien und Lernerfahrungen geben.
-
-In diesem Blog schreibe ich über mein Arbeiten, Lernen und Leben. 
 
 Oktober 2021 bis Ende 2022: Das Leben findet oft in Wellenbewegungen statt und meistens passiert gerade dann viel, wenn wir uns aus unserer Komfortzone bewegen. Ich habe mich aus dieser Komfortzone bewegt, weil ich wissen wollte, wie die Welt als Selbstständiger aussieht. Anstatt nur die tollen Momente und das Gute zu zeigen, wollte ich vieles zeitnah niederschreiben und teilen. Hätte ich mir diese Aufgabe nicht gestellt, wäre hier vieles verborgen geblieben oder schön und gefiltert erschienen. 
 
