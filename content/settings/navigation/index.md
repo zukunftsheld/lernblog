@@ -12,4 +12,8 @@ url = "/ueber/"
 [[link]]
 title = "📚Bücher"
 url = "/buecher/"
+
+[[link]]
+title = "🏷️Tags"
+url = "/tags/"
 +++
