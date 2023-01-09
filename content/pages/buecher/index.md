@@ -11,9 +11,7 @@ In meinen Blogbeiträgen erwähne ich immer wieder Bücher und einige davon rege
 
 ![](img_6826.jpg)
 
-Russ Harris zeigt inseinem Buch auf, wie man mit Hilfe der Akzeptanz- und Commitmenttherapie das eigene Leben aktiv gestalten kann. Dabei geht es nicht um selbstoptimierung, sondern darum, u. a. mit Akzeptanz, Offenheit, Werteklarheit sowie aktivem und bewusstem Handeln ein gutes Leben zu führen. Das Buch bietet Anleitungen und Wegweiser, seinen Weg, seine Träume und Ziele zu verfolgen, auch wenn Angst, Schmerz oder andere Einschränkungen (die oft einfach zum Leben gehören), das Leben immer wieder bestimmen. {{</box>}}
-
-
+[Russ Harris](https://thehappinesstrap.com/my-story/) zeigt inseinem Buch auf, wie man mit Hilfe der Akzeptanz- und Commitmenttherapie das eigene Leben aktiv gestalten kann. Dabei geht es nicht um selbstoptimierung, sondern darum, u. a. mit Akzeptanz, Offenheit, Werteklarheit sowie aktivem und bewusstem Handeln ein gutes Leben zu führen. Das Buch bietet Anleitungen und Wegweiser, seinen Weg, seine Träume und Ziele zu verfolgen, auch wenn Angst, Schmerz oder andere Einschränkungen (die oft einfach zum Leben gehören), das Leben immer wieder bestimmen. {{</box>}}
 
 {{<box title="Ikigai, Die japanische Lebenskunst">}}
 
