@@ -7,15 +7,11 @@ In meinen Blogbeiträgen erwähne ich immer wieder Bücher und einige davon rege
 
 {{<box title="Der Weg zu echtem Selbstvertrauen, Von der Angst zur Freiheit, Russ Harris">}}
 
-**Der Weg zu echtem Selbstvertrauen, Von der Angst zur Freiheit**
-
 ![](img_6826.jpg)
 
 [Russ Harris](https://thehappinesstrap.com/my-story/) zeigt in seinem Buch auf, wie man mit Hilfe der Akzeptanz- und Commitmenttherapie das eigene Leben aktiv gestalten kann. Dabei geht es nicht um Selbstoptimierung, sondern darum, u. a. mit Akzeptanz, Offenheit, Werteklarheit sowie aktivem und bewusstem Handeln ein gutes Leben zu führen. Das Buch bietet Anleitungen und Wegweiser, seinen Weg, seine Träume und Ziele zu verfolgen, auch wenn Angst, Schmerz oder andere Einschränkungen (die oft einfach zum Leben gehören), das Leben immer wieder bestimmen. {{</box>}}
 
 {{<box title="Ikigai, Die japanische Lebenskunst, Ken Mogi">}}
-
-Ikigai, die japanische Lebenskunst, Ken Mogi
 
 ![](img_6830.jpg)
 
@@ -24,8 +20,6 @@ Wer mich etwas besser kennt weiss, dass ich oft Dinge und Themen hinterfrage. Ik
 {{</box>}}
 
 {{<box title="Entlehrt euch! Ausbruch aus dem Vollständigkeitswahl, Rolf Arnold">}}
-
-**Entlehrt euch!, Ausbruch aus dem Vollständigkeitswahn, Rolf Arnold**
 
 ![](img_6831.jpg)
 
