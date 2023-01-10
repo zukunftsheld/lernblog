@@ -39,7 +39,7 @@ Wir könnte oder sollte Lernen und Bildung funktionieren? Was ist Lernen und war
 
 ![](img_6840.jpg)
 
-Heute scheint es, das Wohlstand, Problemlösungen, gewünschte Veränderungen etc. ohne Anstrengungen zu erreichen sind. Das ist aber nicht so. Strengt euch an! ist ein Aufruf zur Selbstwirksamkeit. 
+Heute scheint es, das Wohlstand, Problemlösungen, gewünschte Veränderungen etc. ohne Anstrengungen zu erreichen sind. Das ist aber nicht so. Strengt euch an! ist ein Aufruf zur Selbstwirksamkeit. Wolf Lotter zeigt politische und gesellschaftliche Zusammenghänge auf die zeigen, wie wir hier gelandet sind und wie wir da wieder rauskommen. 
 
 {{</box>}}
 
