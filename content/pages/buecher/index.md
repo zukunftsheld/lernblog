@@ -55,4 +55,6 @@ Wie können wir angesichts dieser vielen Krisen und Zeiten der Entscheidungen al
 
 ![](img_6843.jpg)
 
+Wie können wir sinnstiftend zusammenarbeiten? Wie wurde die Arbeitswelt von heute wie sie ist? Wie sind wir geprägt und wie können wir etwas an der Form der Arbeit und Zusammenarbeit verändern? Dieses Buch ist Inspiration und Mutmacher. Frederic Laloux zeigt anhand von Beispielen wie Veränderung zu zukunftsfähigen Organisationen bei denen die Menschen im Mittelpunkt stehen gelingen kann. Das illustrierte Buch ist ein guter Einstieg. Für die Vertiefung empfehle ich das umfassendere Buch [Reinventing Organizations.](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/frederic-laloux/reinventing-organizations/id/9783800649136/)
+
 {{</box>}}
