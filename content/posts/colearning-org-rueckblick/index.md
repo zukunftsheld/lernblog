@@ -1,12 +1,12 @@
 +++
 title = "Colearning.org Rückblick "
 date = "2023-01-11"
-draft = true
+draft = false
 pinned = false
-tags = ["Colearning", "Lernen", "Bildung"]
+tags = ["Colearning", "Lernen", "Bildung", "colearning.org", "NewLearning"]
 image = "bildschirm-foto-2023-01-11-um-08.39.58.png"
 description = "Im Februar 2021 war der Start mit Colearning.org. Es ist Zeit für einen Rückblick.  "
-footnotes = "**Passende Blogbeiträge von anderen Colearner:innen**\n\n* [Colearning.org](https://www.fredizumbrunn.ch/colearning-org/)\n* [GedankenGänge](https://www.fredizumbrunn.ch/gedankengange/)\n* [Wir geben uns das Lernen zurück](https://www.fredizumbrunn.ch/wir-geben-uns-das-lernen-zuruck/)\n* [Learning by doing](https://www.fredizumbrunn.ch/learnings-by-doing/)\n* [Das Neue kann man nur sehen, wenn man des Neue macht](https://www.fredizumbrunn.ch/das-neue-kann-man-nur-sehen-wenn-man-das-neue-macht/)\n* [Lernunternehmen](https://www.fredizumbrunn.ch/das-neue-kann-man-nur-sehen-wenn-man-das-neue-macht/)"
+footnotes = "**Passende Blogbeiträge von anderen Colearner:innen**\n\n* [Colearning.org](https://www.fredizumbrunn.ch/colearning-org/)\n* [GedankenGänge](https://www.fredizumbrunn.ch/gedankengange/)\n* [Wir geben uns das Lernen zurück](https://www.fredizumbrunn.ch/wir-geben-uns-das-lernen-zuruck/)\n* [Learning by doing](https://www.fredizumbrunn.ch/learnings-by-doing/)\n* [Das Neue kann man nur sehen, wenn man des Neue macht](https://www.fredizumbrunn.ch/das-neue-kann-man-nur-sehen-wenn-man-das-neue-macht/)\n* [Lernunternehmen](https://www.fredizumbrunn.ch/das-neue-kann-man-nur-sehen-wenn-man-das-neue-macht/)\n* [Irgendetwas läuft hier richtig](https://blog.jorisschwarzenbach.ch/irgendetwas-lauft-hier-richtig/)\n* [Die YOLU-Reise startet](https://blog.jorisschwarzenbach.ch/die-yolu-reise-startet/)\n* [Auf den Pilz gekommen](https://hermann.netlify.app/auf-den-pilz-gekommen/)"
 +++
 ### Mein Weg ins Colearning
 
