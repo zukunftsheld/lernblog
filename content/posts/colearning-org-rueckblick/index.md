@@ -6,6 +6,7 @@ pinned = false
 tags = ["Colearning", "Lernen", "Bildung"]
 image = "bildschirm-foto-2023-01-11-um-08.39.58.png"
 description = "Im Februar 2021 war der Start mit Colearning.org. Es ist Zeit für einen Rückblick.  "
+footnotes = "**Passende Blogbeiträge von anderen Colearner:innen**\n\n* [Colearning.org](https://www.fredizumbrunn.ch/colearning-org/)\n* [GedankenGänge](https://www.fredizumbrunn.ch/gedankengange/)\n* [Wir geben uns das Lernen zurück](https://www.fredizumbrunn.ch/wir-geben-uns-das-lernen-zuruck/)\n* [Learning by doing](https://www.fredizumbrunn.ch/learnings-by-doing/)\n* [Das Neue kann man nur sehen, wenn man des Neue macht](https://www.fredizumbrunn.ch/das-neue-kann-man-nur-sehen-wenn-man-das-neue-macht/)\n* [Lernunternehmen](https://www.fredizumbrunn.ch/das-neue-kann-man-nur-sehen-wenn-man-das-neue-macht/)"
 +++
 ### Mein Weg ins Colearning
 
@@ -71,6 +72,6 @@ Colearning und das befreite, natürliche Lernen ist etwas, was uns am Herzen lie
 * Marco und Joris haben [Yolu](https://www.yolu.ch) gegründet und im Sommer 2023 werden die ersten zwei Mediamatiker-Lernenden im Effinger ihre Ausbildung starten. 
 * Der Lernblog, heute [Lilo.Blog](https://www.lilo.blog) entwickelt sich auch weiter und wir machen uns z. B. Gedanken darüber, wie eine Art Zertifizierung (z. B. Mikro Learning Badges o. Ä.) möglich sein könnten. 
 * Ich selbst beginne das erste gegenseitige Mentoring mit jemandem, der noch keine Colearning-Erfahrung hat und bin gespannt wie es wird. 
-* Im Moment arbeiten [Joscha](https://www.joschatschanz.ch) und Levyn an einem Video über Colearning. Da gibt es sicher bald mehr.
+* Im Moment arbeiten [Joscha](https://www.joschatschanz.ch) und [Levyn](https://levynblog.netlify.app) an einem Video über Colearning. Da gibt es sicher bald mehr.
 
 Was habe ich wohl noch vergessen?
