@@ -26,7 +26,7 @@ Und plötzlich wurde es ernst. Den Interessen entsprechend wurden Aufgaben über
 
 ### Colearning-Bewegung
 
-[Colearning](https://www.colearning.org) sollte nichts Isoliertes sein, nichts, was nur im Effinger stattfindet, nichts, das uns gehört. Am liebsten hätten wir Colearning überall. Die natürliche Verbindung von Lernen und Arbeit. Das Lernen mitten im Leben. Die Liebe zum Lernen. Wie bringen wir das raus zu den Menschen? Wie kann Colearnig zu einer Bewegung werden?
+[Colearning](https://www.colearning.org) sollte nichts Isoliertes sein, nichts, was nur im Effinger stattfindet, nichts, das uns gehört. Am liebsten hätten wir Colearning überall. Die natürliche Verbindung von Lernen und Arbeit. Das Lernen mitten im Leben. Die Liebe zum Lernen. Wie bringen wir das raus zu den Menschen? Wie kann Colearning zu einer Bewegung werden?
 
 ![](20220202_100314.jpg)
 
