@@ -64,11 +64,11 @@ Colearning und das befreite, natürliche Lernen ist etwas, was uns am Herzen lie
 
 #### Wo stehen wir mit Colearning heute?
 
-* Seit der Gründung haben wir auf der Webseite [colearning.org](https://www.colearning.org) zusammengefasst was Colearning ist. Wir zeigen die einzelnen Elemente, wie auch das [Gesamtkonzept](https://docs.google.com/document/d/1qcq7b3huOSms2ut1s4PFpCIMD7X9kRLhat7KwjSghwM/edit#heading=h.rq2axbnvwgdm). Es kann übernommen und ausprobiert werden.
+* Seit der Gründung haben wir auf der Webseite [colearning.org](https://www.colearning.org) zusammengefasst, was Colearning ist. Wir zeigen die einzelnen Elemente, wie auch das [Gesamtkonzept](https://docs.google.com/document/d/1qcq7b3huOSms2ut1s4PFpCIMD7X9kRLhat7KwjSghwM/edit#heading=h.rq2axbnvwgdm). Es kann übernommen und ausprobiert werden.
 * Fredi hat Colearning-Meetups organisiert und erste interessierte Menschen zusammengebracht. Wer weiss, was daraus entsteht.. 
 * Das erste Lernunternehmen, die [Pilzfarm Bern](https://www.pilzfarm.be) gibt es immer noch. Es sind Pilze im Keller des Effingers gewachsen und vor Weihnachten wurden die ersten rund 200 Pilzboxen verkauft. Ich hörte, es wird bereits an neuen Ideen getüftelt.
 * Wir haben zwei [Podcast-Gespräche](https://colearning.podigee.io) über Colearning aufgezeichnet und diese auch [gefilmt](https://www.youtube.com/channel/UC06qEJZv4sB5LkAYUhkyJww). Es war wieder Umsetzung und Lernen in einem. 
-* Wir haben bei einem [Netzwerktreffen der German Coworking Federation e. V.](https://coworkland.de/de/veranstaltungen/colearning-bildung-coworking) und bei einem Unternehmen für Organisationsenticklung über Colearning und das Lernunternehmen erzählt. Wer weiss, wozu wir inspirieren konnten.
+* Wir haben bei einem [Netzwerktreffen der German Coworking Federation e. V.](https://coworkland.de/de/veranstaltungen/colearning-bildung-coworking) und bei einem Unternehmen für Organisationsenticklung über Colearning und das Lernunternehmen erzählt (und natürlich tun wir das bei allen möglichen Gelegenheiten). Wer weiss, wozu wir inspirieren konnten.
 * Marco und Joris haben [Yolu](https://www.yolu.ch) gegründet und im Sommer 2023 werden die ersten zwei Mediamatiker-Lernenden im Effinger ihre Ausbildung starten. 
 * Der Lernblog, heute [Lilo.Blog](https://www.lilo.blog) entwickelt sich auch weiter und wir machen uns z. B. Gedanken darüber, wie eine Art Zertifizierung (z. B. Mikro Learning Badges o. Ä.) möglich sein könnten. 
 * Ich selbst beginne das erste gegenseitige Mentoring mit jemandem, der noch keine Colearning-Erfahrung hat und bin gespannt wie es wird. 
