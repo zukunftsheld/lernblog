@@ -1,5 +1,5 @@
 +++
-title = "Colearning.org Rückblick "
+title = "Colearning.org - Rückblick "
 date = "2023-01-11"
 draft = false
 pinned = false
@@ -32,9 +32,9 @@ Und plötzlich wurde es ernst. Den Interessen entsprechend wurden Aufgaben über
 
 ### Colearning.org - Der Anfang
 
-Am 2. Februar 2022 sassen Fredi Zumbrunn, [Joris Schwarzenbach](https://blog.jorisschwarzenbach.ch), Marco Jakob und ich zusammen im Effinger und gründeten [Colearning.org](https://www.colearning.org). Wir schrieben Ideen und Gedanken auf, was dachten gemeinsam darüber nach, wir uns unter Colearning vorstellen, was wir uns wünschen, welche Visionen und Träume wir haben. 
+Am 2. Februar 2022 sassen Fredi Zumbrunn, [Joris Schwarzenbach](https://blog.jorisschwarzenbach.ch), Marco Jakob und ich zusammen im Effinger und gründeten [Colearning.org](https://www.colearning.org). Wir schrieben Ideen und Gedanken auf, dachten gemeinsam darüber nach, was wir uns unter Colearning vorstellen, was wir uns wünschen, welche Visionen und Träume wir haben. 
 
-**Auf dem Papier steht zum Beispiel:** 
+**Auf dem Papier stand zum Beispiel:** 
 
 🖊️ Lehrstellen, Lernstellen
 
@@ -60,7 +60,7 @@ Colearning.org war da, wir waren unterwegs, aber welchen Ideen sollten wir nachg
 
 #### Vernebelte Sicht
 
-Colearning und das befreite, natürliche Lernen ist etwas, was uns am Herzen liegt. Es ist etwas, woran wir glauben, etwas, was wir jeden Tag selbst erleben. Freies und selbstbestimmtes Lernen mitten im Leben. Da sind aber auch die Hindernisse, die sichtbaren und unsichtbaren Hürden, Stolpersteine und Strassengraben. Wir machen das nebenbei und müssen uns auch um unseren Lebensunterhalt kümmern. Viele finden die Idee und das, was wir tun, gut. Es geht aber manchmal nur harzig weiter oder scheint stecken zu bleiben. Das schlägt manchmal auf die Motivation, vernebelt die Sicht und die Perspektive. Das gehört aber einfach dazu. 
+Colearning und das befreite, natürliche Lernen ist etwas, was uns am Herzen liegt. Es ist etwas, woran wir glauben, etwas, was wir jeden Tag selbst erleben. Freies und selbstbestimmtes Lernen mitten im Leben. Da sind aber auch die Hindernisse, die sichtbaren und unsichtbaren Hürden, Stolpersteine und Strassengräben. Wir machen das nebenbei und müssen uns auch um unseren Lebensunterhalt kümmern. Viele finden die Idee und das, was wir tun, gut. Es geht aber manchmal nur harzig weiter oder scheint stecken zu bleiben. Das schlägt manchmal auf die Motivation, vernebelt die Sicht und die Perspektive. Das gehört aber einfach dazu. 
 
 #### Wo stehen wir mit Colearning heute?
 
