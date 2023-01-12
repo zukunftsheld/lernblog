@@ -9,7 +9,7 @@ description = "Vor einiger Zeit habe ich über die «Morgenseiten» geschrieben.
 +++
 ### Kreativität und Harmonie
 
-Wo soll ich anfangen? Kreativität oder gestalterisch tätig zu sein, kommen in meiner Welt eigentlich nicht vor. Das alles ist für mich irgendwie mit Talent und mit was weiss ich verbunden. Vielleicht auch mit dem Wort Kunst und vielleicht auch mit Schulschmerz. Egal. Am 18. November 2022 habe ich über meine «Morgenseiten» geschrieben und wie ich über ein Gespräch und dem Hinweis zu einem Buch dazu gekommen bin. In diesem Beitrag ging es auch um Kunst. 
+Wo soll ich anfangen? Kreativität oder gestalterisch tätig zu sein, kommen in meiner Welt eigentlich nicht vor. Das alles ist für mich irgendwie mit Talent und mit was weiss ich verbunden. Vielleicht auch mit dem Wort Kunst und vielleicht auch mit Schulschmerz. Egal. Am 18. November 2022 habe ich über meine [«Morgenseiten»](https://www.bensblog.ch/morgenseiten/) geschrieben und wie ich über ein Gespräch und dem Hinweis zu einem Buch dazu gekommen bin. In diesem Beitrag ging es auch um Kunst. 
 
 #### Kreativität und Perfektion
 
