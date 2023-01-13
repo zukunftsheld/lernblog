@@ -1,7 +1,7 @@
 +++
 title = "Kreativität und Harmonie"
 date = "2023-01-12"
-draft = false
+draft = true
 pinned = false
 tags = ["Kreativität", "Lernen"]
 image = "img_6868.jpg"
