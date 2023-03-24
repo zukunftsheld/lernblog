@@ -3,12 +3,14 @@ title = "Ich lerne noch"
 date = "2023-03-24"
 draft = true
 pinned = false
+image = "bildschirm-foto-2023-03-24-um-16.53.35.png"
+description = "Ich bin noch da. Ich lerne noch. "
 +++
 ### Ich lerne noch
 
 Klar, ich lerne noch. Ich habe nie etwas anderes getan. Doch, vielleicht musste ich lange so tun als würde ich lernen. Franzwörtli repetieren, Formeln auswendig lernen, ... . Du kennst es. 
 
-Aber wie so oft, scheife ich ab. Heute bereits bei der Einleitung. Eine derart lange Pause zwischen den Blogbeiträgen gab es bei mir wohl schon lange nicht mehr oder noch nie. Ich begann immer wieder Einträge zu schreiben und kam nie wirklich weit. Fertig. Schön. Sauber. So wollte ich meine Beiträge der Welt zeigen. Es wäre um Achtsamkeit gegangen, ich hätte über meine Gedanken zur Theorie U von Otto Scharmer geschrieben, es wäre um psychologisches Empowerment (Schermuly) gegangen und über meine neue berufliche Rolle. Da wäre auch noch Beyond Leadership (Quelle) und Mindful Leadership (Quelle). Der Drang nach Perfektion hinderte mich (wieder einmal). Noch korrekter, ich liess mich von diesem Drang hindern.
+Aber wie so oft, scheife ich ab. Heute bereits bei der Einleitung. Eine derart lange Pause zwischen den Blogbeiträgen gab es bei mir wohl schon lange nicht mehr oder noch nie. Ich begann immer wieder Einträge zu schreiben und kam nie wirklich weit. Fertig. Schön. Sauber. So wollte ich meine Beiträge der Welt zeigen. Es wäre um Achtsamkeit gegangen, ich hätte über meine Gedanken zur [Theorie U ](https://theory-u.de)von [Otto Scharmer ](https://ottoscharmer.com)geschrieben, es wäre um [psychologisches Empowerment ](https://www.hppyppl.de/blog/was-motiviert-menschen-psychologische-empowerment/)gegangen und über meine neue berufliche Rolle. Da wäre auch noch [Beyond Leadership](https://fh-hwz.ch/news/beyond-leadership-das-handbuch-von-matthias-moelleney-und-sybille-sachs) und [Mindful Leadership](https://www.arbor-verlag.de/bücher/aspekte-und-wege-der-achtsamkeit/mindful-leadership-die-7-prinzipien-achtsamer-fuehrung). Der Drang nach Perfektion hinderte mich (wieder einmal). Noch korrekter, ich liess mich von diesem Drang hindern.
 
 Heute ist das anders. Ich habe richtig Lust, das Unfertige zu teilen. Vielleicht war ein Linkedin-Post der Auslöser oder der letzt Anstoss. Christoph Schmitt schreibt auf Linkedin zur Initiative Slow Learning: *«Schöner Impuls: Für mich ganz wichtig, weil er einen wesentlichen Aspekt von Lernen beleuchtet: "Unterhalb" der Skills-Ebene, auf der wir relativ zügig Neues lernen, wo es ums Üben geht und ums Anwenden, um Methode, Technik und Output, unterhalb dieser Ebene wirkt der Aspekt von Lernen, der uns Menschen ausmacht: Der langsame und nachhaltige Teil des Lernens. Dort, wo es um den humanen Aspekt von Entwicklung geht. Um die Expedition: Buch lesen statt Abstract. Eintauchen statt Anstreichen. Wo es nicht mehr nur um Adaption geht und um Anwendung, sondern um Gestalten.»*
 
@@ -35,9 +37,5 @@ Vieles aus meiner Vergangenheit habe ich erforscht, erkundet und (vielleicht) ve
 #### und jetzt?
 
 Mir fehlt im Moment die Zeit und Energie, Menschen zu suchen und anzuschreiben, die sich für diese Themen ebenfalls interessieren. Menschen, die vielleicht selbst Expert:in in einem dieser Themen sind oder Menschen, die sich gerne über ihre Gedanken und Lernerlebnisse dazu austauschen möchten. Vielleicht bist aber genau du so ein Mensch. Dann melde dich doch und vielleicht treffen wir uns zu einem Spaziergang oder zu einem Kaffee. 
-
-
-
-
 
 PS: Der Blogtitel erinnert mich an den Blogbeitrag [«Ich lerne noch» von Marco Jakob](https://www.marcojakob.blog/ich-lerne-noch/).
