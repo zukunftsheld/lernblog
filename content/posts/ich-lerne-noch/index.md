@@ -32,7 +32,7 @@ Was da oben steht berührt mich. Es ermutigt mich, dir einen Einblick zu geben. 
 >
 > *slow-learning.com*
 
-Vieles aus meiner (viel früheren) Vergangenheit habe ich erforscht, erkundet und (vielleicht) verstanden. Ich weiss, dass die meisten meiner Interessen aus dem Schmerz entstanden sind. Deshalb war Lernen und alles, was damit zu tun hatte für mich die Hölle. Heute ist Lernen für mich etwas vom schönsten und natürlichsten. In den letzten Monaten verfing ich mich in einigen alten Denkmustern und deshalb blieben etliche Blogbeiträge unvollendet. Umso dankbarer bin ich für die Inspiration von Slow Learning. Ich bin noch da. Ich lerne noch. 
+Vieles aus meiner (viel früheren) Vergangenheit habe ich erforscht, erkundet und (vielleicht) verstanden. Ich weiss, dass die meisten meiner Interessen aus dem Schmerz entstanden sind. Deshalb war Lernen und alles, was damit zu tun hatte, die Hölle für mich. Heute ist Lernen für mich etwas vom schönsten und natürlichsten. In den letzten Monaten verfing ich mich in einigen alten Denkmustern und deshalb blieben etliche Blogbeiträge unvollendet. Umso dankbarer bin ich für die Inspiration von Slow Learning. Ich bin noch da. Ich lerne noch. 
 
 
 
