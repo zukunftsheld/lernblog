@@ -22,7 +22,7 @@ Heute ist das anders. Ich habe richtig Lust, das Unfertige zu teilen. Vielleicht
 
 #### Gestalten
 
-Was da oben steht berührt mich. Es ermutigt mich, dir einen Einblick zu geben. Ich zeige dir was läuft und nicht das, was ich weiss oder zu wissen meine. Ich spüre in den letzten Monaten förmlich, wie die Verknüpfungen in meinem Gehirn entstehen. Ich fühle die Widerstände und Widersprüche zwischen der Theorie und der oft erlebten Realität, ich suche und finde den Flow, stolpere, tauche ab und lerne. Die Bücher stehen für die Themen, mit denen ich mich in den letzten Monaten beschäftige. Das mache ich mit den Büchern, auf Plattformen wie Linkedin oder Youtube, ich spreche mit Menschen darüber oder erzähle davon. Einige Dinge praktiziere ich aktiv. Die Themen mit denen ich mich beschäftige berühren und bewegen mich. Vielleicht bewege ich auch die Themen, irgendwie.. Wer weiss. 
+Was da oben steht berührt mich. Es ermutigt mich, dir einen Einblick zu geben. Ich zeige dir was läuft und nicht das, was ich weiss oder zu wissen meine. Ich spüre in den letzten Monaten förmlich, wie die Verknüpfungen in meinem Gehirn entstehen. Ich fühle die Widerstände und Widersprüche zwischen der Theorie und der oft erlebten Realität. Ich suche und finde den Flow, stolpere, tauche ab und lerne. Die Bücher stehen für die Themen, mit denen ich mich in den letzten Monaten beschäftige. Das mache ich mit den Büchern, auf Plattformen wie Linkedin oder Youtube, ich spreche mit Menschen darüber oder erzähle davon. Einige Dinge praktiziere ich aktiv. Die Themen mit denen ich mich beschäftige berühren und bewegen mich. Vielleicht bewege ich auch die Themen, irgendwie.. Wer weiss. 
 
 ![](bildschirm-foto-2023-03-24-um-16.53.35.png)
 
@@ -32,7 +32,7 @@ Was da oben steht berührt mich. Es ermutigt mich, dir einen Einblick zu geben. 
 >
 > *slow-learning.com*
 
-Vieles aus meiner (viel früheren) Vergangenheit habe ich erforscht, erkundet und (vielleicht) verstanden. Ich weiss, dass sich die Meisten meiner Interessen aus dem Schmerz gebildet haben. So war Lernen und alles, was damit zu tun hatte für mich die Hölle. Heute ist Lernen für mich etwas vom schönsten und natürlichsten. In den letzten Monaten verfing ich mich in einigen alten Gedankenmustern und deshalb blieben etliche Blogbeiträge unvollendet. Umso dankbarer bin ich für die Inspiration von Slow Learning. Ich bin noch da. Ich lerne noch. 
+Vieles aus meiner (viel früheren) Vergangenheit habe ich erforscht, erkundet und (vielleicht) verstanden. Ich weiss, dass die meisten meiner Interessen aus dem Schmerz entstanden sind. Deshalb war Lernen und alles, was damit zu tun hatte für mich die Hölle. Heute ist Lernen für mich etwas vom schönsten und natürlichsten. In den letzten Monaten verfing ich mich in einigen alten Denkmustern und deshalb blieben etliche Blogbeiträge unvollendet. Umso dankbarer bin ich für die Inspiration von Slow Learning. Ich bin noch da. Ich lerne noch. 
 
 
 
