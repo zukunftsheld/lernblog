@@ -24,7 +24,6 @@ Wie schön und wie passend! Aber auch anstrengend und herausfordernd (da kommen 
 
 #### Lernprojekt
 
-\
 Ich möchte Achtsamkeit nicht nur zum Selbstzweck in mein Leben integrieren, sondern verstehen, was da passiert. Was passiert in mir und um mich, welche Auswirkungen hat Achtsamkeitspraxis auf Menschen (Psyche und Körper), welchen Einfluss hat Achtsamkeit auf Organisationen, auf Führung, und und und. 
 
 #### Das tue ich
