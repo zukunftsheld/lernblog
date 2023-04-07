@@ -10,7 +10,7 @@ footnotes = "**Links und Bücher**\n\n[Meditationsapp 7 Mind zur Achtsamkeitspra
 +++
 #### Im Hier und Jetzt
 
-Es ist klar, dass die Vergangenheit uns geprägt hat. Unser Denken, unser Verhalten, unsere Werte und einiges mehr, sind geprägt durch unser Umfeld, durch unsere Erlebnisse. Wir sagen dann gerne «Ich bin so» oder über andere «Er/Sie ist so (zum Beispiel zurückhaltend, ängstlich, mutig, schlau, ...)». Da sind viele Prägungen, die uns nicht bewusst sind. Im Hier und Jetzt ist vielleicht nicht der ideale Titel und doch ist die Gegenwart der Ort oder der Zeitpunkt, in dem wir uns (plötzlich) anders erleben können. Im Hier uns Jetzt kann auch heissen, sich auf den Moment einzulassen. 
+Es ist klar, dass die Vergangenheit uns geprägt hat. Unser Denken, unser Verhalten, unsere Werte und einiges mehr sind geprägt durch unser Umfeld, durch unsere Erlebnisse. Wir sagen dann gerne «Ich bin so» oder über andere «Er/Sie ist so (zum Beispiel zurückhaltend, ängstlich, mutig, schlau, ...)». Da sind viele Prägungen, die uns nicht bewusst sind. Im Hier und Jetzt ist vielleicht nicht der ideale Titel und doch ist die Gegenwart der Ort oder der Zeitpunkt, in dem wir uns (plötzlich) anders erleben können. Im Hier uns Jetzt kann auch heissen, sich auf den Moment einzulassen. 
 
 #### (Schul-)Lager, Gruppenreisen und andere Horrorgeschichten
 
@@ -23,8 +23,6 @@ Um eine Ausbildung abschliessen zu können, war es (leider) entscheidend, ein pa
 #### ..immer wieder von vorne
 
 Auch wenn dieses Erlebnis, dass bereits ein paar Jahre zurückliegt (positiv) prägend war, habe ich auch heute noch eine (vermeintliche?) Ablehnung gegen jegliche Form von Aktivitäten mit Lagercharakter. So waren diese (alten) Gefühle und Gedanken, ja, all diese Prägungen wieder da. Es ging darum, zwei Tage mit einer Gruppe unterwegs zu sein. Natürlich äusserte ich auch hier wieder meinen Unmut und meine Ablehnung. Meine Haltung wurde zur Kenntnis genommen, es war Verständnis da und teilweise wurde sogar erfragt, warum das so ist. Was soll ich sagen, es war wieder ein gutes Erlebnis.
-
-
 
 > Zwischen Reiz und Reaktion liegt ein Raum. In diesem Raum liegt die Macht unserer Wahl. In unserer Reaktion liegen unsere Entwicklung und unsere Freiheit.
 >
