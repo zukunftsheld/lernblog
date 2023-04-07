@@ -42,7 +42,7 @@ Zu sagen, dass wir etwas nicht mögen oder Schwierigkeiten damit haben, ist völ
 
 Das braucht jedoch auch Menschen, die diese Offenheit haben. Menschen, die in der Lage sind,[](https://www.7mind.de) diesen Raum zu schaffen, zu halten und doch einfach ganz «normal» unterwegs zu sein. Ich denke, das ist wohl eines der grössten Geschenke.
 
-Achtsam zu sein und zu merken, was gerade passiert hilft. Es hilft, (alte) Prägungen und Reaktionsmuster zu erkennen und zu beobachten. Möglicherweise gelingt es sogar, diese mit einer Freudlichkeit zu betrachten. Es sind oft Muster, die heute eigentlich keine Berechtigung und keine Notwendigkeit mehr haben. 
+Achtsam zu sein und zu merken, was gerade passiert, hilft. Es hilft, (alte) Prägungen und Reaktionsmuster zu erkennen und zu beobachten. Möglicherweise gelingt es sogar, diese mit einer Freudlichkeit zu betrachten. Es sind oft Muster, die heute eigentlich keine Berechtigung und keine Notwendigkeit mehr haben. 
 
 > «Je mehr ich einfach gewillt bin, inmitten dieser ganzen Komplexität des Lebens ich selbst zu sein, und je mehr ich gewillt bin, die Realitäten in mir selbst und im anderen zu verstehen und zu akzeptieren, desto mehr Veränderung scheint in Gang zu kommen.
 >
