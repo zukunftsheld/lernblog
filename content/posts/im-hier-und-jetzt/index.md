@@ -22,7 +22,7 @@ Um eine Ausbildung abschliessen zu können, war es (leider) entscheidend, ein pa
 
 #### ..immer wieder von vorne
 
-Auch wenn dieses Erlebnis, dass bereits ein paar Jahre zurückliegt (positiv) prägend war, habe ich auch heute noch eine (vermeintliche?) Ablehnung gegen jegliche Form von Aktivitäten mit Lagercharakter. So waren diese (alten) Gefühle und Gedanken, ja, all diese Prägungen wieder da. Es ging darum, zwei Tage mit einer Gruppe unterwegs zu sein. Natürlich äusserte ich auch hier wieder meinen Unmut und meine Ablehnung. Meine Haltung wurde zur Kenntnis genommen, es war Verständnis da und teilweise wurde sogar erfragt, warum das so ist. Was soll ich sagen, es war wieder ein gutes Erlebnis.
+Auch wenn dieses Erlebnis, dass bereits ein paar Jahre zurückliegt (positiv) prägend war, habe ich auch heute noch eine (vermeintliche?) Ablehnung gegen jegliche Form von Aktivitäten mit Lagercharakter. So waren diese (alten) Gefühle und Gedanken, ja, all diese Prägungen wieder da. Es ging darum, zwei Tage mit einer Gruppe unterwegs zu sein. Natürlich äusserte ich auch hier wieder meinen Unmut und meine Ablehnung. Meine Haltung wurde zur Kenntnis genommen, es war Verständnis da und teilweise wurde sogar erfragt, warum das so ist. Was soll ich sagen, rückblickend es war wieder ein (sehr) gutes Erlebnis.
 
 > Zwischen Reiz und Reaktion liegt ein Raum. In diesem Raum liegt die Macht unserer Wahl. In unserer Reaktion liegen unsere Entwicklung und unsere Freiheit.
 >
