@@ -18,7 +18,7 @@ In diesen Schullagern, Landschulwochen, ein- oder mehrtägigen Firmenaktivitäte
 
 #### Wachsen in und an der Gruppe
 
-Um eine Ausbildung abschliessen zu können, war es (leider) entscheidend, ein paar Tage an einem Modul zur Gruppendynamik teilzunehmen. Was für eine Sche\*\*\*\* dachte (und fühlte!) ich. Auch wenn ich sonst eher zurückhaltend bin, äusserte ich meinen Unmut bereits bei der Anmeldung. Gut, da musste ich durch und was soll ich sagen, diese Woche hat mein Leben verändert. Das dachte ich zumindest nach diesen vier Tagen. Ich war tatsächlich zum ersten Mal ein Teil einer Gruppe, fand oder nahm mir genügend Zeit für Selbstbestimmung, erlebte eine andere Dynamik als sonst (es war nicht alles nur gut) und nach diesen vier Tagen fühlte ich mich «geheilt». Wie geil das war! 
+Um eine Ausbildung abschliessen zu können, war es (leider) entscheidend, ein paar Tage an einem Modul zur Gruppendynamik teilzunehmen. Was für eine Sche\*\*\*\* dachte (und fühlte!) ich. Auch wenn ich sonst eher zurückhaltend bin, äusserte ich meinen Unmut bereits bei der Anmeldung. Gut, da musste ich durch und was soll ich sagen, diese Woche hat mein Leben verändert. Das dachte ich zumindest nach diesen vier Tagen. Ich war tatsächlich zum ersten Mal ein Teil einer Gruppe, fand oder nahm mir genügend Zeit für Selbstbestimmung, erlebte eine andere Dynamik als sonst (es war nicht alles nur gut) und nach diesen vier Tagen fühlte ich mich «geheilt». Wie geil das war! Ich kam nach vier Tagen mit mehr Energie zurück als ich zu Beginn hatte. 
 
 #### ..immer wieder von vorne
 
