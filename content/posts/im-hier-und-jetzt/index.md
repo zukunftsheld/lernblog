@@ -6,7 +6,7 @@ pinned = false
 tags = ["Biografie", "Gedanken", "Lernen", "Selbstmanagement"]
 image = "65b05287-dd48-4110-9f4c-602afce16bb8.jpg"
 description = "Können wir uns von Prägungen lösen? Wie geht das und welche Freiheiten und Möglichkeiten eröffnen sich uns dann? "
-footnotes = "**Links und Bücher**\n\n[Meditationsapp 7 Mind zur Achtsamkeitspraxis sowie Übungen zum inneren Kind](https://www.7mind.de)\\\n\\\n[TZI - Die Kunst, sich selbst und eine Gruppe zu leiten](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/cornelia-loehmer/tzi-die-kunst-sich-selbst-und-eine-gruppe-zu-leiten/id/9783608961225/)\n\n[Das Erwachsene-Ich - oder wie wir uns selbst sein können. Beziehungskosmos-Podcast](https://open.spotify.com/episode/5ebiNHoHcD8qXxmrpL825I?si=8d61de5247484095)\n\n[Hochsensibilität - oder wieso Knoblauchgeruch uns fertig machen kann. Beziehungskosmos-Podcast](https://open.spotify.com/episode/2S16jSEALRbMUYJXWb6Hxr?si=8be17bf542574d8a)\n\n**Hier erzähle ich aus meiner eigenen Biografie.** [Podcast der Possibilist: Wie doch etwas aus dir wird](https://derpossibilist.podigee.io/26-ben-zaugg)\n\n\n\nTitelbild: Ben Zaugg"
+footnotes = "\\*Manchmal ist es aber auch einfach ganz o.k. in der Komfortzone zu bleiben. Inspiration dazu gibt es [in diesem Linkedin-Post von Roman Tschäppeler](https://www.linkedin.com/posts/roman-tsch%C3%A4ppeler_comfortzone-magic-personalgrowth-activity-7045284639371849728-MA_6?utm_source=share&utm_medium=member_desktop).\n\n**Links und Bücher**\n\n[Meditationsapp 7 Mind zur Achtsamkeitspraxis sowie Übungen zum inneren Kind](https://www.7mind.de)\\\n\\\n[TZI - Die Kunst, sich selbst und eine Gruppe zu leiten](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/cornelia-loehmer/tzi-die-kunst-sich-selbst-und-eine-gruppe-zu-leiten/id/9783608961225/)\n\n[Das Erwachsene-Ich - oder wie wir uns selbst sein können. Beziehungskosmos-Podcast](https://open.spotify.com/episode/5ebiNHoHcD8qXxmrpL825I?si=8d61de5247484095)\n\n[Hochsensibilität - oder wieso Knoblauchgeruch uns fertig machen kann. Beziehungskosmos-Podcast](https://open.spotify.com/episode/2S16jSEALRbMUYJXWb6Hxr?si=8be17bf542574d8a)\n\n**Hier erzähle ich aus meiner eigenen Biografie.** [Podcast der Possibilist: Wie doch etwas aus dir wird](https://derpossibilist.podigee.io/26-ben-zaugg)\n\n\n\nTitelbild: Ben Zaugg"
 +++
 #### Im Hier und Jetzt
 
@@ -32,7 +32,7 @@ Auch wenn dieses Erlebnis, dass bereits ein paar Jahre zurückliegt (positiv) pr
 
 Die Vergangenheit und die Prägungen sind ein Teil von uns. Sie müssen aber nicht unsere Zukunft prägen. Wir können immer wieder von vorne oder vielleicht eher dort, wo wir uns gerade befinden, anfangen.  
 
-Es ist m. E. wichtig, sich seinen Ängsten und Unsicherheiten immer wieder zu stellen. Es scheint mir wichtig zu sein, mit anderen Menschen unterwegs zu sein und zu einer Gruppe zu gehören. Warum hätte ich sonst so eine Angst oder so eine Unsicherheit. Es könnte mir ja schliesslich auch total egal sein. 
+Ich finde es wichtig, sich seinen Ängsten und Unsicherheiten immer wieder zu stellen*. Es scheint mir wichtig zu sein, mit anderen Menschen unterwegs zu sein und zu einer Gruppe zu gehören. Warum hätte ich sonst so eine Angst oder so eine Unsicherheit. Es könnte mir ja schliesslich auch total egal sein.
 
 Wir tragen Prägungen in uns, die sich (vielleicht) bereits eingebrannt haben, als wir noch Kinder waren. Das sind wir aber irgendwann nicht mehr. Dann können wir neue Erlebnisse schaffen, wir sind nicht mehr (so) hilflos, wie wir das einmal waren. 
 
