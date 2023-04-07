@@ -3,7 +3,9 @@ title = "Im Hier und Jetzt"
 date = "2023-04-07"
 draft = true
 pinned = false
-footnotes = "**Weiterführende Links und Bücher zu den genannten Themen:** \n\n[Meditationsapp 7 Mind zur Achtsamkeitspraxis sowie Übungen zum inneren Kind](https://www.7mind.de)\n\n**Hier erzähle ich aus meiner eigenen Biografie.** [Podcast der Possibilist: Wie doch etwas aus dir wird](https://derpossibilist.podigee.io/26-ben-zaugg)\\\n\\\n[TZI - Die Kunst, sich selbst und eine Gruppe zu leiten](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/cornelia-loehmer/tzi-die-kunst-sich-selbst-und-eine-gruppe-zu-leiten/id/9783608961225/)\n\n[Das Erwachsene-Ich oder wie wir uns selbst sein können. Beziehungskosmos-Podcast](https://open.spotify.com/episode/5ebiNHoHcD8qXxmrpL825I?si=8d61de5247484095)"
+tags = ["Biografie", "Gedanken", "Lernen", "Selbstmanagement"]
+description = "Können wir uns von Prägungen lösen? Wie geht das und welche Freiheiten und Möglichkeiten eröffnen sich uns dann? "
+footnotes = "**Links und Bücher**\n\n[Meditationsapp 7 Mind zur Achtsamkeitspraxis sowie Übungen zum inneren Kind](https://www.7mind.de)\\\n\\\n[TZI - Die Kunst, sich selbst und eine Gruppe zu leiten](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/cornelia-loehmer/tzi-die-kunst-sich-selbst-und-eine-gruppe-zu-leiten/id/9783608961225/)\n\n[Das Erwachsene-Ich - oder wie wir uns selbst sein können. Beziehungskosmos-Podcast](https://open.spotify.com/episode/5ebiNHoHcD8qXxmrpL825I?si=8d61de5247484095)\n\n[Hochsensibilität - oder wieso Knoblauchgeruch uns fertig machen kann. Beziehungskosmos-Podcast](https://open.spotify.com/episode/2S16jSEALRbMUYJXWb6Hxr?si=8be17bf542574d8a)\n\n**Hier erzähle ich aus meiner eigenen Biografie.** [Podcast der Possibilist: Wie doch etwas aus dir wird](https://derpossibilist.podigee.io/26-ben-zaugg)"
 +++
 #### Im Hier und Jetzt
 
@@ -34,6 +36,8 @@ Die Vergangenheit und die Prägungen sind ein Teil von uns. Sie müssen aber nic
 Es ist m. E. wichtig, sich seinen Ängsten und Unsicherheiten immer wieder zu stellen. Es scheint mir wichtig zu sein, mit anderen Menschen unterwegs zu sein und zu einer Gruppe zu gehören. Warum hätte ich sonst so eine Angst oder so eine Unsicherheit. Es könnte mir ja schliesslich auch total egal sein. 
 
 Wir tragen Prägungen in uns, die sich (vielleicht) bereits eingebrannt haben, als wir noch Kinder waren. Das sind wir aber irgendwann nicht mehr. Dann können wir neue Erlebnisse schaffen, wir sind nicht mehr (so) hilflos, wie wir das einmal waren. 
+
+Es sind nicht nur Prägungen, sondern auch Wesenszüge, die einen Einfluss auf uns haben (können). Wenn wir diese Erkennen, diese akzeptieren oder uns damit anfreunden können, dann eröffnen sich neue Möglichkeiten und Freiheiten. 
 
 Zu sagen, dass wir etwas nicht mögen oder Schwierigkeiten damit haben, ist völlig o.k. Es hilft den anderen, uns besser zu verstehen und vielleicht die eine oder andere Reaktion nicht zu stark zu werten. Ich hatte bei diesen beiden positiven Erfahrungen das Glück, das äussern zu dürfen. Unter anderem genau diese Offenheit hat mir ermöglicht, diese zwei positiven (und prägenden) Erfahrungen zu machen. 
 
