@@ -14,7 +14,7 @@ Es ist klar, dass die Vergangenheit uns geprägt hat. Unser Denken, unser Verhal
 
 #### (Schul-)Lager, Gruppenreisen und andere Horrorgeschichten
 
-In diesen Schullagern, Landschulwochen, ein- oder mehrtägigen Firmenaktivitäten habe ich mich nie wohlgefühlt. Wenn immer möglich, habe ich sie gemieden. Ja, meistens war es eine Art Horrortrip. Zu viele Leute, zu wenig Selbstbestimmung und sowieso fanden alle das gemeinsam unterwegs sein toll. An Zeit für Rückzug und Zeit für mich war kaum zu denken. Also ist (war) für mich klar, dass ich es hasse, in Gruppen unterwegs zu sein. 
+In diesen Schullagern, Landschulwochen, ein- oder mehrtägigen Firmenaktivitäten habe ich mich nie wohlgefühlt. Wenn immer möglich, habe ich sie gemieden. Ja, meistens war es eine Art Horrortrip. Zu viele Leute, zu wenig Selbstbestimmung und sowieso fanden alle das gemeinsam unterwegs sein toll. An Zeit für Rückzug und Zeit für mich war kaum zu denken. Also ist (war) für mich klar, dass ich es hasse, in Gruppen unterwegs zu sein.
 
 #### Wachsen in und an der Gruppe
 
