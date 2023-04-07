@@ -10,7 +10,7 @@ footnotes = "\\*Manchmal ist es aber auch einfach ganz o.k. in der Komfortzone z
 +++
 #### Im Hier und Jetzt
 
-Es ist klar, dass die Vergangenheit uns geprägt hat. Unser Denken, unser Verhalten, unsere Werte und einiges mehr sind geprägt durch unser Umfeld, durch unsere Erlebnisse. Wir sagen dann gerne «Ich bin so» oder über andere «Er/Sie ist so (zum Beispiel zurückhaltend, ängstlich, mutig, schlau, ...)». Da sind viele Prägungen, die uns nicht bewusst sind. Im Hier und Jetzt ist vielleicht nicht der ideale Titel und doch ist die Gegenwart der Ort oder der Zeitpunkt, in dem wir uns (plötzlich) anders erleben können. Im Hier uns Jetzt kann auch heissen, sich auf den Moment einzulassen. 
+Es ist klar, dass die Vergangenheit uns geprägt hat. Unser Denken, unser Verhalten, unsere Werte und einiges mehr sind geprägt durch unser Umfeld, durch unsere Erlebnisse. Wir sagen dann gerne «Ich bin so» oder über andere «Er/Sie ist so (zum Beispiel zurückhaltend, ängstlich, mutig, schlau, ...)». Da sind viele Prägungen, die uns nicht bewusst sind. Im Hier und Jetzt ist vielleicht nicht der ideale Titel und doch ist die Gegenwart der Ort oder der Zeitpunkt, in dem wir uns (plötzlich) anders erleben können. Im Hier und Jetzt kann auch heissen, sich auf den Moment einzulassen. 
 
 #### (Schul-)Lager, Gruppenreisen und andere Horrorgeschichten
 
