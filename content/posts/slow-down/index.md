@@ -14,4 +14,4 @@ Ziel der Werbung ist, uns ein schlechtes Gefühl zu machen. Werbung zeigt uns, w
 
 Wir lassen uns verarschen
 
-Was wäre, wenn wir einfach gut sind, wie wir sind. Was wäre, wenn wir uns (mehr) akzeptieren würden? Was würde passieren, wenn wir einen Gang (oder noch einen mehr) zurückschalten würden? Was würde passieren, wenn wir uns auf das konzentrieren, was da ist? Den Fokus auf das lenken, das gut ist? Ja, ich weiss, auch daraus ist eine Industrie entstanden, die u. a. gerne McMindfulness genannt wird.
+Was wäre, wenn wir einfach gut sind, wie wir sind. Was wäre, wenn wir uns (mehr) akzeptieren würden? Was würde passieren, wenn wir einen Gang (oder noch einen mehr) zurückschalten würden? Was würde passieren, wenn wir uns auf das konzentrieren, was da ist? Den Fokus auf das lenken, das gut ist? Ja, ich weiss, auch daraus ist eine Industrie entstanden, die u. a. gerne McMindfulness genannt wird. Die Grenzen zwischen den guten und schlechten Ansätzen sind oft fliessend und schwer erkennbar. Wobei schnelle Lösungsversprechen selten hilfreich und nachhaltig sind. Davon lassen wir uns aber gerne verarschen.
