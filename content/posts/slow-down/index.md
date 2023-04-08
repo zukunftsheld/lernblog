@@ -30,7 +30,7 @@ Wirkliche Veränderungen sind oft anstrengend und dauern deutlich länger, als w
 
 Es heisst so oft, wir sollen die Komfortzone verlassen, damit etwas magisches passieren kann. Brauchen wir den damit verbundenen Stress wirklich? 
 
-Ich und meine Komfortzone
+#### Ich und meine Komfortzone
 
 Auf dem Weg zu meiner Magie machte ich mich selbstständig. Mir war sehr bewusst, dass ich mich aus meiner Komfortzone bewege und ich habe mich darauf vorbereitet. Da war eine Vision, da waren Ziele und Träume. Ich wusste, jetzt ist es Zeit. Dieses Bewegen ausserhalb der Komfortzone wurde jedoch immer mehr ein Drahtseilakt. Mein Fokus lag auf dem Ausbalancieren, auf dem Seil, auf dem Erreichen des anderen Endes.
 
