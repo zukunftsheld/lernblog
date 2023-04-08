@@ -38,7 +38,7 @@ Auf dem Weg zu meiner Magie machte ich mich selbstständig. Mir war sehr bewusst
 >
 > *[Roman Tschäppeler und Mikael Krogerus](https://rtmk.ch)*
 
-Uns so, wie sie das hier beschreiben, habe ich das erlebt. So habe ich einen Weg gefunden, mich wieder mehr in meine Komfortzone zu bewegen. Dort habe ich immer noch genügend Raum für Entwicklung, Veränderung und, das ist das Wichtigste, ich kann meine Stärken einsetzen, ich fühle mich kompetent, ich kann lernen (ohne das mein Hirn immer im Alarmmodus ist) und ich habe wieder Zeit und Energie für andere Menschen. 
+Uns so, wie sie das hier beschreiben, habe ich das erlebt. So habe ich einen Weg gefunden, mich wieder mehr in meine Komfortzone zu bewegen. Ich bin wieder angestellt. Dort habe ich immer noch genügend Raum für Entwicklung, Veränderung und, das ist das Wichtigste, ich kann meine Stärken einsetzen, ich fühle mich kompetent, ich kann lernen (ohne das mein Hirn immer im Alarmmodus ist) und ich habe wieder Zeit und Energie für andere Menschen. 
 
 Diesen oben erwähnten Linkedin-Post habe ich gestern bereits im Blogbeitrag [Im Hier und Jetzt](https://www.bensblog.ch/im-hier-und-jetzt/) erwähnt. Für mich bringt er so viel Wichtiges auf den Punkt. Gleichzeitig hat mich die [Initiative von Slow-Learning](https://www.slow-learning.com) inspiriert oder unterstreicht meine tief verankerte Überzeugung. Wir dürfen uns langsam und beständig «verändern» resp. dürfen lernen, Situationen und Lebensphasen auszuhalten.
 
