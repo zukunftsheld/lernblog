@@ -1,10 +1,12 @@
 +++
 title = "Slow down"
 date = "2023-04-08"
-draft = true
+draft = false
 pinned = false
 tags = ["Achtsamkeit", "Selbstmanagement", "Lernen"]
-footnotes = ""
+image = "pexels-song-kaiyue-2029478.jpg"
+description = "Wir könnten uns bis zum geht nicht mehr optimieren. Müssen wir? Sollen wir? \nEs gibt auch andere Wege und darüber habe ich mir Gedanken gemacht. Slow down. "
+footnotes = "Titelbild[ von Song Kaiyue](https://www.pexels.com/de-de/foto/langsame-beschilderung-2029478/)"
 +++
 ### Slow down
 
@@ -38,7 +40,7 @@ Auf dem Weg zu meiner Magie machte ich mich selbstständig. Mir war sehr bewusst
 
 Uns so, wie sie das hier beschreiben, habe ich das erlebt. So habe ich einen Weg gefunden, mich wieder mehr in meine Komfortzone zu bewegen. Dort habe ich immer noch genügend Raum für Entwicklung, Veränderung und, das ist das Wichtigste, ich kann meine Stärken einsetzen, ich fühle mich kompetent, ich kann lernen (ohne das mein Hirn immer im Alarmmodus ist) und ich habe wieder Zeit und Energie für andere Menschen. 
 
-Diesen oben erwähnten Linkedin-Post habe ich gestern bereits im Blogbeitrag [Im Hier und Jetzt](https://www.bensblog.ch/im-hier-und-jetzt/) erwähnt. Für mich bringt er so viel Wichtiges auf den Punkt. Gleichzeitig hat mich die Initiative von Slow-Learning inspiriert oder unterstreicht meine tief verankerte Überzeugung. Wir dürfen uns langsam und beständig «verändern» resp. dürfen lernen, Situationen und Lebensphasen auszuhalten.
+Diesen oben erwähnten Linkedin-Post habe ich gestern bereits im Blogbeitrag [Im Hier und Jetzt](https://www.bensblog.ch/im-hier-und-jetzt/) erwähnt. Für mich bringt er so viel Wichtiges auf den Punkt. Gleichzeitig hat mich die [Initiative von Slow-Learning](https://www.slow-learning.com) inspiriert oder unterstreicht meine tief verankerte Überzeugung. Wir dürfen uns langsam und beständig «verändern» resp. dürfen lernen, Situationen und Lebensphasen auszuhalten.
 
 #### Slow down Inspiration
 
@@ -50,4 +52,4 @@ Ikigai wird oft falsch (als Venn-Diagramm) beschrieben. Dabei ist Ikigai nicht w
 
 Etwas tiefer und intensiver sind die Bücher von Russ Harris und Steven Hayes. In ihren Büchern rund um die Akzeptanz- und Commitmenttherapie zeigen sie, wie wir (trotz und mit Einschränkungen, Ängsten, Sorgen, Problemen) ein zufriedenes und erfülltes Leben führen können. Mehr über zwei dieser Bücher findest du [hier](https://www.bensblog.ch/buecher/).
 
-Und natürlich die [Bücher von Jon Kabat-Zinn](https://www.arbor-verlag.de/jon-kabat-zinn) über Achtsamkeit, die so viel mehr ist, als still auf einem Kissen zu sitzen und zu atmen.
+Und natürlich die [Bücher von Jon Kabat-Zinn](https://www.arbor-verlag.de/jon-kabat-zinn) über Achtsamkeit, die so viel mehr ist, als still auf einem Kissen zu sitzen und zu atmen.[](https://www.pexels.com/de-de/foto/langsame-beschilderung-2029478/)
