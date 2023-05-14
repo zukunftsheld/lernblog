@@ -1,5 +1,5 @@
 +++
-title = "Leben in einer Bewertungskultur"
+title = "Bewertungskultur"
 date = "2023-05-14"
 draft = false
 pinned = false
