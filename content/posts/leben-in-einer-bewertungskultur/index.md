@@ -6,6 +6,7 @@ pinned = false
 tags = ["Gedanken", "Lernen"]
 image = "img_7463.jpg"
 description = "Überall wird bewertet. Ein paar Gedanken zur Bewertungskultur und was wir von Surfer:innen lernen können. "
+footnotes = "Foto: Ben Zaugg"
 +++
 ### Leben in einer Bewertungskultur
 
