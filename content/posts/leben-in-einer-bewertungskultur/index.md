@@ -20,7 +20,7 @@ Nicht nur in der Schule und bei der Arbeit wird alles und jeder bewertet, auch i
 
 #### Perspektivenwechsel
 
-Während ich das schreibe, sehe ich etliche Surfer:innen, wie sie im Meer treiben, die Wellen beobachten und sich dann für «ihre» Welle entscheiden. Da sind offensichtliche Anfänger:innen und deutlich erfahrene Surfer:innen erkennbar. Die Erfahrenen befinden sich links bei den grösseren Wellen und die Anfänger:innen gleich unter unserem Balkon. Egal auf welcher Seite sich die Spotler:innen befinden. Sie warten, beobachten, vielleicht fühlen sie und dann entscheiden sie sich. Während einige die Wellen gekonnt reiten, schaffen es andere kaum oder nur kurz auf ihr Brett. Sie paddeln dann wieder weiter raus, warten, beobachten, bis sie sich wieder auf eine Welle einlassen. Die Wellen haben keine Bewertungen. Erst im Kontakt wird klar, ob die Welle und der Mensch in diesem Moment zusammenpassen. 
+Während ich das schreibe, sehe ich etliche Surfer:innen, wie sie im Meer treiben, die Wellen beobachten und sich dann für «ihre» Welle entscheiden. Da sind offensichtliche Anfänger:innen und deutlich erfahrene Surfer:innen erkennbar. Die Erfahrenen befinden sich links bei den grösseren Wellen und die Anfänger:innen gleich unter unserem Balkon. Egal auf welcher Seite sich die Sportler:innen befinden. Sie warten, beobachten, vielleicht fühlen sie und dann entscheiden sie sich. Während einige die Wellen gekonnt reiten, schaffen es andere kaum oder nur kurz auf ihr Brett. Sie paddeln dann wieder weiter raus, warten, beobachten, bis sie sich wieder auf eine Welle einlassen. Die Wellen haben keine Bewertungen. Erst im Kontakt wird klar, ob die Welle und der Mensch in diesem Moment zusammenpassen. 
 
 ![](img_7463.jpg)
 
