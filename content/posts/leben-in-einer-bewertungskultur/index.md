@@ -16,7 +16,7 @@ Gestern sind wir also angekommen und weil wir die erste Nacht noch nicht in der 
 
 #### Alles und Jede:r wird bewertet
 
-Nicht nur in der Schule und bei der Arbeit wird alles und jeder bewertet, auch in unserem Alltag. Wir bewerten mit Noten, mit Sternen, mit Gut und schlecht, mit genügend und ungenügend. Es sind Menschen, die über andere urteilen, die sie beurteilen und oft auch verurteilen. Die Bewertungskriterien sind meistens unklar und noch wenn sie klar(er) sind, ist es eine Frage des Blickwinkels, eine Frage der Betrachtungsweise. Obwohl wir die Bewerter- und Verurteiler:innen nicht kennen, vertrauen wir auf ihr Urteil. Wie sinnvoll ist das? Ist oder wäre es nicht viel besser, eigene Erfahrungen zu machen? 
+Nicht nur in der Schule und bei der Arbeit wird alles und jeder bewertet, auch in unserem Alltag. Wir bewerten mit Noten, mit Sternen, mit gut und schlecht, mit genügend und ungenügend. Es sind Menschen, die über andere urteilen, die sie beurteilen und oft auch verurteilen. Die Bewertungskriterien sind meistens unklar und noch wenn sie klar(er) sind, ist es eine Frage des Blickwinkels, eine Frage der Betrachtungsweise. Obwohl wir die Bewerter- und Verurteiler:innen nicht kennen, vertrauen wir auf ihr Urteil. Wie sinnvoll ist das? Ist oder wäre es nicht viel besser, eigene Erfahrungen zu machen? 
 
 #### Perspektivenwechsel
 
