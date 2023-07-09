@@ -16,8 +16,6 @@ Frust?
 
 Auch. Vor allem aber Hoffnung und Zuversicht. Es ist wohl bereits ein Jahr her, dass mich jemand zu einem Beitrag über den Status quo ermuntert hat. Du solltest deine Gedanken und Perspektiven aufschreiben und teilen. Damit habe ich gewartet und frage ich auch jetzt wieder, ob ich das teilen soll. Gerade mögliche Arbeitgeber schrecken solche Gedanken ab. Die meinen dann, ich sei nicht führbar oder ich passe nicht ins System. Auch das ist dann wieder die etwas verkürzte und einseitige Denkweise. 
 
-Ein paar Beispiele
+Ein Beispiel
 
-Recruiting
-
-Da läuft im Moment ganz viel.
+Im Bereich HR und Recruiting läuft im Moment ganz viel. Insbesesondere durch den zunehmenden Fachkräftemangel. In letzter Zeit wurden in Berufen mit grossem Fachkräftemangel die Rekrutierungsprozesse angepasst. Wo es früher noch ein Bewerbungsschreiben, Lebenslauf und Zeugnisse benötigte, reicht fürs erste und manachmal auch grundsätzlich eine Kurzbewerbung. Er wird dann angestellt wer verfügbar ist. Sie wird anscheinend knapp, diese menschliche Ressource. Also nimmt man was man kann. Das eröffnet natürlich auch neue Märkte für Apps, für Recruiter, für Berater:innen, ... . Nicht zu vergessen ist das Employer Branding, also der Versuch, das Unternehmen als guten Arbeitgeber darzustellen. Wobei sich diese Massnahmen in erster und meistens auch letzter Linie an potenzielle neue Mitarbeitende richten.
