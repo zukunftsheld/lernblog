@@ -20,7 +20,7 @@ Eigentlich wissen wir, dass Lernen kaum in der Schule, in Kurs- oder Klassenzimm
 
 #### Learning by doing
 
-Lernen oder Gelerntes muss anscheinend immer noch zertifiziert sein. Es braucht eine organisierte Aus- oder Weiterbildung, Stundenpläne, Prüfungen und alles findet irgendwie im Trockenen statt. Es ist, wie wenn man nur am Strand Trockenübungen machen dürfte. Man hat zwar eine Idee wie surfen funktionieren könnte, war aber nie im Wasser. Vielleicht war auch die lehrende Person noch nie im Wasser oder nicht in diesem. All diese Gedanken und Vergleiche gehen mir durch den Kopf. Irgendwann höre ich ein Freudenschrei, schaue auf und sehe noch, wie eine Surferin vom Brett fällt, nachdem sie ihre (vermutlich) erste Welle mehr oder weniger erfolgreich reiten konnte. 
+Lernen oder Gelerntes muss anscheinend immer noch zertifiziert sein. Es braucht eine organisierte Aus- oder Weiterbildung, Stundenpläne, Prüfungen und alles findet irgendwie im Trockenen statt. Es ist, wie wenn man nur am Strand Trockenübungen machen dürfte. Man hat zwar eine Idee, wie Surfen funktionieren könnte, war aber nie im Wasser. Vielleicht war auch die lehrende Person noch nie im Wasser oder nicht in diesem. All diese Gedanken und Vergleiche gehen mir durch den Kopf. Irgendwann höre ich ein Freudenschrei, schaue auf und sehe noch, wie eine Surferin vom Brett fällt, nachdem sie ihre (vermutlich) erste Welle mehr oder weniger erfolgreich reiten konnte. 
 
 Wahrscheinlich lerne auch ich etwas übers surfen, während ich hier, mittlerweile tatsächlich ein paar Stunden, zuschaue. 
 
