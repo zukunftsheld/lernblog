@@ -24,4 +24,4 @@ Lernen oder Gelerntes muss anscheinend immer noch zertifiziert sein. Es braucht 
 
 Wahrscheinlich lerne auch ich etwas übers surfen, während ich hier, mittlerweile tatsächlich ein paar Stunden, zuschaue. 
 
-Klar, man könnte surfen auch im Schul- oder Kurszimmer unterrichten. Es wäre möglich, das Gelernte abzufragen und dann eine Note zu setzen. Wer genügend richtige Antworten gegeben hat, der oder die wird zertifiziert. Der oder die ist nun also fähig, zu surfen. Nur die Wellen reiten, das geht wohl (noch) nicht.
+Klar, man könnte surfen auch im Schul- oder Kurszimmer unterrichten. Es wäre möglich, das Gelernte abzufragen und dann eine Note zu setzen. Wer genügend richtige Antworten gegeben hat, der oder die wird zertifiziert. Der oder die ist nun also fähig, zu Surfen. Nur die Wellen reiten, das geht wohl (noch) nicht.
