@@ -1,7 +1,7 @@
 +++
 title = "We Nöiis entschteit"
 date = "2022-02-05"
-draft = false
+draft = true
 pinned = false
 tags = ["Lernen", "Colearning", "Gedanken", "Arbeit"]
 image = "img_7063.jpg"
