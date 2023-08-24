@@ -1,7 +1,7 @@
 +++
 title = "Der Kopf ist leer"
 date = "2021-12-05"
-draft = false
+draft = true
 pinned = false
 tags = ["Gedanken"]
 image = "d739f42e-ecec-4e71-9281-143e1cc1e983.jpg"
