@@ -1,7 +1,7 @@
 +++
 title = "(Scheiss) Prägungen"
 date = "2021-12-21"
-draft = false
+draft = true
 pinned = false
 tags = ["Gedanken", "Biografie", "Recovery", "Tagebuch"]
 image = "nachtschicht_web.jpg"
