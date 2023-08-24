@@ -1,7 +1,7 @@
 +++
 title = "Wir und die Natur"
 date = "2022-12-16"
-draft = false
+draft = true
 pinned = false
 tags = ["Natur", "Tiere", "Gedanken"]
 image = "bildschirm-foto-2022-12-16-um-13.27.27.png"
