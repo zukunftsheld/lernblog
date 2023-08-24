@@ -1,7 +1,7 @@
 +++
 title = "Hallo, ich bin Ben. "
 date = "2021-10-12"
-draft = false
+draft = true
 pinned = false
 tags = ["Lernen", "Lernblog", "Tagebuch"]
 image = "ben_meer.jpg"
