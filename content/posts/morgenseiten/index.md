@@ -1,7 +1,7 @@
 +++
 title = "Morgenseiten"
 date = "2022-11-18"
-draft = false
+draft = true
 pinned = false
 tags = ["Kreativität", "Lernen", "Biografie", "Humor", "Schreiben"]
 image = "dall-e-2022-11-18-12.45.57.png"
