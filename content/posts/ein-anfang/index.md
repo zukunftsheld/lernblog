@@ -1,7 +1,7 @@
 +++
 title = "Ein Anfang"
 date = "2021-10-17"
-draft = false
+draft = true
 pinned = false
 tags = ["Lernen", "Tagebuch", "Lernblog"]
 image = "schiff_bearbeitet-2.jpg"
