@@ -1,7 +1,7 @@
 +++
 title = "Ist das Kunst oder.."
 date = "2022-11-22"
-draft = false
+draft = true
 pinned = false
 tags = ["Gedanken"]
 image = "img_9579.jpg"
