@@ -1,7 +1,7 @@
 +++
 title = "Von der Kunst, die Balance zu finden"
 date = "2022-04-05"
-draft = false
+draft = true
 pinned = false
 tags = ["Tagebuch", "Biografie", "Gesundheit", "Arbeit"]
 image = "pexels-shiva-smyth-1051449.jpg"
