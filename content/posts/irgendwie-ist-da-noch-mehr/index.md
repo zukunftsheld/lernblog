@@ -1,7 +1,7 @@
 +++
 title = "Irgendwie ist da noch mehr"
 date = "2022-01-23"
-draft = false
+draft = true
 pinned = false
 image = "img_4517.jpg"
 description = "Und dann denke ich angekommen, irgendwie angekommen zu sein, fühle mich aber alles andere als das. Es wirs Zeit, mein Tagebuch hier in dieser Form zu schliessen und wieder aufs Papier zu bringen. Es gibt noch so viel anderes, dass hier geschrieben werden kann. Bevor ich das tue, schaue ich doch noch einmal wo ich stehe oder wanke."
