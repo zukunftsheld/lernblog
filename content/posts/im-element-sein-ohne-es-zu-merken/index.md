@@ -1,7 +1,7 @@
 +++
 title = "Im Element sein, ohne es zu merken"
 date = "2022-02-12"
-draft = false
+draft = true
 pinned = false
 tags = ["Biografie", "Arbeit", "Tagebuch", "Sinn"]
 image = "penguin-g8cda6bdb3_1920.jpg"
