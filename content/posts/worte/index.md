@@ -1,7 +1,7 @@
 +++
 title = "Worte"
 date = "2021-11-25"
-draft = false
+draft = true
 pinned = false
 tags = ["Gedanken"]
 image = "img_8040.jpg"
