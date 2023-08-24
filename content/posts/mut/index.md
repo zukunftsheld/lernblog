@@ -1,7 +1,7 @@
 +++
 title = "Mut, sich zu zeigen"
 date = "2022-11-05"
-draft = false
+draft = true
 pinned = false
 tags = ["Gedanken", "Selbstmanagement", "Psyche", "Biografie"]
 image = "ledge-2203667_640.jpg"
