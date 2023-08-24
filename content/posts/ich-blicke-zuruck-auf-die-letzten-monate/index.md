@@ -1,7 +1,7 @@
 +++
 title = "Ich blicke zurück auf die letzten Monate"
 date = "2022-01-31"
-draft = false
+draft = true
 pinned = false
 tags = ["Biografie", "Coworking", "Colearning", "Gedanken"]
 image = "bildschirmfoto-2022-01-31-um-14.11.01.png"
