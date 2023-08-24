@@ -1,7 +1,7 @@
 +++
 title = "3..2..1"
 date = "2021-12-29"
-draft = false
+draft = true
 pinned = false
 tags = ["Gedanken", "Tagebuch", "Biografie"]
 image = "images.jpg"
