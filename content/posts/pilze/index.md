@@ -1,7 +1,7 @@
 +++
 title = "Pilze"
 date = "2021-12-31"
-draft = false
+draft = true
 pinned = false
 tags = ["Pilze", "Pilzfarm"]
 image = "pilz_web.jpg"
