@@ -1,7 +1,7 @@
 +++
 title = "Ist Versöhnung der Weg zur inneren Freiheit?"
 date = "2021-11-21"
-draft = false
+draft = true
 pinned = false
 tags = ["Recovery", "Tagebuch", "Biografie"]
 image = "vers.jpg"
