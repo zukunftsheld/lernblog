@@ -1,7 +1,7 @@
 +++
 title = "Wer ist eigentlich verantwortlich?"
 date = "2021-12-26"
-draft = false
+draft = true
 pinned = false
 tags = ["Gesundheit", "Tagebuch", "Gedanken"]
 image = "blueberries-gb0dcf1fff_1280.jpg"
