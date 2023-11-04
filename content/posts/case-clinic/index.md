@@ -1,15 +1,16 @@
 +++
 title = "Case Clinic - Theorie U"
 date = "2023-11-04"
-draft = true
+draft = false
 pinned = false
 tags = ["Organisationsentwicklung", "Personalentwicklung", "Leadership", "Coaching", "Changemanagement"]
-description = "Erfahrungen aus der Case Clinic (Theori U)"
+image = "_f8266b85-6d55-42a1-94e5-c02506f43037.jpeg"
+description = "Die Theorie U kenne ich aus der Theorie und hatte bisher nur bedingte Möglichkeiten, diese in der Praxis anzuwenden. In den letzten Wochen war ich bei drei Terminen einer «Case Clinic» dabei und konnte konkrete Erfahrungen sammeln. "
 footnotes = "Was für manche (auch) etwas esoterisch klingt, ist ein Tool aus der Theorie U. «Mit seiner Theorie U hat der deutsche MIT-Forscher und Berater Otto Scharmer eine Führungsmethode entworfen, die den Erfodernissen von Nachhaltigkeit und globaler Verantwortung im Management gerecht wird und die notwenigen Führungsinstrumente bereitstellt.» Scharmer O. (2020), Theorie U – Von der Zukunft her führen.\\\n\\\nWeitere Infos und den ausführlichen Ablauf gibt es zum Beispiel [hier](https://hr-pioneers.com/2021/08/tool-case-clinic/)"
 +++
 ### Case Clinic - Theorie U
 
- Es ist nun fast zehn Jahre her, dass ich meine erste Coachingausbildung gemacht habe. Davor und seither war ich selbst in verschiedenen Settings Coachee und habe an weiteren Coachingausbildungen teilgenommen. Mein Interesse gilt den Menschen, ihrer Entwicklung, der Bildung, dem Lernen und der Öffnung des Lernens. Es geht um die Frage, wie Menschen sich am besten Entwickeln oder ihre Stärken entfalten können. Jede und jeder auf ihrem oder seinem ganz individuellen Weg. Um Menschen in diesen Prozessen zu begleiten, scheinen mir drei Aspekte wichtig, die oft zu kurz kommen. 
+Es ist nun fast zehn Jahre her, dass ich meine erste Coachingausbildung gemacht habe. Davor und seither war ich selbst in verschiedenen Settings Coachee und habe an weiteren Coachingausbildungen teilgenommen. Mein Interesse gilt den Menschen, ihrer Entwicklung, der Bildung, dem Lernen und der Öffnung des Lernens. Es geht um die Frage, wie Menschen sich am besten Entwickeln oder ihre Stärken entfalten können. Jede und jeder auf ihrem oder seinem ganz individuellen Weg. Um Menschen in diesen Prozessen zu begleiten, scheinen mir drei Aspekte wichtig, die oft zu kurz kommen. 
 
 #### Zuhören. Geduld haben. Vertrauen.
 
