@@ -12,7 +12,9 @@ footnotes = "Was für manche (auch) etwas esoterisch klingt, ist ein Tool aus de
 
 Es ist nun fast zehn Jahre her, dass ich meine erste Coachingausbildung gemacht habe. Davor und seither war ich selbst in verschiedenen Settings Coachee und habe an weiteren Coachingausbildungen teilgenommen. Mein Interesse gilt den Menschen, ihrer Entwicklung, der Bildung, dem Lernen und der Öffnung des Lernens. Es geht um die Frage, wie Menschen sich am besten Entwickeln oder ihre Stärken entfalten können. Jede und jeder auf ihrem oder seinem ganz individuellen Weg. Um Menschen in diesen Prozessen zu begleiten, scheinen mir drei Aspekte wichtig, die oft zu kurz kommen. 
 
-![](_f8266b85-6d55-42a1-94e5-c02506f43037.jpeg "Bei meinem Case tauchten bei anderen Teilnehmenden zum Beispiel Bilder von einem Surfer auf. Dieses Bild trage ich noch etwas mit.")
+![](_f8266b85-6d55-42a1-94e5-c02506f43037.jpeg)
+
+Bei meinem Case tauchten bei einem anderen Teilnehmer zum Beispiel das Bild eines Surfers auf. 
 
 #### Zuhören. Geduld haben. Vertrauen.
 
