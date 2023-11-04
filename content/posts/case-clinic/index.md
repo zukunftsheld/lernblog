@@ -14,7 +14,7 @@ Es ist nun fast zehn Jahre her, dass ich meine erste Coachingausbildung gemacht 
 
 ![](_f8266b85-6d55-42a1-94e5-c02506f43037.jpeg)
 
-Bei meinem Case tauchten bei einem anderen Teilnehmer zum Beispiel das Bild eines Surfers auf. 
+Bei meinem Case tauchte bei einem anderen Teilnehmer zum Beispiel das Bild eines Surfers auf. 
 
 #### Zuhören. Geduld haben. Vertrauen.
 
