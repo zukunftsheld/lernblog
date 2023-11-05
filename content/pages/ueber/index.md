@@ -1,7 +1,7 @@
 +++
 title = "Über mich"
 draft = false
-image = "ben_foto2.jpg"
+image = "1-kopie.png"
 description = "Hallo, ich bin Ben. \n\n"
 +++
 ![](ben_foto2.jpg)
