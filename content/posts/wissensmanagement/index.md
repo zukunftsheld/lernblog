@@ -18,7 +18,7 @@ Im Kontext einer zunehmend alternden Belegschaft und ständigen Veränderungen i
 
 #### Wissen sammeln, speichern und teilen
 
-Schaffe Möglichkeiten, das Wissen zu teilen und anderen zugänglich zu machen. Das könnten individuelle Blogs oder eine Sammlung von Blogbeiträgen sein. Mitarbeitende könnten eigene Podcasts oder Videos aufnehmen oder sich interviewen lassen. Das erleichtert den Zugriff auf spezifisches Wissen und garantiert eine langfristige Verfügbarkeit.
+Schaffe Möglichkeiten, das Wissen zu teilen und anderen zugänglich zu machen. Das könnten individuelle [Blogs](https://www.lilo.blog) oder eine Sammlung von Blogbeiträgen sein. Mitarbeitende könnten eigene [Podcasts](https://www.bensblog.ch/tags/podcast/) / Videos aufnehmen oder sich interviewen lassen. Das erleichtert den Zugriff auf spezifisches Wissen und garantiert eine langfristige Verfügbarkeit.
 
 #### Risiken eruieren
 
