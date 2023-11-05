@@ -12,6 +12,8 @@ footnotes = "Bild: Erstellt mit Bing Image Creator (unterstützt von DALL-E 3)"
 
 Im Kontext einer zunehmend alternden Belegschaft und ständigen Veränderungen in der Arbeitswelt wird die Herausforderung des Wissenstransfers immer drängender. Es geht nicht nur darum, den Verlust von Fachwissen bei Pensionierungen zu minimieren, sondern auch das wertvolle Know-how derjenigen zu bewahren, die ihren Arbeitgeber wechseln. Das sind im Moment nicht wenige. 
 
+![](_47fa8927-8867-44f9-a6d9-d99b06569c54.jpeg)
+
 ### Wie man das machen kann? Hier gibt es einige Ideen für die Praxis.
 
 #### Wissen sammeln, speichern und teilen
