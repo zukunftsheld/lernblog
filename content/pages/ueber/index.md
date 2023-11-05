@@ -4,7 +4,7 @@ draft = false
 image = "1-kopie.png"
 description = "Hallo, ich bin Ben. \n\n"
 +++
-![](ben_foto2.jpg)
+![](1-kopie.png)
 
 ## Ben Zaugg
 
@@ -26,7 +26,5 @@ Ich engagiere ich mich für die [Colearning-Bewegung](https://www.colearning.or
 <https://www.benzaugg.ch>
 
 kontakt@benzaugg.ch
-
-
 
 PS: Das Leben findet oft in Wellenbewegungen statt und meistens passiert gerade dann viel, wenn wir uns aus unserer Komfortzone bewegen. Ich habe mich aus dieser Komfortzone bewegt, weil ich wissen wollte, wie die Welt als Selbstständiger aussieht. Anstatt nur die tollen Momente und das Gute zu zeigen, wollte ich vieles zeitnah niederschreiben und teilen. Hätte ich mir diese Aufgabe nicht gestellt, wäre hier vieles verborgen geblieben oder schön und gefiltert erschienen.
