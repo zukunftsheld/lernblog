@@ -3,18 +3,18 @@ title = "Tools vs. Haltung"
 date = "2022-07-17"
 draft = false
 pinned = false
-tags = ["Werte", "Coaching", "NewWork", "NewLearning"]
+tags = ["Coaching", "Tools", "Personalentwicklung", ""]
 image = "_dsc7034.jpg"
 description = "Mit manchen Dingen habe ich so meine Probleme. So zum Beispiel mit «Ver-Tool-isierung» von Dingen oder Themen, die eigentlich (zumindest nach meiner Überzeugung) nur als Haltung wirklich wirken. Es geht nicht zwingend darum, dass Methoden und Tools falsch oder nicht hilfreich wären. Vielmehr sind die Wirkungen für mich unterschiedlich, je nach dem ob jemand mit Haltung oder Methoden und Tools arbeitet."
 footnotes = "Foto von [Pixabay](<Foto von Pixabay: https://www.pexels.com/de-de/foto/zwei-leute-die-auf-pier-gehen-220836/>)"
 +++
 #### Meine Schwierigkeiten mit Tools
 
-Mit manchen Dingen habe ich so meine Probleme. So zum Beispiel mit «Ver-Tool-isierung» von Dingen oder Themen, die eigentlich (zumindest nach meiner Überzeugung) nur als Haltung wirklich wirken. Natürlich braucht es hier noch feine Differenzierungen und man kann nicht immer sagen, wie viel Haltung hinter etwas steckt. Es geht nicht zwingend darum, dass Methoden und Tools falsch oder nicht hilfreich wären. Vielmehr sind die Wirkungen für mich unterschiedlich, je nach dem ob jemand mit Haltung oder Methoden und Tools arbeitet. Ich spreche hier vor allem von Personen wie Therapeut:innen, Coaches, Lehrer:innen, Trainer:innen, es lässt sich aber genau so gut auf Führungskräfte etc. übertragen. 
+Mit manchen Dingen habe ich so meine Probleme. So zum Beispiel mit «Ver-Tool-isierung» von Dingen oder Themen, die eigentlich (zumindest nach meiner Überzeugung) nur als Haltung wirklich wirken. Natürlich braucht es hier noch feine Differenzierungen und man kann nicht immer sagen, wie viel Haltung hinter etwas steckt. Es geht nicht zwingend darum, dass Methoden und Tools falsch oder nicht hilfreich wären. Vielmehr sind die Wirkungen für mich unterschiedlich, je nach dem, ob jemand mit Haltung oder Methoden und Tools arbeitet. Ich spreche hier vor allem von Personen wie Therapeut:innen, Coaches, Lehrer:innen, Trainer:innen, es lässt sich aber genau so gut auf Führungskräfte etc. übertragen. 
 
 #### Muss man das trennen
 
-Haltungen, Methoden und Tools zu trennen, funktioniert nicht immer und ich finde auch nicht, dass man diese trennen muss. Aber! Aus meiner Erfahrung und Überzeugung wird zu wenig an der inneren Haltung der «helfenden» Person gearbeitet, oder sich diese bewusst gemacht und zu viel Energie und Fokus auf Tools/Methoden verwendet. 
+Haltungen, Methoden und Tools zu trennen, funktioniert nicht immer und ich finde auch nicht, dass man diese trennen muss. Aber! Aus meiner Erfahrung und Überzeugung wird zu wenig an der inneren Haltung der «helfenden» Person gearbeitet. Oft wird m. E. zu viel Energie und Fokus auf Tools/Methoden verwendet. 
 
 #### Eines tut weh und das andere gibt Expert:innen-Status
 
@@ -22,7 +22,7 @@ In diesem Blog ist es definitiv kein Geheimnis mehr, dass ich viele Stunden bei 
 
 #### Meine ganz persönlichen Erfahrungen
 
-Um das Ganze zu verdeutlichen, muss ich wohl hier noch einmal ein Beispiel meiner ganz persönlichen Erfahrung teilen. Die ganzen Jahre rund um Lehrpersonen, die mich be- und vor allem verurteilten, analysierten etc. und mir doch nur helfen und mich weiterbringen wollten, all die Therapeut:innen, Berater:innen, die mir helfen wollten in die Muster zu passen, sie alle haben mir nie geholfen. Nie haben sie mir WIRKLICH zugehört. Als Kind (so vermute ich) fühlt man das noch viel intensiver. Aber sie alle arbeiteten doch in Berufen, in denen Empathie wichtig ist? Rogers kannte man schon, sie hatten studiert (also, das Wissen müsste vorhanden gewesen sein), sie hatten Erfahrungen und warum half trotzdem nichts? Die Antwort liegt in der Begegnung mit einer Experin, die ich nie treffen wollte. Ich hatte sie alle satt, diese Helfer:innen. Obwohl alles irgendwie gleich war, war eines offensichtlich anders. Was ich heute in Worte fasse, war damals nichts anderes als das tiefe Gefühl **verstanden zu werden**. Ja, es war echte Empathie, es war echte Akzeptanz und es war kongruent. Nicht sofort, aber von da an begann sich mein Leben zu ändern. 
+Um das Ganze zu verdeutlichen, muss ich wohl hier noch einmal ein Beispiel meiner ganz persönlichen Erfahrung teilen. Die ganzen Jahre rund um Lehrpersonen, die mich be- und vor allem verurteilten, analysierten etc. und mir doch nur helfen und mich weiterbringen wollten, all die Therapeut:innen, Berater:innen, die mir helfen wollten, in die Muster zu passen, sie alle haben mir nie geholfen. Nie haben sie mir WIRKLICH zugehört. Als Kind (so vermute ich) fühlt man das noch viel intensiver. Aber sie alle arbeiteten doch in Berufen, in denen Empathie wichtig ist? Rogers kannte man schon, sie hatten studiert (also das Wissen müsste vorhanden gewesen sein), sie hatten Erfahrungen und warum half trotzdem nichts? Die Antwort liegt in der Begegnung mit einer Expertin, die ich nie treffen wollte. Ich hatte sie alle satt, diese Helfer:innen. Obwohl alles irgendwie gleich war, war eines offensichtlich anders. Was ich heute in Worte fasse, war damals nichts anderes als das tiefe Gefühl **verstanden zu werden**. Ja, es war echte Empathie, es war echte Akzeptanz und es war kongruent. Nicht sofort, aber von da an begann sich mein Leben zu ändern.
 
 #### Haltung ist entscheidend nicht Worte
 
