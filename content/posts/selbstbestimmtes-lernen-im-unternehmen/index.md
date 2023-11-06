@@ -1,12 +1,12 @@
 +++
 title = "Individuelle Lernwege im Unternehmen"
 date = "2023-11-06"
-draft = true
+draft = false
 pinned = false
 tags = ["Personalentwicklung", "Lernen", "Lernkultur", "Organisationsentwicklung"]
 image = "_ed8507d7-b800-4d6d-9704-b55a52bc7f63.jpeg"
 description = "Was passiert, wenn wir Menschen in Unternehmen lernen lassen? Wie lässt sich selbstbestimmtes und selbstorganisiertes Lernen umsetzen? Darüber schreibe ich in diesem Beitrag. "
-footnotes = "Bild: Erstellt mit Bing Image Creator \n\nDieser Text wurde mit Unterstützung durch KI erstellt.\n\nWeitere Links zu digitalen Badges: \\\n[Wikipedia Open Badges](<https://de.wikipedia.org/wiki/Open_Badges>)\n\n[ZHAW Qualifikationen digital sichtbar machen]([](<https://de.wikipedia.org/wiki/Open_Badges>)<https://blog.zhaw.ch/lehren-und-lernen/qualifikationen-digital-sichtbar-machen-das-zhaw-pilotprojekt-open-digital-badges/>)"
+footnotes = "Bild: Erstellt mit Bing Image Creator \n\nDieser Text wurde mit Unterstützung durch KI erstellt.\n\n**Weitere Links zu digitalen Badges:** \\\n[Wikipedia Open Badges](https://de.wikipedia.org/wiki/Open_Badges)\n\n[ZHAW Qualifikationen digital sichtbar machen]([](<https://de.wikipedia.org/wiki/Open_Badges>)<https://blog.zhaw.ch/lehren-und-lernen/qualifikationen-digital-sichtbar-machen-das-zhaw-pilotprojekt-open-digital-badges/>)"
 +++
 ## Individuelle Lernwege im Unternehmen
 
@@ -48,10 +48,6 @@ Stelle den Mitarbeitenden Ressourcen und Tools zur Verfügung, die ihnen ermögl
 
 Mitarbeitende können ihr eigenes und für alle zugängliches Kompetenzprofil erstellen. Dort werden nicht nur berufsbezogene Kompetenzen abgebildet, sondern auch solche, die sie sich in anderen Lebensbereichen angeeignet haben. Dieses Profil dient nicht nur als visuelle Repräsentation ihrer Fähigkeiten, sondern ermöglicht es auch Vorgesetzten und Kolleg:innen, schnell einen Überblick über die Kompetenzen eines Mitarbeitenden zu erhalten. 
 
-Digitale Badges
+#### Digitale Badges 
 
-Eine weitere Möglichkeit...
-
-.....
-
-....
+Digitale Badges heben das Kompetenzprofil auf die nächste Stufe. Es sind die digitalen Zertifikate, die eine Kompetenz oder den Kompetenzerwerb bestätigen.
