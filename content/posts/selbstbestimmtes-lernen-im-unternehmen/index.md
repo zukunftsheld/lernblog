@@ -50,4 +50,8 @@ Mitarbeitende können ihr eigenes und für alle zugängliches Kompetenzprofil er
 
 Digitale Badges
 
-Eine weitere Möglichkeit
+Eine weitere Möglichkeit...
+
+.....
+
+....
