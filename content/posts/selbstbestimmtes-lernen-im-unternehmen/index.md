@@ -4,6 +4,7 @@ date = "2023-11-06"
 draft = true
 pinned = false
 tags = ["Personalentwicklung", "Lernen", "Lernkultur", "Organisationsentwicklung"]
+image = "_ed8507d7-b800-4d6d-9704-b55a52bc7f63.jpeg"
 description = "Was passiert, wenn wir Menschen in Unternehmen lernen lassen? Wie lässt sich selbstbestimmtes und selbstorganisiertes Lernen umsetzen? Darüber schreibe ich in diesem Beitrag. "
 footnotes = "Bild: Erstellt mit Bing Image Creator \n\nDieser Text wurde mit Unterstützung durch KI erstellt."
 +++
