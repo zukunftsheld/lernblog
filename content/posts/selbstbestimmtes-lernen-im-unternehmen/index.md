@@ -1,11 +1,11 @@
 +++
-title = "Individuelle Mitarbeitendenentwicklung"
+title = "Individuelle Lernwege im Unternehmen"
 date = "2023-11-06"
 draft = true
 pinned = false
 tags = ["Personalentwicklung", "Lernen", "Lernkultur", "Organisationsentwicklung"]
 description = "Was passiert, wenn wir Menschen in Unternehmen lernen lassen? Wie lässt sich selbstbestimmtes und selbstorganisiertes Lernen umsetzen? Darüber schreibe ich in diesem Beitrag. "
-footnotes = "Bild: \n\nDieser Text wurde mit Unterstützung durch KI erstellt."
+footnotes = "Bild: Erstellt mit Bing Image Creator \n\nDieser Text wurde mit Unterstützung durch KI erstellt."
 +++
 ## Individuelle Lernwege im Unternehmen
 
