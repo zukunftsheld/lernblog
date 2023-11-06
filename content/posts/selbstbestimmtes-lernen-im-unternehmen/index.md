@@ -1,5 +1,5 @@
 +++
-title = "Selbstbestimmtes-Lernen-im-Unternehmen"
+title = "Individuelle Mitarbeitendenentwicklung"
 date = "2023-11-06"
 draft = true
 pinned = false
