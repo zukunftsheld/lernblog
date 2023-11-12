@@ -24,7 +24,7 @@ Lerncoaches oder Lernbegleiter:innen können Mitarbeitende bei ihren Lernprozess
 
 #### Lernvorbilder 
 
-Menschen, die bereits als selbstbestimmte und selbstogranisierte Lernenr:innen unterwegs sind, teilen ihre Lernerfahrungen, ihre Hürden, ihre Erfolge, die Lernstrategien mit anderen. So können zudem Verbindungen zwischen den Lernenden entstehen. Es ist dann Selbstlernen in Gemeinschaft. 
+Menschen, die bereits als selbstbestimmte und selbstogranisierte Lernenr:innen unterwegs sind, teilen ihre Lernerfahrungen, ihre Hürden, ihre Erfolge, oder ihre Lernstrategien mit anderen. So können zudem Verbindungen zwischen den Lernenden entstehen. Es ist dann Selbstlernen in Gemeinschaft. 
 
 #### Lernkultur
 
