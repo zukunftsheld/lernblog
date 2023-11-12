@@ -10,7 +10,7 @@ footnotes = "Foto: Sandra Zaugg"
 +++
 ### Learning by..
 
-Eigentlich wissen wir, dass Lernen kaum in der Schule, in Kurs- oder Klassenzimmern stattfindet. Trotzdem wird immer noch an den klassischen Unterrichtsformen festgehalten. Hier und da werden zwar Klasse- oder Kurszimmer geöffnet oder Pulte umgestellt. Dann scheint diese Unterrichtsform bereits innovativ zu sein. Das ist nicht nur bei Kindern so, sondern ist auch in der Berufs- und Erwachsenenbildung oft der Fall. 
+Eigentlich wissen wir, dass Lernen kaum in der Schule, in Kurs- oder Klassenzimmern stattfindet. Trotzdem wird immer noch an den klassischen Unterrichtsformen festgehalten. Hier und da werden zwar Klassen- oder Kurszimmer geöffnet oder Pulte umgestellt. Dann scheint diese Unterrichtsform bereits innovativ zu sein. Das ist nicht nur bei Kindern so, sondern ist auch in der Berufs- und Erwachsenenbildung oft der Fall. 
 
 #### Learning by surfing
 
