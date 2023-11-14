@@ -26,10 +26,14 @@ Wo verliert das Unternehmen wichtiges Wissen und wichtige Erfahrungen? In diesen
 
 #### Peer-to-Peer-Lernen
 
-Schaffe Plattformen, auf denen Mitarbeiter miteinander lernen können. Peer-to-Peer-Lernnetzwerke fördern den informellen Austausch und ermöglichen es, Wissen auf eine weniger formale, aber dennoch effektive Weise weiterzugeben. 
+Schaffe Plattformen, auf denen Mitarbeiter miteinander in Kontakt treten und lernen können. Peer-to-Peer-Lernnetzwerke fördern den informellen Austausch und ermöglichen es, Wissen auf eine weniger formale, aber dennoch effektive Weise weiterzugeben. 
 
 #### Learning-Communities
 
 Etabliere informelle Lern-/Wissenszirkel, Fach und Lern-Communities, in denen sich Mitarbeiter regelmässig austauschen können. Dies schafft Plattformen für den kontinuierlichen Dialog und die gemeinsame Weiterentwicklung von Kenntnissen. Diese können ganz gezielt und fachlich sein oder Raum für neues Wissen, neue Ideen und Talente schaffen. 
+
+#### [Mentoring](https://www.colearning.org/#mentoring)
+
+Das Peer-to-Peer-Lernen oder die Learning-Communities können durch Mentorings ergänzt werden. Eine mögliche Form nutzen wir bei Colearning. 
 
 Das sind einige Möglichkeiten, Wissen im Unternehmen zu behalten und gemeinsames Lernen unter den Mitarbeitenden zu fördern. «Wissen sammeln, speichern und teilen» kann ein einfacher Anfang sein.
