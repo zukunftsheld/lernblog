@@ -36,4 +36,4 @@ Etabliere informelle Lern-/Wissenszirkel, Fach und Lern-Communities, in denen si
 
 Das Peer-to-Peer-Lernen oder die Learning-Communities können durch Mentorings ergänzt werden. Eine mögliche Form nutzen wir bei Colearning. 
 
-Das sind einige Möglichkeiten, Wissen im Unternehmen zu behalten und gemeinsames Lernen unter den Mitarbeitenden zu fördern. «Wissen sammeln, speichern und teilen» kann ein einfacher Anfang sein.
+Das sind einige Möglichkeiten, Wissen im Unternehmen zu «halten» und gemeinsames Lernen unter den Mitarbeitenden zu fördern. «Wissen sammeln, speichern und teilen» kann ein einfacher Anfang sein.
