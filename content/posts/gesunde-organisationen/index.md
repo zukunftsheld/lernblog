@@ -16,7 +16,7 @@ Nicht erst seit gestern mache ich mir Gedanken über gesunde Organisationen. Es 
 
 ### Was verstehe ich unter einer gesunden Organisation?
 
-### Der Mensch im Mittelpunkt
+#### Der Mensch im Mittelpunkt
 
 Gesunde Organisationen stellen die Menschen in den Mittelpunkt. Sie tun es in der Überzeugung, dass sie für ein erfolgreiches Unternehmen wesentlich sind. Menschen in den Mittelpunkt stellen heisst, sie in ihren Wünschen, Bedürfnissen, Kompetenzen und Potenzialen zu sehen und ernst zu nehmen. Gute Arbeit soll den Menschen dienen, nicht der Mensch der Arbeit. 
 
@@ -33,7 +33,9 @@ Passend dazu sind mir (zufälligerweise) folgende Thesen im Buch Future Skills, 
 > «Es fehlt an Sinnstiftung und Sinnerfahrung. Es fehlt an Schöpfertum und Leidenschaft. Es fehlt an Geist und Begeisterung. Es fehlt an dem, was Menschen in der Tiefe ihrer Seele oder ihres Herzens nährt. Es fehlt an Poesie und Schönheit in der Arbeitsumgebung. Es fehlt an Verbundenheit und Verbindlichkeit im Umgang miteinander.» 
 >
 > *Future Skills, Abschnitt New Work und Future Skills, 21 Thesen und 21 Impulse für die neue Büro- und Arbeitswelt, C. Quarch, J. Teunen (2021), S. 43*
->
+
+
+
 > «Das Kostbare im Büro von heute ist der Mensch mit seinen vielfältigen Fähigkeiten und Potenzialen. Sie zu entfalten und erblühen zu lassen, ist die zentrale Aufgabe des Büros. Büros sollten Gewächshäuser menschlicher Potenzialentfaltung sein. 
 >
 > *Future Skills, Abschnitt New Work und Future Skills, 21 Thesen und 21 Impulse für die neue Büro- und Arbeitswelt, C. Quarch, J. Teunen (2021), S. 42*
