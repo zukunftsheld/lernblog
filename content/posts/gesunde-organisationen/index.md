@@ -33,16 +33,12 @@ Passend dazu sind mir (zufälligerweise) folgende Thesen im Buch Future Skills, 
 > «Es fehlt an Sinnstiftung und Sinnerfahrung. Es fehlt an Schöpfertum und Leidenschaft. Es fehlt an Geist und Begeisterung. Es fehlt an dem, was Menschen in der Tiefe ihrer Seele oder ihres Herzens nährt. Es fehlt an Poesie und Schönheit in der Arbeitsumgebung. Es fehlt an Verbundenheit und Verbindlichkeit im Umgang miteinander.» 
 >
 > *Future Skills, Abschnitt New Work und Future Skills, 21 Thesen und 21 Impulse für die neue Büro- und Arbeitswelt, C. Quarch, J. Teunen (2021), S. 43*
-
-
-
+>
 > «Das Kostbare im Büro von heute ist der Mensch mit seinen vielfältigen Fähigkeiten und Potenzialen. Sie zu entfalten und erblühen zu lassen, ist die zentrale Aufgabe des Büros. Büros sollten Gewächshäuser menschlicher Potenzialentfaltung sein. 
 >
 > *Future Skills, Abschnitt New Work und Future Skills, 21 Thesen und 21 Impulse für die neue Büro- und Arbeitswelt, C. Quarch, J. Teunen (2021), S. 42*
 
-
-
-#### Leadership
+#### [Leadership](https://www.bensblog.ch/leadership-navigieren-im-wandel/)
 
 Führung braucht Kompetenz und nicht ein 3-Tages Leadership-Seminar oder einfach viel Berufserfahrung. Genauso wenig sind gute Mitarbeitende auch gute Führungskräfte. Diese Illusion kommt vielleicht davon, dass man so «die Guten» belohnen will. Nur vielleicht ist das (zumindest oft rückblickend) keine Belohnung und führt zu Unzufriedenheit bei allen Beteiligten. Leadership kann ein natürliches Talent sein und/oder sich durch einen bewusst gestalteten Lernprozess entwickeln. 
 
