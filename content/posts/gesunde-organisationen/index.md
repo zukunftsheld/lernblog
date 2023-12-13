@@ -1,5 +1,5 @@
 +++
-title = "Gesunde Organisationen"
+title = "Gesunde Organisationen - Menschen führen, Räume schaffen, Zukunft gestalten"
 date = "2023-12-04"
 draft = false
 pinned = false
