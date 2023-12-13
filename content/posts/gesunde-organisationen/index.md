@@ -1,7 +1,7 @@
 +++
 title = "Gesunde Organisationen"
-date = "2023-12-13"
-draft = true
+date = "2023-12-04"
+draft = false
 pinned = false
 tags = ["Organisationsentwicklung", "Leadership"]
 image = "_eb1e8c02-7bf5-49bc-afdf-b8b0f9f6e5d0.jpg"
@@ -32,17 +32,21 @@ Passend dazu sind mir (zufälligerweise) folgende Thesen im Buch Future Skills, 
 
 > «Es fehlt an Sinnstiftung und Sinnerfahrung. Es fehlt an Schöpfertum und Leidenschaft. Es fehlt an Geist und Begeisterung. Es fehlt an dem, was Menschen in der Tiefe ihrer Seele oder ihres Herzens nährt. Es fehlt an Poesie und Schönheit in der Arbeitsumgebung. Es fehlt an Verbundenheit und Verbindlichkeit im Umgang miteinander.» 
 >
-> *These 5, S. 43, Future Skills*
->
+> *Future Skills, Abschnitt New Work und Future Skills, 21 Thesen und 21 Impulse für die neue Büro- und Arbeitswelt, C. Quarch, J. Teunen (2021), S. 43*
+
+
+
 > «Das Kostbare im Büro von heute ist der Mensch mit seinen vielfältigen Fähigkeiten und Potenzialen. Sie zu entfalten und erblühen zu lassen, ist die zentrale Aufgabe des Büros. Büros sollten Gewächshäuser menschlicher Potenzialentfaltung sein. 
 >
-> *These 12, S. 42, Future Skills*
+> *Future Skills, Abschnitt New Work und Future Skills, 21 Thesen und 21 Impulse für die neue Büro- und Arbeitswelt, C. Quarch, J. Teunen (2021), S. 42*
+
+
 
 #### Leadership
 
 Führung braucht Kompetenz und nicht ein 3-Tages Leadership-Seminar oder einfach viel Berufserfahrung. Genauso wenig sind gute Mitarbeitende auch gute Führungskräfte. Diese Illusion kommt vielleicht davon, dass man so «die Guten» belohnen will. Nur vielleicht ist das (zumindest oft rückblickend) keine Belohnung und führt zu Unzufriedenheit bei allen Beteiligten. Leadership kann ein natürliches Talent sein und/oder sich durch einen bewusst gestalteten Lernprozess entwickeln. 
 
-####  Gemeinsam unterwegs
+#### Gemeinsam unterwegs
 
 Wie oft sah und sehe ich Menschen, die gegeneinander (oder zumindest nicht miteinander) arbeiten. Das manchmal sogar innerhalb der gleichen Abteilung. Man kämpft um Budgets, um die Anerkennung (von oben, aussen, ...) will die eigenen Ziele erreichen und vergisst das, was eigentlich wichtig ist – ein gutes Produkt, zufriedene Kund:innen etc. Einen gemeinsamen Weg zu finden ist nicht einfach, das ist klar. Das ist harte Arbeit, die sich lohnt und mit etwas Übung und Erfahrung sogar Spass macht. 
 
