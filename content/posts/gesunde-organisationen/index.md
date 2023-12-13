@@ -1,11 +1,11 @@
 +++
-title = "gesunde-organisationen"
+title = "Gesunde Organisationen"
 date = "2023-12-13"
 draft = true
 pinned = false
 tags = ["Organisationsentwicklung", "Leadership"]
 +++
-# Lebendige Arbeitswelten
+# Gesunde Organisationen - lebendige Arbeitswelten
 
 ## Menschen führen, Räume schaffen, Zukunft gestalten
 
@@ -26,9 +26,7 @@ Passend dazu sind mir (zufälligerweise) folgende Thesen im Buch Future Skills, 
 > «Es fehlt an Sinnstiftung und Sinnerfahrung. Es fehlt an Schöpfertum und Leidenschaft. Es fehlt an Geist und Begeisterung. Es fehlt an dem, was Menschen in der Tiefe ihrer Seele oder ihres Herzens nährt. Es fehlt an Poesie und Schönheit in der Arbeitsumgebung. Es fehlt an Verbundenheit und Verbindlichkeit im Umgang miteinander.» 
 >
 > *These 5, S. 43, Future Skills*
-
- 
-
+>
 > «Das Kostbare im Büro von heute ist der Mensch mit seinen vielfältigen Fähigkeiten und Potenzialen. Sie zu entfalten und erblühen zu lassen, ist die zentrale Aufgabe des Büros. Büros sollten Gewächshäuser menschlicher Potenzialentfaltung sein. 
 >
 > *These 12, S. 42, Future Skills*
@@ -47,4 +45,4 @@ Die meisten (oder alle?) denken immer noch in Rollen, in Jobprofilen oder in Fun
 
 #### Sehen die Zukunft und agieren in der Gegenwart
 
-Es wird gerne über die Zukunft gesprochen. Wann soll denn die kommen? Sprechen wir von morgen, von in einem Jahr, in 10 Jahren? Gesunde Organisationen haben die Chancen, Möglichkeiten und Risiken der Zukunft im Blick und agieren in der Gegenwart. Stabilität, Kontinuität, Flexibilität und Agilität schliessen sich vermutlich nicht aus.
+Es wird gerne über die Zukunft gesprochen. Wann soll denn die kommen? Sprechen wir von morgen, von in einem Jahr, in 10 Jahren? Gesunde Organisationen haben die Chancen, Möglichkeiten und Risiken der Zukunft im Blick und agieren in der Gegenwart. Stabilität, Kontinuität, Flexibilität und Agilität schliessen sich (vermutlich) nicht aus.
