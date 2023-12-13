@@ -4,6 +4,9 @@ date = "2023-12-13"
 draft = true
 pinned = false
 tags = ["Organisationsentwicklung", "Leadership"]
+image = "_eb1e8c02-7bf5-49bc-afdf-b8b0f9f6e5d0.jpg"
+description = "Gesunde Organisationen stellen die Menschen in den Mittelpunkt. Sie tun es in der Überzeugung, dass sie für ein erfolgreiches Unternehmen wesentlich sind. "
+footnotes = "Bild erstellt mit Bing Image Creator"
 +++
 # Gesunde Organisationen - lebendige Arbeitswelten
 
