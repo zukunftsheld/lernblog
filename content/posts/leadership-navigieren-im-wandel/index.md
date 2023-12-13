@@ -8,11 +8,8 @@ image = "hiker-1984421_640.jpg"
 description = "Gute Führung beginnt bei Selbstführung. Führungskräfte, die sich selbst, ihre (Lern-, Arbeits- und Führungs-) Biografie kennen, haben ein breiteres und tieferes Handlungsspektrum. Sie entwickeln sich in ihrer Rolle bewusst und laufend weiter."
 footnotes = "[Future Skills, 30 Zukunftsentscheidende Kompetenzen und wie wir sie lernen können](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/69-co-creators/future-skills/id/9783800666355/)\n\nImage by [Andrew Martin](https://pixabay.com/users/aitoff-388338/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1984421) from [Pixabay](https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1984421)"
 +++
-## Leadership - Navigieren im Wandel
-
-## Selbstführung, Teamdynamik und Anpassungsfähigkeit
-
-
+## Leadership - Navigieren im Wandel\
+Selbstführung, Teamdynamik und Anpassungsfähigkeit
 
 **Leadership:** *englisch, Führung; Gesamtheit der Führungsqualitäten*. So steht es bei Duden.de. 
 
@@ -36,14 +33,10 @@ So unterschiedliche wie Organisationen und Teams sind, so individuell gestaltet 
 
 Im Buch Future Skills, 30 Zukunftsentscheidende Kompetenzen und wie wir sie lernen können, sind mir nach dem Erstellen dieses Blogbeitrages Impulse zu Führung begegnet. Zwei davon, die ich als passende empfinde, ergänze ich hier: 
 
-
-
 >  «Orientieren Sie sich bei Führungsaufgaben an der Tätigkeit des Gärtners: Sorgen Sie dafür, dass Ihre Mitarbeiter:innen ein gutes Arbeitsklima vorfinden, dass sie mit den nötigen Nährstoffen versehen werden, dass sie Wurzeln schlagen und einander unterstützen können, um zur Schönheit zu erblühen und reiche Frucht zu tragen» 
 >
 > *Future Skills, Abschnitt New Work und Future Skills, 21 Thesen und 21 Impulse für die neue Büro- und Arbeitswelt, C. Quarch, J. Teunen (2021), S. 45, Impuls 12*
-
- 
-
+>
 > «Ändern Sie Ihr Führungsverständnis: \[…] Führung erfordert Weisheit. Weisheit ist der stimmige Zusammenklang von Sozialität, Emotionalität und Rationalität.» 
 >
 > *Future Skills, Abschnitt New Work und Future Skills, 21 Thesen und 21 Impulse für die neue Büro- und Arbeitswelt, C. Quarch, J. Teunen (2021), Impuls 7*
