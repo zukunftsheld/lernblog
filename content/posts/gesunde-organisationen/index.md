@@ -21,6 +21,10 @@ Gesunde Organisationen stellen die Menschen in den Mittelpunkt. Sie tun es in de
 
 Aus Arbeitsräumen liesse sich so viel mehr machen, als sie heute sind. Diese Räume werden oft nicht nach den unterschiedlichen! Bedürfnissen der Menschen gestaltet. Ich habe den Eindruck, dass viele erstaunt wären, wie positiv sich schön und angenehm gestaltete Arbeits- und Pausenräume auf die Mitarbeitenden auswirken. Wenn diese dann auch noch die Bedürfnisse der «Leisen» berücksichtigen würden, wäre das ein Gewinn für alle. Oft reichen kleine Veränderungen und die Investitionen halten sich in Grenzen. Ich erinnere mich an eine Arbeitsstelle, bei der Pausenraum eigentlich ein Sitzungszimmer war. Mit einer Ideeneingabe und einem Minimalaufwand konnte ich einen nicht sinnvoll genutzten Raum zu einem Pausenraum mit grossem Tisch und Sofa umfunktionieren. 
 
+![](_3b5663e9-a069-4d75-bd1e-4f7963f252dd.jpg)
+
+*In die Richtung könnte ein schöner und offener Arbeitsort gehen. Erstellt mit Bing Image Creator.*
+
 Passend dazu sind mir (zufälligerweise) folgende Thesen im Buch Future Skills, 30 Zukunftsentscheidende Kompetenzen und wie wir sie lernen können begegnet. 
 
 > «Es fehlt an Sinnstiftung und Sinnerfahrung. Es fehlt an Schöpfertum und Leidenschaft. Es fehlt an Geist und Begeisterung. Es fehlt an dem, was Menschen in der Tiefe ihrer Seele oder ihres Herzens nährt. Es fehlt an Poesie und Schönheit in der Arbeitsumgebung. Es fehlt an Verbundenheit und Verbindlichkeit im Umgang miteinander.» 
