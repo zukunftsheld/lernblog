@@ -8,7 +8,7 @@ image = "_eb1e8c02-7bf5-49bc-afdf-b8b0f9f6e5d0.jpg"
 description = "Gesunde Organisationen stellen die Menschen in den Mittelpunkt. Sie tun es in der Überzeugung, dass sie für ein erfolgreiches Unternehmen wesentlich sind. "
 footnotes = "Bild erstellt mit Bing Image Creator"
 +++
-## Menschen führen, Räume schaffen, Zukunft gestalten
+## Gesunde Organisationen - Menschen führen, Räume schaffen, Zukunft gestalten.
 
 Nicht erst seit gestern mache ich mir Gedanken über gesunde Organisationen. Es ist nicht so, dass ich eine Lösung dafür hätte und doch habe ich den Eindruck, einigen wichtigen Elementen immer mehr auf die Schliche zu kommen. Hier beleuchte ich ein paar (zumindest vorläufige) Erkenntnisse und Gedanken. Ich schreibe aus der eigenen Erfahrung und von Gelesenem, wobei sich diese Dinge immer mehr vermischen. Somit könnte ich keine konkreten Quellen nennen. Was ich nicht oder maximal am Rand beleuchten werde, sind finanzielle Vorteile einer gesunden Organisation. Diesen gilt mein Kerninteresse nicht, resp. ich bin davon überzeugt, dass wirtschaftlicher Erfolg im Wechselspiel mit meinen Gedanken ist. 
 
