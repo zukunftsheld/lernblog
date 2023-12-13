@@ -10,6 +10,8 @@ footnotes = "[Future Skills, 30 Zukunftsentscheidende Kompetenzen und wie wir si
 +++
 ## Navigieren im Wandel - Gedanken über Selbstführung, Teamdynamik und Anpassungsfähigkeit
 
+
+
 **Leadership:** *englisch, Führung; Gesamtheit der Führungsqualitäten*. So steht es bei Duden.de. 
 
 Bei Wikipedia habe ich unter Menschenführung etwa 20! unterschiedliche Führungsstile gefunden. Während ich schreibe, stehen hinter mir zudem etliche Bücher zu Führung. Aber, was ist gute oder richtige Führung? 
