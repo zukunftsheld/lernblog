@@ -10,7 +10,7 @@ footnotes = "\\*Manchmal ist es aber auch einfach ganz o.k. in der Komfortzone z
 +++
 #### Im Hier und Jetzt
 
-Es ist klar, dass die Vergangenheit uns geprägt hat. Unser Denken, unser Verhalten, unsere Werte und einiges mehr sind geprägt durch unser Umfeld, durch unsere Erlebnisse. Wir sagen dann gerne «Ich bin so» oder über andere «Er/Sie ist so (zum Beispiel zurückhaltend, ängstlich, mutig, schlau, ...)». Da sind viele Prägungen, die uns nicht bewusst sind. Im Hier und Jetzt ist vielleicht nicht der ideale Titel und doch ist die Gegenwart der Ort oder der Zeitpunkt, in dem wir uns (plötzlich) anders erleben können. Im Hier und Jetzt kann auch heissen, sich auf den Moment einzulassen. 
+Es ist klar, dass die Vergangenheit uns geprägt hat. Unser Denken, unser Verhalten, unsere Werte und einiges mehr sind geprägt durch unser Umfeld, durch unsere Erlebnisse. Wir sagen dann gerne «Ich bin so» oder über andere «Er/Sie ist so (zum Beispiel zurückhaltend, ängstlich, mutig, schlau, ...)». Da sind viele Prägungen, die uns nicht bewusst sind. Im Hier und Jetzt ist vielleicht nicht der ideale Titel  dieses Beitrags und doch ist die Gegenwart der Ort oder der Zeitpunkt, in dem wir uns (plötzlich) anders erleben können. Im Hier und Jetzt kann auch heissen, sich auf den Moment einzulassen. 
 
 #### (Schul-)Lager, Gruppenreisen und andere Horrorgeschichten
 
@@ -22,7 +22,7 @@ Um eine Ausbildung abschliessen zu können, war es (leider) entscheidend, ein pa
 
 #### ..immer wieder von vorne
 
-Auch wenn dieses Erlebnis, das bereits ein paar Jahre zurückliegt (positiv) prägend war, habe ich auch heute noch eine (vermeintliche?) Ablehnung gegen jegliche Form von Aktivitäten mit Lagercharakter. So waren diese (alten) Gefühle und Gedanken, ja, all diese Prägungen wieder da. Es ging darum, zwei Tage mit einer Gruppe unterwegs zu sein. Natürlich äusserte ich auch hier wieder meinen Unmut und meine Ablehnung. Meine Haltung wurde zur Kenntnis genommen, es war Verständnis da und teilweise wurde sogar erfragt, warum das so ist. Was soll ich sagen, rückblickend es war wieder ein (sehr) gutes Erlebnis.
+Auch wenn dieses Erlebnis, das bereits ein paar Jahre zurückliegt (positiv) prägend war, habe ich auch heute noch eine (vermeintliche?) Ablehnung gegen jegliche Form von Aktivitäten mit Lagercharakter. So waren diese (alten) Gefühle und Gedanken, ja, all diese Prägungen wieder da. Es ging darum, zwei Tage mit einer Gruppe unterwegs zu sein. Natürlich äusserte ich auch hier wieder meinen Unmut und meine Ablehnung. Meine Haltung wurde zur Kenntnis genommen, es war Verständnis da und teilweise wurde sogar erfragt, warum das so ist. Was soll ich sagen, rückblickend es war wieder ein gutes Erlebnis.
 
 > Zwischen Reiz und Reaktion liegt ein Raum. In diesem Raum liegt die Macht unserer Wahl. In unserer Reaktion liegen unsere Entwicklung und unsere Freiheit.
 >
@@ -36,7 +36,7 @@ Ich finde es wichtig, sich seinen Ängsten und Unsicherheiten immer wieder zu st
 
 Wir tragen Prägungen in uns, die sich (vielleicht) bereits eingebrannt haben, als wir noch Kinder waren. Das sind wir aber irgendwann nicht mehr. Dann können wir neue Erlebnisse schaffen, wir sind nicht mehr (so) hilflos, wie wir das einmal waren. 
 
-Es sind nicht nur Prägungen, sondern auch Wesenszüge, die einen Einfluss auf uns haben (können). Wenn wir diese Erkennen, diese akzeptieren oder uns damit anfreunden können, dann eröffnen sich neue Möglichkeiten und Freiheiten. 
+Es sind nicht nur Prägungen, sondern auch Wesenszüge, die einen Einfluss auf uns haben (können). Wenn wir diese erkennen, diese akzeptieren oder uns damit anfreunden können, dann eröffnen sich neue Möglichkeiten und Freiheiten. 
 
 Zu sagen, dass wir etwas nicht mögen oder Schwierigkeiten damit haben, ist völlig o.k. Es hilft den anderen, uns besser zu verstehen und vielleicht die eine oder andere Reaktion nicht zu stark zu werten. Ich hatte bei diesen beiden positiven Erfahrungen das Glück, das äussern zu dürfen. Unter anderem genau diese Offenheit hat mir ermöglicht, diese zwei positiven (und prägenden) Erfahrungen zu machen. 
 
