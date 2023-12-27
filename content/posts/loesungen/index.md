@@ -3,10 +3,10 @@ title = "Das (Arbeits-) Leben selbst gestalten"
 date = "2022-07-06"
 draft = false
 pinned = false
-tags = ["NewWork", "Selbstmanagement", "Sinn", "Werte"]
+tags = ["Selbstmanagement", "Persönlichkeitsentwicklung", "Sinn", "Werte", "Coaching", "JobCrafting", "Personalentwicklung"]
 image = "people-ga93582a71_640.jpg"
 description = "Wir haben vieles nicht in der Hand und doch können wir vieles in unserem (Arbeits-) Leben selbst gestalten. "
-footnotes = "Du möchtest dich selbst auf den Weg machen dein (Arbeits-) Leben selbst bewusster zu gestalten, mehr von dir in dein Leben zu bringen oder wieder mehr Harmonie und Gleichgewicht zwischen deiner aktuellen Situation und dem Wunschzustand herzustellen? Ich bin dein Zuhörer, Fragensteller und biete dir eine Aussensicht. [Hier findest du den Kontakt für ein Coaching.](https://www.bensblog.ch/ueber/)\\\n\\\n\\\nBild von [StockSnap](https://pixabay.com/de/users/stocksnap-894430/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2591874) auf [Pixabay](https://pixabay.com/de/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2591874)"
+footnotes = "Bild von [StockSnap](https://pixabay.com/de/users/stocksnap-894430/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2591874) auf [Pixabay](https://pixabay.com/de/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2591874)"
 +++
 ### **Das (Arbeits-) Leben selbst gestalten**
 
@@ -34,15 +34,15 @@ Wenn es nur so einfach wäre. Gut ist, was uns gut tut und doch sollten wir vors
 
 #### Das Leben ist ein Prozess
 
-Wir Menschen sind ein Teil der Erde und ein Teil der Natur. Davon schreibe ich immer wieder, weil es helfen kann zu erkennen, dass alles ein Prozess ist und selten etwas von heute auf morgen ändert. Stellen wir uns einmal einen mächtigen Baum vor, der im Wind stehen bleibt und uns Schatten gibt. Der war einmal nur ein Samen, kaum sichtbar und alles andere als das, was er heute ist. Bis er so mächtig war hat es Jahre gedauert. Wir könnten auch einen Schädling wie die Raupe nehmen. Wie oft scheinen sie hässlich, stören und keiner würde auch nur vermuten (wenn wir es nicht wüssten), was da Schönes entsteht. Ich könnte noch etliche Beispiele anfügen, die in der einen oder anderen Form diese natürlichen Prozesse zeigen.
+Wir Menschen sind ein Teil der Erde und ein Teil der Natur. Davon schreibe ich immer wieder, weil es helfen kann zu erkennen, dass alles ein Prozess ist und selten etwas von heute auf morgen ändert. Stellen wir uns einmal einen mächtigen Baum vor, der im Wind stehen bleibt und uns Schatten gibt. Der war einmal nur ein Samen, kaum sichtbar und alles andere als das, was er heute ist. Bis er so mächtig war, hat es Jahre gedauert. Wir könnten als Beispiel auch eine Raupe nehmen. Wie oft scheinen diese «Schädlinge» hässlich, stören und keiner würde auch nur vermuten (wenn wir es nicht wüssten), was da Schönes entsteht. Ich könnte noch etliche Beispiele anfügen, die in der einen oder anderen Form diese natürlichen Prozesse zeigen.
 
 #### Was ist denn die Lösung?
 
-Die Lösung und den Weg gibt es nicht. Jeder Mensch muss (leider? zum Glück?) den eigenen Weg finden. Nicht nur die Situationen, in denen wir stecken (auch, wenn sie ähnlich sein mögen), sind ganz verschieden, sondern auch unsere Erfahrungen, unser Wissensstand, unsere Verbindung zu uns selbst und so weiter.
+Die Lösung oder den einen Weg gibt es nicht. Jeder Mensch muss (leider? oder zum Glück?) seinen/ohren eigenen Weg finden. Nicht nur die Situationen, in denen wir stecken (auch, wenn sie ähnlich sein mögen), sind ganz verschieden, sondern auch unsere Erfahrungen, unser Wissensstand, unsere Verbindung zu uns selbst und so weiter.
 
 #### Alles beginnt mit der Auseinandersetzung mit sich selbst
 
-Das ist der Weg für tiefgreifende und nachhaltige Veränderungen. Davon bin ich überzeugt und doch gibt es schon wieder ein Aber. Wenn wir in Schwierigkeiten stecken, wie zum Beispiel in finanziellen Problemen, gesundheitlich oder psychisch angeschlagen sind, dann müssen wir vielleicht zuerst wieder zur Ruhe kommen können und unseren Alltag organisieren. Wenn wir aber Ressourcen zur Verfügung haben, dann können wir uns immer wieder uns selbst widmen und schauen, wer bin ich, was ist mir wichtig und wo will ich hin. Selbstmanagement kann hier ein guter Weg sein, wenn wir mehr darin sehen als nur Selbstoptimierung und Zeitmanagement. Darüber habe ich [hier konkreter geschrieben](https://www.bensblog.ch/selbstmanagement2/). Eine andere Möglichkeit ist, sich mit dem Sinn in der eigenen Arbeit auseinanderzusetzen. Auch [hier gibt einen tieferen Einblick](https://www.bensblog.ch/sinn-in-der-arbeit-finden/). 
+Das ist der Weg für tiefgreifende und nachhaltige Veränderungen. Davon bin ich überzeugt und doch gibt es schon wieder ein «Aber». Wenn wir in Schwierigkeiten stecken, wie zum Beispiel in finanziellen Problemen, gesundheitlich oder psychisch angeschlagen sind, dann müssen wir vielleicht zuerst wieder zur Ruhe kommen können und unseren Alltag organisieren. Wenn wir aber Ressourcen zur Verfügung haben, dann können wir uns immer wieder uns selbst widmen und schauen, wer bin ich? Was ist mir wichtig? Wo will ich hin?Selbstmanagement kann hier ein guter Weg sein, wenn wir mehr darin sehen als nur Selbstoptimierung und Zeitmanagement. Darüber habe ich [hier konkreter geschrieben](https://www.bensblog.ch/selbstmanagement2/). Eine andere Möglichkeit ist, sich mit dem Sinn in der eigenen Arbeit auseinanderzusetzen. Auch [hier gibt einen tieferen Einblick](https://www.bensblog.ch/sinn-in-der-arbeit-finden/). 
 
 #### Nur beginnen reicht nicht
 
