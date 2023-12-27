@@ -18,7 +18,7 @@ Ziel der Werbung ist, uns ein schlechtes Gefühl zu machen. Werbung zeigt uns, w
 
 #### Wir lassen uns verarschen
 
-Was wäre, wenn wir einfach gut sind, wie wir sind. Was wäre, wenn wir uns (mehr) akzeptieren würden? Was würde passieren, wenn wir einen Gang (oder noch einen mehr) zurückschalten würden? Was würde passieren, wenn wir uns auf das konzentrieren, was da ist? Den Fokus auf das lenken, dass gut ist? Ja, ich weiss, auch daraus ist eine Industrie entstanden, die u. a. gerne McMindfulness genannt wird. Die Grenzen zwischen den guten und schlechten Ansätzen sind oft fliessend und schwer erkennbar. Wobei schnelle Lösungsversprechen selten hilfreich und nachhaltig sind. Davon lassen wir uns aber gerne verarschen.
+Was wäre, wenn wir einfach gut sind, wie wir sind. Was wäre, wenn wir uns (mehr) akzeptieren würden? Was würde passieren, wenn wir einen Gang (oder noch einen mehr) zurückschalten würden? Was würde passieren, wenn wir uns auf das konzentrieren, was da ist? Den Fokus auf die Dinge lenken, die gut sind? Ja, ich weiss, auch daraus ist eine Industrie entstanden, die u. a. gerne McMindfulness genannt wird. Die Grenzen zwischen den guten und schlechten Ansätzen sind oft fliessend und schwer erkennbar. Wobei schnelle Lösungsversprechen selten hilfreich und nachhaltig sind. Davon lassen wir uns aber gerne verarschen.
 
 #### Wirkliche Veränderungen
 
@@ -40,7 +40,7 @@ Auf dem Weg zu meiner Magie machte ich mich selbstständig. Mir war sehr bewusst
 
 Uns so, wie sie das hier beschreiben, habe ich das erlebt. So habe ich einen Weg gefunden, mich wieder mehr in meine Komfortzone zu bewegen. Ich bin wieder angestellt. Dort habe ich immer noch genügend Raum für Entwicklung, Veränderung und, das ist das Wichtigste, ich kann meine Stärken einsetzen, ich fühle mich kompetent, ich kann lernen (ohne das mein Hirn immer im Alarmmodus ist) und ich habe wieder Zeit und Energie für andere Menschen. 
 
-Diesen oben erwähnten Linkedin-Post habe ich gestern bereits im Blogbeitrag [Im Hier und Jetzt](https://www.bensblog.ch/im-hier-und-jetzt/) erwähnt. Für mich bringt er so viel Wichtiges auf den Punkt. Gleichzeitig hat mich die [Initiative von Slow-Learning](https://www.slow-learning.com) inspiriert oder unterstreicht meine tief verankerte Überzeugung. Wir dürfen uns langsam und beständig «verändern» resp. dürfen langsam(er) (und tief) lernen, wir können und dürfen schwierige, anspruchsvolle oder auch langweilige Situationen und Lebensphasen aushalten.
+Diesen oben erwähnten Linkedin-Post habe ich gestern bereits im Blogbeitrag [Im Hier und Jetzt](https://www.bensblog.ch/im-hier-und-jetzt/) erwähnt. Für mich bringt er so viel Wichtiges auf den Punkt. Gleichzeitig hat mich die [Initiative von Slow-Learning](https://www.slow-learning.com) inspiriert oder unterstreicht meine tief verankerte Überzeugung. Wir dürfen uns langsam und beständig «verändern» resp. dürfen langsam(er) (und tief) lernen, wir können und dürfen schwierige, anspruchsvolle oder auch langweilige Situationen und Lebensphasen aushalten. Aber, auch das ist (und bleibt wohl) ein Lernfeld für mich. 
 
 #### Slow down Inspiration
 
