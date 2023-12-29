@@ -36,7 +36,7 @@ Hier kommt mir ein anderes Beispiel in den Sinn, das mich eine Weile beschäftig
 
 #### Selbst(er)kenntnis und Eigenverantwortung
 
-Viele Menschen habe sich von sich und ihren wirklichen Bedürfnissen entfremdet. Wir schauen gerne nach links und rechts, schauen, was die anderen tun und vergleichen uns. Selbsthilfe (-Podcasts, -Bücher, -Youtube-Videos etc.) gibt es tonnenweise. Mehr Erfolg, mehr Sinn, die Berufung, weniger Stress, ..., ja, für alles gibt es Lösungen und jede scheint die Richtige zu sein. Es geht wohl eher um Selbstoptimierung (um mehr vom Ich) als um etwas anderes. Vieles davon ist zukunftsorientiert. Wie wäre es aber, mehr im Jetzt zu sein? Wie wäre es, sich selbst zu begegnen? Wie wäre es, freundlich mit sich selbst umzugehen? Wie wäre es, achtsam(er) zu sein? 
+Viele Menschen haben sich von sich und ihren wirklichen Bedürfnissen entfremdet. Wir schauen gerne nach links und rechts, schauen, was die anderen tun und vergleichen uns. Selbsthilfe (-Podcasts, -Bücher, -Youtube-Videos etc.) gibt es tonnenweise. Mehr Erfolg, mehr Sinn, die Berufung, weniger Stress, ..., ja, für alles gibt es Lösungen und jede scheint die Richtige zu sein. Es geht wohl eher um Selbstoptimierung (um mehr vom Ich) als um etwas anderes. Vieles davon ist zukunftsorientiert. Wie wäre es aber, mehr im Jetzt zu sein? Wie wäre es, sich selbst zu begegnen? Wie wäre es, freundlich mit sich selbst umzugehen? Wie wäre es, achtsam(er) zu sein? 
 
 #### Noch ein paar Ergänzungen
 
