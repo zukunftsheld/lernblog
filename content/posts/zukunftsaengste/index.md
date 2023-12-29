@@ -18,7 +18,7 @@ Es ist offensichtlich. Die Welt ist schlecht und die Menschen auch. Wenn sie nic
 
 #### So einfach ist es nicht
 
-Bei all den negativen Nachrichten scheint es, als gäbe es nicht (mehr) viel Gutes. Ach, in der Einleitung hätte noch Corona oder Klimakrise stehen können oder sollen. Die Zukunft sieht düster aus. Das heisst aber auch, dass ich mich am aussen orientiere, an dem, was ich kaum beeinflussen kann und somit die vielen Möglichkeiten verpasse. Möglichkeiten, Gutes zu tun. Möglichkeiten, die Welt zu verändern. 
+Bei all den negativen Nachrichten scheint es, als gäbe es nicht (mehr) viel Gutes. Ach, in der Einleitung hätte noch Corona oder Klimakrise stehen können oder sollen. Die Zukunft sieht düster aus. Das heisst aber auch, dass ich mich am Aussen orientiere, an dem, was ich kaum beeinflussen kann und somit die vielen Möglichkeiten verpasse. Möglichkeiten, Gutes zu tun. Möglichkeiten, die Welt zu verändern. 
 
 #### Die Welt verändern?
 
@@ -32,7 +32,7 @@ Das würden wir wohl oft hören, wenn wir darüber sprechen, wie eine Person den
 
 Da kommt mir immer wieder der Applaus für die Pflegekräfte in den Sinn (und, es gäbe noch viele andere Beispiele), die zwar gut gemeint sind, aber halt nicht viel bewirken (oder, sind wir ehrlich, nichts bewirken). Man tut lieber, was die anderen tun, postet es auf Insta, Linkedin, in die Whatsapp Story oder wo auch immer und erntet selbst Likes dafür. Der Aufwand hält sich oft in Grenzen, dafür ist die erhaltene Aufmerksamkeit umso grösser. 
 
-Hier kommt mir ein anderes Beispiel in den Sinn, das mich eine Weile beschäftigt. Während der Fussball WM in Katar wurde das japanische Team so gelobt, weil es die Garderobe sauber und aufgeräumt verlassen hat, die japanischen Fans wurden gefeiert, weil sie die Tribüne aufräumten, der japanische Trainer, weil er sich verbeugte. Das sind zwar in einer Welt, in der eben vieles nicht so schön oder freundlich aussieht, schöne Beispiele. Was der Preis dafür ist, das wird in unserer individualisierten Gesellschaft ignoriert. Es würde sich (immer) auch lohnen, hinter die Fassade einer Kultur (oder die Zusammenhänge) zu blicken. Ich möchte mich diesen komplexen Gesellschafts- und Hierarchieregeln in Japan auf jeden Fall nicht «beugen» müssen. (Dann wären noch Arbeitsbedingungen, Gleichstellung, ... .)
+Hier kommt mir ein anderes Beispiel in den Sinn, das mich eine Weile beschäftigt. Während der Fussball WM in Katar wurde das japanische Team so gelobt, weil es die Garderobe sauber und aufgeräumt verlassen hat, die japanischen Fans wurden gefeiert, weil sie die Tribüne aufräumten, der japanische Trainer, weil er sich verbeugte. Das sind zwar in einer Welt, in der eben vieles nicht so schön oder freundlich aussieht, schöne Beispiele. Was der Preis dafür ist, das wird in unserer individualisierten Gesellschaft ignoriert. Es würde sich (immer) auch lohnen, hinter die Fassade einer Kultur (oder die Zusammenhänge) zu blicken. Ich möchte mich diesen komplexen Gesellschafts- und Hierarchieregeln in Japan auf jeden Fall nicht «beugen» müssen. (Dann wären in diesem Land auch noch Arbeitsbedingungen, Gleichstellungsthemen, ... . Es ist halt meistens alles etwas komplexer als auf den ersten Blick.)
 
 #### Selbst(er)kenntnis und Eigenverantwortung
 
