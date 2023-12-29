@@ -40,15 +40,15 @@ Viele Menschen haben sich von sich und ihren wirklichen Bedürfnissen entfremdet
 
 #### Noch ein paar Ergänzungen
 
-Währen des Schreibens sind mir immer wieder Aussagen aus Büchern durch den Kopf gegangen. Zuerst wollte ich die in den Text integieren, aber jetzt erägänze ich sie einfach hier mit je einem persönlichen Kommentar. 
+Währen des Schreibens sind mir immer wieder Aussagen aus Büchern durch den Kopf gegangen. Zuerst wollte ich die in den Text integieren, aber jetzt ergänze ich sie einfach hier mit je einem persönlichen Kommentar. 
 
 **«Ich bin nicht allmächtig. Ich bin nicht ohnmächtig. Ich bin partiell mächtig.» Ruth C. Cohn**
 
-*Oft meinen wir vielleicht, angesichts all dieser Herausforderungen (bereits denen im "ganz normalen" Leben) und Krisen, ohnmächtig zu sein. Was können wir schon ausrichten? Wir sind weder allmächtig noch ohnmächtig, wir können etwas bewirken oder verändern und sei es auch nur darin, die Situation vorerst «nur» zu erkennen und zu akzeptieren, wie sie ist.* 
+*Oft meinen wir vielleicht, angesichts all dieser Herausforderungen (bereits denen im "ganz normalen" Leben) und Krisen ohnmächtig zu sein. Was können wir schon ausrichten? Wir sind weder allmächtig noch ohnmächtig, wir können etwas bewirken oder verändern und sei es auch nur darin, die Situation vorerst «nur» zu erkennen und zu akzeptieren, wie sie ist.* 
 
 **«Ich kümmere mich um meine Angelegenheit, ich bin ich; Du kümmerst Dich um Deine, Du bist Du. Die Welt ist unsere Aufgabe; sie entspricht nicht unseren Erwartungen. Doch wenn wir uns um sie kümmern, wird sie sehr schön sein, wenn nicht, wird sie nicht sein.»** Ruth C. Cohn
 
-*Passen Individualität und Gemeinschaft zusammen? Oft scheint es mir, dass es entweder das eine oder das andere sein muss. Wir können (dürfen, sollen) aber uns selbst sein, auf unsere eigenen Bedürfnisse achten und die Verantwortung für uns selbst übernehmen. So ist für jeden gesorgt und zusammen können wir unsere Welt und die Zukunft gestalten. Wenn wir eine schöne Welt wollen, dann müssen wir uns um sie kümmern, gemeinsam. Es geht nicht darum eine perfekte Welt zu schaffen, sondern eine, auf der wir gerne Leben und eine, auf der auch unsere Enkelkinder noch gerne leben und auch leben können.* 
+Passen Individualität und Gemeinschaft zusammen? Oft scheint es mir, dass es entweder das eine oder das andere sein muss. Wir können (dürfen, sollen) aber uns selbst sein, auf unsere eigenen Bedürfnisse achten und die Verantwortung für uns selbst übernehmen. So ist für jeden gesorgt und zusammen können wir unsere Welt und die Zukunft gestalten. Wenn wir eine schöne Welt wollen, dann müssen wir uns um sie kümmern. Gemeinsam. Es geht nicht darum, eine perfekte Welt zu schaffen, sondern eine, auf der wir gerne leben und eine, auf der auch unsere Enkelkinder noch gerne leben und auch leben können.
 
 **«Eine Gruppe wird nicht dadurch gestärkt, dass Personen ihre Individualität aufgeben, sondern dadurch, dass diese sich in der jeweiligen Gemeinschaft aktualisieren. Jeder Mensch verwirklicht sich in der Beziehung zu den anderen und in der Zuwendung zur Aufgabe.»** Ruth C. Cohn
 
@@ -56,7 +56,7 @@ Währen des Schreibens sind mir immer wieder Aussagen aus Büchern durch den Kop
 
 **«Ich möchte Menschen, die all dieses Leid nicht wollen, ermutigen, nicht zu resignieren und sich ohnmächtig zu fühlen, sondern ihre Vorstellungskräfte und Handlungsvermögen einzusetzen, um sich solidarisch zu erklären und zu verhalten, solange wir selbst noch autonome Kräfte in uns spüren. - Das  ist das Eigentliche, was ich mit TZI möchte.»** Ruth C. Cohn
 
-*Diese Aussage finde ich (gerade in dieser von Krisen geprägten Zeit) ganz wichtig. Können wir uns die Welt vorstellen, in der wir leben möchten? Wir können darauf hinarbeiten und das einsetzen, was wir können, egal wie klein es ist. Wichtig ist, nicht aufzugeben und die Hoffnung nicht zu verlieren. Die Verantwortung für sich selbst übernehmen, zu sich schauen und sich solidarisch zu verhalten schliessen sich nicht aus.* 
+*Diese Aussage finde ich (gerade in dieser von Krisen geprägten Zeit) ganz wichtig. Können wir uns die Welt vorstellen, in der wir leben möchten? Wir können darauf hinarbeiten und das einsetzen, was wir können, egal wie klein es ist. Wichtig ist, nicht aufzugeben und die Hoffnung nicht zu verlieren. Die Verantwortung für sich selbst übernehmen, zu sich schauen und sich solidarisch zu verhalten, schliessen sich nicht aus.* 
 
 **«Zwischen Reiz und Reaktion liegt ein Raum. In diesem Raum liegt unsere Macht zur Wahl unserer Reaktion. In unserer Reaktion liegen unsere Entwicklung und unsere Freiheit.»** Viktor E. Frankl
 
@@ -64,7 +64,7 @@ Währen des Schreibens sind mir immer wieder Aussagen aus Büchern durch den Kop
 
 **«Mensch-sein heisst bewusst-sein und Verantwortlich-sein.»** Viktor E. Frankl
 
-*Vielleicht fasst dieses Aussage das, was ich in diesem Beitrag sagen will, am besten zusammen. Wir sind verantwortlich für uns. Freiheit und Verantwortung gehören zusammen. Gerade jetzt sind wir aufgerufen, weg vom Autopiloten (auch, wenn der manchmal gut oder angenehm ist) hin zu einem bewussten Leben. Wenn ich mich und meine Umwelt bewusst(er) wahrnehme, wenn ich Verantwortung für mich und mein Handeln übernehme, wenn ich mich als Gestalter wahrnehmen kann und weiss, dass ich ein Teil von allem bin, dann spüre ich (hoffentlich) diese, wie in der Aussage von Ruth C. Cohn, partielle Mächtigkeit.* 
+*Vielleicht fasst diese Aussage das, was ich in diesem Beitrag sagen will, am besten zusammen. Wir sind verantwortlich für uns. Freiheit und Verantwortung gehören zusammen. Gerade jetzt sind wir aufgerufen, weg vom Autopiloten (auch, wenn der manchmal gut oder angenehm ist) hin zu einem bewussten Leben. Wenn ich mich und meine Umwelt bewusst(er) wahrnehme, wenn ich Verantwortung für mich und mein Handeln übernehme, wenn ich mich als Gestalter wahrnehmen kann und weiss, dass ich ein Teil von allem bin, dann spüre ich (hoffentlich) diese, wie in der Aussage von Ruth C. Cohn, partielle Mächtigkeit.* 
 
 **«Die Frage ist falsch gestellt, wenn wir nach dem Sinn des Lebens fragen. Das Leben ist es, das Fragen stellt.»** Viktor E. Frankl
 
