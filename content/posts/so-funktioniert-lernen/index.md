@@ -1,7 +1,7 @@
 +++
 title = "Lerne! So gehts. "
 date = "2022-11-23"
-draft = false
+draft = true
 pinned = false
 tags = ["Lernen"]
 image = "board-928390_640.jpg"
