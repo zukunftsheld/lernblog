@@ -1,7 +1,7 @@
 +++
 title = "Menschen entwickeln"
 date = "2022-11-21"
-draft = false
+draft = true
 pinned = false
 tags = ["Gedanken", "Coaching", "Leadership", "Lernen"]
 image = "bildschirmfoto-2022-11-21-um-13.38.35.png"
@@ -10,7 +10,7 @@ footnotes = "Auch dieser Text ist unfertig und «nur» ein Denkanreiz. Denn nat�
 +++
 ### Kann man Menschen entwickeln?
 
-Dazu habe ich heute ein paar Gedanken. Ich bin ein starker Kritiker von all diesen Entwicklungsangeboten, die eine schnelle Lösung versprechen. Natürlich ist nichts daran auszusetzen, wenn etwas schnell die gewünschte Wirkung erzielt. Aber bei menschlichen Veränderungs- und Entwicklungsprozessen ist das selten der Fall. Nicht nur bei kurzfristigen Veränderungen sondern auch in längeren Prozessen möchten wir Menschen gerne entwickeln. Wenn wir Menschen entwickeln, dann verändern wir sie doch auch? Sind wir aber in der Lage, Menschen zu verändern? Ich denke nicht. Natürlich könnte oder müsste ich hier eigentlich Literatur und theoretische Ansätze beiziehen, um das zu unterstreichen und zu prüfen. Weil dieser Blog aber keine vertiefte Arbeit werden soll und weil es eher als Denkanreiz gedacht ist, muss es auch ohne gehen.
+Kann man Menschen entwickeln und kann man das schnell? Dazu habe ich heute ein paar Gedanken. Ich bin ein starker Kritiker von all diesen Entwicklungsangeboten, die eine schnelle Lösung versprechen. Natürlich ist nichts daran auszusetzen, wenn etwas schnell die gewünschte Wirkung erzielt. Aber bei menschlichen Veränderungs- und Entwicklungsprozessen sind schnelle Veränderungen selten der Fall. Nicht nur bei kurzfristigen Veränderungen sondern auch in längeren Prozessen möchte man «Menschen entwickeln». Wenn wir Menschen entwickeln, dann suggeriert das doch auch, dass wir sie aktiv verändern oder nicht? Sind wir aber in der Lage, Menschen zu verändern? Ich denke nicht. Natürlich könnte oder müsste ich hier eigentlich Literatur und theoretische Ansätze beiziehen, um das zu unterstreichen und zu prüfen. Weil dieser Beitrag jedoch keine vertiefte Arbeit werden soll und weil es eher als Denkanreiz gedacht ist, muss es auch ohne gehen.
 
 Trotzdem: Falls es dich interessiert, hier ein paar Ansätze, die meine Gedanken begleiten (sich vielleicht manchmal auch etwas widersprechen)
 
