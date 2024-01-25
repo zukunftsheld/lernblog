@@ -10,8 +10,6 @@ footnotes = "[Future Skills, 30 Zukunftsentscheidende Kompetenzen und wie wir si
 +++
 ## Navigieren im Wandel - Gedanken über Selbstführung, Teamdynamik und Anpassungsfähigkeit
 
-
-
 **Leadership:** *englisch, Führung; Gesamtheit der Führungsqualitäten*. So steht es bei Duden.de. 
 
 Bei Wikipedia habe ich unter Menschenführung etwa 20! unterschiedliche Führungsstile gefunden. Während ich schreibe, stehen hinter mir zudem etliche Bücher zu Führung. Aber, was ist gute oder richtige Führung? 
@@ -26,7 +24,7 @@ Gute Führung beginnt bei Selbstführung. Führungskräfte, die sich selbst, ihr
 >
 > *Future Skills, Abschnitt New Work und Future Skills, 21 Thesen und 21 Impulse für die neue Büro- und Arbeitswelt, C. Quarch, J. Teunen (2021), Impuls 7*
 
-### Individuum
+### Individuelle Führung 
 
 Wer im Team tickt wie? Wer hat welche Stärken und Schwächen? Wohin will und kann sich ein:e Mitarbeiter:in bewegen? Das sind nur ein paar Fragen, die eine kompetente Führungskraft auf dem Schirm haben sollte. Um das Bild etwas konkreter zu zeichnen, könnte man auf einen Fussballtrainer oder auf einen Bergführer schauen. Sowohl ein Trainer wie auch ein Bergführer begleitet eine Gruppe von Individuen auf dem Weg zum Ziel. Jede:r ist für sich selbst verantwortlich und «muss» am Ende selbst ans «Ziel» kommen. Das klappt jedoch nur zusammen, mit gegenseitiger Unterstützung und in der richtigen Balance. Dafür ist der/die Bergführer:in, Fussballtrainer:in oder eben die Führungskraft zuständig.  
 
@@ -34,7 +32,7 @@ Wer im Team tickt wie? Wer hat welche Stärken und Schwächen? Wohin will und ka
 >
 > *Future Skills, Abschnitt New Work und Future Skills, 21 Thesen und 21 Impulse für die neue Büro- und Arbeitswelt, C. Quarch, J. Teunen (2021), S. 45, Impuls 12*
 
-### Gruppe
+### Teamführung
 
 Einer guten Führungskraft gelingt es, mit den Menschen, mit denen sie zusammenarbeitet, ein Team zu bilden. Also eine Gruppe, die gemeinsam ein Ziel verfolgt, die sich gegenseitig unterstützt und ergänzt. Dabei geht es nicht darum, dass die Führungsperson alles formt und organisiert. Vielmehr schafft sie den Rahmen und ist dort zur Stelle, wo es Führung braucht. Auch hier könnten wir wieder die Bilder der Fussballmannschaft oder des Bergführers bemühen. Beide haben eine Aussensicht, also etwas Distanz zur Gruppe und doch sind sie ein Teil davon. Sie tragen Verantwortung für den Prozess und dafür, dass alle gemeinsam auf dem Weg bleiben.
 
