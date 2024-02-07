@@ -49,10 +49,6 @@ Wer mich etwas besser kennt weiss, dass ich oft Dinge und Themen hinterfrage. Ik
 
 [Steven C. Hayes](https://stevenchayes.com/about/) weiss wie es ist, Angst- und Panikattacken zu haben. In diesem neuen Buch gibt es Einblicke in die ACT, in die Biografie und die Forschung von Steven C. Hayes und vor allem konkrete Anleitungen, wie wir trotz Angst, Unsicherheit und den alltäglichen Katastrophen des Lebens ein erfülltes Leben führen können. {{</box>}}
 
-
-
-{{</box>}}
-
 {{<box title="Zeiten der Entscheidung, Ermutigungen, Viktor E. Frankl, Elisabeth Lukas">}}
 
 ![](img_6841.jpg)
