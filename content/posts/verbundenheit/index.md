@@ -6,11 +6,13 @@ pinned = false
 tags = ["Organisationsentwicklung", "Leadership", "Gesundheit", "Persönlichkeitsentwicklung", "Verbundenheit"]
 image = "verbundenheit.jpg"
 description = "Wir leben in einer stark vernetzten Welt. Trotzdem oder vielleicht gerade deswegen fehlt es an vielen Orten an Verbundenheit. Menschen sind zwar verbunden oder eher digital vernetzt, aber sind sie wirklich mit anderen in Verbindung?"
-footnotes = "📺Passende zu Verbundenheit und deren Auswirkung auf unsere Gesundheit ist auch die Folge von Sternstunde Philosophie auf SRF mit [Thomas Fuchs – Macht uns die Gesellschaft krank?](https://www.srf.ch/play/tv/sternstunde-philosophie/video/thomas-fuchs---macht-uns-die-gesellschaft-krank?urn=urn:srf:video:381af386-15cb-4b65-8c9d-d56dfa0a3d6a)\n\n**Bücher:**\n\n📕[Mindful Leadership, Die 7 Prinzipien achtsamer Führung von Marc Lesser ](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/marc-lesser/mindful-leadership-die-7-prinzipien-achtsamer-fuehrung/id/9783867812740/)\n\n📕[Das neue Führen, Führen und sich führen lassen in Zeiten der Unvorhersehbarkeit von Bodo Janssen](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/bodo-janssen/das-neue-fuehren/id/9783424202854/)\n\n📕[Psychologie des Lebenssinns, Tatjana Schnell ](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/tatjana-schnell/psychologie-des-lebenssinns/id/9783662611197/)\n\n💻[Zum Dossier über Einsamkeit bei Pro Mente Sana gehts hier. ](https://promentesana.ch/angebote/anzeichen-erkennen/dossier-einsamkeit)"
+footnotes = "📺Passende zu Verbundenheit und deren Auswirkung auf unsere Gesundheit ist auch die Folge von Sternstunde Philosophie auf SRF mit [Thomas Fuchs – Macht uns die Gesellschaft krank?](https://www.srf.ch/play/tv/sternstunde-philosophie/video/thomas-fuchs---macht-uns-die-gesellschaft-krank?urn=urn:srf:video:381af386-15cb-4b65-8c9d-d56dfa0a3d6a)\n\n**Bücher:**\n\n📕[Mindful Leadership, Die 7 Prinzipien achtsamer Führung von Marc Lesser ](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/marc-lesser/mindful-leadership-die-7-prinzipien-achtsamer-fuehrung/id/9783867812740/)\n\n📕[Das neue Führen, Führen und sich führen lassen in Zeiten der Unvorhersehbarkeit von Bodo Janssen](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/bodo-janssen/das-neue-fuehren/id/9783424202854/)\n\n📕[Wofür stehen Sie morgens auf? Warum Sinn und Bedeutung für unsere Gesundheit wichtig sind von Prof. Dr.  Tobias Esch](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/tobias-esch/wofuer-stehen-sie-morgens-auf/id/9783833887611/)\n\n📕[Psychologie des Lebenssinns, Tatjana Schnell ](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/tatjana-schnell/psychologie-des-lebenssinns/id/9783662611197/)\n\n💻[Zum Dossier über Einsamkeit bei Pro Mente Sana gehts hier. ](https://promentesana.ch/angebote/anzeichen-erkennen/dossier-einsamkeit)"
 +++
 # Verbundenheit – ein Anker in unsicheren Zeiten 
 
 Wir leben in einer stark vernetzten Welt. Trotzdem oder vielleicht gerade deswegen fehlt es an vielen Orten an (wirklicher) Verbundenheit. Menschen sind zwar verbunden oder eher digital vernetzt, aber sind sie wirklich mit anderen in Verbindung? 
+
+![](verbundenheit.jpg)
 
 ## Wie komme ich auf dieses Thema? 
 
@@ -48,11 +50,19 @@ Verbundenheit hat eine Auswirkung auf unsere Gesundheit, auf unsere Art der Zusa
 
 ## Gesundheit
 
-Verbundenheit oder abgetrennt zu sein, sich einsam zu fühlen, hat einen Einfluss auf unsere Gesundheit. Fühlen wir uns aufgehoben und wahrgenommen, wird es uns besser gehen, als wenn wir uns nicht zugehörig und abgetrennt von anderen fühlen. In einem [Interview vom 10.12.2020](https://engagement.migros.ch/de/news-projekte/gesundheitsfoerderung/einsamkeit) sagte der Geschäftsführer von Pro Mente Sana, Roger Staub: «Einsam zu sein ist so schlecht für die Gesundheit wie Alkohol, Rauchen und Übergewicht kombiniert.». Diese Einsamkeit kann uns alle betreffen. Auch Prof. Dr. Tobias Esch sagte in einem [Interview](https://www.wienerstaedtische.at/impuls-wissen/#!/de/t4P7xXuc/fehlende-verbundenheit-ist-so-schaedlich-wie/) «Unverbundenheit wirkt auf die Gesundheit so schädlich wie Rauchen.».
+Verbundenheit oder abgetrennt zu sein, sich einsam zu fühlen, hat einen Einfluss auf unsere Gesundheit. Fühlen wir uns aufgehoben und wahrgenommen, wird es uns besser gehen, als wenn wir uns nicht zugehörig und abgetrennt von anderen fühlen. In einem [Interview vom 10.12.2020](https://engagement.migros.ch/de/news-projekte/gesundheitsfoerderung/einsamkeit) sagte der Geschäftsführer von Pro Mente Sana, Roger Staub: «Einsam zu sein ist so schlecht für die Gesundheit wie Alkohol, Rauchen und Übergewicht kombiniert.». Diese Einsamkeit kann uns alle betreffen. Auch Prof. Dr. Tobias Esch sagte in einem [Interview](https://www.wienerstaedtische.at/impuls-wissen/#!/de/t4P7xXuc/fehlende-verbundenheit-ist-so-schaedlich-wie/) «Unverbundenheit wirkt auf die Gesundheit so schädlich wie Rauchen.». Die Liste von negativen Auswirkungen könnte noch mit vielen weiteren Auswirkungen ergänzt werden. 
 
 Durch die Verbindung zu anderen Menschen, durch die echte Verbundenheit können wir also etwas für unsere Gesundheit tun. Nicht nur für unsere, sondern auch für die der anderen. 
 
 Es geht also darum, unsere Beziehungen aktiv zu gestalten. Das beginnt oft bei uns selbst, mit der Beziehung zu uns. Bei der Verbundenheit geht es jedoch nicht nur um die direkte Beziehung, sondern auch darum, sich zugehörig zu fühlen, in eine Gemeinschaft eingebettet zu sein. 
+
+#### Diese (und weitere) positiven Auswirkungen kann das Gefühl der Verbundenheit haben:
+
+* Verbesserte Reaktion auf Stress sowie minimierte negative Auswirkungen von Stress auf die Gesundheit.
+* Effektivere Behandlung von Bluthochdruck und Diabetes.
+* Wer ein ausgeprägtes Gefühl der Zugehörigkeit zu einer Gemeinschaft hat, gibt mit 2.6-facher Wahrscheinlichkeit an, einen guten oder ausgezeichneten Gesundheitszustand zu haben als Menschen, die sich nicht zugehörig fühlen. 
+
+Quelle: Wofür stehen Sie morgens auf? Warum Sinn und Bedeutung entscheidend für unsere Gesundheit sind (2023),  Esch T., S. 164 (Auf dieser Seite findet sich auch die Liste mit negativen Auswirkungen von fehlendem Zugehörigkeitsgefühl)
 
 ## (Zusammen-) Arbeit
 
