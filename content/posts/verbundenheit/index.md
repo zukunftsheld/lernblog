@@ -3,6 +3,8 @@ title = "Verbundenheit – ein Anker in unsicheren Zeiten "
 date = "2024-02-15"
 draft = true
 pinned = false
+image = "verbundenheit.jpg"
+description = "Wir leben in einer stark vernetzten Welt. Trotzdem oder vielleicht gerade deswegen fehlt es an vielen Orten an Verbundenheit. Menschen sind zwar verbunden oder eher digital vernetzt, aber sind sie wirklich mit anderen in Verbindung?"
 footnotes = "Passende zu Verbundenheit und der Auswirkung auf unsere Gesundheit auch die Folge von Sternstunde Philosophie auf SRF \n\nThomas Fuchs – Macht uns die Gesellschaft krank?\n\nhttps://www.srf.ch/play/tv/sternstunde-philosophie/video/thomas-fuchs---macht-uns-die-gesellschaft-krank?urn=urn:srf:video:381af386-15cb-4b65-8c9d-d56dfa0a3d6a\n\nBücher:\n\nMindful Leadership, Die 7 Prinzipien achtsamer Führung von Marc Lesser \n\n<https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/marc-lesser/mindful-leadership-die-7-prinzipien-achtsamer-fuehrung/id/9783867812740/>\n\nDas neue Führen, Führen und sich führen lassen in Zeiten der Unvorhersehbarkeit von Bodo Janssen\n\n<https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/bodo-janssen/das-neue-fuehren/id/9783424202854/sternstunde>\n\nPsychologie des Lebenssinns, Tatjana Schnell \n\n<https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/tatjana-schnell/psychologie-des-lebenssinns/id/9783662611197/>"
 +++
 # Verbundenheit – ein Anker in unsicheren Zeiten 
