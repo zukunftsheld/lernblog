@@ -12,7 +12,7 @@ footnotes = "Passend dazu auch der [Film «Die stille Revolution»](https://www.
 
 ### Worum gehts?
 
-[Bodo Janssen](https://www.ndr.de/geschichte/koepfe/14-Juni-1998-Entfuehrungsopfer-Bodo-Janssen-wird-befreit,bodojanssen102.html)  übernahm nach dem Tod seines Vaters die Führung der [Hotelkette]([https://www.upstalsboom.de](https://www.upstalsboom.de/)). Von einem Tag auf den anderen «musste» er ein Unternehmen leiten. Kontrolle und Kennzahlen gaben ihm dabei in dieser Zeit Sicherheit. Das wiederum führte zu Frust und Unsicherheit bei den Mitarbeitenden. Nach einer Mitarbeitendenbefragung erhielt er katastrophale Ergebnisse, was ihn (nicht ganz direkt) zu einem Umdenken veranlasste. In seinem Buch «Das neue Führen» geht es nicht nur um Führung von anderen, sondern auch darum, sich führen zu lassen und sich selbst zu führen. 
+[Bodo Janssen](https://www.ndr.de/geschichte/koepfe/14-Juni-1998-Entfuehrungsopfer-Bodo-Janssen-wird-befreit,bodojanssen102.html)  übernahm nach dem Tod seines Vaters die Führung der [Hotelkette](https://www.upstalsboom.de/). Von einem Tag auf den anderen «musste» er ein Unternehmen leiten. Kontrolle und Kennzahlen gaben ihm dabei in dieser Zeit Sicherheit. Das wiederum führte zu Frust und Unsicherheit bei den Mitarbeitenden. Nach einer Mitarbeitendenbefragung erhielt er katastrophale Ergebnisse, was ihn (nicht ganz direkt) zu einem Umdenken veranlasste. In seinem Buch «Das neue Führen» geht es nicht nur um Führung von anderen, sondern auch darum, sich führen zu lassen und sich selbst zu führen. 
 
 ![](blue-gradient-christian-church-schedule-he-is-risen-easter-postcard.jpg)
 
