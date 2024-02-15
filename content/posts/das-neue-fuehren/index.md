@@ -4,7 +4,7 @@ date = "2024-02-15"
 draft = false
 pinned = false
 tags = ["Buch", "Leadership", "Personalentwicklung", "Organisationsentwicklung", "Gedanken"]
-image = "blue-gradient-christian-church-schedule-he-is-risen-easter-postcard.jpg"
+image = "das-neue-fu-hren_2024.jpg"
 description = "Einblick und Gedanken zum Buch «Das neue Führen» von Bodo Janssen. "
 footnotes = "Passend dazu auch der [Film «Die stille Revolution»]([https://www.die-stille-revolution.de](https://www.die-stille-revolution.de/)). Ein Film über den Kulturwandel in der Arbeitswelt.\n\nMahr dazu auch hier: [https://www.der-upstalsboom-weg.de](https://www.der-upstalsboom-weg.de/)\n\nPS: Das ist meine erste Buchrezension und ein Versuch. Nachdem ich in meinem ersten Podcastformat vor ein paar Jahren über Bücher erzählt habe und ich etliche positive Rückmeldungen erhielt, dachte ich mir schon lange, ich könnte doch auch einmal etwas schreiben. \n\nÜbrigens, ich werde für erwähnte Bücher und Verlinkungen nicht bezahlt."
 +++
