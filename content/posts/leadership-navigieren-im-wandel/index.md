@@ -6,7 +6,7 @@ pinned = false
 tags = ["Leadership", "Personalentwicklung", "Organisationsentwicklung"]
 image = "hiker-1984421_640.jpg"
 description = "Gute Führung beginnt bei Selbstführung. Führungskräfte, die sich selbst, ihre (Lern-, Arbeits- und Führungs-) Biografie kennen, haben ein breiteres und tieferes Handlungsspektrum. Sie entwickeln sich in ihrer Rolle bewusst und laufend weiter."
-footnotes = "[Future Skills, 30 Zukunftsentscheidende Kompetenzen und wie wir sie lernen können](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/69-co-creators/future-skills/id/9783800666355/)\n\nImage by [Andrew Martin](https://pixabay.com/users/aitoff-388338/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1984421) from [Pixabay](https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1984421)"
+footnotes = "📘[Future Skills, 30 Zukunftsentscheidende Kompetenzen und wie wir sie lernen können](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/69-co-creators/future-skills/id/9783800666355/)\n\nImage by [Andrew Martin](https://pixabay.com/users/aitoff-388338/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1984421) from [Pixabay](https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1984421)"
 +++
 ## Navigieren im Wandel - Gedanken über Selbstführung, Teamdynamik und Anpassungsfähigkeit
 
