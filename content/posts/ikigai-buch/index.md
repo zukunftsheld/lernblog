@@ -8,7 +8,9 @@ image = "ikigai-buch.jpg"
 description = "Ikigai, die japanische Lebenskunst. Einblicke in das Buch von Ken Mogi. "
 footnotes = "#### PS: Man sollte nicht alles glauben was man sieht\n\nUnd hier möchte ich noch meinem «Ärger» Raum geben. Das Venn-Diagramm hat, wie Ken Mogi es selbst sagt, nicht viel mit Ikigai zu tun. Wie dieses Venn-Diagram entstanden ist, findest du hier [Ikigai Misunderstood and the Origin of the Ikigai Venn Diagram](https://ikigaitribe.com/ikigai/ikigai-misunderstood/) und hier [Ikigai Psychologie und Spiritualität – die wahre Bedeutung entdecken.](https://finde-zukunft.de/blog/ikigai-psychologie-und-spiritualitaet) Ich sehe, wie Ikigai = Venn-Diagramm in (ganz neuen) Fachbüchern über Organisationsentwicklung abgebildet ist. Ich lese Posts von Menschen mit Dr. Titeln, von Menschen mit Hochschulabschlüssen und sie alle erklären, wie gut und wie japanisch dieses Ikigai ist. Wären es nicht gerade diese Menschen, die wissen sollten, wie man Quellen prüft und in der Verantwortung keinen «Scheiss» zu verbreiten? Klar, wir sind alle nur Menschen. So (einfach) verbreiten sich halt Fake-Infos. Hier ist's nicht schlimm und doch falsch. \n\nHinweis: Für erwähnte Bücher und Verlinkungen werde ich nicht bezahlt."
 +++
-# Ikigai - Die japanische Lebenskunst von Ken Mogi
+# Ikigai - Die japanische Lebenskunst 
+
+## Ein Buch von Ken Mogi
 
 Bevor ich das Buch Ikigai gelesen hatte, war mir das «Konzept» Ikigai, wie es bis heute immer wieder angepriesen wird, kaum bekannt. Wenn von Ikigai die Rede ist, dann meistens im Zusammenhang mit dem Venn-Diagram, welches nichts oder nur ganz wenig mit «der japanischen Lebenskunst» zu tun hat. Wer mehr dazu hören möchte, findet hier bei [Ken Mogi Gedanken](https://www.youtube.com/watch?v=a_2RIydy_NQ) dazu. 
 
