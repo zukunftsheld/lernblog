@@ -6,7 +6,7 @@ pinned = false
 tags = ["Buch", "Leadership", "Personalentwicklung", "Organisationsentwicklung", "Gedanken"]
 image = "das-neue-fu-hren_2024.jpg"
 description = "Einblick und Gedanken zum Buch «Das neue Führen» von Bodo Janssen. "
-footnotes = "Passend dazu auch der [Film «Die stille Revolution»](https://www.die-stille-revolution.de). Ein Film über den Kulturwandel in der Arbeitswelt.\n\nMahr dazu auch hier: [https://www.der-upstalsboom-weg.de](https://www.der-upstalsboom-weg.de/)\n\nPS: Das ist meine erste Buchrezension und ein Versuch. Nachdem ich in meinem ersten Podcastformat vor ein paar Jahren über Bücher erzählt habe und ich etliche positive Rückmeldungen erhielt, dachte ich mir schon lange, ich könnte doch auch einmal etwas schreiben. \n\nÜbrigens, ich werde für erwähnte Bücher und Verlinkungen nicht bezahlt."
+footnotes = "Passend dazu auch der 📺 [Film «Die stille Revolution»](https://www.die-stille-revolution.de). Ein Film über den Kulturwandel in der Arbeitswelt.\n\nMehr dazu auch hier: [https://www.der-upstalsboom-weg.de](https://www.der-upstalsboom-weg.de/)\n\nPS: Das ist meine erste Buchrezension und ein Versuch. Nachdem ich in meinem ersten Podcastformat vor ein paar Jahren über Bücher erzählt habe und ich etliche positive Rückmeldungen erhielt, dachte ich mir schon lange, ich könnte doch auch einmal etwas schreiben. \n\nÜbrigens, ich werde für erwähnte Bücher und Verlinkungen nicht bezahlt."
 +++
 # Das neue Führen - Führen und sich führen lassen, in Zeiten der Unvorhersehbarkeit
 
@@ -37,4 +37,4 @@ Dieses Buch bietet einen Einstieg oder auch konkrete Ideen, wie du als Führungs
 \
 Mir gefällt das Buch. Im ersten Teil geht es darum, ein Bewusstsein für das, was war und ist zu schaffen. Der zweite Teil handelt davon, Entschlüsse zu fassen und ins Handeln zu kommen. Durch die persönliche Sicht des Autors, die vielen Erfahrungen und Beispiele aus der Praxis werden die Gedanken greifbar. Viele Elemente in diesem Buch finden sich in ähnlicher Form in anderen Ansätzen (z. B. Sinntheorie Frankl, Mindful Leadership, Psychologische Sicherheit, …) wieder. Bodo Janssen und die Upstalsboom-Gruppe sind aus meiner Sicht absolute Vorreiter und Vorbilder für gesunde und zukunftsfähige Unternehmen.
 
-➡️[Hier gehts zum Buch bei exlibris.ch](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/bodo-janssen/das-neue-fuehren/id/9783424202854/)
+➡️[Hier gehts zum ](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/bodo-janssen/das-neue-fuehren/id/9783424202854/)[Buch bei exlibris.ch](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/bodo-janssen/das-neue-fuehren/id/9783424202854/)
