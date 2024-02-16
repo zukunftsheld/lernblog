@@ -81,7 +81,9 @@ In der Welt, in der wir leben, ist es für Unternehmen wesentlich, Möglichkeite
 Im fünften Prinzip von Mindful Leadership Was ich bei Google und in der Küche eines Zen-Klosters lernte, die 7 Prinzipien achtsamer Führung schreibt Marc Lesser: 
 
 > «Das fünfte Prinzip in diesem Buch könnte sehr wohl die wichtigste Kompetenz überhaupt sein \[…]. Schon oft habe ich den Wandel erlebt, der binnen kurzer Zeit stattfinden kann, wenn Menschen sich tief wahrnehmen und sich ihrer gemeinsamen Menschlichkeit öffnen \[…].»
->
+
+
+
 > «Wer sich seine Zukunftsfähigkeit bewahren will, wird um starke und sich tief verbundene Teams nicht herumkommen.» 
 >
 > *Das neue Führen (2023), Janssen B., S. 171* 
