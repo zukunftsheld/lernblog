@@ -1,8 +1,9 @@
 +++
-title = "Ikigai-Buch"
+title = "Ikigai - Das Buch von Ken Mogi"
 date = "2024-02-15"
 draft = true
 pinned = false
+tags = ["Persönlichkeitsentwicklung", "Sinn", "Ikigai", "Buch"]
 image = "ikigai-buch.jpg"
 description = "Ikigai, die japanische Lebenskunst. Einblicke in das Buch von Ken Mogi. "
 footnotes = "#### PS: Man sollte nicht alles glauben was man sieht\n\nUnd hier möchte ich noch meinem «Ärger» Raum geben. Das Venn-Diagramm hat, wie Ken Mogi es selbst sagt, nicht viel mit Ikigai zu tun. Wie dieses Venn-Diagram entstanden ist, findest du hier [Ikigai Misunderstood and the Origin of the Ikigai Venn Diagram](https://ikigaitribe.com/ikigai/ikigai-misunderstood/) und hier [Ikigai Psychologie und Spiritualität – die wahre Bedeutung entdecken.](https://finde-zukunft.de/blog/ikigai-psychologie-und-spiritualitaet) Ich sehe, wie Ikigai = Venn-Diagramm in (ganz neuen) Fachbüchern über Organisationsentwicklung abgebildet ist. Ich lese Posts von Menschen mit Dr. Titeln, von Menschen mit Hochschulabschlüssen und sie alle erklären, wie gut und wie japanisch dieses Ikigai ist. Wären es nicht gerade diese Menschen, die wissen sollten, wie man Quellen prüft und in der Verantwortung keinen «Scheiss» zu verbreiten? Klar, wir sind alle nur Menschen. So (einfach) verbreiten sich halt Fake-Infos. Hier ist's nicht schlimm und doch falsch."
@@ -29,7 +30,7 @@ Dabei ist wichtig, dass sie die Säulen nicht ausschliessen und keiner Reihenfol
 
 ### Die Geschiche von Shiro Ono
 
-Mir hat in diesem Buch besonders die Geschichte über den japanischen Sushi-Koch Shiro Ono ((Link Youtube)) gefallen. Shiro Ono war bei der Erscheinung des Buches 2017 mit 94 Jahren der älteste lebende 3 Sterne Koch. Der Autor beschreibt, wie Shiro Ono die Zutaten sorgfältig zubereitet, worauf er achtet und wo oder was sein Ikigai sein könnte. Es ist eines von vielen Beispielen in die Welt von Japaner:innen. 
+Mir hat in diesem Buch besonders die Geschichte über den [japanischen Sushi-Koch Shiro Ono](https://www.youtube.com/watch?v=8R02NE050Jk) gefallen. Shiro Ono war bei der Erscheinung des Buches 2017 mit 94 Jahren der älteste lebende 3 Sterne Koch. Der Autor beschreibt, wie Shiro Ono die Zutaten sorgfältig zubereitet, worauf er achtet und wo oder was sein Ikigai sein könnte. Es ist eines von vielen Beispielen in die Welt von Japaner:innen. 
 
 ### **Ikigai – der Schlüssel zu einem reichen und erfüllten Leben?**
 
