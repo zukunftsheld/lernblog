@@ -1,7 +1,7 @@
 +++
 title = "Verbundenheit – ein Anker in unsicheren Zeiten "
-date = "2024-02-15"
-draft = true
+date = "2024-02-16"
+draft = false
 pinned = false
 tags = ["Organisationsentwicklung", "Leadership", "Gesundheit", "Persönlichkeitsentwicklung", "Verbundenheit"]
 image = "verbundenheit.jpg"
