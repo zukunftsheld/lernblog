@@ -6,7 +6,7 @@ pinned = false
 tags = ["Organisationsentwicklung", "Personalentwicklung", "Leadership", "Coaching", "Changemanagement"]
 image = "_f8266b85-6d55-42a1-94e5-c02506f43037.jpeg"
 description = "Die Theorie U kenne ich aus der Theorie und hatte bisher nur bedingte Möglichkeiten, diese in der Praxis anzuwenden. In den letzten Wochen war ich bei drei Terminen einer «Case Clinic» dabei und konnte konkrete Erfahrungen sammeln. "
-footnotes = "Was für manche (auch) etwas esoterisch klingt, ist ein Tool aus der Theorie U. «Mit seiner Theorie U hat der deutsche MIT-Forscher und Berater Otto Scharmer eine Führungsmethode entworfen, die den Erfodernissen von Nachhaltigkeit und globaler Verantwortung im Management gerecht wird und die notwenigen Führungsinstrumente bereitstellt.» Scharmer O. (2020), Theorie U – Von der Zukunft her führen.\\\n\\\nWeitere Infos und den ausführlichen Ablauf gibt es zum Beispiel [hier](https://hr-pioneers.com/2021/08/tool-case-clinic/)\\\n\\\nBild erstellt mit Bing Image Creator, DALL-E 3"
+footnotes = "Was für manche (auch) etwas esoterisch klingt, ist ein Tool aus der Theorie U. «Mit seiner Theorie U hat der deutsche MIT-Forscher und Berater Otto Scharmer eine Führungsmethode entworfen, die den Erfodernissen von Nachhaltigkeit und globaler Verantwortung im Management gerecht wird und die notwenigen Führungsinstrumente bereitstellt.» Scharmer O. (2020), Theorie U – Von der Zukunft her führen.\\\n\\\n➡️Weitere Infos und den ausführlichen Ablauf gibt es zum Beispiel [hier](https://hr-pioneers.com/2021/08/tool-case-clinic/)\\\n\\\nBild erstellt mit Bing Image Creator, DALL-E 3"
 +++
 ### Case Clinic - Theorie U
 
