@@ -56,6 +56,8 @@ Ein relativ einfaches Modell zur Erhaltung der Gesundheit ist das [BERN-Konzept 
 
 
 
+
+
 Wenn wir auf diese vier Bereiche achten und sie aktiv pflegen, dann können wir positiv Einfluss auf die Erhaltung und auch Förderung unserer physischen und psychischen Gesundheit nehmen. 
 
 ### Ich ergänze zu den jeweiligen Überbegriffen noch eigene Ideen und Gedanken. 
