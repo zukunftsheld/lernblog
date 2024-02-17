@@ -8,7 +8,7 @@ image = "gesundheit_titel.jpg"
 description = "Wenn es um unsere Gesundheit geht, können wir vieles positiv beeinflussen. Das gilt für uns als Individuen sowie für Unternehmen, welche gesundheitserhaltende und gesundheitsfördernde Arbeitsbedingungen schaffen können. Beim der Erhaltung und Förderung der Gesundheit geht es also um eine geteilte Verantwortung. "
 footnotes = "**Buch**\n\n📕[Wofür stehen Sie morgens auf, Warum Sinn und Bedeutung entscheidend für unsere Gesundheit sind von Prof. Dr. Tobias Esch ](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/tobias-esch/wofuer-stehen-sie-morgens-auf/id/9783833887611/)\n\n🔗**Achtsamkeit/Meditation**\n\n<https://www.bensblog.ch/tags/achtsamkeit/>\n\n🔗**Selbstmanagement**\n\n<https://www.bensblog.ch/tags/selbstmanagement/>\n\nBilder: Ben Zaugg"
 +++
-# Gesundheitsförderung und Gesundheitserhaltung
+## Gesundheitsförderung und Gesundheitserhaltung
 
 Beginnen wir doch einmal bei der Definition von Gesundheit. Auf der Webseite des Bundes steht:  
 
@@ -53,8 +53,6 @@ Ein relativ einfaches Modell zur Erhaltung der Gesundheit ist das [BERN-Konzept 
 **N**utrition
 
 Wenn wir auf diese vier Bereiche achten und sie aktiv pflegen, dann können wir positiv Einfluss auf die Erhaltung und auch Förderung unserer physischen und psychischen Gesundheit nehmen. 
-
-
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vIebCGz9uf8?si=jnHulqSEjgiTzQY4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
