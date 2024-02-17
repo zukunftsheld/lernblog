@@ -52,13 +52,11 @@ Ein relativ einfaches Modell zur Erhaltung der Gesundheit ist das [BERN-Konzept 
 
 **N**utrition
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vIebCGz9uf8?si=jnHulqSEjgiTzQY4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-
-
-
-
 Wenn wir auf diese vier Bereiche achten und sie aktiv pflegen, dann können wir positiv Einfluss auf die Erhaltung und auch Förderung unserer physischen und psychischen Gesundheit nehmen. 
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vIebCGz9uf8?si=jnHulqSEjgiTzQY4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Ich ergänze zu den jeweiligen Überbegriffen noch eigene Ideen und Gedanken. 
 
