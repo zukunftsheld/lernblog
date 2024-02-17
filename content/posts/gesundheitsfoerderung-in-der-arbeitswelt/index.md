@@ -20,7 +20,7 @@ Beginnen wir doch einmal bei der Definition von Gesundheit. Auf der Webseite des
 
 Wenn wir von Gesundheit sprechen, dann geht es immer um die psychische und physische Gesundheit und die lassen sich kaum trennen. Natürlich werden diese auch heute  noch meistens voneinander getrennt betrachtet, auch wenn die Verbindung immer mehr in den Fokus rückt.
 
-![](gesundheit.jpg)
+![](gesundheit_2.jpg)
 
 ## Gesundheit und Gesundheitsförderung aus der Perspektive der Arbeitgebenden
 
