@@ -12,9 +12,9 @@ footnotes = "**Buch**\n\n📕[Wofür stehen Sie morgens auf, Warum Sinn und Bede
 
 Beginnen wir doch einmal bei der Definition von Gesundheit. Auf der Webseite des Bundes steht:  
 
-***Gesundheit** wird als wesentlicher Bestandteil des alltäglichen Lebens von Einzelpersonen, gesellschaftlichen Gruppen und der Gesamtbevölkerung verstanden. Die Weltgesundheitsorganisation WHO definiert Gesundheit als Zustand des vollständigen körperlichen, geistigen und sozialen Wohlbefindens.* 
+**\*Gesundheit** wird als wesentlicher Bestandteil des alltäglichen Lebens von Einzelpersonen, gesellschaftlichen Gruppen und der Gesamtbevölkerung verstanden. Die Weltgesundheitsorganisation WHO definiert Gesundheit als Zustand des vollständigen körperlichen, geistigen und sozialen Wohlbefindens.* 
 
-***Gesundheitsförderung** zielt gemäss der Weltgesundheitsorganisation WHO darauf ab, allen Menschen ein höheres Mass an Selbstbestimmung über ihre Gesundheit zu ermöglichen und sie damit zur Stärkung ihrer Gesundheit zu befähigen. Gesundheit steht damit für ein positives Konzept, das in gleicher Weise die Bedeutung sozialer und individueller Ressourcen für die Gesundheit betont wie auch die körperlichen Fähigkeiten.* 
+**\*Gesundheitsförderung** zielt gemäss der Weltgesundheitsorganisation WHO darauf ab, allen Menschen ein höheres Mass an Selbstbestimmung über ihre Gesundheit zu ermöglichen und sie damit zur Stärkung ihrer Gesundheit zu befähigen. Gesundheit steht damit für ein positives Konzept, das in gleicher Weise die Bedeutung sozialer und individueller Ressourcen für die Gesundheit betont wie auch die körperlichen Fähigkeiten.* 
 
 *Quelle: <https://www.edi.admin.ch/edi/de/home/themen/gesundheit-und-gesundheitsfoerderung.html>, aufgerufen am 17.02.2024*
 
@@ -53,6 +53,8 @@ Ein relativ einfaches Modell zur Erhaltung der Gesundheit ist das [BERN-Konzept 
 **N**utrition
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vIebCGz9uf8?si=jnHulqSEjgiTzQY4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 
 Wenn wir auf diese vier Bereiche achten und sie aktiv pflegen, dann können wir positiv Einfluss auf die Erhaltung und auch Förderung unserer physischen und psychischen Gesundheit nehmen. 
 
