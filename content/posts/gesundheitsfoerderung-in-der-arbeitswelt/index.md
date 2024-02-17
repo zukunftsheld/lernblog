@@ -24,13 +24,13 @@ Wenn wir von Gesundheit sprechen, dann geht es immer um die psychische und physi
 
 ## Gesundheit und Gesundheitsförderung aus der Perspektive der Arbeitgebenden
 
-Es ist wohl klar, dass Arbeitgeber:innen möglichst gesunde Mitarbeitende möchten. Wie gesund Mitarbeitende in Zukunft noch sein werden, lassen wir einmal offen. Denn schauen wir uns Zahlen auf Forschungen und Befragungen an, dann sind oder fühlen sich (sehr) viele Menschen psychisch belastet. 
+Es ist wohl klar, dass Arbeitgeber:innen möglichst gesunde Mitarbeitende möchten. Wie gesund Mitarbeitende in Zukunft noch sein werden, lassen wir einmal offen. Denn schauen wir uns Zahlen aus Forschungen und Befragungen an, dann sind oder fühlen sich (sehr) viele Menschen psychisch belastet, ausgelaugt und auch an körperlichen Beschwerden mangelt es nicht.
 
 Auf die Gesundheit der Arbeitnehmenden haben Unternehmen einen Teileinfluss. Sie können ihren Teil, also die gesundheitserhaltende- und gesundheitsförderliche Gestaltung der Arbeit aktiv gestalten. 
 
 Dabei ist oder wäre zu beachten, dass nicht alle Menschen die gleichen Bedürfnisse haben.
 
-Ich gehe hier nicht auf die konkreten [Gestaltungsmöglichkeiten](https://www.bensblog.ch/tags/organisationsentwicklung/) ein und zeige lediglich Bereiche, die einen Einfluss auf die Gesundheitserhaltung (da sprechen wir noch gar nicht von Förderung) haben. 
+Ich gehe hier nicht auf die konkreten Gestaltungsmöglichkeiten ein und zeige lediglich Bereiche, die einen Einfluss auf die Gesundheitserhaltung (da sprechen wir noch gar nicht von Förderung) haben. 
 
 * Arbeitsumgebung (Räumlichkeiten, Temperatur, Licht, Pflanzen, Ruhe, …)
 * Zusammenarbeit (Konflikte, Kommunikation, Vertrauen, Transparenz, …)
@@ -40,7 +40,7 @@ Ich gehe hier nicht auf die konkreten [Gestaltungsmöglichkeiten](https://www.be
 
 ## Gesundheit und Gesundheitsförderung aus der Perspektive der Arbeitnehmenden
 
-Menschen möchten in der Regel nicht krank sein oder sich krank fühlen. Das gilt sowohl für die Arbeit wie auch für den ganzen Rest des Lebens. In der Zeit, in der wir uns bewegen, sind die (gefühlten) Ansprüche an Menschen jedoch enorm hoch. Wer allen Ansprüchen gerecht werden will, läuft m. E. Gefahr krank zu werden. Menschen können selbst viel für ihre Gesundheit tun (auch wenn wir vieles nicht in der Hand haben) und dieses Privileg sowie diese Verantwortung sollte man auch wahrnehmen.
+Menschen möchten in der Regel nicht krank sein oder sich krank fühlen. Das gilt sowohl für die Arbeit wie auch für den ganzen Rest des Lebens. In der Zeit, in der wir uns bewegen, sind die (gefühlten) Ansprüche an Menschen jedoch enorm hoch. Wer allen Ansprüchen gerecht werden will, läuft m. E. Gefahr krank zu werden. Menschen können selbst viel für ihre Gesundheit tun (auch wenn wir vieles schlussendlich nicht in der Hand haben) und dieses Privileg sowie diese Verantwortung sollte man auch wahrnehmen.
 
 Ein relativ einfaches Modell zur Erhaltung der Gesundheit ist das [BERN-Konzept von Prof. Dr. Tobias Esch](https://www.uniambulanz-witten.de/gesundheit-nachhaltig-staerken/)
 
@@ -58,21 +58,21 @@ Wenn wir auf diese vier Bereiche achten und sie aktiv pflegen, dann können wir 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vIebCGz9uf8?si=jnHulqSEjgiTzQY4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-### Ich ergänze zu den jeweiligen Überbegriffen noch eigene Ideen und Gedanken. 
+### Ich ergänze zu den jeweiligen Überbegriffen noch eigene eigene Ideen und Gedanken. 
 
 #### Behavior/Verhalten
 
-Was stresst dich? Was tust du, von dem man weiss, dass es ungesund oder stressfördernd ist? Lass es sein, reduziere es und integriere ein stressreduzierenden und gesundheitserhaltenden und -fördernden Lebensstil. 
+Was stresst dich? Was tust du, von dem man weiss, dass es ungesund oder stressfördernd ist? Lass es sein oder reduziere es und integriere ein stressreduzierenden und gesundheitserhaltenden und -fördernden Lebensstil. Das braucht oft Zeit und ist nicht so einfach wie es klingt. Da können auch ganz individuelle Auslöser für Stress sein, die du noch gar nicht bewusst wahrgenommen hast. Es lohnt sich hinzusehen. 
 
 #### Excercise
 
-Wo ist Bewegung in deinem Leben und ist es der Stress und der Druck, der dich treibt, oder deine Lust und Freude? Integriere Bewegung in deinen Alltag. Das muss (zumindest zu Beginn), nicht allzu viel sein. Wichtig ist, dass du in Bewegung kommst. Am besten (so meine ich) gehst du gleich raus in die Natur. Denn die frische Luft wirkt gleich auch noch positiv auf dich. Du hast keine Zeit für Bewegung und erst nicht draussen? Dann ist das wohl ein Hinweis, etwas in deinem Leben zu verändern. 
+Wo ist Bewegung in deinem Leben? Ist es der Stress und der Druck, der dich treibt oder deine Lust und Freude? Integriere Bewegung in deinen Alltag. Das muss (zumindest zu Beginn), nicht allzu viel sein. Wichtig ist, dass du in Bewegung kommst. Am besten (so meine ich) gehst du gleich raus in die Natur. Denn die frische Luft wirkt gleich auch noch positiv auf dich. Du hast keine Zeit für Bewegung und erst recht nicht draussen? Dann ist das wohl ein Hinweis, etwas in deinem Leben zu verändern. 
 
-####  Relaxation
+#### Relaxation
 
-Die Entspannung, sie ist doch mittlerweile in aller Munde. Du musst nicht gleich zum Meditationsguru werden. Zeit mit dir zu verbringen ist bereits ein guter Anfang. Du könntet ein Glücks- oder Dankbarkeitstagebuch führen oder du beginnst den Tag mit dem Schreiben. Natürlich kannst du auch mit Meditation beginnen, Qi-Gong üben und vieles mehr. Ah, und übrigens, da gehört auch Schlaf dazu. Achte auf einen gesunden Schlaf (Dauer, Umgebung, …)
+Die Entspannung, sie ist doch mittlerweile in aller Munde. Du musst nicht gleich zum Meditationsguru werden. Zeit mit dir zu verbringen ist bereits ein guter Anfang. Du könntet ein Glücks- oder Dankbarkeitstagebuch führen oder du beginnst den Tag mit ein paar geschriebenen Worten. Natürlich kannst du auch mit Meditation beginnen, Qi-Gong üben und vieles mehr. Ah, und übrigens, da gehört auch Schlaf dazu. Achte auf einen gesunden Schlaf (Dauer, Umgebung, …).
 
-####  Nutrition
+#### Nutrition
 
 Ernähre dich gesund. Da schreibe ich nicht mehr dazu, weil unter gesund ja vieles verstanden wird und ich bin echt kein Experte. Worin ich als Genusstrainer jedoch ein Experte bin, ist der bewusste Genuss. Neben den gesunden Lebensmitteln ist auch der bewusste Genuss ein wesentlicher Faktor einer gesunden Ernährung. Das ist etwas, was man aktiv lernen und praktizieren kann. Es lohnt sich, versprochen. 
 
@@ -80,4 +80,4 @@ Ernähre dich gesund. Da schreibe ich nicht mehr dazu, weil unter gesund ja viel
 
 Bei der Gesundheitserhaltung und Gesundheitsförderung (von Arbeitnehmenden) geht es um eine geteilte Verantwortung. Es kann m. E. nur funktionieren, wenn beide Seiten ihren Teil aktiv, bewusst und ehrlich wahrnehmen. Ja, sich im Idealfall dabei sogar unterstützen. 
 
-Was hier geschrieben ist, kannst du aus welcher Perspektive auch immer als Inspiration nehmen. Es ist niemals abschliessend und aus keiner medizinischen Fachexpertise geschrieben. Wenn dich ein Bereich interessiert, dann vertiefst du dich am besten selbst in ein Thema. Dazu werde ich noch ein paar Bücher verlinken.
+Was hier geschrieben ist, kannst du aus welcher Perspektive auch immer als Inspiration nehmen. Es ist niemals abschliessend und aus keiner medizinischen Fachexpertise geschrieben. Wenn dich ein Bereich interessiert, dann vertiefst du dich am besten selbst in ein Thema.
