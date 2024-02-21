@@ -1,6 +1,6 @@
 +++
 title = "Das neue Führen – Buch von Bodo Janssen"
-date = "2024-02-15"
+date = "2023-11-17"
 draft = false
 pinned = false
 tags = ["Buch", "Leadership", "Personalentwicklung", "Organisationsentwicklung", "Gedanken"]
