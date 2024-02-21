@@ -1,6 +1,6 @@
 +++
 title = "Gesunde Organisationen - Menschen führen, Räume schaffen, Zukunft gestalten"
-date = "2023-12-04"
+date = "2023-11-21"
 draft = false
 pinned = false
 tags = ["Organisationsentwicklung", "Leadership"]
