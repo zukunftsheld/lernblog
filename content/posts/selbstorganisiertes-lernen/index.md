@@ -1,6 +1,6 @@
 +++
 title = "Selbstorganisiertes Lernen"
-date = "2023-11-12"
+date = "2023-09-09"
 draft = false
 pinned = false
 tags = ["Personalentwicklung", "Lernen", "Lernkultur", "Organisationsentwicklung", "Colearning"]
