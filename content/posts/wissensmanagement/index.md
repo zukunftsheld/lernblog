@@ -1,6 +1,6 @@
 +++
 title = "Wissensmanagement "
-date = "2023-11-05"
+date = "2023-10-14"
 draft = false
 pinned = false
 tags = ["Personalentwicklung", "CorporateLearning", "Organisationsentwicklung", "Lernen", "Bildung"]
