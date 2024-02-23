@@ -1,6 +1,6 @@
 +++
 title = "Individuelle Lernwege im Unternehmen"
-date = "2023-11-06"
+date = "2023-06-21"
 draft = false
 pinned = false
 tags = ["Personalentwicklung", "Lernen", "Lernkultur", "Organisationsentwicklung"]
