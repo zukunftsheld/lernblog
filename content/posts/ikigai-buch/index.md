@@ -1,6 +1,6 @@
 +++
 title = "Ikigai - Das Buch von Ken Mogi"
-date = "2023-10-28"
+date = "2023-07-12"
 draft = false
 pinned = false
 tags = ["Persönlichkeitsentwicklung", "Sinn", "Ikigai", "Buch"]
