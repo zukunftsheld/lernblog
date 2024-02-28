@@ -18,7 +18,6 @@ Vielleicht gibt es sogar mehrere Personen, die sich für ein identisches oder ä
 
 {{<box title="Beispiel Führungsentwicklung">}}
 
-#### 
 **Ein Führungs-Lern-Circle** 
 
 **Variante 1**
@@ -35,8 +34,7 @@ Vielleicht gibt es sogar mehrere Personen, die sich für ein identisches oder ä
 * Sie wählen als Gruppe selbst aus, was für sie im Moment relevant ist und welche Themen sie vertiefen möchten. 
 * Hier wäre (anstatt verschiedene Expert:innen) auch eine Person denkbar, die fix für Supervisionen da ist.
 
-Diese Beispiele lassen sich in etliche (fachliche und thematische) Richtungen erweitern und anpassen. 
-
+Diese Beispiele lassen sich in viele (fachliche und thematische) Richtungen erweitern und anpassen. 
 
 {{</box>}}
 
