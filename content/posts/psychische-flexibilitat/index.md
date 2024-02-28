@@ -17,7 +17,7 @@ In der von Leistung, Vergleichen und Schnelligkeit geprägten Welt sollten Probl
 * Wenn du das richtige Mindset hast oder entwickelst, wirst du Erfolg (und zwar langfristig und dauerhaft) haben.  
 * Was würdest du heute tun, wenn du noch einen Monat zu leben hast?  
 
-Sicher kommen dir noch andere solcher Ratschläge und Lösungen in den Sinn. Wenn die nicht klappen gibt es immer noch Social Media, Alkohol, Drogen, Zigaretten, Games, Sex,  Arbeit, Aus- und Weiterbildungen, … und so vieles mehr, das dir helfen kann, dich nicht schwach, traurig, wütend, gestresst oder ängstlich zu fühlen. Jeder Tipp hat einen kleinen Funken Wahrheit und die Tätigkeiten sind an sich nichts Schlechtes. Sie werden es aber, wenn sie helfen, langfristig unangenehme Gedanken und Gefühle zu unterdrücken.  
+Sicher kommen dir noch andere solcher Ratschläge und Lösungen in den Sinn. Wenn die nicht klappen, gibt es immer noch Social Media, Alkohol, Drogen, Zigaretten, Games, Sex,  Arbeit, Aus- und Weiterbildungen, … und so vieles mehr, das dir helfen kann, dich nicht schwach, traurig, wütend, gestresst oder ängstlich zu fühlen. Jeder Tipp hat einen kleinen Funken Wahrheit und die Tätigkeiten sind an sich nichts Schlechtes. Sie werden es aber, wenn sie helfen, langfristig unangenehme Gedanken und Gefühle zu unterdrücken.  
 
 Entgegen weitverbreiteter Annahmen müssen wir die negativen Gedanken und Gefühle nicht loswerden, um ein einigermassen zufriedenes Leben zu führen. Es braucht keine Angstfreiheit und keine Schmerzfreiheit. Denn Angst, Sorgen, Schmerzen (physische und psychische) gehören zum Leben dazu.  
 
@@ -36,7 +36,6 @@ Entgegen weitverbreiteter Annahmen müssen wir die negativen Gedanken und Gefüh
 #### Steven C. Hayes spricht über psychische Flexibilität und seine eigene Geschichte
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/o79_gmO5ppg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 #### Bücher 
 
