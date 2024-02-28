@@ -10,7 +10,7 @@ footnotes = "**Bücher:** \n\n[Beyond Leadership](https://www.exlibris.ch/de/bue
 +++
 ### Ich lerne noch
 
-Klar, ich lerne noch. Ich habe nie etwas anderes getan. Doch, vielleicht musste ich lange so tun als ob. Franzwörtli repetieren, Formeln auswendig lernen, ... . Du kennst es. 
+Klar, ich lerne noch. Ich habe nie etwas anderes getan. Doch vielleicht musste ich lange so tun, als ob. Franzwörtli repetieren, Formeln auswendig lernen, ... . Du kennst es. 
 
 Aber es ist wie so oft, ich schweife ab. Heute bereits bei der Einleitung. Eine derart lange Pause zwischen den Blogbeiträgen gab es bei mir wohl schon lange nicht mehr oder noch nie. Ich begann immer wieder Einträge zu schreiben und kam nie wirklich weit. Fertig. Schön. Sauber. So wollte ich meine Beiträge der Welt zeigen. Es wäre um meine Achtsamkeitspraxis gegangen, ich hätte über meine Gedanken und Fragen zur [Theorie U ](https://theory-u.de)von [Otto Scharmer ](https://ottoscharmer.com)geschrieben, es wäre um [psychologisches Empowerment ](https://www.hppyppl.de/blog/was-motiviert-menschen-psychologische-empowerment/)gegangen und über meine neue berufliche Rolle. Da wäre auch noch [Beyond Leadership](https://fh-hwz.ch/news/beyond-leadership-das-handbuch-von-matthias-moelleney-und-sybille-sachs) und [Mindful Leadership](https://www.arbor-verlag.de/bücher/aspekte-und-wege-der-achtsamkeit/mindful-leadership-die-7-prinzipien-achtsamer-fuehrung). Der Drang nach Perfektion hinderte mich (wieder einmal). Noch korrekter, ich liess mich von diesem Drang hindern.
 
@@ -22,7 +22,7 @@ Heute ist das anders. Ich habe richtig Lust, das Unfertige zu teilen. Vielleicht
 
 #### Gestalten
 
-Was da oben steht berührt mich. Es ermutigt mich, dir einen Einblick zu geben. Ich zeige dir was läuft und nicht das, was ich weiss oder zu wissen meine. Ich spüre in den letzten Monaten förmlich, wie die Verknüpfungen in meinem Gehirn entstehen. Ich fühle die Widerstände und Widersprüche zwischen der Theorie und der oft erlebten Realität. Ich suche und finde den Flow, stolpere, tauche ab und lerne. Die Bücher stehen für die Themen, mit denen ich mich in den letzten Monaten beschäftige. Das mache ich mit den Büchern, auf Plattformen wie Linkedin oder Youtube, ich spreche mit Menschen darüber oder erzähle davon. Einige Dinge praktiziere ich aktiv. Die Themen mit denen ich mich beschäftige berühren und bewegen mich. Vielleicht bewege ich auch die Themen, irgendwie.. Wer weiss. 
+Was da oben steht, berührt mich. Es ermutigt mich, dir einen Einblick zu geben. Ich zeige dir, was läuft und nicht das, was ich weiss oder zu wissen meine. Ich spüre in den letzten Monaten förmlich, wie die Verknüpfungen in meinem Gehirn entstehen. Ich fühle die Widerstände und Widersprüche zwischen der Theorie und der oft erlebten Realität. Ich suche und finde den Flow, stolpere, tauche ab und lerne. Die Bücher stehen für die Themen, mit denen ich mich in den letzten Monaten beschäftige. Das mache ich mit den Büchern, auf Plattformen wie Linkedin oder Youtube, ich spreche mit Menschen darüber oder erzähle davon. Einige Dinge praktiziere ich aktiv. Die Themen, mit denen ich mich beschäftige, berühren und bewegen mich. Vielleicht bewege ich auch die Themen, irgendwie.. Wer weiss. 
 
 ![](bildschirm-foto-2023-03-24-um-16.53.35.png)
 
@@ -32,9 +32,7 @@ Was da oben steht berührt mich. Es ermutigt mich, dir einen Einblick zu geben. 
 >
 > *slow-learning.com*
 
-Vieles aus meiner (viel früheren) Vergangenheit habe ich erforscht, erkundet und (vielleicht) verstanden. Ich weiss, dass die meisten meiner Interessen aus dem Schmerz entstanden sind. Deshalb war Lernen und alles, was damit zu tun hatte, die Hölle für mich. Heute ist Lernen für mich etwas vom schönsten und natürlichsten. In den letzten Monaten verfing ich mich in einigen alten Denkmustern und deshalb blieben etliche Blogbeiträge unvollendet. Umso dankbarer bin ich für die Inspiration von Slow Learning. Ich bin noch da. Ich lerne noch. 
-
-
+Vieles aus meiner (viel früheren) Vergangenheit habe ich erforscht, erkundet und (vielleicht) verstanden. Ich weiss, dass die meisten meiner Interessen aus dem Schmerz entstanden sind. Deshalb war Lernen und alles, was damit zu tun hatte, die Hölle für mich. Heute ist Lernen für mich etwas vom Schönsten und natürlichsten. In den letzten Monaten verfing ich mich in einigen alten Denkmustern und deshalb blieben etliche Blogbeiträge unvollendet. Umso dankbarer bin ich für die Inspiration von Slow Learning. Ich bin noch da. Ich lerne noch. 
 
 #### und jetzt?
 
