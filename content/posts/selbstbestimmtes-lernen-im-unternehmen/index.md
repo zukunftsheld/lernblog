@@ -16,7 +16,7 @@ Es wäre sinnvoller, wenn die internen Lernangebote stärker auf die tatsächlic
 
 Vielleicht gibt es sogar mehrere Personen, die sich für ein identisches oder ähnliches Thema interessieren. So könnten zum Beispiel neue Führungskräfte eine Gruppe bilden oder Menschen, die sich mit einer neuen Technologie befassen möchten oder «müssen». Sie könn(t)en einander dann bei ihren Lernprozessen unterstützen, ihr eigenes Wissen, ihre Erfahrungen und Gedanken einbringen. Dieses Lernen wäre unbegrenzt. In diesen Prozessen können Lernende dazu kommen und andere gehen. Es ginge hin, zu einem wirklichen und lebendigen lebenslangen Lernen (bei der Arbeit). 
 
-{{<box title="Beispiel Führrungsentwicklung">}}
+{{<box title="Beispiel Führungsentwicklung">}}
 
 #### 
 **Ein Führungs-Lern-Circle** 
