@@ -16,11 +16,30 @@ Es wäre sinnvoller, wenn die internen Lernangebote stärker auf die tatsächlic
 
 Vielleicht gibt es sogar mehrere Personen, die sich für ein identisches oder ähnliches Thema interessieren. So könnten zum Beispiel neue Führungskräfte eine Gruppe bilden oder Menschen, die sich mit einer neuen Technologie befassen möchten oder «müssen». Sie könn(t)en einander dann bei ihren Lernprozessen unterstützen, ihr eigenes Wissen, ihre Erfahrungen und Gedanken einbringen. Dieses Lernen wäre unbegrenzt. In diesen Prozessen können Lernende dazu kommen und andere gehen. Es ginge hin, zu einem wirklichen und lebendigen lebenslangen Lernen (bei der Arbeit). 
 
+{{<box title="Beispiel Führrungsentwicklung">}}
+
+#### 
+**Ein Führungs-Lern-Circle** 
+
+**Variante 1**
+
+* Führungskräfte (neue und bestehende) aus verschiedenen Abteilungen kommen zusammen.
+* Sie organisieren sich selbst
+* Sie tauschen sich über Erfahrungen und Schwierigkeiten aus, geben sich gegenseitig Fachinputs und jede:r übernimmt einmal die Moderation/Organisation. Dabei findet ein Wissenstransfer zwischen erfahrenen und neuen Führungskräften statt. Erfahrene Leader geben ihr Wissen und ihre Erfahrungen weiter. 
+* Sie erhalten wiederum Feedback und Inputs von ihren (wahrscheinlich) jüngeren Kolleg:innen. Hier heraus könnten im weiteren Verlauf Mentorings entwickeln. Zudem gibt es einen Einblick in die Arbeitsthemen und -bereiche der anderen Abteilungen. 
+
+ **Variante 2**
+
+* Ein organisierter Circle für Führungskräfte
+* Ihnen wird (z. B. von der Personalentwicklung) ein Pool an Expert:innen (internen/externen) zur Verfügung gestellt, auf die sie zurückgreifen können. 
+* Sie wählen als Gruppe selbst aus, was für sie im Moment relevant ist und welche Themen sie vertiefen möchten. 
+* Hier wäre (anstatt verschiedene Expert:innen) auch eine Person denkbar, die fix für Supervisionen da ist. 
+* Diese Beispiele lassen sich in etliche (fachliche und thematische) Richtungen erweitern und anpassen. 
 
 
+{{</box>}}
 
-
-Natürlich gibt es oft bereits interne Lernangebote und auch externe Weiterbildungen sind ich per se schlecht. Betrachten wir jedoch Kosten und Nutzen sowie die sich ständig verändernden Anforderungen, wäre selbstbestimmtes und bedürfnisorientiertes Lernen eine absolute Notwendigkeit. Es würde dem oft verschrienen lebenslangen Lernen gerecht. 
+Natürlich gibt es oft bereits interne (komplett organisierte) Lernangebote und auch externe Weiterbildungen sind ich per se schlecht. Betrachten wir jedoch Kosten und Nutzen sowie die sich ständig verändernden Anforderungen, wäre selbstbestimmtes und bedürfnisorientiertes Lernen eine absolute Notwendigkeit. Es würde dem oft verschrienen lebenslangen Lernen gerecht. 
 
 Es gibt etliche Umsetzungsmöglichkeiten. Wer sich noch nicht auf den Weg gemacht hat, sollte das bald tun. Am besten ist man auch bei der Einführung und Umsetzung lernend unterwegs, teilt die Erfahrungen und lässt andere am Lernprozess teilhaben. Auch das ghört zu einer (neuen) Lernkultur. 
 
