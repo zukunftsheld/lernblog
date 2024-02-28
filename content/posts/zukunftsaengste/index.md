@@ -18,7 +18,7 @@ Es ist offensichtlich. Die Welt ist schlecht und die Menschen auch. Wenn sie nic
 
 #### So einfach ist es nicht
 
-Bei all den negativen Nachrichten scheint es, als gäbe es nicht (mehr) viel Gutes. Ach, in der Einleitung hätte noch Corona oder Klimakrise stehen können oder sollen. Die Zukunft sieht düster aus. Das heisst aber auch, dass ich mich am Aussen orientiere, an dem, was ich kaum beeinflussen kann und somit die vielen Möglichkeiten verpasse. Möglichkeiten, Gutes zu tun. Möglichkeiten, die Welt zu verändern. 
+Bei all den negativen Nachrichten scheint es, als gäbe es nicht (mehr) viel Gutes. Ach, in der Einleitung hätte noch Corona oder Klimakrise stehen können oder sollen. Die Zukunft sieht düster aus. Das heisst aber auch, dass ich mich am Aussen orientiere, an dem, was ich kaum beeinflussen kann und somit die vielen Möglichkeiten verpasse. Möglichkeiten, Gutes zu tun. Möglichkeiten, die Welt zu verändern. Auch wenn es «nur» die eigene ist.
 
 #### Die Welt verändern?
 
@@ -32,7 +32,7 @@ Das würden wir wohl oft hören, wenn wir darüber sprechen, wie eine Person den
 
 Da kommt mir immer wieder der Applaus für die Pflegekräfte in den Sinn (und, es gäbe noch viele andere Beispiele), die zwar gut gemeint sind, aber halt nicht viel bewirken (oder, sind wir ehrlich, nichts bewirken). Man tut lieber, was die anderen tun, postet es auf Insta, Linkedin, in die Whatsapp Story oder wo auch immer und erntet selbst Likes dafür. Der Aufwand hält sich oft in Grenzen, dafür ist die erhaltene Aufmerksamkeit umso grösser. 
 
-Hier kommt mir ein anderes Beispiel in den Sinn, das mich eine Weile beschäftigt. Während der Fussball WM in Katar wurde das japanische Team so gelobt, weil es die Garderobe sauber und aufgeräumt verlassen hat, die japanischen Fans wurden gefeiert, weil sie die Tribüne aufräumten, der japanische Trainer, weil er sich verbeugte. Das sind zwar in einer Welt, in der eben vieles nicht so schön oder freundlich aussieht, schöne Beispiele. Was der Preis dafür ist, das wird in unserer individualisierten Gesellschaft ignoriert. Es würde sich (immer) auch lohnen, hinter die Fassade einer Kultur (oder die Zusammenhänge) zu blicken. Ich möchte mich diesen komplexen Gesellschafts- und Hierarchieregeln in Japan auf jeden Fall nicht «beugen» müssen. (Dann wären in diesem Land auch noch Arbeitsbedingungen, Gleichstellungsthemen, ... . Es ist halt meistens alles etwas komplexer als auf den ersten Blick.)
+Hier kommt mir ein anderes Beispiel in den Sinn, das mich eine Weile beschäftigt. Während der Fussball WM in Katar wurde das japanische Team so gelobt, weil es die Garderobe sauber und aufgeräumt verlassen hat. Die japanischen Fans wurden gefeiert, weil sie die Tribüne aufräumten, der japanische Trainer, weil er sich verbeugte. Das sind zwar in einer Welt, in der eben vieles nicht so schön oder freundlich aussieht, schöne Beispiele. Was der Preis dafür ist, wird in unserer individualisierten Gesellschaft ignoriert. Es würde sich (immer) auch lohnen, hinter die Fassade einer Kultur (oder die Zusammenhänge) zu blicken. Ich möchte mich diesen komplexen Gesellschafts- und Hierarchieregeln in Japan auf jeden Fall nicht «beugen» müssen. (Dann wären in diesem Land auch noch Arbeitsbedingungen, Gleichstellungsthemen, ... . Es ist halt meistens alles etwas komplexer als auf den ersten Blick.)
 
 #### Selbst(er)kenntnis und Eigenverantwortung
 
@@ -58,7 +58,7 @@ Passen Individualität und Gemeinschaft zusammen? Oft scheint es mir, dass es en
 
 *Diese Aussage finde ich (gerade in dieser von Krisen geprägten Zeit) ganz wichtig. Können wir uns die Welt vorstellen, in der wir leben möchten? Wir können darauf hinarbeiten und das einsetzen, was wir können, egal wie klein es ist. Wichtig ist, nicht aufzugeben und die Hoffnung nicht zu verlieren. Die Verantwortung für sich selbst übernehmen, zu sich schauen und sich solidarisch zu verhalten, schliessen sich nicht aus.* 
 
-**«Zwischen Reiz und Reaktion liegt ein Raum. In diesem Raum liegt unsere Macht zur Wahl unserer Reaktion. In unserer Reaktion liegen unsere Entwicklung und unsere Freiheit.»** Viktor E. Frankl
+**«Zwischen Reiz und Reaktion liegt ein Raum. In diesem Raum liegt unsere Macht zur Wahl unserer Reaktion. In unserer Reaktion liegen unsere Entwicklung und unsere Freiheit.»** Viktor E. Frankl zugeschrieben
 
 *Diesen Raum gibt es und er ist ganz wichtig. Aus meiner Erfahrung kommen wir am ehesten dahin, wenn wir regelmässig Achtsamkeit praktizieren. Wenn wir uns und unser Verhalten, unsere Reaktionen immer besser (er)kennen. Wir können dann anders handeln, wir können uns anders verhalten. Vielleicht handeln wir aber auch dann genau gleich wie vorher. Wir machen es aber bewusst. So können wir uns beispielsweise nach negativen Nachrichten schlecht fühlen, wir können aber auch erkennen, was diese mit uns machen und weniger konsumieren. Vielleicht macht uns die Unsicherheit auch dünnhäutig und schnell(er) gereizt, was dann wieder andere zu spüren bekommen. Was wäre, wenn wir hier den Raum zwischen Reiz und Reaktion wahrnehmen könnten?* 
 
