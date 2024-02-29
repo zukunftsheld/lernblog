@@ -10,7 +10,7 @@ description = "Hallo, ich bin Ben. \n\n"
 
 Hallo, ich bin Ben. 
 
-❤️‍🔥Ich beschäftige mich mit der Entwicklung, dem Lernen und der Begleitung von Menschen in der Arbeitswelt. Hauptberuflich bin ich als Ausbildungsleiter in der Berufsbildung tätig.
+❤️‍🔥Ich beschäftige mich mit der Entwicklung, dem Lernen und der Begleitung von Menschen in der Arbeitswelt. Beruflich bin ich als Ausbildungsleiter in der Berufsbildung tätig.
 
 🧭Entwicklung von Menschen und Organisationen\
 🌟Leadership\
