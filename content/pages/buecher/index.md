@@ -9,7 +9,7 @@ In meinen Blogbeiträgen erwähne ich immer wieder Bücher und einige davon rege
 
 ![](img_6831.jpg)
 
-Wir könnte oder sollte Lernen und Bildung funktionieren? Was ist Lernen und warum hat Wissensvermittlung wenig oder gar nichts damit zu tun? Dieses Buch eignet sich gut als «Verstörer», als «Augenöffner» oder einfach als Unterstützung und Bestätigung für Bildungsquerulant:innen. Rolf Arnold zeigt, wie wir vom Vollständigkeitswahn wegkommen und warum das Belehren keinen Sinn macht. Eine Inspiration und ein Mutmacher für alle, die sich hin zu selbstgesteuertem Lernen bewegen wollen, bei dem der Mensch und sein Interesse im Zentrum steht. 
+Heute scheint es, dass Wohlstand, Problemlösungen, gewünschte Veränderungen etc. ohne Anstrengungen zu erreichen sind. Das ist aber nicht so. Strengt euch an! Ist ein Aufruf zur Selbstwirksamkeit. Wolf Lotter zeigt politische und gesellschaftliche Zusammenhänge auf, die zeigen, wie wir hier gelandet sind und wie wir da wieder rauskommen.
 
 {{</box>}}
 
