@@ -8,7 +8,7 @@ image = "das-neue-fu-hren_2024.jpg"
 description = "Einblick und Gedanken zum Buch «Das neue Führen» von Bodo Janssen. "
 footnotes = "Passend dazu auch der 📺 [Film «Die stille Revolution»](https://www.die-stille-revolution.de). Ein Film über den Kulturwandel in der Arbeitswelt.\n\nMehr dazu auch hier: [https://www.der-upstalsboom-weg.de](https://www.der-upstalsboom-weg.de/)\n\nPS: Das ist meine erste Buchrezension und ein Versuch. Nachdem ich in meinem ersten Podcastformat vor ein paar Jahren über Bücher erzählt habe und ich etliche positive Rückmeldungen erhielt, dachte ich mir schon lange, ich könnte doch auch einmal etwas schreiben. \n\nÜbrigens, ich werde für erwähnte Bücher und Verlinkungen nicht bezahlt."
 +++
-# Das neue Führen - Führen und sich führen lassen, in Zeiten der Unvorhersehbarkeit
+# Das neue Führen - Führen und sich führen lassen in Zeiten der Unvorhersehbarkeit
 
 ### Worum gehts?
 
