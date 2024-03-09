@@ -12,7 +12,7 @@ footnotes = "[Foto von Chevanon Photography](https://www.pexels.com/de-de/foto/n
 
 #### Eine kleine Einleitung
 
-Wir lernen immer und überall, nur ist es uns oft nicht bewusst. Wir haben gelernt oder wurden darauf konditioniert, dass Lernen mit Anstrengung zu tun hat. Wir meinen, Lernen müsse in Kurs- und Schulräumen stattfinden und dafür brauche es eine Organisation und Expert:innen. So haben viele Menschen schlechte Lernerfahrungen gemacht und nur wenig Lust, sich (wieder) damit auseinanderzusetzen oder nehmen das Lernen auf sich, um den nächsten Karriereschritt machen zu können. 
+Wir lernen immer und überall, nur ist es uns oft nicht bewusst. Wir haben gelernt oder wurden darauf konditioniert, dass Lernen mit Anstrengung zu tun hat. Wir meinen, Lernen müsse in Kurs- und Schulräumen stattfinden und dafür brauche es eine Organisation und Expert:innen. So haben viele Menschen schlechte Lernerfahrungen gemacht und nur wenig Lust, sich (wieder) damit auseinanderzusetzen oder nehmen das Lernen auf sich um den nächsten Karriereschritt machen zu können. 
 
 #### Die Welt verändert sich
 
@@ -30,7 +30,7 @@ Mittlerweile ist «Was Hänschen nicht lernt, lernt Hans nimmermehr» veraltet. 
 * Wir wollen etwas Neues ausprobieren. Wir probieren und scheitern. Wir probieren anders. Wir scheitern. Wir nehmen die Erkenntnisse von Versuch 1 und 2, kombinieren sie und probieren wieder. Vielleicht klappt es und vielleicht nicht. Wir lernen. 
 * Wir können etwas sehr gut und können damit Dinge erschaffen, Probleme lösen, uns einen Vorteil verschaffen. Irgendwann funktioniert es nicht mehr. Wir lernen. 
 
-In allen drei Situationen haben wir nicht nur das, nennen wir es einmal «Mechanische» gelernt. Vielleicht haben wir um Hilfe gefragt, vielleicht mussten wir uns in Geduld üben, vielleicht mussten wir uns, unser Leben, die Situation aus neuen Blickwinkeln betrachten, vielleicht haben wir etwas geschafft, von dem wir dachten es sei unmöglich. Das sind unsere ganz natürlichen Lernbewegungen im Leben, die auch oder gerade ausserhalb von formaler Bildung stattfinden. Wir sind uns aber selten über diese Lernprozesse bewusst und so wissen viele nicht, was für tolle und kompetente Lerner:innen sie sind. 
+In allen drei Situationen haben wir nicht nur das, nennen wir es einmal «Mechanische» gelernt. Vielleicht haben wir um Hilfe gefragt, vielleicht mussten wir uns in Geduld üben, vielleicht mussten wir uns, unser Leben, die Situation aus neuen Blickwinkeln betrachten, vielleicht haben wir etwas geschafft, von dem wir dachten, es sei unmöglich. Das sind unsere ganz natürlichen Lernbewegungen im Leben, die auch oder gerade ausserhalb von formaler Bildung stattfinden. Wir sind uns aber selten über diese Lernprozesse bewusst und so wissen viele nicht, was für tolle und kompetente Lerner:innen sie sind. 
 
 #### Lernen bewusst machen
 
@@ -50,13 +50,16 @@ Auch wenn du alleine beginnen kannst, empfiehlt es sich, Lernpartner:innen zu su
 #### Lernen sichtbar machen
 
 \
-Endlich sind wir beim Titelthema. Du kannst das Lernen nicht nur für dich selbst sondern auch für andere sichtbar machen. Warum?
+Endlich sind wir beim Titelthema. Du kannst das Lernen nicht nur für dich selbst, sondern auch für andere sichtbar machen. Warum?
 
-* Du zeigst deinen Lernprozess und deine Kompetenzaneignung.
-* Es werden neben den fachlichen Kompetenzen auch viele andere sichtbar.
-* Andere interessierte können sich mit dir in Verbindung setzten und von dir und deinem Lernprozess lernen.
-* Was sonst «einfach so» passiert, wird sichtbar und wertvoll
+\* Du zeigst deinen Lernprozess und deine Kompetenzaneignung.
 
-Das Sichtbarmachen kann ganz verschieden stattfinden. Rund um Colearning Bern schreiben wir [Lernblogs](https://www.lernblog.org). Du kannst aber auch Videos machen, Podcasts produzieren, mit Fotos dokumentieren oder das alles kombinieren. Den Möglichkeiten sind keine Grenzen gesetzt. Lernen ist nie fertig, es ist immer in Bewegung und was heute eine Erkenntnis ist, kann sich in einem Monat als Fehler, Missverständnis, ... herausstellen. Deshalb ist die Idee bei «Lernen sichtbar machen» nicht, nur Schönes und Fertiges zu teilen. Es geht darum, dem gesamten Prozess Raum zu geben. \
-\
-Vielleicht fragst du dich, was es mit dem Titelbild auf sich hat. Es steht für den Austausch miteinander. In Begegnungen mit anderen Menschen wie z. B. beim Kaffeetrinken lerne ich sehr viel. Ich erhalte Einblicke in andere (Arbeits-) Leben, gestellte Fragen regen mich zun Nachdenken an, ich kann selbst Fragen stellen, zuhören und so vieles mehr. Für mich sind Gespräche und Treffen zum Kaffee o. Ä. oft sehr wertvolle Momente und Lernerfahrungen.
+\* Es werden neben den fachlichen Kompetenzen auch viele andere sichtbar.
+
+\* Andere Interessierte können sich mit dir in Verbindung setzten und von dir und deinem Lernprozess lernen.
+
+\* Was sonst «einfach so» passiert, wird sichtbar und wertvoll.
+
+Das Sichtbarmachen kann ganz verschieden stattfinden. Rund um Colearning Bern schreiben wir Lilo (oder Lernblogs). Du kannst aber auch Videos machen, Podcasts produzieren, mit Fotos dokumentieren oder das alles kombinieren. Den Möglichkeiten sind keine Grenzen gesetzt. Lernen ist nie fertig, es ist immer in Bewegung und was heute eine Erkenntnis ist, kann sich in einem Monat als Fehler, Missverständnis, ... herausstellen. Deshalb ist die Idee bei «Lernen sichtbar machen» nicht nur Schönes und Fertiges zu teilen. Es geht darum, dem gesamten Prozess Raum zu geben. 
+
+Vielleicht fragst du dich, was es mit dem Titelbild auf sich hat. Es steht für den Austausch miteinander. In Begegnungen mit anderen Menschen wie z. B. beim Kaffeetrinken lerne ich sehr viel. Ich erhalte Einblicke in andere (Arbeits-) Leben, gestellte Fragen regen mich zum Nachdenken an, ich kann selbst Fragen stellen, zuhören und so vieles mehr. Für mich sind Gespräche und Treffen zum Kaffee o. Ä. oft sehr wertvolle Momente und Lernerfahrungen.
