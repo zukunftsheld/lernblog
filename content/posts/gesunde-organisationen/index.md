@@ -36,8 +36,6 @@ Passend dazu sind mir (zufälligerweise) folgende Thesen im Buch Future Skills, 
 >
 > *Future Skills, Abschnitt New Work und Future Skills, 21 Thesen und 21 Impulse für die neue Büro- und Arbeitswelt, C. Quarch, J. Teunen (2021), S. 42*
 
-
-
 #### [Leadership](https://www.bensblog.ch/leadership-navigieren-im-wandel/)
 
 Führung braucht Kompetenz und nicht ein 3-Tages Leadership-Seminar oder einfach viel Berufserfahrung. Genauso wenig sind gute Mitarbeitende auch gute Führungskräfte. Diese Illusion kommt vielleicht davon, dass man so «die Guten» belohnen will. Nur vielleicht ist das (zumindest oft rückblickend) keine Belohnung und führt zu Unzufriedenheit bei allen Beteiligten. Leadership kann ein natürliches Talent sein und/oder sich durch einen bewusst gestalteten Lernprozess entwickeln. 
@@ -50,6 +48,6 @@ Wie oft sah und sehe ich Menschen, die gegeneinander (oder zumindest nicht mitei
 
 Die meisten (oder alle?) denken immer noch in Rollen, in Jobprofilen oder in Funktionen. Das führt vermutlich u. a. dazu, dass wir neben einem Arbeitskräftemangel (durch viele Pensionierungen) auch einen Fachkräftemangel erleben. Wie viele Personen könnten sich wohl in andere (gefragtere und zukunftsorientiertere) Bereiche und Tätigkeiten weiterentwickeln, wenn man die Möglichkeiten dafür schaffen würde? 
 
-#### Sehen die Zukunft und agieren in der Gegenwart
+#### In die Zukunft sehen und in der Gegenwart agieren
 
 Es wird gerne über die Zukunft gesprochen. Wann soll denn die kommen? Sprechen wir von morgen, von in einem Jahr, in 10 Jahren? Gesunde Organisationen haben die Chancen, Möglichkeiten und Risiken der Zukunft im Blick und agieren in der Gegenwart. Stabilität, Kontinuität, Flexibilität und Agilität schliessen sich (vermutlich) nicht aus.
