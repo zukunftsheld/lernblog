@@ -33,7 +33,7 @@ Um die fehlenden Menschen zu «*ersetzen*» und/oder sich als Arbeitgeber:in att
 
 #### Hilfe, wir werden alle durch Roboter und Automatisierung ersetzt
 
-Diese oder ähnliche Gedanken und Realitäten tauchen in der Geschichte der Menschheit nicht das erste Mal auf. Ich erinnere mich, wie Frithjof Bergmann in seinem Buch «Neue Arbeit, neue Kultur» von der US-Autoindistrie schreibt und wie ganze Berufe der Automatisierung zum Opfer gefallen sind. Natürlich können wir durch die digitalen Möglichkeiten und den technologischen Fortschritt noch mehr automatisieren, aber am Ende sollten uns diese Dinge nützlich sein. Es wird immer um uns Menschen gehen oder würden Maschinen/Roboter für sich weiterleben, wenn es keine Menschen mehr gäbe? Naja, eigenartige Frage und nicht wirklich relevant.
+Diese oder ähnliche Gedanken und Realitäten tauchen in der Geschichte der Menschheit nicht das erste Mal auf. Ich erinnere mich, wie Frithjof Bergmann in seinem Buch «Neue Arbeit, neue Kultur» von der US-Autoindustrie schreibt und wie ganze Berufe der Automatisierung zum Opfer gefallen sind. Natürlich können wir durch die digitalen Möglichkeiten und den technologischen Fortschritt noch mehr automatisieren, aber am Ende sollten uns diese Dinge nützlich sein. Es wird immer um uns Menschen gehen oder würden Maschinen/Roboter für sich weiterleben, wenn es keine Menschen mehr gäbe? Naja, eigenartige Frage und nicht wirklich relevant.
 
 #### Meistens wissen die Menschen (die Angestellten) recht genau wo der Schuh drückt
 
