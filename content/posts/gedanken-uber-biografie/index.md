@@ -31,17 +31,17 @@ Diese Geschichte scheint mir hier ganz gut zu passen. Die Quelle der Geschichte 
 
 *In der nächsten Woche kamen Rekrutierungsoffiziere ins Dorf. Sie holten die jungen Männer zur Armee, denn ein Krieg mit dem Nachbarkönigsreich bahnte sich an. Den Sohn des Bauern wollten sie nicht, weil seine Beine gebrochen waren.*
 
-*Als die Nachbarn dem Bauern sagten, was für ein Glück er habe, antwortete der Bauer: „Vielleicht. Wer weiss?“*
+*Als die Nachbarn dem Bauern sagten, was für ein Glück er habe, antwortete der Bauer: „Vielleicht. Wer weiss?*
 
 Ob etwas Glück oder Pech war, lässt sich oft erst viel später sagen, wenn überhaupt. Natürlich versuchen wir Zusammenhänge zu sehen und sie sind sicher auch da. 
 
 #### Unsere Biografie ist eine Geschichte
 
-Unsere Biografie ist eine Geschichte über uns und unser Leben, die wir uns selbst kreiert haben. Es gibt unbestreitbare Fakten und vieles, das sich nicht so einfach definieren lässt. Haben wir uns unser Bild über uns selbst kreiert? Wer hatte einen Einfluss auf unsere Geschichte und unser Selbstbild? Ist es eher von Schmerz, Wut und Ausreden geprägt oder von Freude, Lust und Möglichkeiten? 
+Unsere Biografie ist eine Geschichte über uns und unser Leben, die wir uns selbst kreiert haben. Es gibt unbestreitbare Fakten und vieles, dass sich nicht so einfach definieren lässt. Haben wir uns unser Bild über uns selbst kreiert? Wer hatte einen Einfluss auf unsere Geschichte und unser Selbstbild? Ist es eher von Schmerz, Wut und Ausreden geprägt oder von Freude, Lust und Möglichkeiten? 
 
 #### Ab hier ist alles möglich
 
-Wie ein Super-Selbsthilfe-Guru platziere ich den Titel «Alles ist möglich» und das ist wahr. Wahr heisst aber nicht, dass es einfach ist. Es ist auch nicht sicher, ob die Arbeit und die investierte Energie die gewünschten Früchte tragen werden. Wir können unser Leben aber selbst gestalten. Ja, ich schreibe und spreche immer wieder davon. Zu einem selbstbestimmten Leben gehören Freude, Energie, Mut, Wut, Scheitern, Neuausrichten, ein paar Schritte zurückmachen, Trauer, Euphorie und noch so vieles mehr. 
+Wie ein Super-Selbsthilfe-Guru platziere ich den Titel «Alles ist möglich» und es ist wahr. Wahr heisst aber nicht, dass es einfach ist. Es ist auch nicht sicher, ob die Arbeit und die investierte Energie die gewünschten Früchte tragen werden. Wir können unser Leben aber selbst gestalten. Ja, ich schreibe und spreche immer wieder davon. Zu einem selbstbestimmten Leben gehören Freude, Energie, Mut, Wut, Scheitern, Neuausrichten, ein paar Schritte zurückmachen, Trauer, Euphorie und noch so vieles mehr. 
 
 Wenn du also von hier aus auf eine schwierige Biografie zurückblickst, die von fremden Prägungen, Ungerechtigkeit oder anderen Dingen geprägt ist oder zu sein scheint, dann kannst du dich auf den Weg machen. 
 
@@ -49,6 +49,4 @@ Wenn du also von hier aus auf eine schwierige Biografie zurückblickst, die von 
 
 Wir können zu Autor:innen unserer eigenen Geschichte werden. Wir können den Anfang und das Ende nicht bestimmen und wir können das Ende nicht vorhersehen. Wir können aber dafür sorgen, dass es unsere Geschichte wird, die von unserer Persönlichkeit, von unseren Werten, Träumen und Wünschen geprägt ist. \
 \
-In diesem Blog findest du unter anderem Inspiration und weitere Gedanken unter [\#Selbstmanagement](https://www.bensblog.ch/tags/selbstmanagement/) [\#Werte ](https://www.bensblog.ch/tags/werte/)[\#Sinn ](https://www.bensblog.ch/tags/sinn/)\
-\
-und ja, wenn du dich auf diesen Weg machen willst, (wieder) mehr von dir in dein Leben zu bringen und deine Geschichte selbst zu schreiben, dann findest du [bei mir](https://www.bensblog.ch/ueber/) Unterstützung.
+In diesem Blog findest du unter anderem Inspiration und weitere Gedanken unter [\#Selbstmanagement](https://www.bensblog.ch/tags/selbstmanagement/) [\#Werte ](https://www.bensblog.ch/tags/werte/)[\#Sinn ](https://www.bensblog.ch/tags/sinn/)
