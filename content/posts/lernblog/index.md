@@ -6,7 +6,7 @@ pinned = false
 tags = ["Lernen", "Colearning", "NewLearning"]
 image = "pexels-chevanon-photography-324028.jpg"
 description = "Wir lernen immer und überall, nur ist es uns oft nicht bewusst. Wir haben gelernt oder wurden darauf konditioniert, dass Lernen mit Anstrengung zu tun hat. Eigentlich ist Lernen ganz natürlich. Wie kommen wir aber zu diesen natürlichen Lernprozessen und wie machen wir diese sichtbar?"
-footnotes = "[Foto von Chevanon Photography](https://www.pexels.com/de-de/foto/nahaufnahme-der-kaffeetasse-324028/)"
+footnotes = "[Foto von Chevanon Photography](https://www.pexels.com/de-de/foto/nahaufnahme-der-kaffeetasse-324028/)\n\n📚**Ergänzende Bücher**\n\n📘[Berufen statt zertifiziert, Neues Lernen, neue Chancen](https://www.hep-verlag.ch/berufen-statt-zertifiziert)\n\n📘[Entlehrt euch, Ausbruch aus dem Vollständigkeitswahn](https://www.hep-verlag.ch/entlehrt-euch)\n\n**Nachtrag 2024**\n\n📘[Team Toppings, 21 Lernhacks für agiles Arbeiten](https://www.exlibris.ch/de/buecher-buch/e-books-deutsch/franziska-schleuter/team-toppings/id/9783800671946/)"
 +++
 ### Gelernt wird immer und überall
 
@@ -16,7 +16,7 @@ Wir lernen immer und überall, nur ist es uns oft nicht bewusst. Wir haben geler
 
 #### Die Welt verändert sich
 
-Beim Thema Colearning und Karriere ohne Berufsabschluss hörte ich vor kurzer Zeit folgende Aussage einer Berufsberaterin: «Auf der einen Seite gelten Menschen ohne Berufsabschluss als Niedrig-Qualifizierte (also Menschen mit wenig Chancen und Aussichten auf einen «guten» Job), auf der anderen Seite wissen wir, dass Zertifikate und Abschlüsse immer weniger wichtig werden.» Wir wissen, dass sich die Welt verändert. Dazu gehört auch die Art, wie wir lernen und arbeiten. 
+Beim Thema [Colearning](https://www.colearning.org) und Karriere ohne Berufsabschluss hörte ich vor kurzer Zeit folgende Aussage einer Berufsberaterin: «Auf der einen Seite gelten Menschen ohne Berufsabschluss als Niedrig-Qualifizierte (also Menschen mit wenig Chancen und Aussichten auf einen «guten» Job), auf der anderen Seite wissen wir, dass Zertifikate und Abschlüsse immer weniger wichtig werden.» Wir wissen, dass sich die Welt verändert. Dazu gehört auch die Art, wie wir lernen und arbeiten. 
 
 #### Wie wird Lernen in Zukunft stattfinden?
 
@@ -45,7 +45,7 @@ Wenn du das (zumindest grob) für dich definiert hast, dann kannst du regelmäss
 Am besten beginnst du hier bereits, das zu dokumentieren. Das können Fotos sein, Stichworte, Zeichnungen, Texte etc. So merkst du relativ schnell, wie viel Lernen immer wieder passiert.
 
 \
-Auch wenn du alleine beginnen kannst, empfiehlt es sich, Lernpartner:innen zu suchen. Das können Menschen sein, die auch selbstorganisiert und selbstbestimmt Lernen (wollen) oder Mentor:innen, die dich auf diesem Weg begleiten. Das müssen nicht Fachmentor:innen sein. Es reicht, wenn sie dich oder ihr euch gegenseitig bei der Reflexion unterstützt. Es ist gut, jemanden zu haben, der oder die dich immer wieder ermutigt.
+Auch wenn du alleine beginnen kannst, empfiehlt es sich, Lernpartner:innen zu suchen. Das können Menschen sein, die auch selbstorganisiert und selbstbestimmt lernen (wollen) oder Mentor:innen, die dich auf diesem Weg begleiten. Das müssen nicht Fachmentor:innen sein. Es reicht, wenn sie dich oder ihr euch gegenseitig bei der Reflexion unterstützt. Es ist gut, jemanden zu haben, der oder die dich immer wieder ermutigt.
 
 #### Lernen sichtbar machen
 
