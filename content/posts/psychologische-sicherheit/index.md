@@ -6,7 +6,7 @@ pinned = false
 tags = ["Organisationsentwicklung", "PsychologischeSicherheit", "Personalentwicklung", "Leadership"]
 image = "pexels-antonio-florentini-3253786.jpg"
 description = "Menschen tragen bei der Arbeit eine Maske. Das schreibt Frederic Laloux. Amy Edmondson spricht von psychologischer Sicherheit, damit Menschen bei der Arbeit sich selbst sein können. Warum ändert sich so wenig, wenn wir so viel darüber wissen? "
-footnotes = "[Das Buch Reinventing Organizations gibt es übrigens auch in etwas vereinfachter und visualisierter Form](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/frederic-laloux/reinventing-organizations-visuell/id/9783800652853/)\\\n\\\nTitelbild: Pexels, Foto von [Antonio Florentini ](https://www.pexels.com/de-de/foto/hockender-mann-der-nachts-schwarzen-kapuzenpulli-tragt-3253786/)"
+footnotes = "📚 [Das Buch Reinventing Organizations gibt es übrigens auch in etwas vereinfachter und visualisierter Form](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/frederic-laloux/reinventing-organizations-visuell/id/9783800652853/)\\\n\\\nTitelbild: Pexels, Foto von [Antonio Florentini ](https://www.pexels.com/de-de/foto/hockender-mann-der-nachts-schwarzen-kapuzenpulli-tragt-3253786/)"
 +++
 ## Psychologische Sicherheit
 
@@ -21,8 +21,7 @@ Wir tragen also eine «professionelle» Maske. Wer professionell ist, der oder d
 
 ## **Perspektivenwechse**l 
 
-### \
- \
+###  \
 **Fehler sind voll o.k.** 
 
 Wie ist deine Haltung gegenüber Fehlern? Darfst du Fehler machen? Erlaubst du anderen Fehler zu machen? Gemeint sind hier nicht nur falsche Resultate, sondern auch «falsche» Aussagen und Gedanken. Erlaubst du dir deine Eigenarten? Erlaubst du anderen ihre Eigenarten? Viele schweigen lieber, anstatt etwas «Falsches» zu sagen. Oft halten wir uns zurück und unterdrücken unsere Individualität. 
