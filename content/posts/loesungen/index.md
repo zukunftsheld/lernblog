@@ -6,7 +6,7 @@ pinned = false
 tags = ["Selbstmanagement", "Persönlichkeitsentwicklung", "Sinn", "Werte", "Coaching", "JobCrafting", "Personalentwicklung"]
 image = "people-ga93582a71_640.jpg"
 description = "Wir haben vieles nicht in der Hand und doch können wir vieles in unserem (Arbeits-) Leben selbst gestalten. "
-footnotes = "Bild von [StockSnap](https://pixabay.com/de/users/stocksnap-894430/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2591874) auf [Pixabay](https://pixabay.com/de/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2591874)"
+footnotes = "📚**Ein paar Bücher**\n\n📕[Wer dem Glück hinterherrennt, rennt daran vorbei, Russ Harris](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/russ-harris/wer-dem-glueck-hinterherrennt-laeuft-daran-vorbei/id/9783442173457/)\n\n📕[Der Weg zu echtem Selbstvertrauen, Russ Harris](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/russ-harris/der-weg-zu-echtem-selbstvertrauen/id/9783867810951/)\n\n📕[Arbeit - Sinn und Motivation, Harald Pichler](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/harald-pichler/arbeit-sinn-und-motivation/id/9783991002437/)\n\n📕[Selbstmanagement - ressourcenorientiert, Maja Storch, Frank Krause, Julia Weber](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/maja-storch/selbstmanagement-ressourcenorientiert/id/9783456862149/)\n\nBild von [StockSnap](https://pixabay.com/de/users/stocksnap-894430/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2591874) auf [Pixabay](https://pixabay.com/de/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2591874)"
 +++
 ### **Das (Arbeits-) Leben selbst gestalten**
 
@@ -18,18 +18,18 @@ Das sind zwei Titel von Arbeiten, die ich in den letzten Jahren geschrieben habe
 
 #### So beginnt es (meistens)
 
-Menschen fühlen eine zunehmende Unzufriedenheit, die sich in physischen oder psychischen Symptomen äussern kann, aber nicht muss. Der oft genannte Leidensdruck wird immer höher und irgendwann beginnt man zu googeln, greift nach einem Selbsthilfebuch oder sucht sich (professionelle) Hilfe. Weil wir Menschen es gerne möglichst einfach haben und schnelle Lösungen möchten, steigen wir auf (fragwürdige) Versprechen und reisserische Titel ein. Manchmal kann man Glück haben, aber nur manchmal.
+Unzufriedenheit im Job oder im Leben kommt oft schleichend. Menschen fühlen eine zunehmende Unzufriedenheit, die sich in physischen oder psychischen Symptomen äussern kann, aber nicht muss. Der oft genannte Leidensdruck wird immer höher und irgendwann beginnt man zu googeln, greift nach einem Selbsthilfebuch oder sucht sich (professionelle) Hilfe. Weil wir Menschen es gerne möglichst einfach haben und schnelle Lösungen möchten, steigen wir auf (fragwürdige) Versprechen und reisserische Titel ein. Manchmal hat man Glück und findet wirklich die Hilfe, die man braucht. Aber nur manchmal.
 
 #### Auch «Expert:innen» mögen es einfach
 
-Wer sind eigentlich diese Expert:innen? Bereits das ist eine Frage der Perspektive. Das hängt stark davon ab, auf was wir anspringen. Ist es das Wissenschaftliche, das Spirituelle, trauen wir Erfahrungsberichten oder komplexen Theorien? Ich habe den Eindruck, dass sich auch Expert:innen gerne in eine Richtung bewegen und spezialisieren. Daran ist übrigens nichts schlecht, falls hier dieser Eindruck entstehen sollte. Daran sollten wir aber denken, wenn wir von einem Ansatz oder von Gedanken richtig begeistert sind und denken, DIE Lösung gefunden zu haben.
+Wer sind eigentlich diese Expert:innen, die Bücher schreiben und Hilfe anbieten? Bereits das ist eine Frage der Perspektive. Das hängt stark davon ab, auf was wir anspringen. Ist es das Wissenschaftliche, das Spirituelle, trauen wir Erfahrungsberichten oder komplexen Theorien? Ich habe den Eindruck, dass sich auch Expert:innen gerne in eine Richtung bewegen und spezialisieren. Daran ist übrigens nichts schlecht, falls hier dieser Eindruck entstehen sollte. Daran sollten wir aber denken, wenn wir von einem Ansatz oder von Gedanken richtig begeistert sind und denken, DIE Lösung gefunden zu haben.
 
 #### Gutes von schlechtem Unterscheiden
 
 Wenn es nur so einfach wäre. Gut ist, was uns gut tut und doch sollten wir vorsichtig sein. Ein paar Hinweise auf Dinge, die langfristig nicht hilfreich sind:
 
 * Du musst nur dein Denken, dein Mindset ändern und es wird alles besser oder gut.
-* Die Menschen um dich sind das Problem, weil sie narzisstisch sind, toxisch, etc. 
+* Die Menschen um dich sind das Problem, weil sie narzisstisch, toxisch oder was auch immer sind. 
 * In 5 (hier können ganz verschiedene Zahlen stehen) Schritten, Minuten, Wochen.. Stressfrei, zum Wunschgewicht, etc. 
 
 #### Das Leben ist ein Prozess
@@ -38,7 +38,7 @@ Wir Menschen sind ein Teil der Erde und ein Teil der Natur. Davon schreibe ich i
 
 #### Was ist denn die Lösung?
 
-Die Lösung oder den einen Weg gibt es nicht. Jeder Mensch muss (leider? oder zum Glück?) seinen/ohren eigenen Weg finden. Nicht nur die Situationen, in denen wir stecken (auch, wenn sie ähnlich sein mögen), sind ganz verschieden, sondern auch unsere Erfahrungen, unser Wissensstand, unsere Verbindung zu uns selbst und so weiter.
+Die Lösung oder den einen Weg gibt es nicht. Jeder Mensch muss (leider? oder zum Glück?) seinen/ihren eigenen Weg finden. Nicht nur die Situationen, in denen wir stecken (auch wenn sie ähnlich sein mögen), sind ganz verschieden, sondern auch unsere Erfahrungen, unser Wissensstand, unsere Verbindung zu uns selbst und so weiter.
 
 #### Alles beginnt mit der Auseinandersetzung mit sich selbst
 
@@ -50,7 +50,7 @@ Auch wenn es oft bereits viel Mut braucht, um den ersten Schritt zu machen, reic
 
 #### Ansätze, die dir auf diesem Weg helfen können
 
-#### Die Akzeptanz- und Commitmenttherapie (Therapie kann man hier ganz gut auch durch Training oder ähnliches ersetzen.)
+#### Die Akzeptanz- und Commitment-Therapie (Therapie kann man hier ganz gut auch durch Training oder Ähnliches ersetzen.)
 
 Das ist ein neuerer Ansatz aus der Verhaltenstherapie, der mit achtsamkeits- und akzeptanzbasierten Teilen ergänzt ist. Es geht u. a. darum, negative Gedanken und Gefühle zu akzeptieren, dir deinen Werten bewusst zu werden und nach ihnen zu handeln. \
 \
