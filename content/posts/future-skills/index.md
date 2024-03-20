@@ -6,7 +6,7 @@ pinned = false
 tags = ["Lernen", "NewLearning", "Bildung", "Personalentwicklung", "Bildungsentwicklung"]
 image = "pexels-benjamin-lehman-1436129.jpg"
 description = "Wie sieht die Zukunft aus und welche Fähigkeiten werden in Zukunft wichtig sein? Kann diese Fragen überhaupt jemand beantworten? Lernen war immer wichtig und wird es auch bleiben. Könnte die Lernfähigkeit ein «Future Skill» sein?"
-footnotes = "Foto: [Benjamin Lehman](https://www.pexels.com/de-de/foto/heissluftballon-in-der-luft-1436129/), Pexels"
+footnotes = "📘 [Future Skills ](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/69-co-creators/future-skills/id/9783800666355/)30 Zukunftsentscheidende Kompetenzen und wie wir sie lernen können\n\n\n\nFoto: [Benjamin Lehman](https://www.pexels.com/de-de/foto/heissluftballon-in-der-luft-1436129/), Pexels"
 +++
 ### Future Skills
 
