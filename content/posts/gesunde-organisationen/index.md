@@ -6,7 +6,7 @@ pinned = false
 tags = ["Organisationsentwicklung", "Leadership"]
 image = "_eb1e8c02-7bf5-49bc-afdf-b8b0f9f6e5d0.jpg"
 description = "Gesunde Organisationen stellen die Menschen in den Mittelpunkt. Sie tun es in der Überzeugung, dass sie für ein erfolgreiches Unternehmen wesentlich sind. "
-footnotes = "Bild erstellt mit Bing Image Creator"
+footnotes = "📚**Passende Bücher**\n\n📘 [Future Skills, 30 Zukunftsentscheidende Kompetenzen und wie wir sie lernen können.](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/69-co-creators/future-skills/id/9783800666355/)\n\n📘 [Das neue Führen, Führen und sich führen lassen in Zeiten der Unvorhersehbarkeit, Bodo Janssen](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/bodo-janssen/das-neue-fuehren/id/9783424202854/)\n\n📘 [Zwischen Alt und Neu liegt gut, Wie wir mit Good Work eine zukunftsfähige Arbeitskultur gestalten können, ohne alles neu machen zu müssen, Jule Jankowski](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/jule-jankowski/zwischen-alt-und-neu-liegt-gut/id/9783800669332/)\n\n📘 [Reninventing Organizations, Ein Leitfaden zur Gestaltung sinnstiftender Formen der Zusammenarbeit, Frederic Laloux](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/frederic-laloux/reinventing-organizations/id/9783800649136/)\n\n📘 [Corporate Rebels, Wie Pioniere die Arbeitswelt revolutionieren](https://www.exlibris.ch/de/buecher-buch/e-books-deutsch/joost-minnaar/corporate-rebels/id/9789083004860/)\n\nBild erstellt mit Bing Image Creator"
 +++
 ## Gesunde Organisationen - Menschen führen, Räume schaffen, Zukunft gestalten.
 
