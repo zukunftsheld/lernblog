@@ -3,18 +3,18 @@ title = "Future Skills"
 date = "2022-06-04"
 draft = false
 pinned = false
-tags = ["Lernen", "NewLearning", "Bildung"]
+tags = ["Lernen", "NewLearning", "Bildung", "Personalentwicklung", "Bildungsentwicklung"]
 image = "pexels-benjamin-lehman-1436129.jpg"
 description = "Wie sieht die Zukunft aus und welche Fähigkeiten werden in Zukunft wichtig sein? Kann diese Fragen überhaupt jemand beantworten? Lernen war immer wichtig und wird es auch bleiben. Könnte die Lernfähigkeit ein «Future Skill» sein?"
 footnotes = "Foto: [Benjamin Lehman](https://www.pexels.com/de-de/foto/heissluftballon-in-der-luft-1436129/), Pexels"
 +++
 ### Future Skills
 
-Seit etwas mehr als zwei Jahren wird uns durch verschiedene Ereignisse vor Augen geführt, dass die Welt nicht mehr ist, wie sie einmal war. Wir merken, dass vieles schneller passiert und für viele vielleicht sogar zu schnell. Es ist ein Leben oder eine Welt, auf die wir nie wirklich vorbereitet wurden. Wäre es nicht die Aufgabe von Schule, uns auf so ein Leben vorzubereiten?
+Seit etwas mehr als zwei Jahren wird uns durch verschiedene Ereignisse vor Augen geführt: Die Welt ist nicht mehr, wie sie einmal war. Wir merken, wie vieles schneller passiert und für viele vielleicht sogar zu schnell. Es ist ein Leben oder eine Welt, auf die wir nie wirklich vorbereitet wurden. Wäre es nicht die Aufgabe von Schule, uns auf so ein Leben vorzubereiten?
 
 #### So sieht die Zukunft aus
 
-Natürlich weiss ich das nicht und habe höchstens eine vage Vorstellung davon, wie die Welt in 10.., 20.. Jahren aussehen könnte. Das geht sicher nicht nur mir so, sondern eigentlich uns allen. Klar, wir können Forschen, Prognosen machen, Tendenzen erkennen und doch werden wir nie wissen, wie die Zukunft wird. Es deutet aber sehr viel darauf hin, das vieles noch digitaler, noch ortsunabhängiger, noch unsicherer und unbeständiger wird. Welche Fähigkeiten könnten oder sollten also in so einer Welt vorhanden sein? Auch diese Frage ist schwierig zu beantworten. Eine wichtige Kompetenz könnte die Lernfähigkeit sein.
+Natürlich weiss ich das nicht und habe höchstens eine vage Vorstellung davon, wie die Welt in 10.., 20.. Jahren aussehen könnte. Das geht sicher nicht nur mir so, sondern eigentlich uns allen. Klar, wir können forschen, Prognosen machen, Tendenzen erkennen und doch werden wir nie wissen, wie die Zukunft wird. Es deutet aber sehr viel darauf hin, dass vieles noch digitaler, noch ortsunabhängiger, noch unsicherer und unbeständiger wird. Welche Fähigkeiten könnten oder sollten also in so einer Welt vorhanden sein? Auch diese Frage ist schwierig zu beantworten. Eine wichtige Kompetenz könnte die Lernfähigkeit sein.
 
 #### Lernfähigkeit - die Kompetenz der Zukunft?
 
@@ -30,11 +30,11 @@ So traurig es klingt, so schön ist es.
 
 **Lernen verlernen ist:**
 
-* Wenn wir erkennen, dass wir immer Lernen (können). 
+* Wenn wir erkennen, dass wir immer lernen (können). 
 * Wenn wir erkennen, dass Lernen nicht Wissen bedeutet und immer unfertig ist.
 * Wenn wir erkennen, dass Lernen eine Bewegung ist, die sich irgendwo zwischen erkennen, verarbeiten, wissen, vergessen, .. bewegt.
 * Wenn wir zurück zu unserer Neugier, zum neugierigen Kind in uns finden.
-* Wenn wir wissen, dass einmal Gelerntes, Erkanntes oder Vermutetes sich immer ändern kann und dem Neuen und fremden mit Offenheit und Neugier, aber auch mit einem kritischen Blick begegnen und hinterfragen.
+* Wenn wir wissen, dass einmal Gelerntes, Erkanntes oder Vermutetes sich immer ändern kann und dem Neuen und Fremden mit Offenheit und Neugier, aber auch mit einem kritischen Blick begegnen und hinterfragen.
 * Wenn wir erkennen, dass Lernen nichts mit Zertifikaten zu tun hat.
 * und wenn wir (an)erkennen, dass hier noch so vieles stehen könnte und einiges von dem erwähnten sich in naher oder ferner Zukunft vielleicht als Irrtum entpuppt.
 
