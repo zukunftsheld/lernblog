@@ -6,7 +6,7 @@ pinned = false
 tags = ["Organisationsentwicklung", "Gesundheitsmanagement", "Personalentwicklung", "Gesundheit"]
 image = "2c521ff4-daa8-475f-bb92-91bfb61dcd6c.jpg"
 description = "Wenn es um unsere Gesundheit geht, können wir vieles positiv beeinflussen. Das gilt für uns als Individuen sowie für Unternehmen, welche gesundheitserhaltende und gesundheitsfördernde Arbeitsbedingungen schaffen können. Beim der Erhaltung und Förderung der Gesundheit geht es also um eine geteilte Verantwortung. "
-footnotes = "**Buch**\n\n📕[Wofür stehen Sie morgens auf, Warum Sinn und Bedeutung entscheidend für unsere Gesundheit sind von Prof. Dr. Tobias Esch ](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/tobias-esch/wofuer-stehen-sie-morgens-auf/id/9783833887611/)\n\n🔗**Achtsamkeit/Meditation**\n\n<https://www.bensblog.ch/tags/achtsamkeit/>\n\n🔗**Selbstmanagement**\n\n<https://www.bensblog.ch/tags/selbstmanagement/>\n\nBild: Sandra Zaugg"
+footnotes = "**Buch**\n\n📕[Wofür stehen Sie morgens auf, Warum Sinn und Bedeutung entscheidend für unsere Gesundheit sind von Prof. Dr. Tobias Esch ](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/tobias-esch/wofuer-stehen-sie-morgens-auf/id/9783833887611/)\n\n🔗**Achtsamkeit/Meditation**\n\n<https://www.bensblog.ch/tags/achtsamkeit/>\n\n🔗**Selbstmanagement**\n\n<https://www.bensblog.ch/tags/selbstmanagement/>\n\nTitelbild: Sandra Zaugg\\\nFotos: Ben Zaugg"
 +++
 ## Was können Menschen und Unternehmen für die Gesundheitserhaltung und Gesundheitsföderung tun?
 
