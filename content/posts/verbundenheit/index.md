@@ -6,13 +6,13 @@ pinned = false
 tags = ["Organisationsentwicklung", "Leadership", "Gesundheit", "Persönlichkeitsentwicklung", "Verbundenheit"]
 image = "pexels-james-wheeler-3989770.jpg"
 description = "Wir leben in einer stark vernetzten Welt. Trotzdem oder vielleicht gerade deswegen fehlt es an vielen Orten an Verbundenheit. Menschen sind zwar verbunden oder eher digital vernetzt, aber sind sie wirklich mit anderen in Verbindung?"
-footnotes = "📺Passende zu Verbundenheit und deren Auswirkung auf unsere Gesundheit ist auch die Folge von Sternstunde Philosophie auf SRF mit [Thomas Fuchs – Macht uns die Gesellschaft krank?](https://www.srf.ch/play/tv/sternstunde-philosophie/video/thomas-fuchs---macht-uns-die-gesellschaft-krank?urn=urn:srf:video:381af386-15cb-4b65-8c9d-d56dfa0a3d6a)\n\n**Bücher:**\n\n📕[Mindful Leadership, Die 7 Prinzipien achtsamer Führung von Marc Lesser ](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/marc-lesser/mindful-leadership-die-7-prinzipien-achtsamer-fuehrung/id/9783867812740/)\n\n📕[Das neue Führen, Führen und sich führen lassen in Zeiten der Unvorhersehbarkeit von Bodo Janssen](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/bodo-janssen/das-neue-fuehren/id/9783424202854/)\n\n📕[Wofür stehen Sie morgens auf? Warum Sinn und Bedeutung für unsere Gesundheit wichtig sind von Prof. Dr.  Tobias Esch](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/tobias-esch/wofuer-stehen-sie-morgens-auf/id/9783833887611/)\n\n📕[Psychologie des Lebenssinns, Tatjana Schnell ](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/tatjana-schnell/psychologie-des-lebenssinns/id/9783662611197/)\n\n💻[Zum Dossier über Einsamkeit bei Pro Mente Sana gehts hier. ](https://promentesana.ch/angebote/anzeichen-erkennen/dossier-einsamkeit)\n\nBilder: Erstellt mit Copilot Image Creator"
+footnotes = "📺Passende zu Verbundenheit und deren Auswirkung auf unsere Gesundheit ist auch die Folge von Sternstunde Philosophie auf SRF mit [Thomas Fuchs – Macht uns die Gesellschaft krank?](https://www.srf.ch/play/tv/sternstunde-philosophie/video/thomas-fuchs---macht-uns-die-gesellschaft-krank?urn=urn:srf:video:381af386-15cb-4b65-8c9d-d56dfa0a3d6a)\n\n**Bücher:**\n\n📕[Mindful Leadership, Die 7 Prinzipien achtsamer Führung von Marc Lesser ](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/marc-lesser/mindful-leadership-die-7-prinzipien-achtsamer-fuehrung/id/9783867812740/)\n\n📕[Das neue Führen, Führen und sich führen lassen in Zeiten der Unvorhersehbarkeit von Bodo Janssen](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/bodo-janssen/das-neue-fuehren/id/9783424202854/)\n\n📕[Wofür stehen Sie morgens auf? Warum Sinn und Bedeutung für unsere Gesundheit wichtig sind von Prof. Dr.  Tobias Esch](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/tobias-esch/wofuer-stehen-sie-morgens-auf/id/9783833887611/)\n\n📕[Psychologie des Lebenssinns, Tatjana Schnell ](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/tatjana-schnell/psychologie-des-lebenssinns/id/9783662611197/)\n\n💻[Zum Dossier über Einsamkeit bei Pro Mente Sana gehts hier. ](https://promentesana.ch/angebote/anzeichen-erkennen/dossier-einsamkeit)\n\nFoto: [James Wheeler,](https://www.pexels.com/de-de/@souvenirpixels/) pixabay.com"
 +++
 # Verbundenheit – ein Anker in unsicheren Zeiten 
 
 Wir leben in einer stark vernetzten Welt. Trotzdem oder vielleicht gerade deswegen fehlt es an vielen Orten an (wirklicher) Verbundenheit. Menschen sind zwar verbunden oder eher digital vernetzt, aber sind sie wirklich mit anderen in Verbindung? 
 
-![](verbundenheit.jpg)
+![]()
 
 ## Wie komme ich auf dieses Thema? 
 
@@ -81,9 +81,7 @@ In der Welt, in der wir leben, ist es für Unternehmen wesentlich, Möglichkeite
 Im fünften Prinzip von Mindful Leadership Was ich bei Google und in der Küche eines Zen-Klosters lernte, die 7 Prinzipien achtsamer Führung schreibt Marc Lesser: 
 
 > «Das fünfte Prinzip in diesem Buch könnte sehr wohl die wichtigste Kompetenz überhaupt sein \[…]. Schon oft habe ich den Wandel erlebt, der binnen kurzer Zeit stattfinden kann, wenn Menschen sich tief wahrnehmen und sich ihrer gemeinsamen Menschlichkeit öffnen \[…].»
-
-
-
+>
 > «Wer sich seine Zukunftsfähigkeit bewahren will, wird um starke und sich tief verbundene Teams nicht herumkommen.» 
 >
 > *Das neue Führen (2023), Janssen B., S. 171* 
