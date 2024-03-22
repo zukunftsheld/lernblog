@@ -16,7 +16,7 @@ Da ist einmal der New Work Begriff, der vor vielen Jahren von Frithjof Bergmann 
 \
 New Work ist heute für viele aber eben Homeoffice, ortsunabhängiges Arbeiten, agiles Arbeiten oder all die Benefits, die Angestellte erhalten. Natürlich ist das schön, gut und angenehm, aber was ist denn New Work nun genau? \
 \
-Leider kann ich diese Frage nicht beantworten und ich bin mir nicht sicher, ob das irgendjemand kann. Die Welt verändert sich und vieles was zu der Zeit, in der das Buch von Bergmann entstand, kaum denkbar war, ist heute Realität und die Corona Pandemie hat vieles noch einmal beschleunigt. Gerade weil sich vieles so schnell verändert, müssen und dürfen wir immer wieder neue Lösungen und Wege finden.
+Leider kann ich diese Frage nicht beantworten und ich bin mir nicht sicher, ob das irgendjemand kann. Die Welt verändert sich und vieles, was zu der Zeit, in der das Buch von Bergmann entstand, kaum denkbar war, ist heute Realität und die Corona Pandemie hat vieles noch einmal beschleunigt. Gerade weil sich vieles so schnell verändert, müssen und dürfen wir immer wieder neue Lösungen und Wege finden.
 
 Wir bewegen uns bei New Work heute also irgendwo zwischen dem New Work-Ansatz von damals und dem New Work von heute. 
 
@@ -34,13 +34,13 @@ Wie die Welt hat sich auch die Arbeit bereits immer irgendwie gewandelt. Es sind
 
 #### Die Realität
 
-Es ist nicht so, dass ich einen Anspruch darauf hätte, die Realität zu kennen. Ich möchte viel eher das oder ein Bild zeichnen, welches das Grosse Ganze etwas besser zeigt und nicht Menschen ausschliesst oder die ganze neue Arbeit romantisiert. Es gibt für mich nicht das Patentrezept für andere und bessere Arbeitsformen oder neues Lernen. Wichtig ist, dass wir alle auf diesen Weg mitnehmen oder ihnen das mitgehen ermöglichen. 
+Es ist nicht so, dass ich einen Anspruch darauf hätte, die Realität zu kennen. Ich möchte viel eher das oder ein Bild zeichnen, welches das grosse Ganze etwas besser zeigt und nicht Menschen ausschliesst oder die ganze neue Arbeit romantisiert. Es gibt für mich nicht das Patentrezept für andere und bessere Arbeitsformen oder neues Lernen. Wichtig ist, dass wir alle auf diesen Weg mitnehmen oder ihnen das Mitgehen ermöglichen. 
 
 #### Neue Arbeit - wie soll denn das nun gehen?
 
-Schon wieder eine Frage, auf die ich keine fertige Antwort habe. In diesem Text habe ich immer wieder neue Arbeit mit neuem Lernen ergänzt. Für mich gehen diese beiden Begriffe Hand in Hand. Wenn Unternehmen sich auf den Weg zu «New Work» machen und eine Idee, ein Ziel oder eine Vision haben, dann kommt noch vieles auf sie zu. Es geht um das Lösen vom gewohnten, also auch raus aus der Komfortzone. Das ist nicht nur für das Unternehmen so, sondern auch für alle Menschen in diesem System. Raus aus der Komfortzone ist oft auch einfach unangenehm. Es beginnt also neben dem Veränderungs- auch ein Lernprozess, bei dem die Lerninhalte und -ziele oft noch gar nicht klar sein können. Es ist ein Lernen im Gehen, im Scheitern und in den Erfolgen.
+Schon wieder eine Frage, auf die ich keine fertige Antwort habe. In diesem Text habe ich immer wieder neue Arbeit mit neuem Lernen ergänzt. Für mich gehen diese beiden Begriffe Hand in Hand. Wenn Unternehmen sich auf den Weg zu «New Work» machen und eine Idee, ein Ziel oder eine Vision haben, dann kommt noch vieles auf sie zu. Es geht um das Lösen vom Gewohnten, also auch raus aus der Komfortzone. Das ist nicht nur für das Unternehmen so, sondern auch für alle Menschen in diesem System. Raus aus der Komfortzone ist oft auch einfach unangenehm. Es beginnt also neben dem Veränderungs- auch ein Lernprozess, bei dem die Lerninhalte und -ziele oft noch gar nicht klar sein können. Es ist ein Lernen im Gehen, im Scheitern und in den Erfolgen.
 
-Deshalb ist dieser Weg zu neuen Arbeits- und Lernformen auch ein ganz individueller. Natürlich kann man sich auf bekannte Dinge wie Design Thinking, Agilität, Organisations-, System- und Führungstheorien, Erkenntnisse aus der Neurobiologie sowie auf bekannte Beispiele aus der Praxis beziehen. Es bleibt aber doch immer ein individueller Prozess, den ein Unternehmen und die Menschen die dazu gehören, gehen müssen. 
+Deshalb ist dieser Weg zu neuen Arbeits- und Lernformen auch ein ganz individueller. Natürlich kann man sich auf bekannte Dinge wie Design Thinking, Agilität, Organisations-, System- und Führungstheorien, Erkenntnisse aus der Neurobiologie sowie auf bekannte Beispiele aus der Praxis beziehen. Es bleibt aber doch immer ein individueller Prozess, den ein Unternehmen und die Menschen, die dazu gehören, gehen müssen. 
 
 #### Na wie passt denn das jetzt alles zusammen
 
