@@ -12,7 +12,7 @@ footnotes = "📺Passende zu Verbundenheit und deren Auswirkung auf unsere Gesun
 
 Wir leben in einer stark vernetzten Welt. Trotzdem oder vielleicht gerade deswegen fehlt es an vielen Orten an (wirklicher) Verbundenheit. Menschen sind zwar verbunden oder eher digital vernetzt, aber sind sie wirklich mit anderen in Verbindung? 
 
-![]()
+![](pexels-jess-loiterton-5007207.jpg)
 
 ## Wie komme ich auf dieses Thema? 
 
