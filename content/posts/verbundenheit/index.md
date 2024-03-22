@@ -90,7 +90,7 @@ Zugehörigkeit hat übrigens auch einen Einfluss auf das Sinnerleben von Mensche
 
 ## Wir und die Natur - eine Ergänzung
 
-Was hier nur so halb passt, oft vergessen wird und doch (eigentlich) wirklich wichtig wäre, ist, dass wir Menschen ein Teil der Natur sind. Die Natur hat ihren Rhythmus und vieles ist miteinander verbunden oder «alles ist mit allem verbunden». Wir sind also ein Teil dieser Natur und können uns auch wieder mit ihr verbinden. Vielleicht finden wir sogar dort Zugehörigkeit, Verbundenheit und einen Sinn. Eine schöne und informative Doku dazu, wie in der Natur alles miteinander verbunden ist, hat Robert Marc Lehmann gemacht. Die Dokureihe «Mission Kanada» zum Thema «[Everything is connected](https://www.youtube.com/watch?v=8USKUnuJ3zQ)» findest du aus seinem [Youtube-Kanal](https://www.youtube.com/@MissionErde/videos).
+Was hier nur so halb passt, oft vergessen wird und doch (eigentlich) wirklich wichtig wäre, ist, dass wir Menschen ein Teil der Natur sind. Die Natur hat ihren Rhythmus und vieles ist miteinander verbunden oder «alles ist mit allem verbunden». Wir sind also ein Teil dieser Natur und können uns auch wieder mit ihr verbinden. Vielleicht finden wir sogar dort Zugehörigkeit, Verbundenheit und einen Sinn. Eine schöne und informative Doku dazu, wie in der Natur alles miteinander verbunden ist, hat Robert Marc Lehmann gemacht. Die Dokureihe «Mission Kanada» zum Thema «[Everything is connected](https://www.youtube.com/watch?v=8USKUnuJ3zQ)» findest du auf seinem [Youtube-Kanal](https://www.youtube.com/@MissionErde/videos).
 
 ## Schlussgedanken (für den Moment)
 
