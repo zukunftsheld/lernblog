@@ -61,7 +61,7 @@ In diesem Jahr verdiente ich das erste Mal Geld mit Auftragspodcasts. Weil ich u
 
 Kopfhörer [Audio Technica ATH-M30x](https://www.galaxus.ch/en/s1/product/audio-technica-ath-m30x-headphones-3827638?supplier=406802)
 
-12 Tischstative [K&M 23150-3](*%20**K&M%2023150-3**)
+2 Tischstative [K&M 23150-3](*%20**K&M%2023150-3**)
 
 2 XLR-Kabel (1x kurz & 1x lang)
 
