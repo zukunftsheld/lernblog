@@ -16,7 +16,7 @@ Beginnen wir doch zuerst bei der Definition von Gesundheit. Auf der Webseite des
 
 **\*Gesundheitsförderung** zielt gemäss der Weltgesundheitsorganisation WHO darauf ab, allen Menschen ein höheres Mass an Selbstbestimmung über ihre Gesundheit zu ermöglichen und sie damit zur Stärkung ihrer Gesundheit zu befähigen. Gesundheit steht damit für ein positives Konzept, das in gleicher Weise die Bedeutung sozialer und individueller Ressourcen für die Gesundheit betont wie auch die körperlichen Fähigkeiten.* 
 
-*Quelle: <https://www.edi.admin.ch/edi/de/home/themen/gesundheit-und-gesundheitsfoerderung.html>, aufgerufen am 17.02.2024*
+*Quelle: <https://www.edi.admin.ch/edi/de/home/themen/gesundheit-und-gesundheitsfoerderung.html>, aufgerufen am 02.03.2024*
 
 Wenn wir von Gesundheit sprechen, dann geht es immer um die psychische und physische Gesundheit und die lassen sich kaum trennen. Natürlich werden diese auch heute  noch meistens voneinander getrennt betrachtet, auch wenn die Verbindung immer mehr in den Fokus rückt.
 
