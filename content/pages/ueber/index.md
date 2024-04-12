@@ -10,13 +10,15 @@ description = "Hallo, ich bin Ben. \n\n"
 
 Hallo, ich bin Ben. 
 
-❤️‍🔥Ich beschäftige mich mit der Entwicklung, dem Lernen und der Begleitung von Menschen in der Arbeitswelt. Beruflich bin ich als Ausbildungsleiter in der Berufsbildung tätig.
+❤️‍🔥Ich beschäftige mich mit den Menschen und ihrer Arbeit. \
+Dazu gehören Entwicklung, das Lernen und die Begleitung von Menschen in der Arbeitswelt. Beruflich bin ich als Ausbildungsleiter in der Berufsbildung tätig.
 
 🧭Entwicklung von Menschen und Organisationen\
 🌟Leadership\
 🚀Bildungsentwicklung\
 💡Bildungsdesign\
-💭Innovative Bildung
+💭Innovative Bildung\
+👨‍💼HR
 
 Ich engagiere ich mich für die [Colearning-Bewegung](https://www.colearning.org/) und bin selber Colearner. Dieser Blog gibt Einblick in mein Lernen und bewegt sich zusammen mit mir. So ist aus dem ursprünglichen Lernblog ein (Lern-) Blog und Logbuch geworden. Ich schreibe über mein eigenes Lernen, über Gedanken und Möglichkeiten, unser (Arbeits-)Leben bewusst und aktiv zu gestalten.  
 
