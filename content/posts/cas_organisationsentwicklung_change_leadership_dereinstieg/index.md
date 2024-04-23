@@ -30,7 +30,7 @@ Das Ziel (und ich lasse es mir offen) ist, dass ich hier regelmässige über den
 
 Denn: Lernprozesse öffentlich sichtbar zu machen braucht auch Mut. Das mag bei mir und im Kontext dieses Blogs widersprüchlich klingen. Es sind jedoch zwei ganz unterschiedliche Dinge, den Lernprozess als Lernen zu teilen oder über die erlangte «Expertise» oder bearbeitetes Thema öffentlich zu schreiben. Ich kenne wenige Menschen, die ihre Lernprozesse wirklich bewusst teilen und diese (während des laufenden Prozesses) als solche benennen.
 
-Lernen teilen, gehört jedoch zu [Colearning](https://www.colearning.org) und die geteilten Inhalte können andere inspirieren. Sie öffnen die Möglichkeiten für einen Austausch unter Gleichgesinnten oder Menschen, die per Zufall auf diesen Blog stossen.
+Lernen teilen, gehört jedoch zu [Colearning](https://www.colearning.org) und die geteilten Inhalte können andere inspirieren. Sie öffnen die Möglichkeiten für einen Austausch unter Gleichgesinnten oder Menschen, die per Zufall auf diesen Blog stossen. Ich werde auch das bereits laufende Mentoring mit [Samuel Niklaus](https://www.linkedin.com/in/samuel-niklaus/) weiterführen. Zu seinem (Lern-) Blog [gehts hier](https://projectlead.ch/teilnahmebericht-erster-teil-fachkurs-facilitator-psychologische-sicherheit/). 
 
 ## Der Einstieg – Überblick verschaffen
 
