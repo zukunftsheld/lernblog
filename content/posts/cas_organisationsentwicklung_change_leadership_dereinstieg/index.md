@@ -1,7 +1,7 @@
 +++
 title = "CAS Organisationsentwicklung & Change Leadership - Der Einstieg"
 date = "2024-04-23"
-draft = true
+draft = false
 pinned = false
 tags = ["CAS", "Organisationsentwicklung", "Change", "Leadership"]
 image = "9.png"
