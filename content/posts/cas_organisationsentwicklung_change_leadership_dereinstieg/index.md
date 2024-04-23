@@ -47,7 +47,7 @@ Nach einigem Pröbeln habe ich mich entschieden, für den Start und den Überbli
 \
 Bei Change spricht man häufiger von Management als von Leadership. Vielleicht ist dies der Grund, warum viele Change-Prozesse scheitern. Für mich irgendwie klar, dass man Change kaum managen, also konkret planen, steuern und kontrollieren kann. Man wird dabei der Natur der Menschen nicht gerecht, wobei das halt ein altes (und teilweise immer noch aktuelles) Bild der Arbeitswelt widerspiegelt. Zudem wandelt sich die (Arbeits-) Welt so schnell, dass Pläne oft hinüber sind, sobald man in die Umsetzung kommt. Ich habe Change-Prozesse erlebt, in sehr klassischen (Hierarchie-) Strukturen gearbeitet und das Umfeld einer soziokratischen Organisation hautnah und über längere Zeit erlebt. Teilhabe, Mut, gemeinsame Verantwortung, gute und aktive Kommunikation sind nur einige Elemente, die ich bei Change Leadership und einer zukunftsfähigen Organisation sehe. 
 
-> «Menschen wehren sich nicht gegen Veränderungen, sondern dagegen verändert zu werden.»
+> «Menschen wehren sich nicht gegen Veränderungen, sondern dagegen, verändert zu werden.»
 >
 > *Peter Senge*
 
