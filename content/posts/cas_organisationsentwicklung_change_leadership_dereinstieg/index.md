@@ -30,7 +30,7 @@ Das Ziel (und ich lasse es mir offen) ist, dass ich hier regelmässige über den
 
 Lernen teilen, gehört jedoch zu [Colearning](https://www.colearning.org) und die geteilten Inhalte können andere inspirieren. Sie öffnen die Möglichkeiten für einen Austausch unter Gleichgesinnten oder Menschen, die per Zufall auf diesen Blog stossen.
 
-![](9.png)
+![](blue-gradient-christian-church-schedule-he-is-risen-easter-postcard-3.png)
 
 ##  Der Einstieg – Überblick verschaffen
 
