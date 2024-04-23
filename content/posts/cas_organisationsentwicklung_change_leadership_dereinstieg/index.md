@@ -5,6 +5,8 @@ draft = true
 pinned = false
 tags = ["CAS", "Organisationsentwicklung", "Change", "Leadership"]
 image = "9.png"
+description = "Ich habe ein CAS in Organisationsentwicklung und Change Leadership begonnen. In diesem Beitrag schreibe ich über den Einstieg, Pläne und erste Gedanken. "
+footnotes = "📺[Interview Prof. Peter Kruse über Change Management](https://www.youtube.com/watch?v=FLFyoT7SJFs)\n\n📕[Laloux Frederic (2015), Reinventing Organizations, Ein Leitfaden zur Gestlatung sinnstiftender Formen der Zusammenarbeit, Vahlen Verlag](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/frederic-laloux/reinventing-organizations/id/9783800649136/)\n\n📕[Minnaar Jost, de Morree Pim (2020), Corporate Rebels, Wie Pioniere die Arbeitswelt revolutionieren](https://www.exlibris.ch/de/buecher-buch/e-books-deutsch/joost-minnaar/corporate-rebels/id/9789083004860/)\n\n 🔗 <https://reinventingorganizationswiki.com/de/>\n\nTitelbild: Erstellt mit KI, Bing Image Creator\n\nFoto: Ben Zaugg\n\nBild 2: Erstellt mit KI, Bing Image Creator"
 +++
 ## CAS Organisationsentwicklung & Change Leadership 
 
@@ -26,7 +28,9 @@ Das Ziel (und ich lasse es mir offen) ist, dass ich hier regelmässige über den
 
  Denn: Lernprozesse sichtbar zu machen braucht auch Mut. Das mag bei mir und im Kontext dieses Blogs widersprüchlich klingen. Es sind jedoch zwei ganz unterschiedliche Dinge, den Lernprozess als Lernen zu teilen oder über die erlangte «Expertise» oder bearbeitetes Thema öffentlich zu schreiben. Ich kenne wenige Menschen, die ihre Lernprozesse wirklich bewusst teilen und diese (während des laufenden Prozesses) als solche benennen.
 
-Lernen teilen, gehört jedoch zu Colearning und die geteilten Inhalte können andere inspirieren. Sie öffnen die Möglichkeiten für einen Austausch unter Gleichgesinnten oder Menschen, die per Zufall auf diesen Blog stossen.
+Lernen teilen, gehört jedoch zu [Colearning](https://www.colearning.org) und die geteilten Inhalte können andere inspirieren. Sie öffnen die Möglichkeiten für einen Austausch unter Gleichgesinnten oder Menschen, die per Zufall auf diesen Blog stossen.
+
+![](9.png)
 
 ##  Der Einstieg – Überblick verschaffen
 
@@ -36,11 +40,19 @@ Organisationsentwicklung und Change Leadership sind weite Felder. Ja, eigentlich
 
 Nach einigem Pröbeln habe ich mich entschieden, für den Start und den Überblick eine Zusammenstellung der Themen auf Padlet zu machen. Diese ergänze ich (für den Moment) mit einem miro Mindmap. Beide Tools bieten mir zwar (in der kostenlosen Version) nicht alle gewünschten Möglichkeiten zur Strukturierung und Verknüpfung, reichen jedoch aus. Ich vertiefe mich also in die auf der Lernplattform zur Verfügung gestellten Texte und Videos. Viele dieser Themen und Autor:innen sind mir bereits begegnet. Nun tauche ich jedoch in einer anderen Tiefe ab. Ich markiere Textelemente, halte Videos an und spiele Abschnitte ein zweites, drittes, viertes Mal ab. Ich notiere Zitate und mir wichtige Inhalte. Vieles bringt mein Hirn oft automatisch in Zusammenhänge und manchmal in Widersprüche. Während ich das hier schreibe, bin ich mir nicht sicher, ob ich den Link zum Paldet hier teilen soll oder ob das doch irgendwie zu persönlich ist. Und so lasse ich es einfach für den Moment. Zudem führe ich ein Notizbuch, weil das Denken mit der Hand immer noch eine der schönsten Formen für mich ist. 
 
-((Bild Notizbuch))
+![](img_9350.jpg)
 
 ### Erster Themenüberblick
 
 \
 Bei Change spricht man häufiger von Management als von Leadership. Vielleicht ist dies der Grund, warum viele Change-Prozesse scheitern. Für mich irgendwie klar, dass man Change kaum managen, also konkret planen, steuern und kontrollieren kann. Man wird dabei der Natur der Menschen nicht gerecht, wobei das halt ein altes (und teilweise immer noch aktuelles) Bild der Arbeitswelt widerspiegelt. Zudem wandelt sich die (Arbeits-) Welt so schnell, dass Pläne oft hinüber sind, sobald man in die Umsetzung kommt. Ich habe Change-Prozesse erlebt, in sehr klassischen (Hierarchie-) Strukturen gearbeitet und das Umfeld einer soziokratischen Organisation hautnah und über längere Zeit erlebt. Teilhabe, Mut, gemeinsame Verantwortung, gute und aktive Kommunikation sind nur einige Elemente, die ich bei Change Leadership und einer zukunftsfähigen Organisation sehe. 
 
-Frederic Laloux beschreibt in seinem Buch Reinventing Organizations die unterschiedlichen Entwicklungsstufen von Unternehmen und wo wir heute stehen. Er konnte anhand einiger Beispiele aufzeigen, dass (grosse und erfolgreiche) Unternehmen den Wandel zu lebendigen Organisationen (oder Ökosystemen) geschafft haben. Nicht nur er, auch die Corporate Rebels haben viele Unternehmen besucht und beschreiben, wie Menschen zukunftsfähige Organisationen entweder aufgebaut oder transformiert haben. Dabei geht es um Agilität, um lernende Organisationen, Mut, Vertrauen, Transparenz und noch so vieles mehr. Gerade weil viele Unternehmen noch in für die Zukunft wohl hindernden Strukturen feststecken, werde ich mich vermutlich im weiteren Verlauf dieser Weiterbildung mit den Übergängen zu lebendigen Organisationen beschäftigen.
+> «Menschen wehren sich nicht gegen Veränderungen, sondern dagegen verändert zu werden.»
+>
+> *Peter Senge*
+
+Frederic Laloux beschreibt in seinem Buch Reinventing Organizations die unterschiedlichen Entwicklungsstufen von Unternehmen und wo wir heute stehen. Er konnte anhand einiger Beispiele aufzeigen, dass (grosse und erfolgreiche) Unternehmen den Wandel zu lebendigen Organisationen (oder Ökosystemen) geschafft haben. Nicht nur er, auch die [Corporate Rebels](https://www.corporate-rebels.com) haben viele Unternehmen besucht und beschreiben, wie Menschen zukunftsfähige Organisationen entweder aufgebaut oder transformiert haben. Dabei geht es um Agilität, um lernende Organisationen, Mut, Vertrauen, Transparenz und noch so vieles mehr. Gerade weil viele Unternehmen noch in für die Zukunft wohl hindernden Strukturen feststecken, werde ich mich vermutlich im weiteren Verlauf dieser Weiterbildung mit den Übergängen zu lebendigen und lernenden Organisationen beschäftigen. 
+
+## Die Reise geht weiter.
+
+![](bildschirmfoto-2024-04-23-um-13.15.57.png)
