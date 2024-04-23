@@ -20,9 +20,7 @@ Seit mehr als zehn Jahren beschäftige ich mich intensiv mit der Begleitung von 
 
 ### Warum ich mich für genau dieses CAS entschieden habe
 
-Der erste Grund ist ganz einfach. Die Kosten bewegen sich in einem Rahmen, den ich im Moment gut selbst finanzieren kann. Am [ikf](https://ikf.ch/de) kann ich die (Lern-) Zeiten, die Tiefe der Inhalte und die Verweildauer bei einzelnen Themen selbst bestimmen. Am Ende gibt’s ein Zertifikat, was ja bekanntlich auf dem Arbeitsmarkt gewünscht wird und hilft. Ich beschäftige mich bereits seit längerer Zeit mit den Themen, die in diesem CAS behandelt werden. Ich werde es auch danach tun. Nun jedoch für einen Moment geordnet(er) als (vielleicht) sonst, mit Begleitung und mit konkretem Abschluss. Zudem kann ich meine Lernorte selbst bestimmen. 
-
-
+Der erste Grund ist ganz einfach. Die Kosten bewegen sich in einem Rahmen, den ich im Moment gut selbst finanzieren kann. Am [ikf](https://ikf.ch/de) kann ich die (Lern-) Zeiten, den Fokus und die Tiefe der Inhalte und die Verweildauer bei einzelnen Themen selbst bestimmen. Hier lerne ich für mich und die Richtung, in die ich gehen will. Am Ende gibt’s ein Zertifikat, was ja bekanntlich auf dem Arbeitsmarkt gewünscht wird und hilft. Ich beschäftige mich bereits seit längerer Zeit mit den Themen, die in diesem CAS behandelt werden. Ich werde es auch danach tun. Nun jedoch für einen Moment geordnet(er) als (vielleicht) sonst, mit Begleitung und mit konkretem Abschluss. Zudem kann ich meine Lernorte selbst bestimmen, was für mich wichtig ist. 
 
 ![So könnte einer meiner idealen Lernorte aussehen. Sieht doch besser aus als ein Kurszimmer, oder?](_c7986d77-1556-426f-bbf2-9b682f24b546.jpg)
 
