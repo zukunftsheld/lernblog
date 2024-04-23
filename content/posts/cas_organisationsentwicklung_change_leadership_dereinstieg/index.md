@@ -12,7 +12,7 @@ footnotes = "📺[Interview Prof. Peter Kruse über Change Management](https://w
 
 ### Eine kurze Einleitung 
 
-Früher lernte ich nicht gerne. Wobei dieses Lernen damit zu tun hatte, Dinge in meinen Kopf zu stopfen. Was ich «lernte», interessierte mich selten oder hatte keine Relevanz für mein Leben. Natürlich gab es etliche Themen, die mich interessierten, die waren jedoch für mein Leben anscheinend nicht relevant. Das war früher. Insbesondere in den letzten Jahren habe ich mich intensiv mit Lernen auseinandergesetzt und bin bewusst lernend unterwegs und zeige seit 2021 auch immer wieder Themen aus meinen Lernprozessen und/oder Gedanken, die mich bewegen. Macht eine organisierte Weiterbildung da überhaupt noch Sinn? Jein. 
+Früher lernte ich nicht gerne. Wobei dieses Lernen damit zu tun hatte, Dinge in meinen Kopf zu stopfen. Was ich «lernte», interessierte mich selten oder hatte keine Relevanz für mein Leben. Natürlich gab es etliche Themen, die mich interessierten, die waren jedoch für mein Leben anscheinend nicht relevant. Das war früher. Insbesondere in den letzten Jahren habe ich mich intensiv mit Lernen auseinandergesetzt, bin im Alltag bewusst lernend unterwegs und zeige seit 2021 auch immer wieder Themen aus meinen Lernprozessen und/oder Gedanken, die mich bewegen. Macht eine organisierte Weiterbildung da überhaupt noch Sinn? Jein. 
 
 ### Warum Organisationsentwicklung & Change Leadership?
 
@@ -20,13 +20,17 @@ Seit mehr als zehn Jahren beschäftige ich mich intensiv mit der Begleitung von 
 
 ### Warum ich mich für genau dieses CAS entschieden habe
 
-Der erste Grund ist ganz einfach. Die Kosten bewegen sich in einem Rahmen, den ich im Moment gut selbst finanzieren kann. Am [ikf](https://ikf.ch/de) kann ich die (Lern-) Zeiten, die Tiefe der Inhalte und die Verweildauer bei einzelnen Themen selbst bestimmen. Am Ende gibt’s ein Zertifikat, was ja bekanntlich auf dem Arbeitsmarkt gewünscht wird und hilft. Ich beschäftige mich bereits seit längerer Zeit mit den Themen, die in diesem CAS behandelt werden. Ich werde es auch danach tun. Nun jedoch für einen Moment geordnet(er) als (vielleicht) sonst, mit Begleitung und mit konkretem Abschluss. 
+Der erste Grund ist ganz einfach. Die Kosten bewegen sich in einem Rahmen, den ich im Moment gut selbst finanzieren kann. Am [ikf](https://ikf.ch/de) kann ich die (Lern-) Zeiten, die Tiefe der Inhalte und die Verweildauer bei einzelnen Themen selbst bestimmen. Am Ende gibt’s ein Zertifikat, was ja bekanntlich auf dem Arbeitsmarkt gewünscht wird und hilft. Ich beschäftige mich bereits seit längerer Zeit mit den Themen, die in diesem CAS behandelt werden. Ich werde es auch danach tun. Nun jedoch für einen Moment geordnet(er) als (vielleicht) sonst, mit Begleitung und mit konkretem Abschluss. Zudem kann ich meine Lernorte selbst bestimmen. 
+
+
+
+![So könnte einer meiner idealen Lernorte aussehen. Sieht doch besser aus als ein Kurszimmer, oder?](_c7986d77-1556-426f-bbf2-9b682f24b546.jpg)
 
 ### Der Plan
 
 Das Ziel (und ich lasse es mir offen) ist, dass ich hier regelmässige über den Verlauf des CAS schreibe. Vielleicht werden es aber auch «nur» Themen, die ich beleuchte, ohne den Bezug zum Verlauf des CAS oder des gemachten Lernprozesses zu nehmen. 
 
- Denn: Lernprozesse sichtbar zu machen braucht auch Mut. Das mag bei mir und im Kontext dieses Blogs widersprüchlich klingen. Es sind jedoch zwei ganz unterschiedliche Dinge, den Lernprozess als Lernen zu teilen oder über die erlangte «Expertise» oder bearbeitetes Thema öffentlich zu schreiben. Ich kenne wenige Menschen, die ihre Lernprozesse wirklich bewusst teilen und diese (während des laufenden Prozesses) als solche benennen.
+Denn: Lernprozesse öffentlich sichtbar zu machen braucht auch Mut. Das mag bei mir und im Kontext dieses Blogs widersprüchlich klingen. Es sind jedoch zwei ganz unterschiedliche Dinge, den Lernprozess als Lernen zu teilen oder über die erlangte «Expertise» oder bearbeitetes Thema öffentlich zu schreiben. Ich kenne wenige Menschen, die ihre Lernprozesse wirklich bewusst teilen und diese (während des laufenden Prozesses) als solche benennen.
 
 Lernen teilen, gehört jedoch zu [Colearning](https://www.colearning.org) und die geteilten Inhalte können andere inspirieren. Sie öffnen die Möglichkeiten für einen Austausch unter Gleichgesinnten oder Menschen, die per Zufall auf diesen Blog stossen.
 
@@ -38,7 +42,7 @@ Organisationsentwicklung und Change Leadership sind weite Felder. Ja, eigentlich
 
 ### Überblick und Zusammenhänge
 
-Nach einigem Pröbeln habe ich mich entschieden, für den Start und den Überblick eine Zusammenstellung der Themen auf Padlet zu machen. Diese ergänze ich (für den Moment) mit einem miro Mindmap. Beide Tools bieten mir zwar (in der kostenlosen Version) nicht alle gewünschten Möglichkeiten zur Strukturierung und Verknüpfung, reichen jedoch aus. Ich vertiefe mich also in die auf der Lernplattform zur Verfügung gestellten Texte und Videos. Viele dieser Themen und Autor:innen sind mir bereits begegnet. Nun tauche ich jedoch in einer anderen Tiefe ab. Ich markiere Textelemente, halte Videos an und spiele Abschnitte ein zweites, drittes, viertes Mal ab. Ich notiere Zitate und mir wichtige Inhalte. Vieles bringt mein Hirn oft automatisch in Zusammenhänge und manchmal in Widersprüche. Während ich das hier schreibe, bin ich mir nicht sicher, ob ich den Link zum Paldet hier teilen soll oder ob das doch irgendwie zu persönlich ist. Und so lasse ich es einfach für den Moment. Zudem führe ich ein Notizbuch, weil das Denken mit der Hand immer noch eine der schönsten Formen für mich ist. 
+Nach einigem Pröbeln habe ich mich entschieden, für den Start und den Überblick eine Zusammenstellung der Themen auf Padlet zu machen. Diese ergänze ich (für den Moment) mit einem miro Mindmap. Beide Tools bieten mir zwar (in der kostenlosen Version) nicht alle gewünschten Möglichkeiten zur Strukturierung und Verknüpfung, reichen jedoch aus. Ich vertiefe mich also in die auf der Lernplattform zur Verfügung gestellten Texte und Videos. Viele dieser Themen und einige Autor:innen sind mir bereits begegnet. Nun tauche ich jedoch in einer anderen Tiefe ab. Ich markiere Textelemente, halte Videos an und spiele Abschnitte ein zweites, drittes, viertes Mal ab. Ich notiere Zitate und mir wichtige Inhalte. Vieles bringt mein Hirn oft automatisch in Zusammenhänge und manchmal in Widersprüche. Während ich das hier schreibe, bin ich mir nicht sicher, ob ich den Link zum Paldet hier teilen soll oder ob das doch irgendwie zu persönlich ist. Und so lasse ich es einfach für den Moment. Zudem führe ich ein Notizbuch, weil das Denken mit der Hand immer noch eine der schönsten Formen für mich ist. 
 
 ![](img_9350.jpg)
 
