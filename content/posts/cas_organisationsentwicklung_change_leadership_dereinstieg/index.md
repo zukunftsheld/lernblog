@@ -4,7 +4,7 @@ date = "2024-04-23"
 draft = false
 pinned = false
 tags = ["CAS", "Organisationsentwicklung", "Change", "Leadership"]
-image = "9.png"
+image = "blue-gradient-christian-church-schedule-he-is-risen-easter-postcard-2.png"
 description = "Ich habe ein CAS in Organisationsentwicklung und Change Leadership begonnen. In diesem Beitrag schreibe ich über den Einstieg, Pläne und erste Gedanken. "
 footnotes = "📺[Interview Prof. Peter Kruse über Change Management](https://www.youtube.com/watch?v=FLFyoT7SJFs)\n\n📕[Laloux Frederic (2015), Reinventing Organizations, Ein Leitfaden zur Gestlatung sinnstiftender Formen der Zusammenarbeit, Vahlen Verlag](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/frederic-laloux/reinventing-organizations/id/9783800649136/)\n\n📕[Minnaar Jost, de Morree Pim (2020), Corporate Rebels, Wie Pioniere die Arbeitswelt revolutionieren](https://www.exlibris.ch/de/buecher-buch/e-books-deutsch/joost-minnaar/corporate-rebels/id/9789083004860/)\n\n 🔗 <https://reinventingorganizationswiki.com/de/>\n\nTitelbild: Erstellt mit KI, Bing Image Creator\n\nFoto: Ben Zaugg\n\nBild 2: Erstellt mit KI, Bing Image Creator"
 +++
