@@ -30,9 +30,9 @@ Das Ziel (und ich lasse es mir offen) ist, dass ich hier regelmässige über den
 
 Lernen teilen, gehört jedoch zu [Colearning](https://www.colearning.org) und die geteilten Inhalte können andere inspirieren. Sie öffnen die Möglichkeiten für einen Austausch unter Gleichgesinnten oder Menschen, die per Zufall auf diesen Blog stossen.
 
-![](blue-gradient-christian-church-schedule-he-is-risen-easter-postcard-3.png)
+## Der Einstieg – Überblick verschaffen
 
-##  Der Einstieg – Überblick verschaffen
+![](blue-gradient-christian-church-schedule-he-is-risen-easter-postcard-3.png)
 
 Organisationsentwicklung und Change Leadership sind weite Felder. Ja, eigentlich sind Change und Leadership je ein separater Bereich. Der Einstieg des CAS sieht vor, sich zuerst einen Überblick zu verschaffen. Gerade weil ich mich bereits länger mit diesen Themenfeldern beschäftige, fällt es mir gar nicht so leicht, den Themenfokus zu behalten. Zuerst wollte ich mir jegliche Themengebiete offenlassen. Allfällige «Lücken» füllen und mich später auf ein Gebiet fokussieren. Das schafft jedoch (zu viel) Verwirrung und dient auch meinem Lernprozess kaum. Bereits meine Interessengebiete sind vielfältig und tief. Nach dem ersten Gespräch mit meinen Lerncoach wurde mir (wieder) klar, dass ich mich auf meine Stärken und Interessen fokussieren darf. Das hat diese kleine Blockade gelöst und der Flow ist wieder da. Ich gehe davon aus, dass ich mich vertieft mit der Entwicklung von Organisationen beschäftigen werde, die in einer komplexen Welt nicht nur überleben, sondern leben. 
 
