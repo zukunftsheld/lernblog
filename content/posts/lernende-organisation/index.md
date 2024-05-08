@@ -48,7 +48,7 @@ Teams müssen nicht nur in der Lage sein, gemeinsam zu arbeiten, sondern auch ge
 
 Und hier kommt die fünfte Disziplin. Die ersten vier sind die Grundlage oder die Voraussetzung für diese. Es braucht ein ganzheitliches Denken, einen systemischen Blick auf die Organisation. Wir müssen die Komplexität der Organisation (an-)erkennen und verstehen können. 
 
-![](img_9390.jpg)
+![](img_9390-2.jpg)
 
 ## Ergänzende Gedanken
 
