@@ -1,6 +1,6 @@
 +++
 title = "So gestalte ich mein Lernen "
-date = "2024-05-07"
+date = "2024-05-03"
 draft = false
 pinned = false
 tags = ["CAS", "Lernen", "Colearning", "Bildung"]
