@@ -1,7 +1,7 @@
 +++
 title = "Die lernende Organisation"
-date = "2024-05-07"
-draft = true
+date = "2024-05-08"
+draft = false
 pinned = false
 tags = ["CAS", "Organisationsentwicklung", "Personalentwicklung", "Lernen", "Leadership"]
 image = "surfers-4390427_1280.jpg"
@@ -11,6 +11,8 @@ footnotes = "📚**Passende** **Bücher**\n\n📕[Selbstmanagement ressourcenori
 ## Einleitende Gedanken
 
 Auch in einer Welt, in der wir nicht die ganze Zeit von VUCA und BANI sprechen, ist die Anpassungsfähigkeit von erfolgreichen und wettbewerbsfähigen Unternehmen wichtig. Also, sie war es schon immer. Denn die Welt hat sich immer verändert und sie wird es weiter tun. Interessanterweise sind es nicht einfach die Umstände, die sich wie von Zauberhand ändern, sondern wir Menschen haben unseren Anteil daran. Natürlich schien (aus heutiger Sicht und wohl aus unserer geografischen Perspektive), die Welt lange Zeit relativ stabil zu sein. Jetzt ist sie wohl nicht nur im natürlichen und stetigen Wandel, sondern durch die Pandemie, neue Kriege, Klimawandel und demografische Veränderungen offensichtlich(er) instabiler und unsicherer, als wir es kennen. Dafür brauchen wir (auch in Unternehmen) neue oder andere Lösungen oder Herangehensweisen als bisher. 
+
+![](surfers-4390427_1280.jpg)
 
 > «Veränderung ist das Ergebnis von Lernen.» 
 >
@@ -24,31 +26,29 @@ Die lernende Organisation von Peter M. Senge ist ein aus meiner Sicht sehr wertv
 
 Peter Senge beschreibt eine Lernende Organisation als ein lebendiges System, das sich ständig weiterentwickelt. 
 
-Eine lernende Organisation basiert auf fünf Disziplinen: 
+### Eine lernende Organisation basiert auf fünf Disziplinen: 
 
-### **Personal Mastery** – persönliche Reife oder persönliches Lernen 
+#### **Personal Mastery** – persönliche Reife oder persönliches Lernen 
 
 Hier geht es um die individuelle Selbstentwicklung. Menschen müssen ein (Arbeits-) Umfeld vorfinden, in dem sie sich als Mensch und ihre Fähigkeiten (weiter-) entwickeln können. Für sich, ihre Arbeit und Lernen müssen sie auch Verantwortung übernehmen können. 
 
-### **Mental Models** – mentale Modelle oder Reflexionsfähigkeit
+#### **Mental Models** – mentale Modelle oder Reflexionsfähigkeit
 
 (Unbewusste) Denkmuster, Verhaltensmuster und Grundannahmen müssen hinterfragt werden (können). Dazu braucht es eine individuelle und kollektive Reflexionsfähigkeit. Das heisst, Individuen müssen ihre eigenen Muster erkennen und hinterfragen können. Diese sollen auch für die Organisation sichtbar werden. 
 
-### **Shared Visioning** - gemeinsame Vision 
+#### **Shared Visioning** - gemeinsame Vision 
 
 Die gemeinsame Vision dient als Orientierung, als Polarstern oder Anker. Wo wollen die Menschen in der Organisation gemeinsam hin. Daran orientiert sich ihre Tätigkeit. Wichtig ist dabei ein gemeinsames Verständnis der Vision, resp. das gegenseitige Verstehen der Einzelsichten auf die Vision. 
 
-### **Teamlearning** – Teamlernen
+#### **Teamlearning** – Teamlernen
 
 Teams müssen nicht nur in der Lage sein, gemeinsam zu arbeiten, sondern auch gemeinsam zu lernen. Dabei geht es nicht nur darum, innerhalb des Teams zu lernen, sondern auch mit anderen Teams. 
 
-### **Systems Thinking** - Systemdenken
+#### **Systems Thinking** - Systemdenken
 
 Und hier kommt die fünfte Disziplin. Die ersten vier sind die Grundlage oder die Voraussetzung für diese. Es braucht ein ganzheitliches Denken, einen systemischen Blick auf die Organisation. Wir müssen die Komplexität der Organisation (an-)erkennen und verstehen können. 
 
 ![](img_9390.jpg)
-
-
 
 ## Ergänzende Gedanken
 
