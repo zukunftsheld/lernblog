@@ -22,6 +22,10 @@ Auch in einer Welt, in der wir nicht die ganze Zeit von VUCA und BANI sprechen, 
 
 Die lernende Organisation von Peter M. Senge ist ein aus meiner Sicht sehr wertvoller Ansatz. Eine Haltung, eine Sicht- und Arbeitsweise, die erst jetzt als Lösung für unsere «neuen» Probleme entstanden sein könnte. Es sind jedoch «alte» Gedanken, die nun vielleicht aktueller sind und durch die Dringlichkeit einen höheren Stellenwert in Unternehmen erhalten. 
 
+> «Eine lernende Organisation ist ein Ort, an dem Menschen kontinuierlich entdecken, dass sie ihre Realität selbst erschaffen. Und dass sie sie verändern können.»
+>
+> *Peter M. Senge*
+
 ## Lernende Organisation – ein kurzer Überblick
 
 Peter Senge beschreibt eine Lernende Organisation als ein lebendiges System, das sich ständig weiterentwickelt. 
