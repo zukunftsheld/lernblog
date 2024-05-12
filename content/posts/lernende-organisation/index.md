@@ -16,7 +16,7 @@ Auch in einer Welt, in der wir nicht die ganze Zeit von VUCA und BANI sprechen, 
 
 > «Veränderung ist das Ergebnis von Lernen.» 
 >
-> *Peter Senge*
+> *Peter M. Senge*
 
 ##  «Alte» Gedanken für eine «neue» Welt
 
