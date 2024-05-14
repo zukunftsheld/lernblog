@@ -3,36 +3,42 @@ title = "Kulturentwicklung in Organisationen und Wege zur Veränderung"
 date = "2024-05-14"
 draft = true
 pinned = false
+tags = ["CAS", "Organisationsentwicklung", "Kulturentwicklung", "Organisationskultur"]
+image = "blogbilder-2.png"
+description = "Die Unternehmenskultur spielt eine wichtige Rolle für den Erfolg eines Unternehmens. Doch was genau verbirgt sich hinter dem Begriff Unternehmens- oder Organisationskultur? Wie kann sie aktiv entwickelt und verändert werden?"
+footnotes = "Titelbild [Rosy / Bad Homburg / Germany](https://pixabay.com/de/users/roszie-6000120/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=7697330) auf [Pixabay](https://pixabay.com/de//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=7697330)\n\nBild Eisbergmodell eigene Visualisierung \n\nBild Kulturebenen-Modell eigene Visualisierung"
 +++
-Die Unternehmenskultur spielt eine wichtige Rolle für den Erfolg des Unternehmens. Sie hat einen wesentlichen Einfluss auf die Mitarbeitenden, ihre Zufriedenheit und die Zusammenarbeit. Doch was genau verbirgt sich hinter dem Begriff Unternehmens- oder Organisationskultur? Wie kann sie aktiv entwickelt und verändert werden? Im Rahmen des CAS Organisationsentwicklung & Change Leadership beschäftige ich mich im Moment intensiv damit. Deshalb gibt es deinen Einblick in die Kultur (-entwicklung) von Unternehmen und wie sie gestaltet werden kann. 
+Die Unternehmenskultur spielt eine wichtige Rolle für den Erfolg eines Unternehmens. Sie hat einen wesentlichen Einfluss auf die Mitarbeitenden, ihre Zufriedenheit und die Zusammenarbeit. Doch was genau verbirgt sich hinter dem Begriff Unternehmens- oder Organisationskultur? Wie kann sie aktiv entwickelt und verändert werden? Im Rahmen des CAS Organisationsentwicklung & Change Leadership beschäftige ich mich im Moment intensiv damit. Deshalb gibt es deinen Einblick in die Kultur (-entwicklung) von Unternehmen und wie sie gestaltet werden kann. 
 
-## **Das Eisbergmodell – Edward T. Hall**
+## **Das Eisberg-Modell – Edward T. Hall**
 
 Das Eisbergmodell der Kultur wurde von Edward T. Hall geprägt und bietet ein anschauliches Bild für Kultur (Eisberge müssen ja für so viele Beispiele herhalten). Wie beim Eisberg, bei dem nur ein kleiner Teil über der Wasseroberfläche sichtbar ist, besteht Kultur auch aus sichtbaren und unsichtbaren Elementen.
 
 ![](blogbilder.png)
 
-**Die sichtbare Ebene**
+### **Die sichtbare Ebene**
 
 Diese umfasst die offensichtlichen Anteile einer Kultur. Dazu gehören z. B. Kleidung, Symbole, Logo, Sprache und Verhaltensweisen. Diese Elemente sind leicht zu erkennen, jedoch nur die Spitze (der sichtbare Teil über Wasser) des Eisbergs.
 
-**Die unsichtbare Ebene**
+### **Die unsichtbare Ebene**
 
 Unter Wasser liegt die unsichtbare Ebene. Diese umfasst die verwurzelten Werte, Überzeugungen, Normen und Annahmen. Diese Aspekte sind für die Mitarbeitenden oft weniger offensichtlich, aber sie prägen das Verhalten und die Zusammenarbeit in einer Organisation massgeblich.
 
 ## **Kulturebenen-Modell – Edgar Schein**
 
+![](blogbilder-3.png)
+
 Gemäss Edgar Schein besteht Kultur aus drei Ebenen.
 
-**Artefakte und sichtbare Symbole**
+### **Artefakte und sichtbare Symbole**
 
 Diese sind die offensichtlichen Aspekte der Kultur. Dazu gehören z. B. die Raumgestaltung, die Rituale und wie sich die Organisation nach aussen zeigt.
 
-**Werte**
+### **Werte**
 
 Unter der Oberfläche der Artefakte liegen die Werte einer Organisation, die ihre Grundüberzeugungen und Prioritäten widerspiegeln. Diese Werte beeinflussen die Entscheidungsfindung und das Verhalten der Mitarbeiter.
 
-**(Grund-) Annahmen**
+### **(Grund-) Annahmen**
 
 Auf der tiefsten Ebene befinden sich die Grundannahmen, die die Kernidentität einer Organisation ausmachen. Diese Annahmen sind oft implizit und schwer zu erkennen, aber sie prägen die grundlegenden Überzeugungen darüber, wie die Welt funktioniert und wie die Organisation ihre Ziele erreichen kann.
 
@@ -58,13 +64,13 @@ Durch eine offene und konstruktive Feedbackkultur wird Raum geschaffen, indem Mi
 
 Wie wird mit Fehlern umgegangen? Gibt es Raum für Fehler? Können diese offen angesprochen werden oder haben alle Angst davor? Eine gesunde Fehlerkultur trägt ebenfalls wesentlich zu einer guten Zusammenarbeit und Vertrauen bei. Zudem hilft das bewusste An- und Besprechen von Fehlern als Individuum, Team und Organisation besser zu werden. 
 
-\--> Hier kommt wieder die psychologische Sicherheit ins Spiel.
+**\-->** Hier kommt wieder die [psychologische Sicherheit](https://www.bensblog.ch/psychologische-sicherheit/) ins Spiel.
 
 ### **Führungsentwicklung**
 
 Bei der Gestaltung der Organisationskultur spielen Leader:innen eine wichtige Rolle. Sie können und sollten explizit dazu befähigt werden, eine Kultur des Miteinanders, der Offenheit und der Entwicklung zu fördern und zu etablieren. Sie agieren dabei im Idealfall selbst eher in der Rolle als Coaches. Zudem gehen sie mit gutem Beispiel voran. Gerade in der Kulturentwicklung müssen es meines Erachtens nicht zwingend Führungskräfte sein, sondern Menschen, die ein natürliches Talent und eine intrinsische Motivation haben, sich diesem Thema anzunehmen. 
 
-##  **Kultur(-entwicklung) ist nie abgeschlossen**
+## **Kultur(-entwicklung) ist nie abgeschlossen**
 
 Eine Unternehmenskultur lebt von und mit den Menschen, die in der Organisation und darum herum arbeiten. Kulturentwicklung ist also kein Projekt, das man beginnen und abschliessen kann. Will man als Organisation aktiv an der eigenen (positiven und förderlichen) Kultur arbeiten, muss man wachsam und aktiv bleiben. 
 
