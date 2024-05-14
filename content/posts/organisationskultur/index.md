@@ -1,7 +1,7 @@
 +++
 title = "Kulturentwicklung in Organisationen und Wege zur Veränderung"
 date = "2024-05-14"
-draft = true
+draft = false
 pinned = false
 tags = ["CAS", "Organisationsentwicklung", "Kulturentwicklung", "Organisationskultur"]
 image = "blogbilder-2.png"
