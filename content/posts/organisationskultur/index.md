@@ -6,7 +6,7 @@ pinned = false
 tags = ["CAS", "Organisationsentwicklung", "Kulturentwicklung", "Organisationskultur"]
 image = "blogbilder-2.png"
 description = "Die Unternehmenskultur spielt eine wichtige Rolle für den Erfolg eines Unternehmens. Doch was genau verbirgt sich hinter dem Begriff Unternehmens- oder Organisationskultur? Wie kann sie aktiv entwickelt und verändert werden?"
-footnotes = "Titelbild [Rosy / Bad Homburg / Germany](https://pixabay.com/de/users/roszie-6000120/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=7697330) auf [Pixabay](https://pixabay.com/de//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=7697330)\n\nBild Eisbergmodell eigene Visualisierung \n\nBild Kulturebenen-Modell eigene Visualisierung"
+footnotes = "Titelbild: [Rosy / Bad Homburg / Germany](https://pixabay.com/de/users/roszie-6000120/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=7697330) auf [Pixabay](https://pixabay.com/de//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=7697330)\n\nBild Eisbergmodell: eigene Visualisierung, Hintergrundbild von [Mote Oo Education](https://pixabay.com/de/users/moteoo-466065/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3273216) auf [Pixabay](https://pixabay.com/de//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3273216)\n\nBild Kulturebenen-Modell: eigene Visualisierung"
 +++
 Die Unternehmenskultur spielt eine wichtige Rolle für den Erfolg eines Unternehmens. Sie hat einen wesentlichen Einfluss auf die Mitarbeitenden, ihre Zufriedenheit und die Zusammenarbeit. Doch was genau verbirgt sich hinter dem Begriff Unternehmens- oder Organisationskultur? Wie kann sie aktiv entwickelt und verändert werden? Im Rahmen des CAS Organisationsentwicklung & Change Leadership beschäftige ich mich im Moment intensiv damit. Deshalb gibt es deinen Einblick in die Kultur (-entwicklung) von Unternehmen und wie sie gestaltet werden kann. 
 
@@ -44,9 +44,7 @@ Auf der tiefsten Ebene befinden sich die Grundannahmen, die die Kernidentität e
 
 ## **Möglichkeiten zur Kulturentwicklung und -veränderung**
 
-Die Veränderung der Unternehmenskultur ist eine komplexe und länger dauernde Aufgabe. 
-
-Um als Organisation langfristig erfolgreich zu bleiben, kann es jedoch entscheidend sein, sich aktiv und bewusst um die Unternehmenskultur zu kümmern. Deshalb hier ein paar Möglichkeiten, wie die Unternehmenskultur aktiv entwickelt und verändert werden kann. 
+Die Veränderung der Unternehmenskultur ist eine komplexe und länger dauernde Aufgabe. Um als Organisation langfristig erfolgreich zu bleiben, kann es jedoch entscheidend sein, sich aktiv und bewusst um die Unternehmenskultur zu kümmern. Deshalb hier ein paar Möglichkeiten, wie die Unternehmenskultur aktiv entwickelt und verändert werden kann. 
 
 ### **Werte und Visionen klar kommunizieren**
 
