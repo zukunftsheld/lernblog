@@ -54,7 +54,7 @@ Eine klare Formulierung von Unternehmenswerten und einer gemeinsamen Vision scha
 
 Mitarbeitende wissen oft genau, wo der Schuh drückt und gestalten (oft unbewusst) die Kultur mit. So sollen sie auch (Kultur-) Veränderungsprozesse mitgestalten und auch mittragen. Durch die Einbindung der Mitarbeiter in Entscheidungsprozesse fühlen sie sich stärker mit der Organisation verbunden und tragen aktiv zur Gestaltung der Kultur bei.
 
-###  **Feedbackkultur etablieren**
+### **Feedbackkultur etablieren**
 
 Durch eine offene und konstruktive Feedbackkultur wird Raum geschaffen, indem Mitarbeitende ihre Gedanken und Ideen einzubringen können. Eine gute Feedbackkultur fördert eine gute Zusammenarbeit und den Vertrauensaufbau. 
 
