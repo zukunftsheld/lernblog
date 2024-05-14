@@ -4,7 +4,7 @@ date = "2024-05-14"
 draft = false
 pinned = false
 tags = ["CAS", "Organisationsentwicklung", "Kulturentwicklung", "Organisationskultur"]
-image = "blogbilder-2.png"
+image = "blogbilder-4.png"
 description = "Die Unternehmenskultur spielt eine wichtige Rolle für den Erfolg eines Unternehmens. Doch was genau verbirgt sich hinter dem Begriff Unternehmens- oder Organisationskultur? Wie kann sie aktiv entwickelt und verändert werden?"
 footnotes = "Titelbild: [Rosy / Bad Homburg / Germany](https://pixabay.com/de/users/roszie-6000120/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=7697330) auf [Pixabay](https://pixabay.com/de//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=7697330)\n\nBild Eisbergmodell: eigene Visualisierung, Hintergrundbild von [Mote Oo Education](https://pixabay.com/de/users/moteoo-466065/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3273216) auf [Pixabay](https://pixabay.com/de//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3273216)\n\nBild Kulturebenen-Modell: eigene Visualisierung"
 +++
