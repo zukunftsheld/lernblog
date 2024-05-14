@@ -1,5 +1,5 @@
 +++
-title = "Kulturentwicklung in Organisationen und Wege zur Veränderung"
+title = "Kulturentwicklung in Organisationen"
 date = "2024-05-14"
 draft = false
 pinned = false
