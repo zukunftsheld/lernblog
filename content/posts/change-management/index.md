@@ -20,6 +20,8 @@ Eine Transformation ist mehr als eine Veränderung. Es ist ein tiefgreifender Wa
 >
 > *Dr. Georg Kraus, [Nicht jeder Change ist eine Transformation](https://www.haufe.de/personal/neues-lernen/unterschied-von-transformationsprozess-und-changeprozess_589614_585022.html)*
 
+
+
 ### **Beispiele von Transformationen**
 
 ##### **Digitale Transformation**
