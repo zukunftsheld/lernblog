@@ -1,12 +1,12 @@
 +++
 title = "Change Management"
 date = "2024-05-17"
-draft = true
+draft = false
 pinned = false
 tags = ["CAS", "Organisationsentwicklung", "Change", "Transformation"]
 image = "sea-8581529_1280.jpg"
 description = "Change Management und Transformation werden oft synonym verwendet. Es gibt jedoch Unterschiede, die nicht unwesentlich sind. In diesem Beitrag schauen wir auf die Unterschiede und schauen uns Change Management genauer an. "
-footnotes = "**Erwähnte Bücher**\n\nJankowski Jule (2022), Zwischen Alt und Neu liegt Gut, Wie wir mit GOOD WORK eine zukunftsfähige Arbeitskultur gestalten können, ohne alles neu machen zu müssen. \n\nArnold Rolf (2017) Entlehrt euch! Ausbruch aus dem Vollständigkeitswahn.\n\n**Video**\n\n[Prof. Peter Kruse über Change Management ](https://www.youtube.com/watch?v=FLFyoT7SJFs)\n\n**Bildnachweise**\n\nBild Change Management: Eigene Visualisierung nach Kübler-Ross\n\nBild 8 Stufen des Change: Eigene Visualisierung nach dem 8 Stufen Modell von John P. Kotter\n\nTitelbild: [Thomas G.](https://pixabay.com/de/users/tho-ge-113537/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=8581529) auf [Pixabay](https://pixabay.com/de//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=8581529)\n\nSchmetterling der sich entpuppt hat: Bild von [Sanne Baan, van de](https://pixabay.com/de/users/sannebaan-4643692/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=6610590) auf [Pixabay](https://pixabay.com/de//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=6610590)"
+footnotes = "**Erwähnte Bücher**\n\nJankowski Jule (2022), Zwischen Alt und Neu liegt Gut, Wie wir mit GOOD WORK eine zukunftsfähige Arbeitskultur gestalten können, ohne alles neu machen zu müssen. \n\nArnold Rolf (2017) Entlehrt euch! Ausbruch aus dem Vollständigkeitswahn.\n\n**Video**\n\n[Prof. Peter Kruse über Change Management ](https://www.youtube.com/watch?v=FLFyoT7SJFs)\n\n**Bildnachweise**\n\nBild 8 Stufen des Change: Eigene Visualisierung nach dem 8 Stufen Modell von John P. Kotter\n\nBild Change Management: Eigene Visualisierung nach Kübler-Ross\n\nTitelbild: [Thomas G.](https://pixabay.com/de/users/tho-ge-113537/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=8581529) auf [Pixabay](https://pixabay.com/de//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=8581529)\n\nSchmetterling der sich entpuppt hat: Bild von [Sanne Baan, van de](https://pixabay.com/de/users/sannebaan-4643692/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=6610590) auf [Pixabay](https://pixabay.com/de//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=6610590)"
 +++
 # Change Management oder Transformation?
 
@@ -48,7 +48,7 @@ Im Bereich Change Management gibt es verschiedene Modelle, die helfen sollen, Ch
 
 John P. Kotter ist ein Experte für Change Management. Er hat acht Stufen definiert, die Organisationen durchlaufen sollen, damit Change gelingt. 
 
-![](blogbilder-6.png)
+![](blogbilder-7.png)
 
 ##### **1. Gefühl der Dringlichkeit erzeugen**
 
