@@ -22,21 +22,21 @@ Eine Transformation ist mehr als eine Veränderung. Es ist ein tiefgreifender Wa
 
 ### **Beispiele von Transformationen**
 
-**Digitale Transformation**
+##### **Digitale Transformation**
 
 Manuelle Prozesse werden durch digitale ersetzt resp. auch grundlegend verändert (schneller, einfacher, …). Es wird so ganz grundsätzlich anders gearbeitet. Ein aktuelles Beispiel könnten grundlegende Veränderungen durch die KI sein. Denn «nur» ein Wechsel von einem System zu einem anderen ist i. d. R. keine Transformation (auch wenn es sich für manche so anfühlt).
 
-**Kulturelle Transformation**
+##### **Kulturelle Transformation**
 
 Es geht dabei um die Veränderung der Unternehmenskultur. Das kann zum Beispiel ein Wandel zu Agilität und Flexibilität sein (Arbeitsweise, Arbeitsorte, Zusammenarbeit, …). Es wäre auch die Einführung einer Lern- und Entwicklungskultur denkbar oder die Schaffung eines Arbeitsumfeldes, in dem Inklusion und Diversität aktiv gelebt werden. 
 
-**Transformation zu Nachhaltigkeit**
+##### Transformation zu Nachhaltigkeit
 
 Unternehmen bekennen sich aktiv und umfassend zu Nachhaltigkeit und passen ihre Geschäftstätigkeiten (radikal) an. 
 
 Je nachdem, wo ein Unternehmen steht, werden diese Veränderungen eher Change (Anpassungen, Optimierungen, …) oder eben Transformation (Wandel, grundsätzliche Veränderung) sein. 
 
-#### Dazu finde ich eine Geschichte spannend, die ich nicht mehr finden kann.
+**Dazu finde ich eine Geschichte spannend, die ich nicht mehr finden kann.**
 
 Es geht darum, dass die Raupe, bevor sie zum Schmetterling wird, sich in einen Kokon einspinnt und sich vollständig auflöst. Während dieser Phase scheint es, als würde die Raupe sterben, aber in Wirklichkeit transformiert sie sich in eine ganz neue Form. Sie ist auf dem Weg zum Schmetterling. Diese Metamorphose zeigt auch, dass Veränderung oft mit dem Verlust oder der Auflösung von etwas Altem einhergeht, um Raum für etwas Neues und Schöneres zu schaffen. Es «muss» also «etwas» sterben. Dazwischen ist (viel) Unsicherheit. Raupe und Schmetterling gleichzeitig geht nicht. 
 
@@ -44,7 +44,8 @@ Es geht darum, dass die Raupe, bevor sie zum Schmetterling wird, sich in einen K
 
 Im Bereich Change Management gibt es verschiedene Modelle, die helfen sollen, Change zu verstehen und zu gestalten. Zwei davon schauen wir uns an.
 
-### **Die 8 Stufen des Change nach Kotter**
+## **Die 8 Stufen des Change nach Kotter**
+
 John P. Kotter ist ein Experte für Change Management. Er hat acht Stufen definiert, die Organisationen durchlaufen sollen, damit Change gelingt. 
 
 ![](blogbilder-7.png)
@@ -62,6 +63,7 @@ Die Zusammenstellung einer starken Gruppe, die den Veränderungsprozess lenken u
 Der Wandel braucht eine richtungsweisende Vision und eine Strategie, wie diese umgesetzt werden kann.4. 
 
 ##### **4. Die Vision des Wandels kommunizieren**
+
 Die neue Vision und Strategie soll auf allen verfügbaren Kommunikationskanälen kommuniziert werden. Kommuniziert wird auch dadurch, dass die Mitarbeitenden der Führungskoalition die Veränderung vorleben. 
 
 ##### **5. Mitarbeitende auf breiter Basis befähigen**
@@ -80,36 +82,43 @@ Durch die gewonnene Glaubwürdigkeit (durch erste Erfolge) weitere Veränderunge
 
 Die Veränderung und das Neue werden gefestigt, wenn neue Systeme, Prozesse und Verhaltensweisen bewusst und aktiv in die Kultur integriert werden. 
 
-### **Die Change-Kurve**
+## **Die Change-Kurve**
 
 Die Change-Kurve beschreibt die emotionalen Phasen, die Menschen durchlaufen, wenn sie mit Veränderungen konfrontiert werden. Den Ursprung habe diese Kurve bei Elisabeth Kübler-Ross. Sie beschrieb, welche Phasen Menschen durchlaufen, wenn sie mit dem Tod konfrontiert werden. Sie wird auch überall etwas anders dargestellt. Deshalb bei den Titeln auch verschiedene Begriffe.
 
 ![](blogbilder-5.png)
 
 ##### **Schock, Überraschung und Verleugnung**
+
 Ungeplante und überraschende Veränderungen können einen Schock auslösen. Wie dieser Schock wahrgenommen wird, ist individuell. «Er beschreibt das initiale Verharren und Innehalten und damit die Vermeidung von Aktionen, die in Anbetracht des Ereignisses vermutlich angebracht wären.» Jankowski (2022), S. 25. Eine Folge des Schocks in der Arbeitswelt könnte sein, dass die Produktivität abnimmt.
 
 ##### **Ärger, Widerstand, Verneinung**
+
 Wut, Frustration und innerer Widerstand tauchen in dieser Phase auf. Menschen behalten bestehende Verhaltensweisen bei und versuchen weiterzumachen wie bisher. Dabei versuchen sie im Tun, die Situation wieder in den Griff zu bekommen.  
 
 ##### **Einsicht, Akzeptanz (Rational)**
+
 In dieser Phase erkennen Menschen, dass sie die Situation nicht ändern können. Es bleibt ihnen nichts anderes übrig, als die Situation zu akzeptieren. Das heisst aber nicht, dass sie mit der Situation einverstanden wären. 
 
 ##### **Emotionale Akzeptanz, Tal der Tränen**
+
 In der Phase der Veränderung gelangen die Menschen hier an den Tiefpunkt. Es ist eine wichtige und auch schwierige Phase. Denn hier wird der Schmerz spürbar(er). Die Produktivität ist hier nach diesem Kurvenmodell auf dem Tiefpunkt.
 
 ##### **Testphase, Ausprobierphase, Lernen** 
+
 Wenn der tiefste Punkt erreicht ist, kann es bergauf gehen. In dieser Phase probieren Menschen Neues aus und wollen die veränderte Situation aktiv mitgestalten. Sie erleben sich wieder als Gestalter:innen. 
 
 ##### **Erkenntnisphase**
+
 Die Chancen und Möglichkeiten, die sich aus der Veränderung ergeben, werden sicht- und spürbarer. Menschen fühlen die Gewissheit, dass sie mit der neuen Situation umgehen können.
 
 ##### **Integrations- und Konsolidierungsphase**
+
 «Wir haben es geschafft» oder «Ich habe es geschafft». Die Veränderung wird oder ist das neue «Normal» geworden. Es stellt sich ein Zufriedenheitsgefühl ein. 
 
  Veränderungen haben einen Einfluss auf die Menschen und ihre Emotionen. Wenn wir uns (insbesondere) in Change Prozessen dessen bewusst sind, dann können wir den Wandel besser gestalten und begleiten. 
 
-### **Abschliessende Gedanken (für diesen Beitrag und den Moment)**
+## **Abschliessende Gedanken (für diesen Beitrag und den Moment)**
 
 Zu Beginn dieses Beitrags habe ich eine Begriffsabgrenzung zu Transformation gemacht. Ich bin mir nicht sicher, wie wichtig diese Abgrenzung grundsätzlich ist. Aus meiner Sicht spielt die Abgrenzung eine wesentliche Rolle. Es ist für alle Beteiligten und insbesondere für die Gestalter- und Begleiter:innen wichtig zu wissen, wo sie hinwollen. Soll es (etwas) anders oder neu sein? 
 
