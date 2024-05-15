@@ -42,7 +42,7 @@ Organisationsentwicklung und Change Leadership sind weite Felder. Ja, eigentlich
 
 Nach einigem Pröbeln habe ich mich entschieden, für den Start und den Überblick eine Zusammenstellung der Themen auf Padlet zu machen. Diese ergänze ich (für den Moment) mit einem miro Mindmap. Beide Tools bieten mir zwar (in der kostenlosen Version) nicht alle gewünschten Möglichkeiten zur Strukturierung und Verknüpfung, reichen jedoch aus. Ich vertiefe mich also in die auf der Lernplattform zur Verfügung gestellten Texte und Videos. Viele dieser Themen und einige Autor:innen sind mir bereits begegnet. Nun tauche ich jedoch in einer anderen Tiefe ab. Ich markiere Textelemente, halte Videos an und spiele Abschnitte ein zweites, drittes, viertes Mal ab. Ich notiere Zitate und mir wichtige Inhalte. Vieles bringt mein Hirn oft automatisch in Zusammenhänge und manchmal in Widersprüche. Während ich das hier schreibe, bin ich mir nicht sicher, ob ich den Link zum Paldet hier teilen soll oder ob das doch irgendwie zu persönlich ist. Und so lasse ich es einfach für den Moment. Zudem führe ich ein Notizbuch, weil das Denken mit der Hand immer noch eine der schönsten Formen für mich ist. 
 
-![](img_9414.jpg)
+![](img_9415.jpg)
 
 ### Erster Themenüberblick
 
