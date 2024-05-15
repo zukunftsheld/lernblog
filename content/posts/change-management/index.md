@@ -41,6 +41,7 @@ Je nachdem, wo ein Unternehmen steht, werden diese Veränderungen eher Change (A
 Es geht darum, dass die Raupe, bevor sie zum Schmetterling wird, sich in einen Kokon einspinnt und sich vollständig auflöst. Während dieser Phase scheint es, als würde die Raupe sterben, aber in Wirklichkeit transformiert sie sich in eine ganz neue Form. Sie ist auf dem Weg zum Schmetterling. Diese Metamorphose zeigt auch, dass Veränderung oft mit dem Verlust oder der Auflösung von etwas Altem einhergeht, um Raum für etwas Neues und Schöneres zu schaffen. Es «muss» also «etwas» sterben. Dazwischen ist (viel) Unsicherheit. Raupe und Schmetterling gleichzeitig geht nicht. 
 
 ## Change Management
+
 Im Bereich Change Management gibt es verschiedene Modelle, die helfen sollen, Change zu verstehen und zu gestalten. Zwei davon schauen wir uns an.
 
 ### **Die 8 Stufen des Change nach Kotter**
@@ -49,27 +50,34 @@ John P. Kotter ist ein Experte für Change Management. Er hat acht Stufen defini
 ![](blogbilder-7.png)
 
 ##### **1. Gefühl der Dringlichkeit erzeugen**
+
 Es soll ein Bewusstsein für die Notwendigkeit des Wandels geschaffen werden. So wird eine positive Energie und Motivation für Veränderungen zu erzeugt. Hier ist eine klare Kommunikation wichtig. Wie sieht die aktuelle Realität aus und weshalb ist die Anpassung für eine erfolgreiche Zukunft entscheidend.   
 
 ##### **2. Eine Führungskoalition aufbauen**
+
 Die Zusammenstellung einer starken Gruppe, die den Veränderungsprozess lenken und unterstützen kann. Dafür braucht es die nötigen Kompetenzen. Diese Gruppe sollte auch als Vorbild im Changeprozess agieren und diesen aktiv vorleben. Es sollte sich dabei um Menschen aus verschiedenen Bereichen und Hierarchieebenen handeln.
 
 ##### **3. Eine Vision und Strategie entwickeln**
+
 Der Wandel braucht eine richtungsweisende Vision und eine Strategie, wie diese umgesetzt werden kann.4. 
 
 ##### **4. Die Vision des Wandels kommunizieren**
 Die neue Vision und Strategie soll auf allen verfügbaren Kommunikationskanälen kommuniziert werden. Kommuniziert wird auch dadurch, dass die Mitarbeitenden der Führungskoalition die Veränderung vorleben. 
 
 ##### **5. Mitarbeitende auf breiter Basis befähigen**
+
 Mitarbeitende sollen zu Risikobereitschaft, Ideen und zum Handeln ermutigt werden. Hindernisse auf dem Weg zur Vision sollen beseitigt werden (z. B. Ändern von Systemen und Strukturen, die nicht zur Vision passen).
 
 ##### **6. Schnelle Erfolge erzielen**
+
 Erfolge (sichtbare Verbesserungen) planen und sichtbar machen. Den Menschen, die daran beteiligt sind, Anerkennung zeigen.
 
 ##### **7. Erfolge konsolidieren und weitere Veränderungen einleiten**
+
 Durch die gewonnene Glaubwürdigkeit (durch erste Erfolge) weitere Veränderungen initiieren, die in Richtung der Vision gehen. Es sollen Menschen eingestellt, befördert und entwickelt werden, die die Veränderung vorantreiben können. 
 
 ##### **8. Neue Ansätze in der Kultur verankern**
+
 Die Veränderung und das Neue werden gefestigt, wenn neue Systeme, Prozesse und Verhaltensweisen bewusst und aktiv in die Kultur integriert werden. 
 
 ### **Die Change-Kurve**
