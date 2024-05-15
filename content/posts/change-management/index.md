@@ -23,12 +23,15 @@ Eine Transformation ist mehr als eine Veränderung. Es ist ein tiefgreifender Wa
 ### **Beispiele von Transformationen**
 
 **Digitale Transformation**
+
 Manuelle Prozesse werden durch digitale ersetzt resp. auch grundlegend verändert (schneller, einfacher, …). Es wird so ganz grundsätzlich anders gearbeitet. Ein aktuelles Beispiel könnten grundlegende Veränderungen durch die KI sein. Denn «nur» ein Wechsel von einem System zu einem anderen ist i. d. R. keine Transformation (auch wenn es sich für manche so anfühlt).
 
 **Kulturelle Transformation**
+
 Es geht dabei um die Veränderung der Unternehmenskultur. Das kann zum Beispiel ein Wandel zu Agilität und Flexibilität sein (Arbeitsweise, Arbeitsorte, Zusammenarbeit, …). Es wäre auch die Einführung einer Lern- und Entwicklungskultur denkbar oder die Schaffung eines Arbeitsumfeldes, in dem Inklusion und Diversität aktiv gelebt werden. 
 
 **Transformation zu Nachhaltigkeit**
+
 Unternehmen bekennen sich aktiv und umfassend zu Nachhaltigkeit und passen ihre Geschäftstätigkeiten (radikal) an. 
 
 Je nachdem, wo ein Unternehmen steht, werden diese Veränderungen eher Change (Anpassungen, Optimierungen, …) oder eben Transformation (Wandel, grundsätzliche Veränderung) sein. 
