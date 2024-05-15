@@ -4,7 +4,9 @@ date = "2024-05-17"
 draft = true
 pinned = false
 tags = ["CAS", "Organisationsentwicklung", "Change", "Transformation"]
-footnotes = "**Erwähnte Bücher**\n\nJankowski Jule (2022), Zwischen Alt und Neu liegt Gut, Wie wir mit GOOD WORK eine zukunftsfähige Arbeitskultur gestalten können, ohne alles neu machen zu müssen. \n\nArnold Rolf (2017) Entlehrt euch! Ausbruch aus dem Vollständigkeitswahn.\n\n**Video**\n\n[Prof. Peter Kruse über Change Management ](https://www.youtube.com/watch?v=FLFyoT7SJFs)"
+image = "sea-8581529_1280.jpg"
+description = "Change Management und Transformation werden oft synonym verwendet. Es gibt jedoch Unterschiede, die nicht unwesentlich sind. In diesem Beitrag schauen wir auf die Unterschiede und schauen uns Change Management genauer an. "
+footnotes = "**Erwähnte Bücher**\n\nJankowski Jule (2022), Zwischen Alt und Neu liegt Gut, Wie wir mit GOOD WORK eine zukunftsfähige Arbeitskultur gestalten können, ohne alles neu machen zu müssen. \n\nArnold Rolf (2017) Entlehrt euch! Ausbruch aus dem Vollständigkeitswahn.\n\n**Video**\n\n[Prof. Peter Kruse über Change Management ](https://www.youtube.com/watch?v=FLFyoT7SJFs)\n\n**Bildnachweise**\n\nBild Change Management: Eigene Visualisierung nach Kübler-Ross\n\nBild 8 Stufen des Change: Eigene Visualisierung nach dem 8 Stufen Modell von John P. Kotter\n\nTitelbild: [Thomas G.](https://pixabay.com/de/users/tho-ge-113537/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=8581529) auf [Pixabay](https://pixabay.com/de//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=8581529)\n\nSchmetterling der sich entpuppt hat: Bild von [Sanne Baan, van de](https://pixabay.com/de/users/sannebaan-4643692/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=6610590) auf [Pixabay](https://pixabay.com/de//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=6610590)"
 +++
 # Change Management oder Transformation?
 
@@ -46,41 +48,45 @@ Im Bereich Change Management gibt es verschiedene Modelle, die helfen sollen, Ch
 
 John P. Kotter ist ein Experte für Change Management. Er hat acht Stufen definiert, die Organisationen durchlaufen sollen, damit Change gelingt. 
 
-##### **Gefühl der Dringlichkeit erzeugen**
+![](blogbilder-6.png)
+
+##### **1. Gefühl der Dringlichkeit erzeugen**
 
 Es soll ein Bewusstsein für die Notwendigkeit des Wandels geschaffen werden. So wird eine positive Energie und Motivation für Veränderungen zu erzeugt. Hier ist eine klare Kommunikation wichtig. Wie sieht die aktuelle Realität aus und weshalb ist die Anpassung für eine erfolgreiche Zukunft entscheidend.   
 
-##### **Eine Führungskoalition aufbauen**
+##### **2. Eine Führungskoalition aufbauen**
 
 Die Zusammenstellung einer starken Gruppe, die den Veränderungsprozess lenken und unterstützen kann. Dafür braucht es die nötigen Kompetenzen. Diese Gruppe sollte auch als Vorbild im Changeprozess agieren und diesen aktiv vorleben. Es sollte sich dabei um Menschen aus verschiedenen Bereichen und Hierarchieebenen handeln.
 
-#####  **Eine Vision und Strategie entwickeln**
+##### **3. Eine Vision und Strategie entwickeln**
 
-Der Wandel braucht eine richtungsweisende Vision und eine Strategie, wie diese umgesetzt werden kann.
+Der Wandel braucht eine richtungsweisende Vision und eine Strategie, wie diese umgesetzt werden kann.4. 
 
-#####  **Die Vision des Wandels kommunizieren**
+##### **4. Die Vision des Wandels kommunizieren**
 
 Die neue Vision und Strategie soll auf allen verfügbaren Kommunikationskanälen kommuniziert werden. Kommuniziert wird auch dadurch, dass die Mitarbeitenden der Führungskoalition die Veränderung vorleben. 
 
-##### **Mitarbeitende auf breiter Basis befähigen**
+##### **5. Mitarbeitende auf breiter Basis befähigen**
 
 Mitarbeitende sollen zu Risikobereitschaft, Ideen und zum Handeln ermutigt werden. Hindernisse auf dem Weg zur Vision sollen beseitigt werden (z. B. Ändern von Systemen und Strukturen, die nicht zur Vision passen).
 
-##### **Schnelle Erfolge erzielen**
+##### **6. Schnelle Erfolge erzielen**
 
 Erfolge (sichtbare Verbesserungen) planen und sichtbar machen. Den Menschen, die daran beteiligt sind, Anerkennung zeigen.
 
-##### **Erfolge konsolidieren und weitere Veränderungen einleiten**
+##### **7. Erfolge konsolidieren und weitere Veränderungen einleiten**
 
 Durch die gewonnene Glaubwürdigkeit (durch erste Erfolge) weitere Veränderungen initiieren, die in Richtung der Vision gehen. Es sollen Menschen eingestellt, befördert und entwickelt werden, die die Veränderung vorantreiben können. 
 
-##### **Neue Ansätze in der Kultur verankern**
+##### **8. Neue Ansätze in der Kultur verankern**
 
 Die Veränderung und das Neue werden gefestigt, wenn neue Systeme, Prozesse und Verhaltensweisen bewusst und aktiv in die Kultur integriert werden. 
 
 ### **Die Change-Kurve**
 
- Die Change-Kurve beschreibt die emotionalen Phasen, die Menschen durchlaufen, wenn sie mit Veränderungen konfrontiert werden. Den Ursprung habe diese Kurve bei Elisabeth Kübler-Ross. Sie beschrieb, welche Phasen Menschen durchlaufen, wenn sie mit dem Tod konfrontiert werden. 
+Die Change-Kurve beschreibt die emotionalen Phasen, die Menschen durchlaufen, wenn sie mit Veränderungen konfrontiert werden. Den Ursprung habe diese Kurve bei Elisabeth Kübler-Ross. Sie beschrieb, welche Phasen Menschen durchlaufen, wenn sie mit dem Tod konfrontiert werden. Sie wird auch überall etwas anders dargestellt. Deshalb bei den Titeln auch verschiedene Begriffe.
+
+![](blogbilder-5.png)
 
 ##### **Schock, Überraschung und Verleugnung**
 
@@ -112,7 +118,7 @@ Die Chancen und Möglichkeiten, die sich aus der Veränderung ergeben, werden si
 
  Veränderungen haben einen Einfluss auf die Menschen und ihre Emotionen. Wenn wir uns (insbesondere) in Change Prozessen dessen bewusst sind, dann können wir den Wandel besser gestalten und begleiten. 
 
-###  **Abschliessende Gedanken (für diesen Beitrag und den Moment)**
+### **Abschliessende Gedanken (für diesen Beitrag und den Moment)**
 
 Zu Beginn dieses Beitrags habe ich eine Begriffsabgrenzung zu Transformation gemacht. Ich bin mir nicht sicher, wie wichtig diese Abgrenzung grundsätzlich ist. Aus meiner Sicht spielt die Abgrenzung eine wesentliche Rolle. Es ist für alle Beteiligten und insbesondere für die Gestalter- und Begleiter:innen wichtig zu wissen, wo sie hinwollen. Soll es (etwas) anders oder neu sein? 
 
@@ -121,6 +127,8 @@ Modelle sind Modelle. Sie können uns helfen und unterstützen. Ich bin jedoch d
 Auch dieser Beitrag gibt nur einen kurzen und einfachen Ein- und Überblick in eines von vielen Themen, mit denen ich mich im Moment beschäftige.
 
 Veränderungen brauchen Mut und sie sind anstrengend. Das ist gut so. Zum Abschluss noch eine andere Geschichte mit einem Schmetterling. 
+
+![](butterflies-6610590_1280.jpg)
 
 *«Eines Tages erschien eine kleine Öffnung in einem Kokon; ein Mann beobachtete den zukünftigen Schmetterling für mehrere Stunden, wie dieser kämpfte, um seinen Körper durch jenes winzige Loch zu zwängen. Dann plötzlich schien er nicht mehr weiterzukommen. Es schien, als ob er so weit gekommen war, wie es ging, aber jetzt aus eigener Kraft nicht mehr weitermachen konnte. So beschloss der Mann, ihm zu helfen: Er nahm eine Schere und machte den Kokon auf. Der Schmetterling kam dadurch sehr leicht heraus.*
 
