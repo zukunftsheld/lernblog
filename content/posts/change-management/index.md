@@ -6,7 +6,7 @@ pinned = false
 tags = ["CAS", "Organisationsentwicklung", "Change", "Transformation"]
 image = "sea-8581529_1280.jpg"
 description = "Change Management und Transformation werden oft synonym verwendet. Es gibt jedoch Unterschiede, die nicht unwesentlich sind. In diesem Beitrag schauen wir auf die Unterschiede und schauen uns Change Management genauer an. "
-footnotes = "📚**Erwähnte Bücher**\n\n📕Jankowski Jule (2022), Zwischen Alt und Neu liegt Gut, Wie wir mit GOOD WORK eine zukunftsfähige Arbeitskultur gestalten können, ohne alles neu machen zu müssen. \n\n📕Arnold Rolf (2017), Entlehrt euch! Ausbruch aus dem Vollständigkeitswahn.\n\nKotter John P. (2011), Leading Change, Wie Sie Ihr Unternehmen in acht Schritten erfolgreich verändern\n\n📺**Video**\n\n[Prof. Peter Kruse über Change Management ](https://www.youtube.com/watch?v=FLFyoT7SJFs)\n\n**Bildnachweise**\n\nBild 8 Stufen des Change: Eigene Visualisierung nach dem 8 Stufen Modell von John P. Kotter\n\nBild Change Management: Eigene Visualisierung nach Kübler-Ross\n\nTitelbild: [Thomas G.](https://pixabay.com/de/users/tho-ge-113537/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=8581529) auf [Pixabay](https://pixabay.com/de//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=8581529)\n\nSchmetterling der sich entpuppt hat: Bild von [Sanne Baan, van de](https://pixabay.com/de/users/sannebaan-4643692/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=6610590) auf [Pixabay](https://pixabay.com/de//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=6610590)"
+footnotes = "📚**Erwähnte Bücher**\n\n📕[Jankowski Jule (2022), Zwischen Alt und Neu liegt Gut, Wie wir mit GOOD WORK eine zukunftsfähige Arbeitskultur gestalten können, ohne alles neu machen zu müssen. ](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/jule-jankowski/zwischen-alt-und-neu-liegt-gut/id/9783800669332/)\n\n📕[Arnold Rolf (2017), Entlehrt euch! Ausbruch aus dem Vollständigkeitswahn.](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/rolf-arnold/entlehrt-euch/id/9783035504590/)\n\n📕[Kotter John P. (2011), Leading Change, Wie Sie Ihr Unternehmen in acht Schritten erfolgreich verändern](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/john-p-kotter/leading-change/id/9783800637898/)\n\n📺**Video**\n\n[Prof. Peter Kruse über Change Management ](https://www.youtube.com/watch?v=FLFyoT7SJFs)\n\n**Bildnachweise**\n\nBild 8 Stufen des Change: Eigene Visualisierung nach dem 8 Stufen Modell von John P. Kotter\n\nBild Change Management: Eigene Visualisierung nach Kübler-Ross\n\nTitelbild: [Thomas G.](https://pixabay.com/de/users/tho-ge-113537/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=8581529) auf [Pixabay](https://pixabay.com/de//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=8581529)\n\nSchmetterling der sich entpuppt hat: Bild von [Sanne Baan, van de](https://pixabay.com/de/users/sannebaan-4643692/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=6610590) auf [Pixabay](https://pixabay.com/de//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=6610590)"
 +++
 # Change Management oder Transformation?
 
@@ -28,7 +28,7 @@ Manuelle Prozesse werden durch digitale ersetzt resp. auch grundlegend veränder
 
 ##### **Kulturelle Transformation**
 
-Es geht dabei um die Veränderung der Unternehmenskultur. Das kann zum Beispiel ein Wandel zu Agilität und Flexibilität sein (Arbeitsweise, Arbeitsorte, Zusammenarbeit, …). Es wäre auch die Einführung einer Lern- und Entwicklungskultur denkbar oder die Schaffung eines Arbeitsumfeldes, in dem Inklusion und Diversität aktiv gelebt werden. 
+Es geht dabei um die Veränderung der Unternehmenskultur. Das kann z. B. ein Wandel zu Agilität und Flexibilität sein (Arbeitsweise, Arbeitsorte, Zusammenarbeit, …). Es wäre auch die Einführung einer Lern- und Entwicklungskultur denkbar oder die Schaffung eines Arbeitsumfeldes, in dem Inklusion und Diversität aktiv gelebt werden. 
 
 ##### Transformation zu Nachhaltigkeit
 
@@ -36,7 +36,9 @@ Unternehmen bekennen sich aktiv und umfassend zu Nachhaltigkeit und passen ihre 
 
 Je nachdem, wo ein Unternehmen steht, werden diese Veränderungen eher Change (Anpassungen, Optimierungen, …) oder eben Transformation (Wandel, grundsätzliche Veränderung) sein. 
 
-**Dazu finde ich eine Geschichte spannend, die ich nicht mehr finden kann.**
+**Dazu finde ich eine Geschichte spannend.**
+
+Leider kann ich sie nicht mehr finden, deshalb nur eine kurze Zusammenfassung:
 
 Es geht darum, dass die Raupe, bevor sie zum Schmetterling wird, sich in einen Kokon einspinnt und sich vollständig auflöst. Während dieser Phase scheint es, als würde die Raupe sterben, aber in Wirklichkeit transformiert sie sich in eine ganz neue Form. Sie ist auf dem Weg zum Schmetterling. Diese Metamorphose zeigt auch, dass Veränderung oft mit dem Verlust oder der Auflösung von etwas Altem einhergeht, um Raum für etwas Neues und Schöneres zu schaffen. Es «muss» also «etwas» sterben. Dazwischen ist (viel) Unsicherheit. Raupe und Schmetterling gleichzeitig geht nicht. 
 
@@ -60,7 +62,7 @@ Die Zusammenstellung einer starken Gruppe, die den Veränderungsprozess lenken u
 
 ##### **3. Eine Vision und Strategie entwickeln**
 
-Der Wandel braucht eine richtungsweisende Vision und eine Strategie, wie diese umgesetzt werden kann.4. 
+Der Wandel braucht eine richtungsweisende Vision und eine Strategie, wie diese umgesetzt werden kann.
 
 ##### **4. Die Vision des Wandels kommunizieren**
 
@@ -84,7 +86,7 @@ Die Veränderung und das Neue werden gefestigt, wenn neue Systeme, Prozesse und 
 
 ## **Die Change-Kurve**
 
-Die Change-Kurve beschreibt die emotionalen Phasen, die Menschen durchlaufen, wenn sie mit Veränderungen konfrontiert werden. Den Ursprung habe diese Kurve bei Elisabeth Kübler-Ross. Sie beschrieb, welche Phasen Menschen durchlaufen, wenn sie mit dem Tod konfrontiert werden. Sie wird auch überall etwas anders dargestellt. Deshalb bei den Titeln auch verschiedene Begriffe.
+Die Change-Kurve beschreibt die emotionalen Phasen, die Menschen durchlaufen, wenn sie mit Veränderungen konfrontiert werden. Den Ursprung habe diese Kurve bei [Elisabeth Kübler-Ross](https://de.wikipedia.org/wiki/Elisabeth_Kübler-Ross). Sie beschrieb, welche Phasen Menschen durchlaufen, wenn sie mit dem Tod konfrontiert werden. Sie wird auch überall etwas anders dargestellt. Deshalb finden sich hier bei den Phasen auch verschiedene Begriffe. 
 
 ![](blogbilder-5.png)
 
@@ -116,13 +118,13 @@ Die Chancen und Möglichkeiten, die sich aus der Veränderung ergeben, werden si
 
 «Wir haben es geschafft» oder «Ich habe es geschafft». Die Veränderung wird oder ist das neue «Normal» geworden. Es stellt sich ein Zufriedenheitsgefühl ein. 
 
- Veränderungen haben einen Einfluss auf die Menschen und ihre Emotionen. Wenn wir uns (insbesondere) in Change Prozessen dessen bewusst sind, dann können wir den Wandel besser gestalten und begleiten. 
+Veränderungen haben einen Einfluss auf die Menschen und ihre Emotionen. Wenn wir uns (insbesondere) in Change Prozessen dessen bewusst sind, dann können wir den Wandel besser gestalten und begleiten. 
 
 ## **Abschliessende Gedanken (für diesen Beitrag und den Moment)**
 
 Zu Beginn dieses Beitrags habe ich eine Begriffsabgrenzung zu Transformation gemacht. Ich bin mir nicht sicher, wie wichtig diese Abgrenzung grundsätzlich ist. Aus meiner Sicht spielt die Abgrenzung eine wesentliche Rolle. Es ist für alle Beteiligten und insbesondere für die Gestalter- und Begleiter:innen wichtig zu wissen, wo sie hinwollen. Soll es (etwas) anders oder neu sein? 
 
-Modelle sind Modelle. Sie können uns helfen und unterstützen. Ich bin jedoch der Überzeugung, dass wir uns nie nur an diesen orientieren oder festhalten sollten. Die Menschen, Organisationen und das Leben überhaupt sind zu komplex und bewegen sich in einer immer komplexeren Umgebung. Modelle sind eine Komplexitätsreduktion und vielleicht müssen wir die Komplexität manchmal auch einfach aushalten, abtauchen, ergründen und erleben. Wer weiss was, sich dann für Möglichkeiten auftun können. 
+Modelle sind Modelle. Sie können uns helfen zu verstehen, zu planen und uns unterstützen. Ich bin jedoch der Überzeugung, dass wir uns nie nur an diesen orientieren oder festhalten sollten. Die Menschen, Organisationen und das Leben überhaupt sind zu komplex und bewegen sich in einer immer komplexeren Umgebung. Modelle sind eine Komplexitätsreduktion und vielleicht müssen wir die Komplexität manchmal auch einfach aushalten, abtauchen, ergründen und erleben. Wer weiss, was sich dann für Möglichkeiten auftun können. 
 
 Auch dieser Beitrag gibt nur einen kurzen und einfachen Ein- und Überblick in eines von vielen Themen, mit denen ich mich im Moment beschäftige.
 
