@@ -12,15 +12,13 @@ footnotes = "📚**Erwähnte Bücher**\n\n📕Jankowski Jule (2022), Zwischen Al
 
 Change Management und Transformation werden oft synonym verwendet. Es gibt jedoch Unterschiede, die nicht unwesentlich sind. 
 
-In Change-Prozessen wird etwas verändert. Dass die Umstrukturierung von Abteilungen oder Teams sein, Veränderungen von Organisationsstrukturen, die Einführung neuer Systeme oder eine neue Strategie. Das Ziel ist, die Organisation besser zu machen und sich an die (neuen) Bedingungen (Markt, Umwelt, …) anzupassen. 
+In Change-Prozessen wird etwas verändert. Es kann die Umstrukturierung von Abteilungen oder Teams sein, Veränderungen von Organisationsstrukturen, die Einführung neuer Systeme oder eine neue Strategie. Das Ziel ist, die Organisation besser zu machen und sich an die (neuen) Bedingungen (Markt, Umwelt, …) anzupassen. 
 
 Eine Transformation ist mehr als eine Veränderung. Es ist ein tiefgreifender Wandel, den eine Organisation durchläuft. Was einmal war, wird es so nicht mehr geben. Die Transformation kann zum Beispiel die Unternehmenskultur betreffen, die Art, wie ganz grundsätzlich gearbeitet wird (Bsp. Digitale Transformation) oder den (radikalen) Weg in die Nachhaltigkeit.
 
 > «Der Transformationsprozess ist ein komplexer, multidimensionaler Change-Prozess, der seinerseits wieder aus einer Vielzahl von Changeprojekten besteht, die sich wechselseitig beeinflussen.» 
 >
 > *Dr. Georg Kraus, [Nicht jeder Change ist eine Transformation](https://www.haufe.de/personal/neues-lernen/unterschied-von-transformationsprozess-und-changeprozess_589614_585022.html)*
-
-
 
 ### **Beispiele von Transformationen**
 
