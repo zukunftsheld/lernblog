@@ -42,11 +42,11 @@ Leider kann ich sie nicht mehr finden, deshalb nur eine kurze Zusammenfassung:
 
 Es geht darum, dass die Raupe, bevor sie zum Schmetterling wird, sich in einen Kokon einspinnt und sich vollständig auflöst. Während dieser Phase scheint es, als würde die Raupe sterben, aber in Wirklichkeit transformiert sie sich in eine ganz neue Form. Sie ist auf dem Weg zum Schmetterling. Diese Metamorphose zeigt auch, dass Veränderung oft mit dem Verlust oder der Auflösung von etwas Altem einhergeht, um Raum für etwas Neues und Schöneres zu schaffen. Es «muss» also «etwas» sterben. Dazwischen ist (viel) Unsicherheit. Raupe und Schmetterling gleichzeitig geht nicht. 
 
-## Change Management
-
-> Die größte Gefahr in Zeiten des Wandels ist nicht der Wandel selbst, sondern das Handeln mit der Logik von gestern.
+> Die grösste Gefahr in Zeiten des Wandels ist nicht der Wandel selbst, sondern das Handeln mit der Logik von gestern.
 >
 > *Peter Drucker*
+
+## Change Management
 
 Im Bereich Change Management gibt es verschiedene Modelle, die helfen sollen, Change zu verstehen und zu gestalten. Zwei davon schauen wir uns an.
 
