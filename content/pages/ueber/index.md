@@ -1,10 +1,10 @@
 +++
 title = "Über mich"
 draft = false
-image = "1-kopie.png"
+image = "_dsc7027-kopie.jpg"
 description = "Hallo, ich bin Ben. \n\n"
 +++
-![](1-kopie.png)
+![](_dsc7027-kopie.jpg)
 
 ## Ben Zaugg
 
