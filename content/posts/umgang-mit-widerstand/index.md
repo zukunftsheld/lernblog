@@ -116,4 +116,6 @@ Das Feiern von (kleinen) Erfolgen geht häufig vergessen. Gerade in Phasen der U
 
 Was hat geklappt? Welche Elemente des neuen Soll-Zustands sind bereits im Alltag angekommen? Wo ist man einen Schritt weitergekommen? Das sind alles Dinge, die irgendwo sichtbar gemacht werden können und sollten. Es zeigt, dass es vorwärtsgeht. 
 
-((Der Abschlusstextteil ist noch in Word))
+### Schlussgedanken (für den Moment)
+
+Veränderungen gehören zum (Arbeits-) Leben dazu. So auch die Widerstände in Veränderungsprozessen. Es geht nicht darum Widerstände zu verhindern, sondern ihnen konstruktiv zu begegnen. Es geht darum das, was hinter den Widerständen liegt zu verstehen (oder versuchen zu verstehen, soweit es möglich ist). So können sie zu einem wichtigen Instrument in Change- und Transformationsprozessen werden.
