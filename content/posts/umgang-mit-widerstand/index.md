@@ -53,7 +53,7 @@ Modelle wie die Kübler-Ross-Kurve können helfen, die emotionalen Phasen, die M
 
 > «Der grösste Schaden entsteht durch die schweigende Mehrheit, die nur überleben will, sich fügt und alles mitmacht.» 
 >
-> *[Quelle unbekannt](<> *https://dpa-factchecking.com/switzerland/211026-99-746228*>)*
+> *\[Quelle unbekannt](<>* https://dpa-factchecking.com/switzerland/211026-99-746228*\>)*
 
 #### Hinweis auf Probleme
 
@@ -69,9 +69,9 @@ Kritisches Feedback und Widerstände können zu neuen Ideen und besseren Lösung
 
 #### Engagement und Zugehörigkeit
 
-Aktiver Widerstand zeigt, dass sich Mitarbeiter mit dem Unternehmen und den geplanten Veränderungen auseinandersetzen. Es kann ein Hinweis sein, dass sie ich mit dem Unternehmen identifizieren und «noch da sind». Sie können allenfalls gute Mitstreiter:innen für die zweite Stufe nach Kotter «eine Führungskoalition aufbauen» sein. 
+Aktiver Widerstand zeigt, dass sich Mitarbeiter mit dem Unternehmen und den geplanten Veränderungen auseinandersetzen. Es kann ein Hinweis sein, dass sie ich mit dem Unternehmen identifizieren und «noch da sind». Sie können allenfalls gute Mitstreiter:innen für die zweite [Stufe nach Kotter ](https://www.bensblog.ch/change-management/)«eine Führungskoalition aufbauen» sein. 
 
-Wenn Widerstände offen geäussert und gezeigt werden können, dann kann dies auch ein Hinweis auf eine Unternehmenskultur sein, in der eine gewisse Vertrauensbasis besteht. 
+Wenn Widerstände offen geäussert und gezeigt werden können, dann kann dies auch ein Hinweis auf eine [Unternehmenskultur](https://www.bensblog.ch/organisationskultur/) sein, in der eine gewisse Vertrauensbasis besteht. 
 
 ## **Wie kann man Widerständen begegnen?** 
 
@@ -110,6 +110,8 @@ Worum geht es beim Change- oder Transformationsprozess? Wie kann man mit Unsiche
 #### **Mentoring und Coaching**
 
 Mentorings und Coachings können Mitarbeitenden bei ihren individuellen Herausforderungen helfen. Das können Angebote von externen Profis sein oder im Mentoringbereich auch gegenseitige Begleitungen. Wie bereits erwähnt, reagieren nicht alle gleich auf Veränderungen. 
+
+Dazu gibt es in den Beiträgen [Selbstorganisiertes Lernen](https://www.bensblog.ch/selbstorganisiertes-lernen/), [Wissensmanagement](https://www.bensblog.ch/wissensmanagement/) und [individuelle Lernwege in Unternehmen](https://www.bensblog.ch/selbstbestimmtes-lernen-im-unternehmen/) weitere Informationen. 
 
 ### **Erfolg feiern und sichtbar machen** 
 
