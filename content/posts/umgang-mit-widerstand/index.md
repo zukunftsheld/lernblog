@@ -121,6 +121,6 @@ Was hat geklappt? Welche Elemente des neuen Soll-Zustands sind bereits im Alltag
 
 ### Schlussgedanken (für den Moment)
 
-![](sunset-6990822_1280.jpg)
+![](sunset-6990822_1920.jpg)
 
 Veränderungen gehören zum (Arbeits-) Leben dazu. So auch die Widerstände in Veränderungsprozessen. Es geht nicht darum Widerstände zu verhindern, sondern ihnen konstruktiv zu begegnen. Es geht darum das, was hinter den Widerständen liegt zu verstehen (oder versuchen zu verstehen, soweit es möglich ist). So können sie zu einem wichtigen Instrument in Change- und Transformationsprozessen werden.
