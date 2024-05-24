@@ -16,9 +16,9 @@ Die Art und Weise, wie Unternehmen, Mitarbeitende und Leader:innen mit diesen Wi
 
 Widerstände sind nicht per se schlecht und sie sind natürlich. Lässt man sie ausser Acht, nimmt man die Menschen nicht ernst. Gibt man ihnen zu viel Gewicht, dann lässt man sich womöglich unnötig bremsen. Wichtig ist m. E., dass man sich mit Widerständen bewusst und aktiv auseinandersetzt. So floskelhaft es auch scheint, sie bieten auch viele Chancen.
 
-In der Bildung und in Kurssequenzen zeigen sich Widerstände von Einzelpersonen, kleinen Gruppierungen oder ganzen Kursgruppen oft unmittelbar. Diese haben dann auch einen direkten Einfluss auf die Stimmung, die Dynamik und den Verlauf der Veranstaltung. In Unternehmen werden Widerstände von einzelnen, Teams oder Abteilungen möglicherweise weniger gut, spät(er) oder gar nicht wahrgenommen. So oder so gibt es hilfreiche und weniger sinnvolle Strategien mit Widerständen umzugehen. 
+In der Bildung und in Kurssequenzen zeigen sich Widerstände von Einzelpersonen, kleinen Gruppierungen oder ganzen Kursgruppen oft unmittelbar. Diese haben dann auch einen direkten Einfluss auf die Stimmung, die Dynamik und den Verlauf der Veranstaltung. In Unternehmen werden Widerstände von Einzelnen, Teams oder Abteilungen möglicherweise weniger gut, spät(er) oder gar nicht wahrgenommen. So oder so gibt es hilfreiche und weniger sinnvolle Strategien mit Widerständen umzugehen. 
 
-Ein Vorgehen mit dem Hammer (hier könnten wir uns an Watzlawick erinnern oder einfach an ein unbesonnenes Vorgehen), eine Abwertung der Widerstände oder der Personen, die in den Widerstand gehen, wird selten (oder nie) hilfreich sein. 
+Ein Vorgehen mit dem Hammer (hier könnten wir uns an Watzlawick erinnern oder einfach an ein unbesonnenes Vorgehen), eine Abwertung der Widerstände oder der Personen, die in den Widerstand gehen, wird selten (oder nie) hilfreich sein. Auch ignorieren erachte ich als selten sinnvoll. 
 
 Es ist wichtig, die Menschen in ihren Ängsten, Zweifeln und der Ablehnung gegenüber Veränderungen ernst zu nehmen. Das heisst nicht, ihnen nachzugeben oder deshalb alles über den Haufen zu werfen. 
 
@@ -42,7 +42,7 @@ Menschen sind Gewohnheitstiere. Bekannte und bewährte Routinen bieten Sicherhei
 
 #### **Fehlende Informationen**
 
-(Zu) oft werden wichtige und hilfreiche Informationen (wirkliche Gründe für den Change oder Vorteile) nicht mit allen Mitarbeitenden geteilt, da gerade die Angst vor möglichen Widerständen gross ist. Informationen, welche die Mitarbeitenden entspannen würden, werden ihnen (leider) vorenthalten. 
+(Zu) oft werden wichtige und hilfreiche Informationen (wirkliche Gründe für den Change oder Vorteile) nicht mit allen Mitarbeitenden geteilt, da gerade die Angst vor möglichen Widerständen gross ist. Informationen, welche die Mitarbeitenden Entspannung und/oder Sicherheit bringen könnten, werden ihnen (leider) vorenthalten. 
 
 Modelle wie die Kübler-Ross-Kurve können helfen, die emotionalen Phasen, die Menschen während des Veränderungsprozesses durchlaufen könn(t)en, besser zu verstehen. Für mich ist diese Kurve auch mit einer gewissen Vorsicht zu geniessen. Sie könnte wieder dazu führen, alle in eine Schublade zu stecken. Denn jede:r geht anders mit Veränderungen um. So können für einige bereits kleinste Anpassungen bei der Arbeit oder Arbeitsumgebung grössten Stress auslösen, während andere bis kurz vor dem «Untergang» gelassen bleiben. 
 
@@ -60,7 +60,7 @@ Widerstände können darauf hinweisen, dass es ungelöste Probleme, Unklarheiten
 
 Wer Widerstand zeigt, interessiert sich wohl für seine Arbeit und das, was passiert. Auch wenn Widerstände oft als Konflikt(-potenzial) gesehen werden, sind sie (grosse) Chancen für einen Dialog und eine gemeinsame Reflexion. Diese (zusätzlichen) Schleifen wiederum können helfen, ein besseres Verständnis für das Gesamtbild zu erhalten und bereits früh mögliche Schwachstellen und Hindernisse zu identifizieren. 
 
-#### Chancen für innovative Ideen 
+#### Chancen für innovative (oder zumindest andere) Ideen 
 
 Kritisches Feedback und Widerstände können zu neuen Ideen und besseren Lösungen führen. Sie sind für die Transformations- und Change-Menschen (für das ganze Unternehmen) eine grosse Chance. Denn wer kann schon an alles denken. 
 
@@ -76,11 +76,11 @@ Wenn Widerstände offen geäussert und gezeigt werden können, dann kann dies au
 
 #### Offene und transparente Kommunikation
 
-Grundsätzlich hilft eine offene und transparente Kommunikation. Oft sind es wenige Informationen, die Mitarbeitende wirklich nicht haben sollten. 
+Grundsätzlich hilft eine offene und transparente Kommunikation. Oft sind es wenige «geheime» Informationen, die Mitarbeitende wirklich nicht haben sollten. 
 
 #### Frühzeitige Einbindung der Mitarbeitenden
 
-Die frühzeitige Einbindung der Betroffenen sowie die Erläuterung der Gründe reduziert Unsicherheiten und fördert das Verständnis. Vielleicht nicht im ersten Moment, jedoch im weiteren Verlauf. Denn Noch einmal, Widerstände sind normal. 
+Die frühzeitige Einbindung der Betroffenen sowie die Erläuterung der Gründe für die Veränderung reduziert Unsicherheiten und fördert das Verständnis. Vielleicht nicht im ersten Moment, jedoch im weiteren Verlauf. Denn Noch einmal, Widerstände sind normal. 
 
 #### Ehrliche Kommunikation
 
@@ -90,11 +90,11 @@ Transparente und ehrliche Kommunikation schafft Vertrauen. Auch hier: Im ersten 
 
 #### **Einbezug der Mitarbeitenden**
 
-Am besten sind Mitarbeitende aktiv an den Veränderungsprozessen beteiligt. Denn schliesslich geht es auch um sie. Das kann die Akzeptanz bei allen Mitarbeitenden erhöhen (denn es kommt nicht einfach «von oben» und sie werden zu Mitgestaltern). 
+Am besten sind Mitarbeitende aktiv an den Veränderungsprozessen beteiligt. Denn schliesslich geht es auch um sie. Das kann die Akzeptanz bei allen Mitarbeitenden erhöhen («Das Neue» kommt nicht einfach «von oben» und sie werden zu Mitgestaltenden). 
 
-#### **Feedback-Schleifen**
+#### **Feedbackschleifen**
 
-Schaffen Sie Möglichkeiten für regelmässiges Feedback und Diskussionen. So können Mitarbeitende ihre Bedenken und Gefühle äussern. Sie sind am Prozess beteiligt und können selbst Lösungsvorschläge bieten. 
+Raum und Möglichkeiten für regelmässiges Feedback und Diskussionen schaffen. So können Mitarbeitende ihre Bedenken und Gefühle äussern. Sie sind am Prozess beteiligt und können selbst Lösungsvorschläge bieten. 
 
 ### **Aktive Begleitung der Mitarbeitenden**
 
