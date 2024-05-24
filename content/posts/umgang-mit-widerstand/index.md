@@ -75,7 +75,9 @@ Wenn Widerstände offen geäussert und gezeigt werden können, dann kann dies au
 
 ## **Wie kann man Widerständen begegnen?** 
 
-> «Mein Lieblingsthema ist: Was mache ich mit mir, wenn der andere nicht so ist, wie ich ihn haben möchte?» *Ruth C. Cohn*
+> «Mein Lieblingsthema ist: Was mache ich mit mir, wenn der andere nicht so ist, wie ich ihn haben möchte?» 
+>
+> *Ruth C. Cohn*
 
 #### Offene und transparente Kommunikation
 
