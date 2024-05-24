@@ -58,11 +58,11 @@ Und hier kommt die fünfte Disziplin. Die ersten vier sind die Grundlage oder di
 
 Im Zusammenhang mit der lernenden Organisation kommen mir andere Modelle und Ansätze in den Sinn. Einige könnten ergänzend eingesetzt werden oder sind wohl innerhalb der Disziplin eine weitere Disziplin für sich. Ich ergänze, was mir gerade in den Sinn kommt. 
 
-##### **Psychologische Sicherheit**
+##### **[Psychologische Sicherheit](https://www.bensblog.ch/psychologische-sicherheit/)**
 
 Insbesondere bei den Mental Models und dem Teamlearning spielt diese m. E. eine wichtige Rolle. Gibt es Raum für Fehler und Unsicherheiten? Kann darüber gesprochen werden? Eine sichere Umgebung und Offenheit sind wichtig. 
 
-##### **Leadership-Kompetenzen**
+##### **[Leadership-Kompetenzen](https://www.bensblog.ch/leadership-navigieren-im-wandel/)**
 
 Die sind ja eh immer wichtig. Gehen Menschen als Vorbilder voran? Erkennen und unterstützen Menschen in Leader-Rollen die Mitarbeitenden in den Lern-Prozessen, der Kommunikation und beim klären der Vision?
 
@@ -70,7 +70,7 @@ Die sind ja eh immer wichtig. Gehen Menschen als Vorbilder voran? Erkennen und u
 
 Wie gut kennen die Menschen sich selbst? Wie hoch ist ihre Reflexionsfähigkeit? Können sie sich selbst führen, «managen» (das Wort mag ich nicht so) oder coachen? Sind die Menschen überhaupt bereit dazu?
 
-##### **Lernkompetenzen**
+##### **[Lernkompetenzen](https://www.bensblog.ch/tags/lernen/)**
 
 Haben die Menschen Selbstlernkompetenzen? Erleben sie sich als kompetente Lerner:innen? Müssen diese erst wieder entdeckt und erlebt werden? \
 \
