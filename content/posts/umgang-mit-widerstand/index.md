@@ -53,7 +53,7 @@ Modelle wie die Kübler-Ross-Kurve können helfen, die emotionalen Phasen, die M
 
 > «Der grösste Schaden entsteht durch die schweigende Mehrheit, die nur überleben will, sich fügt und alles mitmacht.» 
 >
-> *\[Quelle unbekannt ](<> https://dpa-factchecking.com/switzerland/211026-99-746228/>)*
+> *[Quelle unbekannt](<> *https://dpa-factchecking.com/switzerland/211026-99-746228*>)*
 
 #### Hinweis auf Probleme
 
