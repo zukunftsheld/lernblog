@@ -73,3 +73,7 @@ Bei der Gestaltung der Organisationskultur spielen [Leader:innen](https://www.be
 Eine Unternehmenskultur lebt von und mit den Menschen, die in der Organisation und darum herum arbeiten. Kulturentwicklung ist also kein Projekt, das man beginnen und abschliessen kann. Will man als Organisation aktiv an der eigenen (positiven und förderlichen) Kultur arbeiten, muss man wachsam und aktiv bleiben. 
 
 Was manchmal einfach klingt, ist in Wahrheit eine (grosse) Herausforderung. Entwicklung und Veränderung (nicht nur von Kultur) ist ein Prozess, der oft nie abgeschlossen ist. Zudem sind, wie wir gesehen haben, viele Aspekte der Kultur unter der (Wasser-) Oberfläche und kaum sichtbar. Wichtig sind eine klare Haltung und die passenden Strategien. Nicht erst dann, sondern bereits bei der Erarbeitung der Strategie braucht es die aktive Mitarbeit der Menschen, die in der Organisation arbeiten.
+
+
+
+![](1715182341668.jpeg "Quelle: Corporate Rebels Linkedin")
