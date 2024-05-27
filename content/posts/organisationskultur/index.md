@@ -76,4 +76,4 @@ Was manchmal einfach klingt, ist in Wahrheit eine (grosse) Herausforderung. Entw
 
 
 
-![](1715182341668.jpeg "Quelle: Corporate Rebels Linkedin")
+![Quelle: Corporate Rebels Linkedin](1715182341668.jpeg)
