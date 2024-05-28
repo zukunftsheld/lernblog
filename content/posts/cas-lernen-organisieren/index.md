@@ -10,7 +10,7 @@ footnotes = "**Bücher über (selbstorganisiertes und selbstbestimmtes) Lernen**
 +++
 ## **Einleitende Gedanken**
 
-In einem Blogbeitrag habe ich darüber geschrieben, dass das Teilen des Lernens etwas Persönliches ist oder sein kann. Ich meine das Teilen des Lernprozesses, der auch von (vielen) Fragen, Unsicherheiten, Blockaden und Schwierigkeiten begleitet werden kann. Danach hatte ich mehrere Gespräche darüber. Auch darüber, dass Selbstlernen, selbstbestimmtes oder selbstorganisiertes Lernen oft auch zuerst gelernt werden «muss». Deshalb gebe ich hier einen Einblick in meinen (aktuellen) Prozess. 
+In einem Blogbeitrag habe ich darüber geschrieben, dass das Teilen des Lernens etwas persönliches ist oder sein kann. Ich meine das Teilen des Lernprozesses, der auch von (vielen) Fragen, Unsicherheiten, Blockaden und Schwierigkeiten begleitet werden kann. Danach hatte ich mehrere Gespräche darüber. Auch darüber, dass Selbstlernen, selbstbestimmtes oder selbstorganisiertes Lernen oft auch zuerst gelernt werden «muss». Deshalb gebe ich hier einen Einblick in meinen (aktuellen) Prozess. 
 
 ## **So gestalte ich mein Lernen (im CAS)**
 
