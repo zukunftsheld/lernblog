@@ -145,3 +145,7 @@ Veränderungen brauchen Mut und sie sind anstrengend. Das ist gut so. Zum Abschl
 *Aber er hatte einen verkrüppelten Körper, er war winzig und hatte verschrumpelte Flügel. Der Mann beobachtete das Geschehen weiter, weil er erwartete, dass die Flügel sich jeden Moment öffnen und sich ausdehnen würden, um den Körper des Schmetterlings zu stützen und ihm Spannkraft zu verleihen. Aber nichts davon geschah. Stattdessen verbrachte der Schmetterling den Rest seines Lebens krabbelnd mit einem verkrüppelten Körper und verschrumpelten Flügeln. Niemals war er fähig zu fliegen.*
 
 *Was der Mann in seiner Güte und seinem Wohlwollen nicht verstand, war, dass der begrenzende Kokon und das Ringen, das erforderlich ist, damit der Schmetterling durch die kleine Öffnung kam, der Weg der Natur ist, um Flüssigkeit vom Körper des Schmetterlings in seine Flügel zu fördern. Dadurch wird er auf den Flug vorbereitet sobald er seine Freiheit aus dem Kokon erreicht. Manchmal ist das Ringen genau das, was wir in unserem Leben benötigen. Wenn wir durch unser Leben ohne Hindernisse gehen dürften, würde es uns lahmlegen. Wir wären nicht so stark, wie wir sein könnten, und niemals fähig zu fliegen.» (Steinbach 2016, S. 68)* Aus Entlehrt euch! Ausbruch aus dem Vollständigkeitswahn, Rolf Arnold, S. 66
+
+
+
+PS: Change und Management passen eh nicht so gut zusammen. Deshalb auch ein CAS in Organisationsentwicklung & Change Leadership. Dazu aber sicher in Zukunft mehr.
