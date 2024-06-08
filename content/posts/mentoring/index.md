@@ -1,11 +1,12 @@
 +++
 title = "Mentoring"
 date = "2024-06-08"
-draft = true
+draft = false
 pinned = false
 tags = ["Personalentwicklung", "Organisationsentwicklung", "Colearning", "Mentoring", "Leadership"]
 image = "rock-climbing-1283693_640.jpg"
 description = "Könnte Mentoring ein Lösungsansatz für viele Probleme und Herausforderungen in der Personal- und Führungsentwicklung sein? "
+footnotes = "Titelbild von [Pexels](https://pixabay.com/de/users/pexels-2286921/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1283693) auf [Pixabay](https://pixabay.com/de/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1283693)"
 +++
 #### Könnte Mentoring ein Lösungsansatz für viele Probleme und Herausforderungen in der Personal- und Führungsentwicklung sein? 
 
@@ -14,13 +15,13 @@ Wir leben in einer VUCA oder BANI Welt. Viele Menschen fühlen sich verunsichert
 
 #### Bevor wir weitermachen, schauen wir doch, was im Duden steht: 
 
-[Der Duden sagt](<https://www.duden.de/rechtschreibung/Mentoring>): Beratung und Unterstützung durch erfahrene Fach- oder Führungskräfte
+[Der Duden sagt](https://www.duden.de/rechtschreibung/Mentoring): Beratung und Unterstützung durch erfahrene Fach- oder Führungskräfte
 
 ###### Herkunft: englisch mentoring, zu: to mentor = beraten; ausbilden, zu: mentor, [Mentor](https://www.duden.de/rechtschreibung/Mentor_Berater)
 
 ### **Mein Bezug zu Mentoring**
 
-Mentoring kennt man bereits lange. Vor drei Jahren bin ich im Rahmen von Colearning das erste Mal in Kontakt mit Mentoring gekommen. Diese Art des Mentorings sieht eine Struktur vor und bedingt keine Fach- oder Führungskompetenz. Sie bedingt nicht einmal zwingend eine konkrete Erfahrung. Natürlich ist es ideal, wenn die Mentorin oder der Mentor bereits erste Erfahrungen als Mentee gesammelt hat. Ich war mit einem anderen Colearner in einem gegenseitigen Mentoring, also Mentor und Mentee gleichzeitig. Zu einem späteren Zeitpunkt suchte ich nach einem Mentoring-Partner ausserhalb des Colearning-Universums und bin nun seit wohl mittlerweile ca. 1.5 Jahren mit ihm unterwegs. 
+Mentoring kennt man bereits lange. Vor drei Jahren bin ich im Rahmen von [Colearning](https://www.colearning.org) das erste Mal in Kontakt mit [Mentoring](https://handbuch.colearning.org/operatives/informationssystem/mentoring-ablauf#mentoring-ablauf-ausfuehrlich) gekommen. Diese Art des Mentorings sieht eine Struktur vor und bedingt keine Fach- oder Führungskompetenz. Sie bedingt nicht einmal zwingend eine konkrete Erfahrung. Natürlich ist es ideal, wenn die Mentorin oder der Mentor bereits erste Erfahrungen als Mentee gesammelt hat. Ich war mit einem anderen Colearner in einem gegenseitigen Mentoring, also Mentor und Mentee gleichzeitig. Zu einem späteren Zeitpunkt suchte ich nach einem Mentoring-Partner ausserhalb des Colearning-Universums und bin nun seit wohl mittlerweile ca. 1.5 Jahren mit ihm unterwegs. 
 
 ### **Mentoring, ein Lösungsansatz**
 
@@ -40,15 +41,17 @@ Eigentlich mag ich den Begriff in der Form nicht, da Lernen nie aufhört. Dadurc
 
 Erfahrene Mentorinnen begleiten (Quer-) Einsteigerinnen als Mentorinnen und Mentoren beim Auf- und Ausbau von fachlichen Kompetenzen. Eine sehr klassische Variante des Mentorings. 
 
-#### **Entwicklung**
+#### **Entwicklung begleiten**
 
-Persönlichkeitsentwicklung, Personalentwicklung, Kulturentwicklung, … . Mentoring (hier spreche ich v. a. vom Arbeitskontext) unterstützt die individuelle Entwicklung der Mitarbeitenden und setzt Anker in Art der Zusammenarbeit und der Kultur. Es fördert die Kommunikation, die (Weiter-)Entwicklung der Mitarbeitenden, die gegenseitige Unterstützung und kann m. E. einen wichtigen Einfluss auf die Unternehmenskultur und deren positive Entwicklung haben. Gut eingeführte Mentoringprozesse können einen positiven Einfluss auf die Fehlerkultur, die psychologische Sicherheit und die Zusammenarbeit im allgemeinen haben. 
+Persönlichkeitsentwicklung, Personalentwicklung, Kulturentwicklung etc. Mentoring (hier spreche ich v. a. vom Arbeitskontext) unterstützt die individuelle Entwicklung der Mitarbeitenden und setzt Anker in Art der Zusammenarbeit und der Kultur. Es fördert die Kommunikation, die (Weiter-)Entwicklung der Mitarbeitenden, die gegenseitige Unterstützung und kann m. E. einen wichtigen Einfluss auf die Unternehmenskultur und deren positive Entwicklung haben. Gut eingeführte Mentoringprozesse können einen positiven Einfluss auf die Fehlerkultur, die psychologische Sicherheit und die Zusammenarbeit im allgemeinen haben. 
 
 #### **Reverse Mentoring**
 
 Ein Begriff, der mittlerweile oft auftaucht, auch wenn er bereits etwas älter zu sein scheint. Aus meiner Sicht sind generationenübergreifendes Zusammenarbeiten und die gegenseitige Offenheit so oder so entscheidend für eine, für unsere! gemeinsame Zukunft. Deshalb nur der Ergänzung halber [hier ein Einblick in dieses Mentoring-Format](https://www.monster.ch/de/mitarbeiter-finden/hr-know-how/recruiting/talent-management/reverse-mentoring-training-coaching-weiterbildung-099706/). 
 
 ### Zum Schluss beleuchten wir den Mentoring-Ablauf wie wir ihn im Colearning leben und wo ich hier den Nutzen der einzelnen Elemente sehe. 
+
+![](kopie-von-flyer-mentoring-a4.png)
 
 #### **Dankbarkeit**
 
