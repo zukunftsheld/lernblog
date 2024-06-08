@@ -13,7 +13,7 @@ footnotes = "Titelbild von [Pexels](https://pixabay.com/de/users/pexels-2286921
 \
 Wir leben in einer VUCA oder BANI-Welt. Viele Menschen fühlen sich verunsichert und sie sind frustriert oder überfordert. Auch wenn wir unsere (Arbeits-)Welt nicht so unbeständig und mehrdeutig wahrnehmen würden, sind die «ganz normalen» Herausforderungen da. Sie sind überall und werden durch die allgemeine (vielleicht auch unbewusste) Verunsicherung verstärkt. Mitarbeitende werden zu Führungskräften, ehemalige Lernende sind plötzlich «fertig», also «aus»gebildet und sollten nun alles alleine können, neue Mitarbeitende werden ins kalte Wasser «geworfen» und ein Change-Prozess löst den nächsten ab. Da kommen dann noch die privaten Herausforderungen (Familie, Finanzen, Gesundheit, …) dazu. Alles in allem kann das auch für sehr soziale Menschen eine einsame Sache werden. Das müsste aber nicht sein! 
 
-#### Bevor wir weitermachen, schauen wir doch, was im Duden steht: 
+#### Bevor wir weitermachen, schauen wir doch, was zu Mentoring im Duden steht: 
 
 [Der Duden sagt](https://www.duden.de/rechtschreibung/Mentoring): Beratung und Unterstützung durch erfahrene Fach- oder Führungskräfte
 
@@ -21,7 +21,7 @@ Wir leben in einer VUCA oder BANI-Welt. Viele Menschen fühlen sich verunsichert
 
 ### **Mein Bezug zu Mentoring**
 
-Mentoring kennt man bereits lange. Vor drei Jahren bin ich im Rahmen von [Colearning](https://www.colearning.org) das erste Mal in Kontakt mit [Mentoring](https://handbuch.colearning.org/operatives/informationssystem/mentoring-ablauf#mentoring-ablauf-ausfuehrlich) gekommen. Diese Art des Mentorings sieht eine Struktur vor und bedingt keine Fach- oder Führungskompetenz. Sie bedingt nicht einmal zwingend eine konkrete Erfahrung. Natürlich ist es ideal, wenn die Mentorin oder der Mentor bereits erste Erfahrungen als Mentee gesammelt hat. Ich war mit einem anderen Colearner in einem gegenseitigen Mentoring, also Mentor und Mentee gleichzeitig. Zu einem späteren Zeitpunkt suchte ich nach einem Mentoring-Partner ausserhalb des Colearning-Universums und bin nun seit wohl mittlerweile ca. 1.5 Jahren mit ihm unterwegs. 
+Mentoring kennt man bereits lange. Vor drei Jahren bin ich im Rahmen von [Colearning](https://www.colearning.org) das erste Mal in Kontakt mit [Mentoring](https://handbuch.colearning.org/operatives/informationssystem/mentoring-ablauf#mentoring-ablauf-ausfuehrlich) gekommen. Diese Art des Mentorings sieht eine Struktur vor und bedingt keine Fach- oder Führungskompetenz. Sie bedingt nicht einmal zwingend eine konkrete Erfahrung in «etwas». Natürlich ist es ideal, wenn die Mentorin oder der Mentor bereits erste Erfahrungen als Mentee gesammelt hat. Ich war mit einem anderen Colearner in einem gegenseitigen Mentoring, also Mentor und Mentee gleichzeitig. Zu einem späteren Zeitpunkt suchte ich nach einem Mentoring-Partner ausserhalb des Colearning-Universums und bin nun seit wohl mittlerweile ca. 1.5 Jahren mit ihm unterwegs. 
 
 ### **Mentoring, ein Lösungsansatz**
 
