@@ -21,9 +21,9 @@ Wir leben in einer VUCA oder BANI-Welt. Viele Menschen fühlen sich verunsichert
 
 ### **Mein Bezug zu Mentoring**
 
-Mentoring kennt man bereits lange. Vor drei Jahren bin ich im Rahmen von [Colearning](https://www.colearning.org) das erste Mal in Kontakt mit [Mentoring](https://handbuch.colearning.org/operatives/informationssystem/mentoring-ablauf#mentoring-ablauf-ausfuehrlich) gekommen. Diese Art des Mentorings sieht eine Struktur vor und bedingt keine Fach- oder Führungskompetenz. Sie bedingt nicht einmal zwingend eine konkrete Erfahrung in «etwas». Natürlich ist es ideal, wenn die Mentorin oder der Mentor bereits erste Erfahrungen als Mentee gesammelt hat. Ich war mit einem anderen Colearner in einem gegenseitigen Mentoring, also Mentor und Mentee gleichzeitig. Zu einem späteren Zeitpunkt suchte ich nach einem Mentoring-Partner ausserhalb des Colearning-Universums und bin nun seit wohl mittlerweile ca. 1.5 Jahren mit ihm unterwegs. 
+Mentoring kennt man bereits lange. Vor drei Jahren bin ich im Rahmen von [Colearning](https://www.colearning.org) das erste Mal in Kontakt mit [Mentoring](https://handbuch.colearning.org/operatives/informationssystem/mentoring-ablauf#mentoring-ablauf-ausfuehrlich) gekommen. Diese Art des Mentorings sieht eine Struktur vor und bedingt keine Fach- oder Führungskompetenz. Sie bedingt nicht einmal zwingend eine konkrete Erfahrung in «etwas». Natürlich ist es ideal, wenn die Mentorin oder der Mentor bereits erste Erfahrungen als Mentee gesammelt hat. Zu Beginn war ich mit einem anderen Colearner in einem gegenseitigen Mentoring, also Mentor und Mentee gleichzeitig. Zu einem späteren Zeitpunkt suchte ich nach einem Mentoring-Partner ausserhalb des Colearning-Universums und bin nun seit wohl mittlerweile ca. 1.5 Jahren mit ihm unterwegs. 
 
-### **Mentoring, ein Lösungsansatz**
+### **Mentoring, ein Lösungsansatz(?)**
 
 Menschen in der Arbeitswelt und in Lernkontexten sind oft alleine unterwegs. Nach aussen sieht es zwar nach einem Team, einer Kursgruppe etc. aus. Im Kern ist jedoch jede und jeder für sich unterwegs. Ein persönlicher fachlicher Austausch, der auch eine differenzierte oder distanziertere Perspektive bietet, bleibt oft aus. Gerade in schwierigen Phasen wird das deutlich. Hier kommen die Qualität und der Nutzen von Mentoring ins Spiel. Lass mich das anhand von ein paar Beispielen illustrieren.
 
