@@ -8,7 +8,7 @@ image = "rock-climbing-1283693_640.jpg"
 description = "Könnte Mentoring ein Lösungsansatz für viele Probleme und Herausforderungen in der Personal- und Führungsentwicklung sein? "
 footnotes = "Titelbild von [Pexels](https://pixabay.com/de/users/pexels-2286921/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1283693) auf [Pixabay](https://pixabay.com/de/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1283693)"
 +++
-#### Könnte Mentoring ein Lösungsansatz für viele Probleme und Herausforderungen in der Personal- und Führungsentwicklung sein? 
+#### Könnte Mentoring ein (Teil-)Lösungsansatz für viele Probleme und Herausforderungen in der Personal- und Führungsentwicklung sein? 
 
 \
 Wir leben in einer VUCA oder BANI Welt. Viele Menschen fühlen sich verunsichert und sie sind frustriert oder überfordert. Auch wenn wir unsere (Arbeits-)Welt nicht so unbeständig und mehrdeutig wahrnehmen würden, sind die «ganz normalen» Herausforderungen da. Sie sind überall und werden durch die allgemeine (vielleicht auch unbewusste) Verunsicherung verstärkt. Mitarbeitende werden zu Führungskräften, ehemalige Lernende sind plötzlich «fertig», also «aus»gebildet und sollten nun alles alleine können, neue Mitarbeitende werden ins kalte Wasser «geworfen» und ein Change-Prozess löst den nächsten ab. Da kommen dann noch die privaten Herausforderungen (Familie, Finanzen, Gesundheit, …) dazu. Alles in allem kann das auch für sehr soziale Menschen eine einsame Sache werden. Das müsste aber nicht sein! 
