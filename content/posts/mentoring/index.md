@@ -21,25 +21,25 @@ Wir leben in einer VUCA oder BANI-Welt. Viele Menschen fühlen sich verunsichert
 
 ### **Mein Bezug zu Mentoring**
 
-Mentoring kennt man bereits lange. Vor drei Jahren bin ich im Rahmen von [Colearning](https://www.colearning.org) das erste Mal in Kontakt mit [Mentoring](https://handbuch.colearning.org/operatives/informationssystem/mentoring-ablauf#mentoring-ablauf-ausfuehrlich) gekommen. Diese Art des Mentorings sieht eine Struktur vor und bedingt keine Fach- oder Führungskompetenz. Sie bedingt nicht einmal zwingend eine konkrete Erfahrung in «etwas». Natürlich ist es ideal, wenn die Mentorin oder der Mentor bereits erste Erfahrungen als Mentee gesammelt hat. Zu Beginn war ich mit einem anderen Colearner in einem gegenseitigen Mentoring, also Mentor und Mentee gleichzeitig. Zu einem späteren Zeitpunkt suchte ich nach einem Mentoring-Partner ausserhalb des Colearning-Universums und bin nun seit wohl mittlerweile ca. 1.5 Jahren mit ihm unterwegs. 
+Mentoring kennt man bereits lange. Vor drei Jahren bin ich im Rahmen von [Colearning](https://www.colearning.org) das erste Mal in Kontakt mit dem Colearning-[Mentoring](https://handbuch.colearning.org/operatives/informationssystem/mentoring-ablauf#mentoring-ablauf-ausfuehrlich) gekommen. Diese Art des Mentorings sieht eine Struktur vor und bedingt keine Fach- oder Führungskompetenz. Sie bedingt nicht einmal zwingend eine konkrete Erfahrung in «etwas». Natürlich ist es ideal, wenn die Mentorin oder der Mentor bereits erste Erfahrungen als Mentee gesammelt hat und den Prozess kennt. Zu Beginn war ich mit einem anderen (erfahrenen) Colearner in einem gegenseitigen Mentoring, also Mentor und Mentee gleichzeitig. Zu einem späteren Zeitpunkt suchte ich nach einem Mentoring-Partner ausserhalb des Colearning-Universums und bin nun seit wohl mittlerweile ca. 1.5 Jahren mit ihm unterwegs. 
 
 ### **Mentoring, ein Lösungsansatz(?)**
 
-Menschen in der Arbeitswelt und in Lernkontexten sind oft alleine unterwegs. Nach aussen sieht es zwar nach einem Team, einer Kursgruppe etc. aus. Im Kern ist jedoch jede und jeder für sich unterwegs. Ein persönlicher fachlicher Austausch, der auch eine differenzierte oder distanziertere Perspektive bietet, bleibt oft aus. Gerade in schwierigen Phasen wird das deutlich. Hier kommen die Qualität und der Nutzen von Mentoring ins Spiel. Lass mich das anhand von ein paar Beispielen illustrieren.
+Menschen in der Arbeitswelt und in Lernkontexten sind oft alleine unterwegs. Nach aussen sieht es zwar nach einem Team, einer Kursgruppe etc. aus. Im Kern ist jedoch jede und jeder für sich unterwegs. Ein persönlicher fachlicher Austausch, der auch eine differenzierte oder distanzierte(re) Perspektive bietet, bleibt oft aus. Gerade in schwierigen Phasen wird das deutlich. Hier kommen die Qualität und der Nutzen von Mentoring ins Spiel. Lass mich das anhand von ein paar Beispielen illustrieren.
 
 #### **Führungskräfte**
 
-Eine bestehende Mitarbeiterin wechselt innerhalb des Teams in eine Führungsrolle. Hier könnten neben den alltäglichen Herausforderungen in der Führung insbesondere der Rollenwechsel ein Thema sein. 
+Eine bestehende Mitarbeiterin wechselt innerhalb des Teams in eine Führungsrolle. Hier könnten neben den alltäglichen Herausforderungen in der Führung insbesondere der Rollenwechsel ein Thema sein. Hier könnte ein Mentoring mit einer erfahrenen Führungskraft oder jemandem aus dem Beratungs-/Coachinghintergrund Sinn machen. 
 
-Führungskräfte balancieren oder jonglieren zwischen ihren fachlichen Aufgaben und den Führungsthemen. Dieser Spagat fordert immer wieder Reflexion. Zudem bringt die Führung auf menschlicher Ebene immer wieder neue Herausforderungen und vielleicht auch regelmässig wiederkehrende Reizthemen. 
+Führungskräfte balancieren oder jonglieren zwischen ihren fachlichen Aufgaben und den Führungsthemen. Dieser Spagat fordert immer wieder Reflexion. Zudem bringt die Führung auf menschlicher Ebene neue Herausforderungen und vielleicht auch regelmässig wiederkehrende Reizthemen. Hier könnten zwei Führungskräfte sich regelmässig zu einem gegenseitigen Mentoring treffen. 
 
 #### **(Gemeinsames) Lebenslanges lernen**
 
-Eigentlich mag ich den Begriff in der Form nicht, da Lernen nie aufhört. Dadurch, dass man Lernen in formelle Rahmen gepackt hat, haben wir einen unnatürlichen Bezug zu lernen. Durch Mentorings (z. B. wie es Colearner machen), werden sich Menschen ihrem Lernen immer wieder bewusst und entdecken und (an-)erkennen, dass sie immer wieder Lernerlebnisse im Alltag haben. 
+Eigentlich mag ich den Begriff in der Form nicht, da Lernen nie aufhört. Dadurch, dass man Lernen in formelle Rahmen gepackt hat, haben wir einen unnatürlichen Bezug zu lernen. Durch Mentorings (z. B. wie es Colearner machen), werden sich Menschen ihrem Lernen immer wieder bewusst und entdecken und (an-)erkennen, dass sie immer wieder Lernerlebnisse im Alltag haben. Beim Lernen sind sowohl klassiche Mentor-Mentee Beziehungen wie auch gegenseitige Mentoring denkbar. Je nach Lernthema macht eine Mentorin Sinn, die fachliche Kompetenzen im Lernbereich hat. Gerade dann wenn es um das alltägliche Lernen und Reflektieren geht, erachte ich unterschiedliche Hintergründe als wertvoll. 
 
 #### **Fachliche Kompetenzentwicklung** 
 
-Erfahrene Mentorinnen begleiten (Quer-) Einsteigerinnen als Mentorinnen und Mentoren beim Auf- und Ausbau von fachlichen Kompetenzen. Eine sehr klassische Variante des Mentorings. 
+Erfahrene Mentorinnen begleiten (Quer-) Einsteigerinnen als Mentorinnen und Mentoren beim Auf- und Ausbau von fachlichen Kompetenzen. Eine sehr klassische Variante des Mentorings. In diesem Fall sind Fachexpertinnen als Mentorin oder Mentor angebracht. 
 
 #### **Entwicklung begleiten**
 
@@ -49,7 +49,9 @@ Persönlichkeitsentwicklung, Personalentwicklung, Kulturentwicklung etc. Mentori
 
 Ein Begriff, der mittlerweile oft auftaucht, auch wenn er bereits etwas älter zu sein scheint. Aus meiner Sicht sind generationenübergreifendes Zusammenarbeiten und die gegenseitige Offenheit so oder so entscheidend für eine, für unsere! gemeinsame Zukunft. Deshalb nur der Ergänzung halber [hier ein Einblick in dieses Mentoring-Format](https://www.monster.ch/de/mitarbeiter-finden/hr-know-how/recruiting/talent-management/reverse-mentoring-training-coaching-weiterbildung-099706/). 
 
-### Zum Schluss beleuchten wir den Mentoring-Ablauf wie wir ihn im Colearning leben und wo ich hier den Nutzen der einzelnen Elemente sehe. 
+### (Fast) Zum Schluss beleuchten wir den Mentoring-Ablauf wie wir ihn im Colearning leben und wo ich hier den Nutzen der einzelnen Elemente sehe. 
+
+
 
 ![](kopie-von-flyer-mentoring-a4.png)
 
@@ -72,3 +74,7 @@ Entwicklungs- und Lernprozesse können immer und überall stattfinden. Es kann f
 #### **Weitergeben**
 
 Alle Menschen haben etwas zu geben. Das kann praktische Hilfe für andere sein, das Weitergeben von Erkenntnissen des Mentorings oder selbst Mentorin oder Mentor sein. So kann ein Lern- oder Mentoring-Ökosystem entstehen, welches wenig zeitlichen und finanziellen Aufwand benötigt.
+
+### Schlussgedanken
+
+Ein Mentoring im Sinne des Colearning-Mentorings kann ein wertvolles Instrument sein, damit sich Mitarbeitende gegenseigt bei der persönlichen und fachlichen Entwicklung sowie in ihren Lernprozessen begleiten können. Es kann die Kommunikation zwischen Abteilungen fördern und gegenseitige vertiefte Einblicke ermöglichen. Da die Strukturen innerhalb von Colearning schlank gehalten wurden und auch das Mentoring darauf ausgerichtet ist, sind der zeitliche Aufwand und die Kosten tief. Der Nutzen (so erlebe und beobachte ich es zumindest) umso grösser.
