@@ -4,9 +4,9 @@ date = "2024-06-08"
 draft = false
 pinned = false
 tags = ["Personalentwicklung", "Organisationsentwicklung", "Colearning", "Mentoring", "Leadership"]
-image = "rock-climbing-1283693_640.jpg"
+image = "2c521ff4-daa8-475f-bb92-91bfb61dcd6c.jpg"
 description = "Könnte Mentoring ein (Teil-)Lösungsansatz für viele Probleme und Herausforderungen in der Personal- und Führungsentwicklung in einer unbeständigen und unsicheren (Arbeits-) Welt sein? "
-footnotes = "Titelbild von [Pexels](https://pixabay.com/de/users/pexels-2286921/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1283693) auf [Pixabay](https://pixabay.com/de/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1283693)"
+footnotes = "Titelbild Sandra Zaugg"
 +++
 #### Könnte Mentoring ein (Teil-)Lösungsansatz für viele Probleme und Herausforderungen in der Personal- und Führungsentwicklung sein? 
 
