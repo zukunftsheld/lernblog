@@ -95,3 +95,9 @@ Was hier nur so halb passt, oft vergessen wird und doch (eigentlich) wirklich wi
 ## Schlussgedanken (für den Moment)
 
 Die Möglichkeiten, sich mit anderen oder etwas zu verbinden, finden sich in allen Bereichen des Lebens. Die Arbeitswelt ist eine davon. Für Unternehmen und Teams erachte ich jedoch Vertrauen und Verbundenheit als wesentliche Faktoren, um in dieser Welt langfristig erfolgreich zu bleiben. Verbundenheit sowie echte Begegnungen zu fördern ist ein Weg hin zu menschenorientierten und wirtschaftlich nachhaltigen Unternehmen, die auch den Stürmen der Zukunft trotzen werden.
+
+
+
+
+
+<script class="podigee-podcast-player" src="https://player.podigee-cdn.net/podcast-player/javascripts/podigee-podcast-player.js" data-configuration="https://entwicklungsfreiraum-siebenminuten.podigee.io/3-neue-episode/embed?context=external"></script>
