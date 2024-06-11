@@ -53,3 +53,9 @@ Hmm.., eigentlich keine richtigen «Lernmittel» und doch wunderbare und wertvol
 ### **Mentoring**
 
 Seit ich Teil von Colearning bin, mache ich Mentorings. Seit über einem Jahr bin ich mit [Samuel Niklaus](https://projectlead.ch) im gegenseitigen Mentoring unterwegs, mit dem ich mich oft über Leadership, Digitalisierungsthemen, Transformation und so vieles mehr unterhalte. Wir kommen aus unterschiedlichen Welten und haben doch so vieles gemeinsam, auch wenn dies für ein Mentoring nicht zwingend nötig ist. Diese Termine sind manchmal kurz und ein anderes Mal dauern sie zwei bis drei Stunden.
+
+
+
+
+
+<script class="podigee-podcast-player" src="https://player.podigee-cdn.net/podcast-player/javascripts/podigee-podcast-player.js" data-configuration="https://entwicklungsfreiraum-siebenminuten.podigee.io/5-new-episode/embed?context=external"></script>
