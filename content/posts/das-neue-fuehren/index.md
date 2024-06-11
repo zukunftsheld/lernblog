@@ -38,3 +38,7 @@ Dieses Buch bietet einen Einstieg oder auch konkrete Ideen, wie du als Führungs
 Mir gefällt das Buch. Im ersten Teil geht es darum, ein Bewusstsein für das, was war und ist zu schaffen. Der zweite Teil handelt davon, Entschlüsse zu fassen und ins Handeln zu kommen. Durch die persönliche Sicht des Autors, die vielen Erfahrungen und Beispiele aus der Praxis werden die Gedanken greifbar. Viele Elemente in diesem Buch finden sich in ähnlicher Form in anderen Ansätzen (z. B. Sinntheorie Frankl, Mindful Leadership, Psychologische Sicherheit, …) wieder. Bodo Janssen und die Upstalsboom-Gruppe sind aus meiner Sicht Vorreiter und Vorbilder für gesunde und zukunftsfähige Unternehmen.
 
 ➡️[Hier gehts zum ](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/bodo-janssen/das-neue-fuehren/id/9783424202854/)[Buch bei exlibris.ch](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/bodo-janssen/das-neue-fuehren/id/9783424202854/)
+
+
+
+<script class="podigee-podcast-player" src="https://player.podigee-cdn.net/podcast-player/javascripts/podigee-podcast-player.js" data-configuration="https://entwicklungsfreiraum-siebenminuten.podigee.io/2-das-neue-fuehren/embed?context=external"></script>
