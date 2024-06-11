@@ -58,3 +58,5 @@ Frederic Laloux beschreibt in seinem Buch Reinventing Organizations die untersch
 ## Die Reise geht weiter.
 
 ![](bildschirmfoto-2024-04-23-um-13.15.57.png)
+
+<script class="podigee-podcast-player" src="https://player.podigee-cdn.net/podcast-player/javascripts/podigee-podcast-player.js" data-configuration="https://entwicklungsfreiraum-siebenminuten.podigee.io/4-neue-episode/embed?context=external"></script>
