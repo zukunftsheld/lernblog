@@ -75,3 +75,9 @@ Wie gut kennen die Menschen sich selbst? Wie hoch ist ihre Reflexionsfähigkeit?
 Haben die Menschen Selbstlernkompetenzen? Erleben sie sich als kompetente Lerner:innen? Müssen diese erst wieder entdeckt und erlebt werden? \
 \
 Unabhängig davon, ob man direkt auf eine lernende Organisation abzielt oder nicht, halte ich viele der genannten Elemente für wesentlich, um als Unternehmen den aktuellen und zukünftigen Herausforderungen der (Arbeits-)Welt zu begegnen.
+
+
+
+
+
+<script class="podigee-podcast-player" src="https://player.podigee-cdn.net/podcast-player/javascripts/podigee-podcast-player.js" data-configuration="https://entwicklungsfreiraum-siebenminuten.podigee.io/6-new-episode/embed?context=external"></script>
