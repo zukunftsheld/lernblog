@@ -64,7 +64,7 @@ Kompetenzorientierung stellt die Entwicklung von Menschen, ihren Fähigkeiten un
 
 ### **Vorteile der Kompetenzorientierung** 
 
-Kompetenzorientierung bringt nicht nur viele Vorteile mit sich, der Fokus auf die individuellen Lernwege und die praxisnahe Kompetenzentwicklung scheint mir in Anbetracht der Lebensrealität von uns Menschen sowie der Art wie sich die Arbeitswelt verändert zwingend.  
+Der Fokus auf die individuellen Lernwege und die praxisnahe Kompetenzentwicklung scheint mir in Anbetracht der Lebensrealität von uns Menschen sowie der Art wie sich die Arbeitswelt verändert zwingend. Sie bringt viele Vorteile mit sich. 
 
 * **Lernen macht Freude**: Das praxisorientierte Lernen hat eine Relevanz für die Lernenden und Gelerntes kann direkt in die Praxis einfliessen. Das motiviert Menschen i. d. R. mehr, als wenn sie etwas auf Vorrat lernen oder wenn sie keine Relevanz für sich sehen.
 
