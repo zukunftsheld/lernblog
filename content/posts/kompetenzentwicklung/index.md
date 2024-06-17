@@ -38,7 +38,7 @@ Bildungsangebote in der Erwachsenenbildung konzentrieren sich immer noch stark a
 
 * **Feste Lehrpläne:** Es wird nach klaren und vorgegebenen Lernplänen unterrichtet. Bedürfnisse und Vorkenntnisse der Lernenden spielen eine kleine und unwichtige Rolle. 
 
-![](paper-ship-429747_1280.jpg)
+![](ship-6761585_1280.jpg)
 
 Die klassische Wissensvermittlung kann in Bereichen hilfreich und nötig sein. Vor allem dann, wenn es um sehr standardisierte und technische Lerneinheiten geht. In vielen Fachbereichen stösst dieser Lehransatz in unserer modernen Arbeitswelt und Erwachsenenbildung zunehmend an seine Grenzen (oder hat sie bereits erreicht). Sich Wissen anzueignen und es zum Zeitpunkt X wiederzugeben, macht immer weniger Sinn,  auch, da es bis zu diesem Zeitpunkt möglicherweise bereits veraltet ist. Diese Art des «Lernens» wird weder dem Gehirn noch den Anforderungen der und an die Menschen gerecht. 
 
