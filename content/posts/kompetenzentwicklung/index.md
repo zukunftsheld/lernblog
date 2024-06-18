@@ -58,7 +58,7 @@ Kompetenzorientierung stellt die Entwicklung von Menschen, ihren Fähigkeiten un
 
 * **Kooperation & Reflexion:** Lernende und Lernbegleiter:innen sind im ständigen und gegenseitigen Austausch. Gegenseitiges Feedback und Reflexionen unterstützen die Lernprozesse. Das gemeinsame und offene Lernen fördert Zusammenarbeit und Vertrauen. 
 
-* **Neue Rollen für Lernende und Lehrende:** Der Fokus liegt nicht mehr auf dem «Füttern» und «Konsumieren». [Lernende werden zu (mit)gestaltern ihres eigenen Lernens](https://www.bensblog.ch/selbstorganisiertes-lernen/) und dem der Gruppe. «Lehrende» werden zu Lernbegleiter:innen oder Lerncoaches. 
+* **Neue Rollen für Lernende und Lehrende:** Der Fokus liegt nicht mehr auf dem «Füttern» und «Konsumieren». [Lernende werden zu (Mit)Gestaltern ihres eigenen Lernens](https://www.bensblog.ch/selbstorganisiertes-lernen/) und dem der Gruppe. «Lehrende» werden zu Lernbegleiter:innen oder Lerncoaches. 
 
 ![](segelschiff-6207464_1280.jpg)
 
