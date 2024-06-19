@@ -29,9 +29,9 @@ Menschen in der Arbeitswelt und in Lernkontexten sind oft alleine unterwegs. Nac
 
 #### **Führungskräfte**
 
-Eine bestehende Mitarbeiterin wechselt innerhalb des Teams in eine Führungsrolle. Hier könnten neben den alltäglichen Herausforderungen in der Führung insbesondere der Rollenwechsel ein Thema sein. Hier könnte ein Mentoring mit einer erfahrenen Führungskraft oder jemandem aus dem Beratungs-/Coachinghintergrund Sinn machen. 
+Eine bestehende Mitarbeiterin wechselt innerhalb des Teams in eine Führungsrolle. Neben den alltäglichen Herausforderungen in der Führung könnte der Rollenwechsel und der Umgang damit ein Thema sein. Hier könnte ein Mentoring mit einer erfahrenen Führungskraft oder jemandem aus dem Beratungs-/Coachinghintergrund Sinn machen. 
 
-Führungskräfte balancieren oder jonglieren zwischen ihren fachlichen Aufgaben und den Führungsthemen. Dieser Spagat fordert immer wieder Reflexion. Zudem bringt die Führung auf menschlicher Ebene neue Herausforderungen und vielleicht auch regelmässig wiederkehrende Reizthemen. Hier könnten zwei Führungskräfte sich regelmässig zu einem gegenseitigen Mentoring treffen. 
+Führungskräfte balancieren oder jonglieren zwischen ihren fachlichen Aufgaben und den Führungsthemen. Dieser Spagat fordert immer wieder Reflexion. Zudem bringt die Führung auf menschlicher Ebene neue Herausforderungen und vielleicht auch regelmässig wiederkehrende Reizthemen. In diesem Fall könnten sich zwei (erfahrene) Führungskräfte regelmässig zum gegenseitigen Mentoring treffen. 
 
 #### **(Gemeinsames) Lebenslanges lernen**
 
