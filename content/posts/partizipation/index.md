@@ -16,7 +16,7 @@ Betroffene zu Beteiligten machen. So liest oder hört man es oft in Unternehmen 
 
 Mitarbeitende zu Beteiligten machen, sie in (wichtige) Entscheidungen einzubeziehen und ganz generell für mehr oder viel mehr Transparenz zu sorgen, würde für viele Unternehmen einen einschneidenden Wandel, ja, eine Transformation bedeuten. Insbesondere dann, wenn das Unternehmen noch sehr klassisch und hierarchisch organisiert ist. Die andere Frage ist, was der Preis wäre oder ist, wenn Unternehmen es sich weiterhin leisten, die Menschen (die viel mehr sind und sein können, als Arbeitsressourcen) nur als Arbeitskräfte zu «nutzen». 
 
-## Positive Effekte 
+## Positive Effekte
 
 Mitarbeitende haben andere Perspektiven und sie sind oft näher am Puls des Geschehens. Auf andere Bereiche im Unternehmen könn(t)en sie einen differenzierten Blick, eine Aussensicht haben. Der (ernst gemeinte) Einbezug ihrer Ansichten, Ideen und Perspektiven wird vermutlich zu besseren Entscheidungen führen. Die Mitarbeitenden fühlen sich selbst nicht nur als Ressourcen, als Arbeitskräfte, sondern als Gestalter:innen ihrer Arbeit. 
 
@@ -24,7 +24,7 @@ Mitarbeitende haben andere Perspektiven und sie sind oft näher am Puls des Gesc
 
 Ansätze 1:1 von anderen Unternehmen zu kopieren ist zwar verlockend, m. E. jedoch wenig sinnvoll und nicht zielführend. Trotzdem können oder sollen die Pionier:innen als Inspiration dienen, ihre Ansätze im eigenen Unternehmen auszuprobieren, anzupassen zu verwerfen und weiterzuentwickeln.  
 
-#### **Selbstorganisation**
+#### **[Selbstorganisation](https://www.bensblog.ch/selbstorganisation/)**
 
 Kleine Teams bilden, die sich innerhalb von übergeordneten Vorgaben und Regeln selbst organisieren und Entscheide selbstständig treffen können. Die Kommunikations- und Entscheidunsgwege werden kürzer. 
 
