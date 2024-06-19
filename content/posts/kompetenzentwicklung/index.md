@@ -56,7 +56,7 @@ Kompetenzorientierung stellt die Entwicklung von Menschen, ihren Fähigkeiten un
   >
   > *Arnold Rolf (2017), Entlehrt euch! Ausbruch aus dem Vollständigkeitswahn, S. 16*
 
-* **Kooperation & Reflexion:** Lernende und Lernbegleiter:innen sind im ständigen und gegenseitigen Austausch. Gegenseitiges Feedback und Reflexionen unterstützen die Lernprozesse. Das gemeinsame und offene Lernen fördert Zusammenarbeit und Vertrauen. 
+* **Kooperation & Reflexion:** Lernende und Lernbegleiter:innen sind im ständigen und gegenseitigen Austausch. Gegenseitiges Feedback und Reflexionen unterstützen die Lernprozesse. Das gemeinsame und offene Lernen fördert Zusammenarbeit und Vertrauen. Mehr dazu gibts auch in den Beiträgen [Partizipation - Arbeit gemeinsam gestalten ](https://www.bensblog.ch/partizipation/)oder [Mentoring](https://www.bensblog.ch/mentoring/).
 
 * **Neue Rollen für Lernende und Lehrende:** Der Fokus liegt nicht mehr auf dem «Füttern» und «Konsumieren». [Lernende werden zu (Mit)Gestaltern ihres eigenen Lernens](https://www.bensblog.ch/selbstorganisiertes-lernen/) und dem der Gruppe. «Lehrende» werden zu Lernbegleiter:innen oder Lerncoaches. 
 
