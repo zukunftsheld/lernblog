@@ -58,4 +58,4 @@ Das könnten viele denken und wohl auch sagen. Aber, es funktioniert (oder kann 
 
 ![](pexels-joshua-eghelshi-870410838-25308588.jpg)
 
-Was wäre ein Unternehmen ohne die Menschen, die dort arbeiten? Sie sind der «Motor» der täglich läuft. Sie sind die, die den Motor pflegen und reparieren. Die Menschen sind die, die gut oder schlecht von ihrer Arbeit sprechen, ja, sich danach oder davor gut oder schlecht fühlen. Die Menschen, diese humanen Ressourcen tragen ganz wesentlich zum Unternehmenserfolg bei. Sie könn(t)en ihre Arbeit mitgestalten und dort liegt ein grosses Potenzial für alle Beteiligten.
+Was wäre ein Unternehmen ohne die Menschen, die dort arbeiten? Sie sind der «Motor» der täglich läuft. Sie sind die, die den Motor pflegen und reparieren. Die Menschen sind die, die gut oder schlecht von ihrer Arbeit sprechen, ja, sich danach oder davor gut oder schlecht fühlen. Die Menschen, diese humanen Ressourcen, sie tragen ganz wesentlich zum Unternehmenserfolg bei. Sie könn(t)en ihre Arbeit mitgestalten und dort liegt ein grosses Potenzial für alle Beteiligten.
