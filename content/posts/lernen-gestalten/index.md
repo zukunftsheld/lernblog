@@ -62,6 +62,6 @@ Vieles in der Welt und somit auch in der Arbeitswelt verändert sich so schnell,
 
 📕 [Agiles Lernen, Neue Rollen, Kompetenzen und Methoden im Unternehmenskontext](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/nele-graf/agiles-lernen/id/9783648158548/)
 
-![](books-2596809_640.jpg)
+📕[Entwicklung der Persönlichkeit, Psychotherapie aus Sicht eines Psychotherapeuten, C. R. Rogers, Kapital 6](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/carl-r-rogers/entwicklung-der-persoenlichkeit-konzepte-der-humanwissenschaften/id/9783608964172/)
 
 {{</box>}}
