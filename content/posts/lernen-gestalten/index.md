@@ -18,7 +18,7 @@ Lernen neu lernen und verlernen «müssen» nicht nur Organisationen, sondern au
 
 ![](blogbilder-9.png)
 
-Hier bist du in der Lern-Bibliothek. Du findest einen Überblick meiner neueren Blogbeiträge über Lernen in Organisationen. Zudem findest du eine Übersicht von Büchern über Lernen und Bildung. Es geht dabei um unterschiedliche (und doch oft ähnliche Ansätze) zu (neuem)Lernen. 
+Hier bist du in der Lern-Bibliothek. Du findest einen Überblick meiner neueren Blogbeiträge über Lernen in Organisationen. Zudem findest du eine Übersicht von Büchern über Lernen und Bildung. Es geht dabei um unterschiedliche (und doch oft ähnliche Ansätze) zu (neuem) Lernen. 
 
 {{<box title="Blogartikel">}}
 
