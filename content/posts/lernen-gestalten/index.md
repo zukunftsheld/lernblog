@@ -46,8 +46,6 @@ Vieles in der Welt und somit auch in der Arbeitswelt verändert sich so schnell,
 
 {{<box title="Bücher">}}
 
-![](books-2596809_640.jpg)
-
 📕[Lernhacks,](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/thomas-tillmann/lernhacks/id/9783800664986/) [Mit einfachen Routinen Schritt für Schritt zur agilen Lernkultur](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/thomas-tillmann/lernhacks/id/9783800664986/)
 
 📕[Team Toppings,](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/franziska-schleuter/team-toppings/id/9783800671939/) [21 Lernhacks für agiles Arbeiten](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/franziska-schleuter/team-toppings/id/9783800671939/)
@@ -63,5 +61,7 @@ Vieles in der Welt und somit auch in der Arbeitswelt verändert sich so schnell,
 📕 [New Work braucht New Learning, Eine Perspektivreise durch die Transformation unserer Organisations- und Lernwelten](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/jan-foelsing/new-work-braucht-new-learning/id/9783658327576/)
 
 📕 [Agiles Lernen, Neue Rollen, Kompetenzen und Methoden im Unternehmenskontext](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/nele-graf/agiles-lernen/id/9783648158548/)
+
+![](books-2596809_640.jpg)
 
 {{</box>}}
