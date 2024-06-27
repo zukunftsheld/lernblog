@@ -8,7 +8,7 @@ image = "ikigai-buch.jpg"
 description = "Ikigai, die japanische Lebenskunst. Einblicke in das Buch von Ken Mogi. "
 footnotes = "Hinweis: Für erwähnte Bücher und Verlinkungen werde ich nicht bezahlt."
 +++
-# Ikigai - Die japanische Lebenskunst 
+# Ikigai - Die japanische Lebenskunst
 
 ## Ein Buch von Ken Mogi
 
@@ -39,3 +39,7 @@ Mir hat in diesem Buch besonders die Geschichte über den [japanischen Sushi-Koc
 Ich würde meinen ja und nein. Das Buch Ikigai sowie die fünf genannten Säulen gefallen mir nach wie vor sehr. Es wäre jedoch zu einfach dieses Buch oder das «Konzept» als Lösung oder den einen Weg zu beschreiben. In den Texten von Ken Mogi finden sich Ansätze und Inspirationen, gute Dinge, Sinn und Gesundheit in das eigene Leben zu bringen. Schritt für Schritt und mit Offenheit für das, was im Leben kommt. 
 
 ➡️ [Hier gehts zum Buch bei exlibris.ch](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/ken-mogi/ikigai/id/9783832165161/)
+
+
+
+<script class="podigee-podcast-player" src="https://player.podigee-cdn.net/podcast-player/javascripts/podigee-podcast-player.js" data-configuration="https://entwicklungsfreiraum-siebenminuten.podigee.io/9-ikigai/embed?context=external&token=fNwpRFmpm1tAhdJcgTaGSQ"></script>
