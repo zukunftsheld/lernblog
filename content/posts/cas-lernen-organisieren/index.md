@@ -30,6 +30,8 @@ Im Sinne von [Colearning](https://www.colearning.org) «Selbstlernen in Gemeinsc
 
 Oben habe ich mit der Online-Lernplattform vom ikf, den Coachings sowie der Colearning-Community on- und offline bereits einige Umgebungen genannt. Da das Internet voll mit «Stoff» ist, finde ich in Linkedin-Beiträgen, Youtube-Videos und Podcasts weitere Lerngelegenheiten. So lerne ich gerade dort, wo ich bin und mich wohlfühle. Auch das echte Leben bietet viele Lerngelegenheiten. Organisationen sind überall und vieles ist im «Change». Leadership-Themen finden sich, wenn mir Menschen von ihren Vorgesetzten erzählen, von ihren eigenen Herausforderungen im Führungsalltag, wenn ich Zeitung lese und, und, und… Die Möglichkeiten scheinen unendlich.  
 
+![Die Welt und das Leben als Lernort. Eigene Visualisierung.](lernumgebung.png)
+
 ## **Meine Lernmittel**
 
 Viele meiner Lernmittel habe ich bereits genannt. Hier noch einmal eine Auflistung und ein paar Infos dazu. 
