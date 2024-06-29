@@ -6,9 +6,13 @@ pinned = false
 tags = ["CAS", "Organisationsentwicklung", "Kulturentwicklung", "Organisationskultur"]
 image = "blogbilder-4.png"
 description = "Die Unternehmenskultur spielt eine wichtige Rolle für den Erfolg eines Unternehmens. Doch was genau verbirgt sich hinter dem Begriff Unternehmens- oder Organisationskultur? Wie kann sie aktiv entwickelt und verändert werden?"
-footnotes = "Titelbild: [Rosy / Bad Homburg / Germany](https://pixabay.com/de/users/roszie-6000120/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=7697330) auf [Pixabay](https://pixabay.com/de//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=7697330)\n\nBild Eisbergmodell: eigene Visualisierung, Hintergrundbild von [Mote Oo Education](https://pixabay.com/de/users/moteoo-466065/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3273216) auf [Pixabay](https://pixabay.com/de//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3273216)\n\nBild Kulturebenen-Modell: eigene Visualisierung"
+footnotes = "Dieser Beitrag und Bücher werden allenfalls laufend angepasst oder durch neue Beiträge ergänzt.\n\n📚**Passende** **Bücher**\n\n📘[Laloux Frederic (2014) Reinventing Organizations, Ein Leitfaden zur Gestaltung sinnstiftender Formen der Zusammenarbeit](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/frederic-laloux/reinventing-organizations/id/9783800649136/)\n\n📘[Organisationsdesign in einer komplexen und instabilen Welt, Einführung in Modelle und Konzepte sowie deren Anwendung](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/jens-o-meissner/organisationsdesign-in-einer-komplexen-und-instabilen-welt/id/9783658423384/?userLoggedOut=true)\n\n📘[Schermuly Carsten C. (2021) New Work - Gute Arbeit gestalten, Psycholigisches Empowerment von Mitarbeitern](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/carsten-c-schermuly/new-work-gute-arbeit-gestalten/id/9783648150023/)\n\nTitelbild: [Rosy / Bad Homburg / Germany](https://pixabay.com/de/users/roszie-6000120/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=7697330) auf [Pixabay](https://pixabay.com/de//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=7697330)\n\nBild Eisbergmodell: eigene Visualisierung, Hintergrundbild von [Mote Oo Education](https://pixabay.com/de/users/moteoo-466065/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3273216) auf [Pixabay](https://pixabay.com/de//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3273216)\n\nBild Kulturebenen-Modell: eigene Visualisierung"
 +++
 Die Unternehmenskultur spielt eine wichtige Rolle für den Erfolg eines Unternehmens. Sie hat einen wesentlichen Einfluss auf die Mitarbeitenden, ihre Zufriedenheit und die Zusammenarbeit. Doch was genau verbirgt sich hinter dem Begriff Unternehmens- oder Organisationskultur? Wie kann sie aktiv entwickelt und verändert werden? Im Rahmen des [CAS Organisationsentwicklung & Change Leadership](https://www.bensblog.ch/cas_organisationsentwicklung_change_leadership_dereinstieg/) beschäftige ich mich im Moment intensiv damit. Deshalb gibt es anhand zweier Modelle einen Einblick in die Kultur (-entwicklung) von Unternehmen und wie sie gestaltet werden kann. 
+
+> «Mit Organisationskultur ist der nicht direkt sichtbare Teil einer Organisation gemeint, der aber au die Organisation einen grossen Einfluss hat.»
+>
+> *aus Organisationsdesign in einer komplexen und instabilden Welt, S. 141*
 
 ## **Das Eisberg-Modell – Edward T. Hall**
 
@@ -72,8 +76,10 @@ Bei der Gestaltung der Organisationskultur spielen [Leader:innen](https://www.be
 
 Eine Unternehmenskultur lebt von und mit den Menschen, die in der Organisation und darum herum arbeiten. Kulturentwicklung ist also kein Projekt, das man beginnen und abschliessen kann. Will man als Organisation aktiv an der eigenen (positiven und förderlichen) Kultur arbeiten, muss man wachsam und aktiv bleiben. 
 
+> «Generell wird davon ausgegangen, dass Kultur erlernte, geteilte Wertvorstellungen einer Gruppe umfasst, die sich nur bedingt verändern können. Kulturveränderungen sind evolutionäre Prozesse, die sich als solche nur mittelbar steuern lassen.»\
+> \
+> *aus Organisationsdesign in einer komplexen und instabilden Welt, S. 141*
+
 Was manchmal einfach klingt, ist in Wahrheit eine (grosse) Herausforderung. Entwicklung und Veränderung (nicht nur von Kultur) ist ein Prozess, der oft nie abgeschlossen ist. Zudem sind, wie wir gesehen haben, viele Aspekte der Kultur unter der (Wasser-) Oberfläche und kaum sichtbar. Wichtig sind eine klare Haltung und die passenden Strategien. Nicht erst dann, sondern bereits bei der Erarbeitung der Strategie braucht es die aktive Mitarbeit der Menschen, die in der Organisation arbeiten.
-
-
 
 ![Quelle: Corporate Rebels Linkedin](1715182341668.jpeg)
