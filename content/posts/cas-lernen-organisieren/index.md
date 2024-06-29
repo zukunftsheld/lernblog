@@ -22,7 +22,9 @@ In meinem aktuellen CAS Organisationsentwicklung und Change Leadership bin ich m
 
 ## **Selbstlernen in Gemeinschaft**
 
-Im Sinne von [Colearning](https://www.colearning.org) «Selbstlernen in Gemeinschaft» bin ich aber nicht allein. Innerhalb der Colearning-Community sind wir im [Coworking Space Effinger](https://www.effinger.ch) oder über Discord vernetzt. So landen alle meine Blogbeiträge im «Digitalen Garten». Dort werden sie gelesen, kommentiert und es entstehen online oder in der Begegnung (vielleicht) Diskussionen. Das gibt Einblicke in die Erfahrung anderer, Fragen regen zum Nachdenken oder Hinterfragen an oder ich erhalte Hinweise auf Blogbeiträge, Podcasts oder Personen, mit denen ich mich vernetzen könnte. 
+Im Sinne von [Colearning](https://www.colearning.org) «Selbstlernen in Gemeinschaft» bin ich aber nicht allein. Innerhalb der Colearning-Community sind wir im [Coworking Space Effinger](https://www.effinger.ch) oder über Discord vernetzt. So landen alle meine Blogbeiträge im «Digitalen Garten». Dort werden sie gelesen, kommentiert und es entstehen online oder in der Begegnung (vielleicht) Diskussionen. Das gibt Einblicke in die Erfahrung anderer, Fragen regen zum Nachdenken oder Hinterfragen an oder ich erhalte Hinweise auf Blogbeiträge, Podcasts oder Personen, mit denen ich mich vernetzen könnte. Es ist eine Art des agilen Lernens. Ich passe es meinen Interessen und dem, was gerade aktuell ist an. Weil ich innerhlab der Module die Intensität, Tiefe und Zeit selbst gestalten kann, folge ich dem natürlichen Prozess. Ich kann also tief tauchen (z. B. auch in Richtung [Slow Learning](https://www.slow-learning.com/deutsch)) oder einmal etwas eher oberflächlich streifen. Dabei kann ich auch ein paar Schritte zurück gehen, Abzweigungen und Umwege einbauen. 
+
+![So oder so ähnlich könnte (m)ein individueller Lernweg innerhalb dieses CAS aussehen. Eigene Visualisierung. ](blogbilder-11.png)
 
 ## **Die Lernumgebungen**
 
@@ -53,9 +55,5 @@ Hmm.., eigentlich keine richtigen «Lernmittel» und doch wunderbare und wertvol
 ### **Mentoring**
 
 Seit ich Teil von Colearning bin, mache ich Mentorings. Seit über einem Jahr bin ich mit [Samuel Niklaus](https://projectlead.ch) im gegenseitigen Mentoring unterwegs, mit dem ich mich oft über Leadership, Digitalisierungsthemen, Transformation und so vieles mehr unterhalte. Wir kommen aus unterschiedlichen Welten und haben doch so vieles gemeinsam, auch wenn dies für ein Mentoring nicht zwingend nötig ist. Diese Termine sind manchmal kurz und ein anderes Mal dauern sie zwei bis drei Stunden.
-
-
-
-
 
 <script class="podigee-podcast-player" src="https://player.podigee-cdn.net/podcast-player/javascripts/podigee-podcast-player.js" data-configuration="https://entwicklungsfreiraum-siebenminuten.podigee.io/5-new-episode/embed?context=external"></script>
