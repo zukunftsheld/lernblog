@@ -32,7 +32,7 @@ Peter Senge beschreibt eine Lernende Organisation als ein lebendiges System, das
 
 ### Eine lernende Organisation basiert auf fünf Disziplinen: 
 
-![Eigene Visualisierung, die fünfte Disziplin von Peter M. Senge](blogbilder-10.png)
+![Eigene Visualisierung, die fünfte Disziplin von Peter M. Senge](die-fu-nfte-disziplin.png)
 
 #### **Personal Mastery** – persönliche Reife, persönliches Lernen, Selbstführung
 
