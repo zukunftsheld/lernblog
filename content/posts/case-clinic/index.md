@@ -18,7 +18,7 @@ Bei meinem Case tauchte bei einem anderen Teilnehmer zum Beispiel das Bild eines
 
 #### Zuhören. Geduld haben. Vertrauen.
 
-In den letzten Wochen konnte ich dies sehr deutlich in einer «Case Clinic» nach der Theorie U von Otto Scharmer erleben. Wir waren eine Gruppe von Menschen und haben an ganz unterschiedlichen Orten vor dem Bildschirm gesessen. Wir gehören unterschiedlichen Generationen an, haben ganz unterschiedliche Biografien und einige haben sich zum ersten Mal gesehen. So trafen wir uns an drei Terminen und orientierten uns an dem Ablauf dieser «Case Clinic». 
+In den letzten Wochen konnte ich dies sehr deutlich in einer «[Case Clinic](https://www.u-school.org/case-clinic)» nach der Theorie U von Otto Scharmer erleben. Wir waren eine Gruppe von Menschen und haben an ganz unterschiedlichen Orten vor dem Bildschirm gesessen. Wir gehören unterschiedlichen Generationen an, haben ganz unterschiedliche Biografien und einige haben sich zum ersten Mal gesehen. So trafen wir uns an drei Terminen und orientierten uns an dem Ablauf dieser «Case Clinic». 
 
 Diese drei Erfahrungen haben mir noch einmal deutlich vor Augen geführt, wovon ich schon lange überzeugt bin. Geduld, Zuhören und Vertrauen brauchen viel mehr Platz in unserem (Arbeits-) Alltag, in unseren Bildungs- und Lernsettings, in Coachings und in so vielen anderen Begegnungen. 
 
