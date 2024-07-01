@@ -1,5 +1,5 @@
 +++
-title = "Wann agile Vorgehensweisen sinnvoll sind"
+title = "Wann sind agile Vorgehensweisen sinnvoll?"
 date = "2024-07-01"
 draft = true
 pinned = false
