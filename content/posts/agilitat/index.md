@@ -1,7 +1,7 @@
 +++
 title = "Agilität: Ein Überblick"
 date = "2024-07-01"
-draft = true
+draft = false
 pinned = false
 tags = ["Organisationsentwicklung", "Change", "Agilität", "CAS"]
 image = "action-1867052_1280.jpg"
