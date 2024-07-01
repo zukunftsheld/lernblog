@@ -1,7 +1,7 @@
 +++
 title = "Wann sind agile Vorgehensweisen sinnvoll?"
 date = "2024-07-01"
-draft = false
+draft = true
 pinned = false
 tags = ["Organisationsentwicklung", "Agilität", "CAS"]
 image = "rafting-4353428_640.jpg"
