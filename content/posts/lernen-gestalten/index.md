@@ -1,6 +1,6 @@
 +++
 title = "Lernen gestalten "
-date = "2024-06-26"
+date = "2024-06-23"
 draft = false
 pinned = false
 tags = ["Lernen", "Bildung", "Organisationsentwicklung", "NewLearning", "Personalentwicklung"]
