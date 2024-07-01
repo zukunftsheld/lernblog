@@ -10,7 +10,7 @@ footnotes = "📚**Ergänzende Bücher**\n\n📘[Organisationsdesign in einer ko
 +++
 ## Einleitende Gedanken
 
-Agilität ist in aller Munde. Sie scheint oft die Lösung für die Herausforderung der Gegenwart und Zukunft zu sein. Dies vor allem im Kontext der Arbeitswelt. Auch VUCA und BANI spielen hier eine wichtige Rolle. In diesem Text gebe ich einen Ein- und Überblick zu Agilität. Ich bin u. a. bei dem Thema gelandet, da ich mich im Moment im CAS auch mit Lean Change-Management beschäftige. Also eine Kombination aus Lean-Management und Change-Management. Wobei da auch Agilität eine Rolle spielt. Dieser Beitrag soll einen kurzen und einfachen Überblick zu Agilität geben. 
+Agilität ist in aller Munde. Sie scheint oft die Lösung für die Herausforderung der Gegenwart und Zukunft zu sein. Dies vor allem im Kontext der Arbeitswelt. Auch VUCA und BANI spielen hier eine wichtige Rolle. In diesem Text gebe ich einen (unkompletten und oberflächlichen) Ein- und Überblick zu Agilität. Ich bin u. a. bei dem Thema gelandet, da ich mich im Moment im CAS auch mit Lean Change-Management beschäftige. Also eine Kombination aus Lean-Management und Change-Management. Wobei da auch Agilität eine Rolle spielt. Dieser Beitrag soll einen kurzen und einfachen Überblick zu Agilität geben. 
 
 ![](action-1867052_1280.jpg)
 
