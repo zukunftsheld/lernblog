@@ -4,7 +4,9 @@ date = "2024-07-01"
 draft = true
 pinned = false
 tags = ["Organisationsentwicklung", "Change", "CAS"]
+image = "hike-5796976_640.jpg"
 description = "Bei Change-Management oder in der Organisationsentwicklung ist ein guter Plan wichtig. Ein Plan gibt die Richtung vor und unterstützt die gemeinsame Orientierung."
+footnotes = "Titelbild: [Felix Merler](https://pixabay.com/de/users/felix_merler-3317441/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=5796976) auf [Pixabay](https://pixabay.com/de//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=5796976)"
 +++
 ## Einleitende (und persönliche) Gedanken
 
@@ -16,7 +18,11 @@ Bei Change-Management oder in der Organisationsentwicklung, ja sogar so ganz all
 
 ## Warum ist es wichtig, einen Plan zu machen
 
-Entwicklungs- und Veränderungsvorhaben beschreibe ich gerne als Reise oder noch eher als Expedition. Eine Expedition ist in meiner Definition mehr ein Erkunden von Unbekanntem. Sie ist geprägt von Neuem, Unvorhergesehenen und sie braucht eine gute Vorbereitung - einen guten Plan. Es ist also sinnvoll, die Landkarte zu studieren, sich einen Plan zu machen und die möglichen (Aus- oder Um-) Wege zu kennen. Ohne diesen Plan besteht die Gefahr, in chaotische Zustände oder Ineffizienz zu landen. In der Organisationsentwicklung und im Change Management hilft ein Plan auch dabei, dass alle Anspruchsgruppen wissen, wo die Expedition hingeht und welche Planungs- und Umsetzungsschritte dazu nötig sind. Mit einem klaren Plan, der allen zugänglich ist, wird die Transparenz gefördert und die Kommunikation zwischen den Beteiligten wird erleichtert. 
+Entwicklungs- und Veränderungsvorhaben beschreibe ich gerne als Reise oder noch eher als Expedition. Eine Expedition ist in meiner Definition mehr ein Erkunden von Unbekanntem. Sie ist geprägt von Neuem, Unvorhergesehenen und sie braucht eine gute Vorbereitung - einen guten Plan. Es ist also sinnvoll, die Landkarte zu studieren, sich einen Plan zu machen und die möglichen (Aus- oder Um-) Wege zu kennen. Ohne diesen Plan besteht die Gefahr, in chaotische Zustände oder Ineffizienz zu landen. 
+
+![](hike-5796976_1280.jpg)
+
+In der Organisationsentwicklung und im Change Management hilft ein Plan auch dabei, dass alle Anspruchsgruppen wissen, wo die Expedition hingeht und welche Planungs- und Umsetzungsschritte dazu nötig sind. Mit einem klaren Plan, der allen zugänglich ist, wird die Transparenz gefördert und die Kommunikation zwischen den Beteiligten wird erleichtert. 
 
 ### Kunden und Anspruchsgruppen im Fokus haben
 
@@ -24,14 +30,14 @@ Bei allen Vorhaben sollten die Kundinnen und Anspruchsgruppen im Fokus stehen. W
 
 ### Wie Menschen auf Veränderungen reagieren – Die 4 Zimmer der Veränderung
 
-Veränderungen lösen bei Menschen unterschiedliche Reaktionen aus. Im Beitrag [«Umgang mit Widerständen bei Change und Transformation»](https://www.bensblog.ch/umgang-mit-widerstand/) habe ich bereits über die Schwierigkeiten und wie man damit umgehen kann, geschrieben. Ein weiteres Modell in diesem Zusammenhang sind die «4 Zimmer der Veränderung» von Claes F. Janssen. Darin werden vier Phasen beschrieben, die Menschen in Veränderungsprozessen durchlaufen. 
+Veränderungen lösen bei Menschen unterschiedliche Reaktionen aus. Im Beitrag [«Umgang mit Widerständen bei Change und Transformation»](https://www.bensblog.ch/umgang-mit-widerstand/) habe ich bereits über die Schwierigkeiten und wie man damit umgehen kann, geschrieben. Ein weiteres Modell in diesem Zusammenhang sind die «4 Zimmer der Veränderung» oder «House of Change» von Claes F. Janssen. Darin werden vier Phasen beschrieben, die Menschen in Veränderungsprozessen durchlaufen. 
 
 1. Zufriedenheit: Hier fühlen sich die Menschen wohl und sind mit der aktuellen Situation zufrieden. Man könnte es auch als die Komfortzone beschreiben. 
 2. Verleugnung: Erste Anzeichen von Veränderung werden ignoriert oder abgelehnt. Menschen möchten am Bestehenden festhalten. 
 3. Verwirrung: Die Notwendigkeit der Veränderung wird erkannt. Unsicherheit und Angst prägen diesen Zustand immer noch. Es ist die Zeit zwischen dem Alten und Neuen. 
 4. Erneuerung: Es herrscht Aufbruchstimmung und Erleichterung. Die Veränderung wird akzeptiert und aktiv mitgestaltet. 
 
-![Abbildung 1: Eigene Visualisierung der 4-Zimmer der Veränderung von Claes F. Janssen]()
+![Abbildung 1: Eigene Visualisierung der 4-Zimmer der Veränderung von Claes F. Janssen](house-of-change.png)
 
 Ein guter Plan berücksichtigt die möglichen Reaktionen der Menschen und bietet Unterstützung, um sie durch diesen Prozess zu begleiten.
 
