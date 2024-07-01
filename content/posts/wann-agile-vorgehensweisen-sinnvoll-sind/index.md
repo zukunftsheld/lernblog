@@ -4,8 +4,9 @@ date = "2024-07-01"
 draft = true
 pinned = false
 tags = ["Organisationsentwicklung", "Agilität", "CAS"]
-image = ""
-footnotes = "📕 [Zwischen Alt und Neu liegt gut, Wie wir mit Good Work eine zukunftsfähige Arbeitskultur gestalten können, ohne alles neu machen zu müssen, Jule Jankowski](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/jule-jankowski/zwischen-alt-und-neu-liegt-gut/id/9783800669332/)"
+image = "rafting-4353428_640.jpg"
+description = "Wann ist agile Arbeit oder der Einsatz von agilen Ansätzen sinnvoll? Dazu bietet die Stacey-Matrix eine Orientierungshilfe."
+footnotes = "📕 [Zwischen Alt und Neu liegt gut, Wie wir mit Good Work eine zukunftsfähige Arbeitskultur gestalten können, ohne alles neu machen zu müssen, Jule Jankowski](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/jule-jankowski/zwischen-alt-und-neu-liegt-gut/id/9783800669332/)\n\nTitelbild: [websiteproud](https://pixabay.com/de/users/websiteproud-6171224/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4353428) auf [Pixabay](https://pixabay.com/de//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4353428)"
 +++
 ## Gedanken zu Agilität und dem passenden Einsatzbereich
 
