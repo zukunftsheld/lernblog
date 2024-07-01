@@ -1,7 +1,7 @@
 +++
 title = "Warum Pläne helfen"
 date = "2024-07-01"
-draft = true
+draft = false
 pinned = false
 tags = ["Organisationsentwicklung", "Change", "CAS"]
 image = "hike-5796976_640.jpg"
