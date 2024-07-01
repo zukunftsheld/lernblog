@@ -32,7 +32,7 @@ Im Beitrag [«Agilität - ein Überblick»](https://www.bensblog.ch/agilitaet) h
 
 **2. Kompliziert**
 
-[Der Duden sagt zu «Kompliziert»:](<https://www.duden.de/rechtschreibung/kompliziert>) schwierig; verwickelt; \[aus vielen Einzelheiten bestehend und daher] schwer zu durchschauen und zu handhaben. 
+[Der Duden sagt zu «Kompliziert»:](https://www.duden.de/rechtschreibung/kompliziert) schwierig; verwickelt; \[aus vielen Einzelheiten bestehend und daher] schwer zu durchschauen und zu handhaben. 
 
 *  Das Problem kann analysiert und erkannt werden 
 * Es braucht Fachexperten 
@@ -45,13 +45,13 @@ Im Beitrag [«Agilität - ein Überblick»](https://www.bensblog.ch/agilitaet) h
 
 **3. Komplex**
 
-[Der Duden sagt zu «Komplex»:](<https://www.duden.de/rechtschreibung/komplex>) vielschichtig; viele verschiedene Dinge umfassend, zusammengesetzt; nicht allein für sich auftretend, ineinandergreifend, nicht auflösbar
+[Der Duden sagt zu «Komplex»:](https://www.duden.de/rechtschreibung/komplex) vielschichtig; viele verschiedene Dinge umfassend, zusammengesetzt; nicht allein für sich auftretend, ineinandergreifend, nicht auflösbar
 
 * Zusammenhang zwischen Ursache und Lösung unklar
 * Viele unbekannte Elemente
 * Unvorhersehbare Auswirkung
 
-**Vorgehensweisen/Tools:**
+**Mögliche Vorgehensweisen und Tools:** 
 
 * Hier kommen die agilen Methoden zum Einsatz. Flexibilität und laufende Anpassungen werden durch iterative Prozesse ermöglicht. 
 * Scrum: Kurze, iterative Sprints, regelmäßige Reviews und Retrospektiven.
@@ -64,14 +64,12 @@ Im Beitrag [«Agilität - ein Überblick»](https://www.bensblog.ch/agilitaet) h
 * Keine Lösungen und Anforderungen
 * Handeln ist notwendig
 
- **Vorgehensweisen/Tools:**
+**Mögliche Vorgehensweisen und Tools:** 
 
 * Im Chaos können Krisenmanagement-Ansätze helfen. Es braucht schnelle Entscheide und man muss sich flexibel anpassen können.
 * Agile Methoden können hier ebenfalls zum Einsatz kommen.  
 
- 
-
-## Gedanken zum Schluss
+### Gedanken zum Schluss
 
 > «Agile Ansätze sind vor allem dann hilfreich, wenn es darum geht, komplexe Aufgaben mit unklarem Ursache-Wirkungs-Zu-sammenhang zu bewältigen in einem dynamischen Umfeld mit einer Reihe von Unvorhersehbarkeiten. Nicht mehr, nicht weniger.»
 >
