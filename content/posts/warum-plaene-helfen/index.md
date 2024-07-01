@@ -1,6 +1,6 @@
 +++
 title = "Warum Pläne helfen"
-date = "2024-06-29"
+date = "2024-06-27"
 draft = false
 pinned = false
 tags = ["Organisationsentwicklung", "Change", "CAS"]
