@@ -1,6 +1,6 @@
 +++
 title = "Agilität: Ein Überblick"
-date = "2024-07-01"
+date = "2024-06-27"
 draft = false
 pinned = false
 tags = ["Organisationsentwicklung", "Change", "Agilität", "CAS"]
