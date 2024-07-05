@@ -55,19 +55,19 @@ Modelle wie die Kübler-Ross-Kurve können helfen, die emotionalen Phasen, die M
 >
 > *Quelle unbekannt:* https://dpa-factchecking.com/switzerland/211026-99-746228
 
-#### Hinweis auf Probleme
+#### **Hinweis auf Probleme**
 
 Widerstände können darauf hinweisen, dass es ungelöste Probleme, Unklarheiten oder Schwachstellen im (geplanten) Change- oder Transformationsprozess gibt. Sie können helfen, noch einmal genau(er) hinzusehen, hinzuhören und allenfalls Anpassungen vorzunehmen. 
 
-#### Förderung von Reflexion und Dialog
+#### **Förderung von Reflexion und Dialog**
 
 Wer Widerstand zeigt, interessiert sich wohl für seine Arbeit und das, was passiert. Auch wenn Widerstände oft als Konflikt(-potenzial) gesehen werden, sind sie (grosse) Chancen für einen Dialog und eine gemeinsame Reflexion. Diese (zusätzlichen) Schleifen wiederum können helfen, ein besseres Verständnis für das Gesamtbild zu erhalten und bereits früh mögliche Schwachstellen und Hindernisse zu identifizieren. 
 
-#### Chancen für innovative (oder zumindest andere) Ideen 
+#### **Chancen für innovative (oder zumindest andere) Ideen** 
 
 Kritisches Feedback und Widerstände können zu neuen Ideen und besseren Lösungen führen. Sie sind für die Transformations- und Change-Menschen (für das ganze Unternehmen) eine grosse Chance. Denn wer kann schon an alles denken. 
 
-#### Engagement und Zugehörigkeit
+#### **Engagement und Zugehörigkeit**
 
 Aktiver Widerstand zeigt, dass sich Mitarbeiter mit dem Unternehmen und den geplanten Veränderungen auseinandersetzen. Es kann ein Hinweis sein, dass sie ich mit dem Unternehmen identifizieren und «noch da sind». Sie können allenfalls gute Mitstreiter:innen für die zweite [Stufe nach Kotter ](https://www.bensblog.ch/change-management/)«eine Führungskoalition aufbauen» sein. 
 
@@ -79,15 +79,15 @@ Wenn Widerstände offen geäussert und gezeigt werden können, dann kann dies au
 >
 > *Ruth C. Cohn*
 
-#### Offene und transparente Kommunikation
+#### **Offene und transparente Kommunikation**
 
 Grundsätzlich hilft eine offene und transparente Kommunikation. Oft sind es wenige «geheime» Informationen, die Mitarbeitende wirklich nicht haben sollten. 
 
-#### Frühzeitige Einbindung der Mitarbeitenden
+#### **Frühzeitige Einbindung der Mitarbeitenden**
 
 Die frühzeitige Einbindung der Betroffenen sowie die Erläuterung der Gründe für die Veränderung reduziert Unsicherheiten und fördert das Verständnis. Vielleicht nicht im ersten Moment, jedoch im weiteren Verlauf. Denn Noch einmal, Widerstände sind normal. 
 
-#### Ehrliche Kommunikation
+#### **Ehrliche Kommunikation**
 
 Transparente und ehrliche Kommunikation schafft Vertrauen. Auch hier: Im ersten Moment ist der Widerstand oder der Aufschrei vielleicht etwas grösser. Das bietet jedoch Chancen für Diskussionen, Dialoge und andere Ansichten. Es gibt auch Einblicke in die aktuelle Gefühlslage der Menschen. Ja, das alles kann auch unangenehm sein. 
 
