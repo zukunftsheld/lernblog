@@ -10,7 +10,7 @@ footnotes = "Dieser Beitrag und Bücher werden allenfalls laufend angepasst oder
 +++
 Die Unternehmenskultur spielt eine wichtige Rolle für den Erfolg eines Unternehmens. Sie hat einen wesentlichen Einfluss auf die Mitarbeitenden, ihre Zufriedenheit und die Zusammenarbeit. Doch was genau verbirgt sich hinter dem Begriff Unternehmens- oder Organisationskultur? Wie kann sie aktiv entwickelt und verändert werden? Im Rahmen des [CAS Organisationsentwicklung & Change Leadership](https://www.bensblog.ch/cas_organisationsentwicklung_change_leadership_dereinstieg/) beschäftige ich mich im Moment intensiv damit. Deshalb gibt es anhand zweier Modelle einen Einblick in die Kultur (-entwicklung) von Unternehmen und wie sie gestaltet werden kann. 
 
-> «Mit Organisationskultur ist der nicht direkt sichtbare Teil einer Organisation gemeint, der aber au die Organisation einen grossen Einfluss hat.»
+> «Mit Organisationskultur ist der nicht direkt sichtbare Teil einer Organisation gemeint, der aber auf die Organisation einen grossen Einfluss hat.»
 >
 > *aus Organisationsdesign in einer komplexen und instabilden Welt, S. 141*
 
