@@ -3,10 +3,10 @@ title = "CAS Organisationsentwicklung & Change Leadership – Einblick"
 date = "2024-07-12"
 draft = false
 pinned = false
-tags = ["CAS"]
+tags = ["CAS", "Lernen", "Bildung"]
 image = "blogbilder-14.png"
 description = "Ein Ein- und Rückblick in meinen bisherigen Lernweg im CAS Organisationsentwicklung & Change Leadership."
-footnotes = "Titelbild: Bing Image Creator\n\nBild Slow Learning: https://www.slow-learning.com\n\nBilder Lernorte: Ben Zaugg\n\nBild «Ich lerne noch.» [Colearning.org](https://www.colearning.org)"
+footnotes = "[Zur Übersicht aller Beiträge zum CAS gehts hier](https://www.bensblog.ch/cas-organisationsentwicklung-change-leadership-buecher-und-blogposts/)\n\n[Inspiration und Infos für den Start eines eigenen (Lern-) Podcasts hier entlang](https://www.bensblog.ch/tags/podcast/)\n\nTitelbild: Bing Image Creator\n\nBild Slow Learning: https://www.slow-learning.com\n\nBilder Lernorte: Ben Zaugg\n\nBild «Ich lerne noch.»: [Colearning.org](https://www.colearning.org)"
 +++
 Mein Lerncoach hat mich auf den ersten Blogbeitrag zu dieser Weiterbildung angesprochen. Wo befinde ich mich? Bin ich den Weg gegangen, den ich dachte? Sind es dieselben Themen geblieben? Es sind nicht mehr viele Module, die im CAS übrigbleiben. Zeit für einen Ein- und vorläufigen Rückblick.
 
