@@ -88,7 +88,7 @@ Dann kommen wir noch zu meinen Lernorten. Sie sind tatsächlich überall, daran 
 
 ## Gedanken zum Schluss
 
-In den letzten Monaten bin ich in viele Themen abgetaucht. Einerseits wollte ich mir einen Überblick verschaffen und andererseits habe ich bereits zu Beginn gemerkt, dass ich mich fokussieren «muss». Ich hatte Ideen und Pläne, in welche Richtung es gehen könnte. In dem Prozess liess ich mich einerseits treiben und andererseits von der CAS-Struktur leiten. Bei jedem übergeordneten Thema fand ich in meinem Bücherregal hinter mir oder in einem Webshop die passenden Bücher, mit denen ich Themen CAS-Inhalte vertiefen konnte und immer noch kann. Einige davon drehen sich um neue Arbeit und neues Lernen, oft als New Work und New Learning bezeichnet. Bei anderen geht es um menschen- oder gehirngerechtes Lernen und Arbeiten oder es sind «alte» Praktiken wie z. B. «die lernende Organisation». 
+In den letzten Monaten bin ich in viele Themen abgetaucht. Einerseits wollte ich mir einen Überblick verschaffen und andererseits habe ich bereits zu Beginn gemerkt, dass ich mich fokussieren «muss». Ich hatte Ideen und Pläne, in welche Richtung es gehen könnte. In dem Prozess liess ich mich einerseits treiben und andererseits von der CAS-Struktur leiten. Bei jedem übergeordneten Thema fand ich in meinem Bücherregal hinter mir oder in einem Webshop die passenden Bücher, mit denen ich CAS-Inhalte vertiefen konnte und immer noch kann. Einige davon drehen sich um neue Arbeit und neues Lernen, oft als New Work und New Learning bezeichnet. Bei anderen geht es um menschen- oder gehirngerechtes Lernen und Arbeiten oder es sind «alte» Praktiken wie z. B. «die lernende Organisation». 
 
 Und es ist wie immer. Die Reise geht weiter und «ich lerne noch».
 
