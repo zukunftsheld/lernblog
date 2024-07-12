@@ -49,7 +49,7 @@ Ich habe den Eindruck, dass ich die erwähnten Formen alle umgesetzt habe. [Die 
 Ich habe über konkrete Lernthemen geschrieben und damit einen oft kurzen und einfachen Überblick gegeben. Kurz und einfach u. a. aus folgenden Gründen:
 
 * Es gibt bereits etliche gute Bücher und Blogbeiträge, die umfassend sind.
-* Weil es mir hier in dem Fall eher darum geht ein grosses Bild zu zeichnen. Also der Blog als Gesamtbild.
+* Weil es mir hier in dem Fall eher darum geht, ein grosses Bild zu zeichnen. Also der Blog als Gesamtbild.
 * Der zeitliche Aufwand. Ein Blogbeitrag braucht oft viel Zeit.
 
 ### Lernprozesse und Verlauf
@@ -62,7 +62,7 @@ Ob bei der Organisationsentwicklung, in Change-Prozessen oder Leadership. Lernen
 
 ### Dann kam noch ein Podcast dazu
 
-Vor allem zur Inspiration, wie Menschen lernen oder Wissen (in Unternehmen) teilen können, habe ich die Beiträge zum Teil mit Podcastfolgen ergänzt. Diese sind absichtlich einfach gehalten, um zu zeigen, dass dies auch so ohne grossen Zeitaufwand sein kann. 
+Vor allem zur Inspiration, wie Menschen lernen oder Wissen (in Unternehmen) teilen können, habe ich die Beiträge zum Teil mit Podcastfolgen ergänzt. Diese sind absichtlich einfach gehalten, um zu zeigen, dass dies auch so ohne grossen Zeitaufwand möglich ist.
 
 <script class="podigee-podcast-player" src="https://player.podigee-cdn.net/podcast-player/javascripts/podigee-podcast-player.js" data-configuration="https://entwicklungsfreiraum-siebenminuten.podigee.io/10-neue-episode/embed?context=external"></script>
 
