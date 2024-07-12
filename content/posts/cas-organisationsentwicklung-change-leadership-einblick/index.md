@@ -48,7 +48,7 @@ Ich habe den Eindruck, dass ich die erwähnten Formen alle umgesetzt habe. [Die 
 
 Ich habe über konkrete Lernthemen geschrieben und damit einen oft kurzen und einfachen Überblick gegeben. Kurz und einfach u. a. aus folgenden Gründen:
 
-*  Es gibt bereits etliche gute Bücher und Blogbeiträge, die umfassender sind.
+* Es gibt bereits etliche gute Bücher und Blogbeiträge, die umfassender sind.
 * Weil es mir hier in dem Fall eher darum geht ein grosses Bild zu zeichnen. Also der Blog als Gesamtbild.
 * Der zeitliche Aufwand. Ein Blogbeitrag braucht oft viel Zeit.
 
