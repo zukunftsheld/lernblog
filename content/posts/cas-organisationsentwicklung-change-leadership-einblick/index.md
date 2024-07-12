@@ -68,7 +68,7 @@ Vor allem zur Inspiration, wie Menschen lernen oder Wissen (in Unternehmen) teil
 
 ## Ordnung und Struktur
 
-Als Grund für die Wahl zu diesem CAS habe ich auch die Strukturierung genannt. Tatsächlich folge ich einer Struktur und verfolge die Themen so geordnet(er). Weil es halt eben doch viele Verknüpfungen gibt, switche ich immer wieder zwischen den Themen. Einige streife ich für mein Verständnis eher oberflächlich und bei andere trifft es der Begriff [«Slow Learning»](https://www.slow-learning.com) eher. Das heisst, ich habe mich bereits vorher damit beschäftigt und/oder werde mich auch in Zukunft damit auseinandersetzen. 
+Als Grund für die Wahl zu diesem CAS habe ich auch die Strukturierung genannt. Tatsächlich folge ich einer Struktur und verfolge die Themen so geordnet(er). Weil es halt eben doch viele Verknüpfungen gibt, switche ich immer wieder zwischen den Themen/Modulen. Einige streife ich für mein Verständnis eher oberflächlich und bei anderen trifft es der Begriff [«Slow Learning»](https://www.slow-learning.com) eher. Das heisst, ich habe mich bereits vorher damit beschäftigt und/oder werde mich auch in Zukunft damit auseinandersetzen. 
 
 ![Quelle: Slow Learning ](blogbilder.jpg)
 
