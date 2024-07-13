@@ -16,7 +16,7 @@ footnotes = "📚**Ergänzende Bücher**\n\n📕 [Future Skills, 30 Zukunftsent
 
 Im Beitrag [«Agilität - ein Überblick»](https://www.bensblog.ch/agilitat/) habe ich einen kurzen Ein- und Überblick über die agile Arbeit gegeben. Bereits dort habe ich einen Hinweis darauf gegeben, dass Agilität resp. agile Arbeitsweisen gerne als Lösung für vieles (oder fast alles) gepredigt werden. Wie alle anderen Ansätze, Methoden und Tools ist auch Agilität nicht die Zauberlösung. Doch wann ist agile Arbeit oder der Einsatz von agilen Ansätzen sinnvoll? Dazu bietet die Stacey-Matrix eine Orientierungshilfe. Diese Matrix unterscheidet die vier Kategorien Einfach, Kompliziert, Komplex und Chaos. 
 
-![Abbildung 1: Eigene Visualisierung der Stacey Matrix](stacy-matrix.png)
+![Abbildung 1: Eigene Visualisierung der Stacey Matrix, Quelle: Organisationsdesign in einer komplexen und instabilen Welt, Einführung in Modelle und Konzepte sowie deren Anwendung](stacy-matrix.png)
 
 **1. Einfach**
 
