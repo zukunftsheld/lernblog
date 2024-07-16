@@ -63,7 +63,7 @@ Passen die eigenen Kompetenzen zu den Anforderungen im Beruf? Sind sie zu hoch o
 
 Fühlt sich das, was du tust, bedeutsam an? Empfindest du bei dem, was du tust Sinn? Die Frage ist sicher nicht immer einfach zu beantworten. Bei der Wahrnehmung von Bedeutsamkeit habe die Arbeit über alle Kulturen und Altersstufen hinweg einen Einfluss auf die Lebenszufriedenheit (Schermuly 2021).
 
-*Vor vier Jahren habe ich mich intensiv mit dem Sinnerleben in der Arbeit beschäftigt. Auch dort spielt das Empfinden von Bedeutsamkeit eine wichtige Rolle. In der Sinnforschung spricht man bei der Sinnerfüllung von der Erfahrung von Sinnhaftigkeit. Diese ist eine «\[…](meist unbewusste) Bewertung des eigenen Lebens als kohärent, bedeutsam, orientiert und zugehörig» (Schnell 2016).* 
+*Vor vier Jahren habe ich mich intensiv mit dem Sinnerleben in der Arbeit beschäftigt. Auch dort spielt das Empfinden von Bedeutsamkeit eine wichtige Rolle. In der Sinnforschung spricht man bei der Sinnerfüllung von der Erfahrung von Sinnhaftigkeit. Diese ist eine «\[…](meist unbewusste) Bewertung des eigenen Lebens als kohärent, **bedeutsam**, orientiert und zugehörig» (Schnell 2016).* 
 
 ### Einfluss
 
