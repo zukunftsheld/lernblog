@@ -2,7 +2,7 @@
 title = "Lernen gestalten "
 date = "2024-06-23"
 draft = false
-pinned = false
+pinned = true
 tags = ["Lernen", "Bildung", "Organisationsentwicklung", "NewLearning", "Personalentwicklung"]
 image = "to-learn-64058_640.jpg"
 description = "Hier findest du eine Liste mit Büchern sowie einige meiner aktuellen Blogbeiträge zum Thema (neues) Lernen. "
