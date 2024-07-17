@@ -10,10 +10,6 @@ footnotes = "📚Bücher\n\n[📘New Work - Gute Arbeit gestalten, Psychologisch
 +++
 In meinen Blogbeiträgen (insbesondere zum [CAS](https://www.bensblog.ch/cas-organisationsentwicklung-change-leadership-buecher-und-blogposts/)) schreibe ich immer wieder über [Organisationsentwicklung ](https://www.bensblog.ch/tags/organisationsentwicklung/)oder [Organisationskultur](https://www.bensblog.ch/tags/organisationskultur/). Was aber bedeuten diese Begriffe? Hier werde ich versuchen, einen Überblick zu schaffen. Ganz bewusst versuchen, da die Begrifflichkeiten nicht eindeutig und einheitlich sind. Beide betrachte ich im Kontext von neuer Arbeit (New Work), neuem Lernen (New Learning) und Change-~~Management~~ Leadership. 
 
-> Wir verändern die Dinge nicht, indem wir gegen die bestehende Wirklichkeit kämpfen. Um etwas zu verändern, müssen wir ein neues Modell entwickeln, das das alte Modell überflüssig macht.
->
->  *Richard Buckminster Fuller, Laloux, S. 1*
-
 ## **Organisationsentwicklung**
 
 Für Organisationsentwicklung gibt es keine einheitliche Definition. Eine Beschreibung könnte lauten: Es geht um die (systematische, strategische, langfristige) Planung und Umsetzung von Veränderungen in einer Organisation. Diese verfolgt Ziele wie die Steigerung der Leistungsfähigkeit des Unternehmens oder die Verbesserung der Arbeit der Menschen im Unternehmen. Es ist also ein breites Feld. 
