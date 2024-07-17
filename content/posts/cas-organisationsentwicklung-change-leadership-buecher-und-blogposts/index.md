@@ -2,7 +2,7 @@
 title = "CAS Organisationsentwicklung & Change Leadership - Bücher und Blogposts"
 date = "2024-07-04"
 draft = false
-pinned = false
+pinned = true
 tags = ["CAS", "Lernen", "Bildung", "Colearning", "Change", "Leadership", "Organisationsentwicklung"]
 image = "books-2596809_640.jpg"
 description = "Überblick über Blogbeiträge zum CAS Organisationsentwicklung & Change Leadership und Bücherverzeichnis."
@@ -11,6 +11,12 @@ footnotes = "Titelbild: [StockSnap](https://pixabay.com/de/users/stocksnap-89443
 Mein CAS Organisationsentwicklung & Change Leadership läuft bereits einige Zeit. Dieser Beitrag ist ein Verzeichnis aller Artikel. Zudem teile ich hier die Bücher, die mich auf diesem Weg begleiten. Der Inhalt wird laufend aktuallisiert. 
 
 {{<box title="CAS-Blogposts">}}
+
+[Organisationsentwicklung und Organisationskultur](https://www.bensblog.ch/definition_organisationsentwicklung_organisationskultur/)
+
+[Neue Arbeit gestalten: Psychologisches Empowerment](https://www.bensblog.ch/psychologisches_empowerment/)
+
+[CAS Organisationsentwicklung & Change Leadership - Einblick](https://www.bensblog.ch/cas-organisationsentwicklung-change-leadership-einblick/)
 
 [Lean-Change-Management](https://www.bensblog.ch/lean-change-management/)
 
