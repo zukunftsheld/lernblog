@@ -16,7 +16,7 @@ Was ist New Work? Sind es die Gedanken von Frithjof Bergmann? Sind es Homeoffice
 
 ## **Neue Arbeit** 
 
-Unter neuer Arbeit wird viel verstanden. Veränderungen lassen sich vermutlich unter «New Work» besonders gut verkaufen oder einfordern. Dabei, so denke ich zumindest, sind neue Formen der (Zusammen-) Arbeit kein Luxus, sondern nötig. 
+Unter neuer Arbeit wird viel verstanden. Veränderungen lassen sich vermutlich unter «New Work» besonders gut verkaufen oder einfordern. Dabei, so denke ich zumindest, sind neue Formen der (Zusammen-) Arbeit und Führung kein Luxus, sondern nötig. 
 
 Man fokussiert in diesem Zusammenhang oft auf die «Wissensarbeiter». Diese sitzen meistens in Büros und arbeiten vor allem mit dem Kopf. Ich habe den Eindruck, dass auch New Work Massnahmen ganz oft auf diese Menschen abzielen. Dabei ist es wichtig, gute Arbeit für alle zu gestalten. Ich schweife etwas vom Thema ab, ergänze noch ein paar Worte aus dem Buch von Hans Rusinek (vielleicht etwas aus dem Kontext gerissen und für mich doch passend), bevor ich auf das eigentliche Thema komme. 
 
