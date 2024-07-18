@@ -26,7 +26,7 @@ Man fokussiert in diesem Zusammenhang oft auf die «Wissensarbeiter». Diese sit
 
 ## Psychologisches Empowerment
 
-In seinem Buch New Work – Gute Arbeit gestalten, schreibt Carsten Schermuly über psychologisches Empowerment. Diese Thematik beschäftigt mich bereits länger und im Rahmen meines CAS Organisationsentwicklung und Change Leadership habe ich mich vertiefter damit auseinandergesetzt. Hier gebe ich einen sehr kurzen Einblick. Für eine umfassende Auseinandersetzung empfehle ich das Buch. 
+Eine Form neue Arbeit zu gestalten ist das psychologische Empowerment. Darum geht es im Buch New Work – Gute Arbeit gestalten, von Carsten Schermuly. Diese Thematik beschäftigt mich bereits länger und im Rahmen meines CAS Organisationsentwicklung und Change Leadership habe ich mich vertiefter damit auseinandergesetzt. Hier gebe ich einen sehr kurzen Einblick. Für eine umfassende Auseinandersetzung empfehle ich das Buch. 
 
 ![](img_9941.jpg)
 
