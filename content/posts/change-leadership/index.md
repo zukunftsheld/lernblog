@@ -1,12 +1,12 @@
 +++
 title = "Change-Leadership"
 date = "2024-07-20"
-draft = true
+draft = false
 pinned = false
 tags = ["CAS", "Change", "Leadership"]
 image = "pilot-3708000_640.jpg"
 description = "Was ist Change-Leadership und wo ist der Unterschied zu Change-Management? "
-footnotes = "Rogers Carl R. (1973), Entwicklung der Persönlichkeit: Psychotherapie aus der Sicht eines Therapeuten"
+footnotes = "📘[Rogers Carl R. (1973), Entwicklung der Persönlichkeit: Psychotherapie aus der Sicht eines Therapeuten](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/carl-r-rogers/entwicklung-der-persoenlichkeit-konzepte-der-humanwissenschaften/id/9783608964172/)\n\n📘 [Das neue Führen, Führen und sich führen lassen in Zeiten der Unvorhersehbarkeit, Bodo Janssen](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/bodo-janssen/das-neue-fuehren/id/9783424202854/)\n\n📘 [TZI - Die Kunst sich selbst und eine Gruppe zu leiten](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/cornelia-loehmer/tzi-die-kunst-sich-selbst-und-eine-gruppe-zu-leiten/id/9783608961225/)"
 +++
 ## Einleitende Gedanken
 
@@ -47,7 +47,7 @@ Hier müssten wir noch eine Unterscheidung zwischen Kommunizieren und Informiere
 
 In dieser Rolle sind sie begleitend und unterstützend unterwegs. Es geht darum, die Mitarbeitenden im Veränderungsprozess, in ihren Rollen und Herausforderungen zu unterstützen. Ergänzend könnte auch Mentoring oder eine Beratung eingesetzt werden. 
 
-### Veränderungsagent (Change-Agent)
+### Change-Agent
 
 Die Veränderung wird aktiv vorangetrieben und Lösungen in den Vordergrund gestellt. Change-Agents räumen Hindernisse aus dem Weg und helfen dabei, den Wandel in der Organisation zu verankern. 
 
