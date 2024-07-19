@@ -12,6 +12,8 @@ Mein CAS Organisationsentwicklung & Change Leadership läuft bereits einige Zeit
 
 {{<box title="CAS-Blogposts">}}
 
+[Change-Leadership](https://www.bensblog.ch/change-leadership/)
+
 [Transformationale Führung](https://www.bensblog.ch/transformationale-fuhrung/)
 
 [Organisationsentwicklung und Organisationskultur](https://www.bensblog.ch/definition_organisationsentwicklung_organisationskultur/)
