@@ -19,6 +19,10 @@ Die Art und Weise, wie Unternehmen, Mitarbeitende und Leader:innen mit diesen Wi
 
 Widerstände sind nicht per se schlecht und sie sind natürlich. Lässt man sie ausser Acht, nimmt man die Menschen nicht ernst. Gibt man ihnen zu viel Gewicht, dann lässt man sich womöglich unnötig bremsen. Wichtig ist m. E., dass man sich mit Widerständen bewusst und aktiv auseinandersetzt. So floskelhaft es auch scheint, sie bieten auch viele Chancen.
 
+> «Widerstände sind ein Zeichen von Lebendigkeit. Sie sind genauso unangenehm wie wichitg. Denn ohne Widerstände gibt es keine Entwicklung.» 
+>
+> *aus Bodo Janssen, Das neue Führen, S. 155*
+
 In der Bildung und in Kurssequenzen zeigen sich Widerstände von Einzelpersonen, kleinen Gruppierungen oder ganzen Kursgruppen oft unmittelbar. Diese haben dann auch einen direkten Einfluss auf die Stimmung, die Dynamik und den Verlauf der Veranstaltung. In Unternehmen werden Widerstände von Einzelnen, Teams oder Abteilungen möglicherweise weniger gut, spät(er) oder gar nicht wahrgenommen. So oder so gibt es hilfreiche und weniger sinnvolle Strategien mit Widerständen umzugehen. 
 
 Ein Vorgehen mit dem Hammer (hier könnten wir uns an Watzlawick erinnern oder einfach an ein unbesonnenes Vorgehen), eine Abwertung der Widerstände oder der Personen, die in den Widerstand gehen, wird selten (oder nie) hilfreich sein. Auch ignorieren erachte ich als selten sinnvoll. 
