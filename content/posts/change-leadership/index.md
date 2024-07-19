@@ -1,7 +1,7 @@
 +++
 title = "Change-Leadership"
 date = "2024-07-20"
-draft = false
+draft = true
 pinned = false
 tags = ["CAS", "Change", "Leadership"]
 image = "pilot-3708000_640.jpg"
