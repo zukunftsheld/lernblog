@@ -20,7 +20,7 @@ Im CAS und in einigen Büchern, mit denen ich mich beschäftige, kommt die trans
 
 Die transformationale Führung zielt auf die intrinsische Motivation ab. Mitarbeitende erhalten also bei dieser Form der Führung Möglichkeiten und Räume (kreative) Lösungen zu entwickeln und die Zukunft zu gestalten. Die Führungsperson nimmt dabei verschiedene Rollen ein. Sie inspiriert die Menschen im Team selbst aktiv zu sein und sich einzubringen. Das heisst auch, dass die Führungsperson eine wichtige und zentrale Rolle spielt. Wenn sie inspirieren will, muss sie selbst für die Sache brennen.
 
-###  Die Rollen bei der transformationalen Führung: 
+### Die Rollen bei der transformationalen Führung: 
 
 #### Idealisierter Einfluss / Idealized Influence – Rolle: Vorbild
 
