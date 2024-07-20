@@ -147,3 +147,9 @@ Veränderungen brauchen Mut und sie sind anstrengend. Das ist gut so. Zum Abschl
 *Was der Mann in seiner Güte und seinem Wohlwollen nicht verstand, war, dass der begrenzende Kokon und das Ringen, das erforderlich ist, damit der Schmetterling durch die kleine Öffnung kam, der Weg der Natur ist, um Flüssigkeit vom Körper des Schmetterlings in seine Flügel zu fördern. Dadurch wird er auf den Flug vorbereitet sobald er seine Freiheit aus dem Kokon erreicht. Manchmal ist das Ringen genau das, was wir in unserem Leben benötigen. Wenn wir durch unser Leben ohne Hindernisse gehen dürften, würde es uns lahmlegen. Wir wären nicht so stark, wie wir sein könnten, und niemals fähig zu fliegen.» (Steinbach 2016, S. 68)* Aus Entlehrt euch! Ausbruch aus dem Vollständigkeitswahn, Rolf Arnold, S. 66
 
 PS: Change und Management passen eh nicht so gut zusammen. Deshalb auch ein CAS in Organisationsentwicklung & Change Leadership. Dazu aber sicher in Zukunft mehr.
+
+Nachträgliche Ergänzung: 
+
+> «Deswegen reden wir von Change Management, kurzen Programmen, damit danach das Gerät wieder so läuft wie gehabt - dabei bildet der Doppelbegriff Change Management eigentlich einen Widerspruch in sich.»
+>
+> *Rusinek Hans (2023), Work Survice Balance, S. 107*
