@@ -39,3 +39,5 @@ Einer guten Führungskraft gelingt es, mit den Menschen, mit denen sie zusammena
 ![Abbildung 1. Eigene Visualisierung in Anlehnung an TZI nach Ruth C. Cohn](leadership_-tzi-3.png)
 
 So unterschiedliche wie Organisationen und Teams sind, so individuell gestaltet sich m. E. Führung. Es wäre auch zu kurz gedacht, einer Führungsperson die volle Verantwortung für ein Team zu geben. Ich sehe kollaborative und kooperative Zusammenarbeitsformen als zielführender, um in Zeiten von Unsicherheit und Unvorhersehbarkeit agil und auch stabil unterwegs zu sein. Oben erwähnten Punkte betrachte ich jedoch als Basis resp. stabiles Fundament, um eine Gruppe von Menschen sowohl in ruhigen wie auch in stürmischen Zeiten (zum Erfolg) zu begleiten. Dabei geht es natürlich immer um die Arbeit. Die Abbildung 1 zeigt, wie die einzelnen Aspekte zusammenhängen und immer auch von aussen beeinflusst werden.
+
+<script class="podigee-podcast-player" src="https://player.podigee-cdn.net/podcast-player/javascripts/podigee-podcast-player.js" data-configuration="https://entwicklungsfreiraum-siebenminuten.podigee.io/10-neue-episode/embed?context=external"></script>
