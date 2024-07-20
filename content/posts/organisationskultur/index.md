@@ -83,3 +83,5 @@ Eine Unternehmenskultur lebt von und mit den Menschen, die in der Organisation u
 Was manchmal einfach klingt, ist in Wahrheit eine (grosse) Herausforderung. Entwicklung und Veränderung (nicht nur von Kultur) ist ein Prozess, der oft nie abgeschlossen ist. Zudem sind, wie wir gesehen haben, viele Aspekte der Kultur unter der (Wasser-) Oberfläche und kaum sichtbar. Wichtig sind eine klare Haltung und die passenden Strategien. Nicht erst dann, sondern bereits bei der Erarbeitung der Strategie braucht es die aktive Mitarbeit der Menschen, die in der Organisation arbeiten.
 
 ![Quelle: Corporate Rebels Linkedin](1715182341668.jpeg)
+
+<script class="podigee-podcast-player" src="https://player.podigee-cdn.net/podcast-player/javascripts/podigee-podcast-player.js" data-configuration="https://entwicklungsfreiraum-siebenminuten.podigee.io/12-kulturentwicklung/embed?context=external"></script>
