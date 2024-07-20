@@ -12,6 +12,10 @@ footnotes = "📘[Rogers Carl R. (1973), Entwicklung der Persönlichkeit: Psycho
 
 Obwohl meine aktuelle Weiterbildung Organisationsentwicklung und Change Leadership beinhaltet, habe ich bisher meistens von Change-Management geschrieben. Dies vor allem zum besseren Verständnis und weil ich mich dabei auf die übliche Definition/Sprache bezogen habe. Auch wenn es vermutlich in den bisherigen Inhalten bereits klare Anhaltspunkte zu Change Leadership gab, widmet sich dieser Beitrag diesem Thema. 
 
+> «Deswegen reden wir von Change Management, kurzen Programmen, damit danach das Gerät wieder so läuft wie gehabt - dabei bildet der Doppelbegriff Change Management eigentlich einen Widerspruch in sich.»
+>
+> *Rusinek Hans (2023), Work Survice Balance, S. 107*
+
 ## Abgrenzung von Change-Management zu Change-Leadership
 
 #### Change-Management
