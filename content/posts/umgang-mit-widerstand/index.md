@@ -132,3 +132,7 @@ Was hat geklappt? Welche Elemente des neuen Soll-Zustands sind bereits im Alltag
 ![](sunset-6990822_1920.jpg)
 
 Veränderungen gehören zum (Arbeits-) Leben dazu. So auch die Widerstände in Veränderungsprozessen. Es geht nicht darum Widerstände zu verhindern, sondern ihnen konstruktiv zu begegnen. Es geht darum das, was hinter den Widerständen liegt zu verstehen (oder versuchen zu verstehen, soweit es möglich ist). So können sie zu einem wichtigen Instrument in Change- und Transformationsprozessen werden.
+
+
+
+<script class="podigee-podcast-player" src="https://player.podigee-cdn.net/podcast-player/javascripts/podigee-podcast-player.js" data-configuration="https://entwicklungsfreiraum-siebenminuten.podigee.io/14-umgang-mit-wiederstaenden/embed?context=external"></script>
