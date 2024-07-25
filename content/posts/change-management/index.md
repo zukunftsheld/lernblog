@@ -153,3 +153,5 @@ Nachträgliche Ergänzung:
 > «Deswegen reden wir von Change Management, kurzen Programmen, damit danach das Gerät wieder so läuft wie gehabt - dabei bildet der Doppelbegriff Change Management eigentlich einen Widerspruch in sich.»
 >
 > *Rusinek Hans (2023), Work Survice Balance, S. 107*
+
+<script class="podigee-podcast-player" src="https://player.podigee-cdn.net/podcast-player/javascripts/podigee-podcast-player.js" data-configuration="https://entwicklungsfreiraum-siebenminuten.podigee.io/13-change-management/embed?context=external"></script>
