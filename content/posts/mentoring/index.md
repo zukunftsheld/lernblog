@@ -76,3 +76,7 @@ Alle Menschen haben etwas zu geben. Das kann praktische Hilfe für andere sein, 
 ### Schlussgedanken
 
 Ein Mentoring im Sinne des Colearning-Mentorings kann ein wertvolles Instrument sein, damit sich Mitarbeitende gegenseigt bei der persönlichen und fachlichen Entwicklung sowie in ihren Lernprozessen begleiten können. Es kann die Kommunikation zwischen Abteilungen fördern und gegenseitige vertiefte Einblicke ermöglichen. Da die Strukturen innerhalb von Colearning schlank gehalten wurden und auch das Mentoring darauf ausgerichtet ist, sind der zeitliche Aufwand und die Kosten tief. Der Nutzen (so erlebe und beobachte ich es zumindest) umso grösser.
+
+
+
+<script class="podigee-podcast-player" src="https://player.podigee-cdn.net/podcast-player/javascripts/podigee-podcast-player.js" data-configuration="https://entwicklungsfreiraum-siebenminuten.podigee.io/15-mentoring/embed?context=external"></script>
