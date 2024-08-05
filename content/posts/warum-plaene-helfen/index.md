@@ -3,7 +3,7 @@ title = "Warum Pläne helfen"
 date = "2024-06-25"
 draft = false
 pinned = false
-tags = ["Organisationsentwicklung", "Change", "CAS"]
+tags = ["Organisationsentwicklung", "Change", "CAS", "CAS-OECL"]
 image = "hike-5796976_640.jpg"
 description = "Bei Change-Management oder in der Organisationsentwicklung ist ein guter Plan wichtig. Ein Plan gibt die Richtung vor und unterstützt die gemeinsame Orientierung."
 footnotes = "Titelbild: [Felix Merler](https://pixabay.com/de/users/felix_merler-3317441/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=5796976) auf [Pixabay](https://pixabay.com/de//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=5796976)"
