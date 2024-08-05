@@ -3,7 +3,7 @@ title = "Transformationale Führung"
 date = "2024-07-19"
 draft = false
 pinned = false
-tags = ["CAS-OECL", "Organisationsentwicklung", "Personalentwicklung", "Leadership", "NewWork"]
+tags = ["CAS", "CAS-OECL", "Organisationsentwicklung", "Personalentwicklung", "Leadership", "NewWork"]
 image = "lighthouse-6702434_1280.jpg"
 description = "Einblick in die transformationale Führung und Gedanken dazu."
 footnotes = "[📘New Work - Gute Arbeit gestalten, Psychologisches Empowerment von Mitarbeitern, Carsten Schermuly](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/carsten-c-schermuly/new-work-gute-arbeit-gestalten/id/9783648176290/)\n\n📘[New Work braucht New Learning, Eine Perspektivreise durch die Transformation unserer Organisations- und Lernwelten](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/jan-foelsing/new-work-braucht-new-learning/id/9783658327576/)\n\nTitelbild: Bild von [Sabine Dirksen](https://pixabay.com/de/users/penphoto-22279946/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=6702434) auf [Pixabay](https://pixabay.com/de//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=6702434)"
