@@ -3,7 +3,7 @@ title = "CAS Organisationsentwicklung & Change Leadership - Bücher und Blogpost
 date = "2024-07-04"
 draft = false
 pinned = true
-tags = ["CAS", "Lernen", "Bildung", "Colearning", "Change", "Leadership", "Organisationsentwicklung"]
+tags = ["CAS-OECL", "Lernen", "Bildung", "Colearning", "Change", "Leadership", "Organisationsentwicklung"]
 image = "books-2596809_640.jpg"
 description = "Überblick über Blogbeiträge zum CAS Organisationsentwicklung & Change Leadership und Bücherverzeichnis."
 footnotes = "Titelbild: [StockSnap](https://pixabay.com/de/users/stocksnap-894430/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2596809) auf [Pixabay](https://pixabay.com/de//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2596809)"
