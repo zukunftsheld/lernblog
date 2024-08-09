@@ -1,8 +1,11 @@
 +++
 title = "CAS Business Impact: Der Einstieg"
 date = "2024-08-07"
-draft = true
+draft = false
 pinned = false
+tags = ["CAS", "CAS-BI", "Lernblog"]
+image = "dein.jpg"
+description = "Einblicke und Gedanken zum Einstieg in das CAS Business Impact. "
 +++
 Nach dem Abschluss des CAS Organisationsentwicklung und Change Leadership habe ich mich entschlossen, gleich weiterzumachen und einen neuen zu starten. Seit einigen Tagen bin ich nun im CAS Business Impact. Ja, das klingt noch allgemein und sagt nicht viel über den Inhalt aus. Denn diesen stelle ich mir aus 38 Modulen selbst zusammen. Aber der Reihe nach. 
 
@@ -22,6 +25,8 @@ Es handelt sich dabei wieder um ein online CAS, wobei die Lernumgebung und auch 
 
 **Lernbegleitung**: 1 Lernbegleiter über den gesamten Verlauf
 
+
+
 #### **CAS Business Impact**
 
 **Lernumgebung**: MS Teams
@@ -31,9 +36,7 @@ Es handelt sich dabei wieder um ein online CAS, wobei die Lernumgebung und auch 
 **Lernbegleitung**: 1 Lernbegleiter über die gesamte Zeit.\
 Pro Modul 1 Coach, den ich selbst wählen und über Teams kontaktieren kann.
 
-Der entschiedenste Unterschied liegt jedoch im Onboarding sowie im Ablauf.
-
-Im «normalen» CAS arbeitete ich mit einem einzigen Lernbegleiter. Vor und nach jedem Modul sowie bei allfälligen Fragen dazwischen hatte ich Kontakt mit ihm. 
+Der entschiedenste Unterschied liegt jedoch im Onboarding sowie im Ablauf. Im «normalen» CAS arbeitete ich mit einem einzigen Lernbegleiter. Vor und nach jedem Modul sowie bei allfälligen Fragen dazwischen hatte ich Kontakt mit ihm. 
 
 ### Ablauf CAS Business Impact
 
@@ -46,6 +49,6 @@ Im «normalen» CAS arbeitete ich mit einem einzigen Lernbegleiter. Vor und nach
 
 So starte ich in diesen neuen Abschnitt.
 
- Das Ziel ist auch hier, wieder regelmässig Beiträge zu schreiben. Zusätzlich werde ich ein (umfassendes) Miro-Board erstellen und (vermutlich) auch öffentlich teilen. Ich werde neben fachlichen Themen und Einblicken auch in diesem Prozess wieder aus aussen auf (mein) Lernen schauen. Wobei bei meinem gesetzten Fokus «zukunftsorientierte Personal- und Organisationsentwicklung» gilt Lernen wohl auch als ein Fachthema.
+Das Ziel ist auch hier, wieder regelmässig Beiträge zu schreiben. Zusätzlich werde ich ein (umfassendes) Miro-Board erstellen und (vermutlich) auch öffentlich teilen. Ich werde neben fachlichen Themen und Einblicken auch in diesem Prozess wieder aus aussen auf (mein) Lernen schauen. Wobei bei meinem gesetzten Fokus «zukunftsorientierte Personal- und Organisationsentwicklung» gilt Lernen wohl auch als ein Fachthema.
 
 Genau, und hier kommen wir zu den Themen, denen ich mich widmen werde. Ergänzend zu meinem Bildungs- und Erfahrungsrucksack beschäftige ich mich mit zukunftsorientierter Personal- und Organisationsentwicklung. Ich werde mich mit Themen (diese passe ich je nach Verlauf und Bedarf an) wie New Work, Innovation, HR, Lernen in einer digitalen und agilen Arbeitswelt u. a. beschäftigen. Soweit der Plan.
