@@ -4,7 +4,7 @@ date = "2024-08-07"
 draft = false
 pinned = false
 tags = ["CAS", "CAS-BI", "Lernblog"]
-image = "dein.jpg"
+image = "einstieg.jpg"
 description = "Einblicke und Gedanken zum Einstieg in das CAS Business Impact. "
 footnotes = ""
 +++
