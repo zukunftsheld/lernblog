@@ -6,8 +6,9 @@ pinned = false
 tags = ["CAS", "CAS-BI", "Lernblog"]
 image = "dein.jpg"
 description = "Einblicke und Gedanken zum Einstieg in das CAS Business Impact. "
+footnotes = ""
 +++
-Nach dem Abschluss des CAS Organisationsentwicklung und Change Leadership habe ich mich entschlossen, gleich weiterzumachen und einen neuen zu starten. Seit einigen Tagen bin ich nun im CAS Business Impact. Ja, das klingt noch allgemein und sagt nicht viel über den Inhalt aus. Denn diesen stelle ich mir aus 38 Modulen selbst zusammen. Aber der Reihe nach. 
+Nach dem Abschluss des [CAS Organisationsentwicklung und Change Leadership](https://www.bensblog.ch/cas-organisationsentwicklung-change-leadership-buecher-und-blogposts/) habe ich mich entschlossen, gleich weiterzumachen und einen neuen zu starten. Seit einigen Tagen bin ich nun im [CAS Business Impact](https://www.ikf.ch/de/kurse/cas-business-impact). Ja, das klingt noch allgemein und sagt nicht viel über den Inhalt aus. Denn diesen stelle ich mir aus 38 Modulen selbst zusammen. Aber der Reihe nach. 
 
 ## **Rückblick CAS Organisationsentwicklung und Change Leadership**
 
