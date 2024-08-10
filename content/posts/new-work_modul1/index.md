@@ -10,8 +10,6 @@ footnotes = "Passend dazu finde ich diesen [New Work Now Podcast](https://open.s
 +++
 Im Rahmen meines aktuellen CAS beschäftige ich mich im ersten Modul mit dem Thema New Work. Diese Wahl mag auf den ersten Blick überraschend erscheinen, da ich mich bereits seit drei oder vier Jahren mit diesem Thema auseinandersetze. Doch genau dieser Umstand hat mich dazu bewogen, New Work als eines der Module zu wählen – um Klarheit in meine eigene Definition zu bringen. Denn das, was unter New Work verstanden und angeboten wird, ist oft ein unübersichtliches Sammelsurium verschiedenster Massnahmen und Prinzipien.
 
-![](new-work-untiefen-2.png)
-
 > «New Work ist ein Trendthema und gleichzeitig ein unübersichtliches Sammelsurium verschiedenster Massnahmen und Prinzipien. Häufig werden sie ziellos und mit heftigen Nebenwirkungen in Organisationen eingeführt.» 
 >
 > *Schermuly (2021), S. 12*
