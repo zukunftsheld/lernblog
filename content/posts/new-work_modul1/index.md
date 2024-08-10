@@ -1,13 +1,16 @@
 +++
-title = "new-work_modul1"
+title = "New Work: Ein Meer voller (Un-)Tiefen "
 date = "2024-08-10"
-draft = true
+draft = false
 pinned = false
 tags = ["CAS", "CAS-BI", "NewWork"]
 image = "new-work-untiefen.png"
-footnotes = "Passend dazu finde ich diesen New Work Now Podcast mit Kira Marie Cremer & Hans Rusinek. Sie sprechen unter anderem über das mögliche Missverständnis des ursprünglichen New Work Begriffs von Bergmann. \n\nDen Vortrag, den sie im Gespräch erwähnen ist wohl dieser hier: Xing Vortrag Link\n\nUnd auch dieses Podcast-Gespräch finde ich im Zusammenhang des unterschiedlichen Verständnisses interessant: On the way to new work"
+description = "Gedanken zu New Work. "
+footnotes = "Passend dazu finde ich diesen [New Work Now Podcast](https://open.spotify.com/episode/2r74HQJzc2CBKof122KWUo?si=62a7897c4d6f419e) mit Kira Marie Cremer & Hans Rusinek. Sie sprechen unter anderem über das mögliche Missverständnis des ursprünglichen New Work Begriffs von Bergmann. \n\nDen Vortrag, den sie im Gespräch erwähnen ist wohl [dieser hier](https://youtu.be/29IoGFD86QM)."
 +++
 Im Rahmen meines aktuellen CAS beschäftige ich mich im ersten Modul mit dem Thema New Work. Diese Wahl mag auf den ersten Blick überraschend erscheinen, da ich mich bereits seit drei oder vier Jahren mit diesem Thema auseinandersetze. Doch genau dieser Umstand hat mich dazu bewogen, New Work als eines der Module zu wählen – um Klarheit in meine eigene Definition zu bringen. Denn das, was unter New Work verstanden und angeboten wird, ist oft ein unübersichtliches Sammelsurium verschiedenster Massnahmen und Prinzipien.
+
+![](new-work-untiefen-2.png)
 
 > «New Work ist ein Trendthema und gleichzeitig ein unübersichtliches Sammelsurium verschiedenster Massnahmen und Prinzipien. Häufig werden sie ziellos und mit heftigen Nebenwirkungen in Organisationen eingeführt.» 
 >
@@ -55,7 +58,9 @@ So bewegt sich mein (vorläufiges) Verständnis von New Work langsam in die Rich
 
 Wenn ich mich mit dem Thema New Work beschäftige, ertappe ich mich immer wieder dabei, dass mein Denken oft auf die klassischen „Wissensarbeiter“ fokussiert ist – jene, die in Büros arbeiten. Dabei wird ein grosser Teil der Arbeitswelt, der in Berufen wie Handwerk, Pflege, Dienstleistungen oder Logistik tätig ist, oft ausgeklammert, ja, einfach vergessen.
 
-*Die Arbeitsbereiche der abstrakten Kopf-Arbeit haben sich in den letzten Jahrzehnten immer weiter von der restlichen Arbeitswelt isoliert - Akademisierung, Pandemie, Digitalisierung sind, wie wir sehen werden, die maßgeblichen Triebkräfte dieser Entwicklung. Im Ergebnis kann gar nicht mehr von einer Arbeitswelt gesprochen werden, und bald vielleicht auch gar nicht mehr von einer Gesellschaft? Rusinek S. 123*
+> Die Arbeitsbereiche der abstrakten Kopf-Arbeit haben sich in den letzten Jahrzehnten immer weiter von der restlichen Arbeitswelt isoliert - Akademisierung, Pandemie, Digitalisierung sind, wie wir sehen werden, die maßgeblichen Triebkräfte dieser Entwicklung. Im Ergebnis kann gar nicht mehr von einer Arbeitswelt gesprochen werden, und bald villeicht auch gar nicht mehr von einer Gesellschaft? 
+>
+> *Rusinek (2023),  S. 123*
 
 ## Gedanken zum Schluss
 
