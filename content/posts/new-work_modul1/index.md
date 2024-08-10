@@ -43,14 +43,14 @@ Zurück im Job als Angestellter, konnte ich viel von beiden Welten verbinden. Ic
 
 Kommen wir zurück zu meinen Weiterbildungen. Im ersten CAS Organisationsentwicklung und Change Leadership habe ich mich u. a. auf Veränderungen in der Arbeitswelt fokussiert. Meine Tendenz ist, dass Change Management durch Change Leadership und so auch durch ein natürliche(re)s Verständnis von einer (Arbeits-) Welt im Wandel abgelöst wird U(oder abgelöst werden sollte). Es geht darum, unser (Arbeits-) Leben als etwas zu verstehen, das ganz natürlich im Wandel ist und bleiben wird. Das Tempo scheint sich dabei zunehmend zu erhöhen. 
 
-So bewegt sich mein (vorläufiges) Verständnis von New Work langsam in die Richtung von einer Arbeitswelt im Wandel. Ein Wandel von der Industrie 3.0 zu Industrie 4.0. New Work (wie oft werde ich das wohl in diesem Beitrag geschrieben haben..? ;-) ) ist die neue Arbeitswelt und die Art, wie wir arbeiten. Es ist unsere Arbeitswelt und wahrscheinlich ist bereits ganz viel «New Work» in unserem Alltag drin. Den Schmerz fühlen wir vielleicht dort am meisten, wo noch nach alten «Regeln» gespielt wird, das Spiel aber bereits ein neues ist.  
+So bewegt sich mein (vorläufiges) Verständnis von New Work langsam in die Richtung von einer Arbeitswelt im Wandel. Ein Wandel von der Industrie 3.0 zu Industrie 4.0. New Work (wie oft werde ich das wohl in diesem Beitrag geschrieben haben? 😉) ist die neue Arbeitswelt und die Art, wie wir arbeiten. Es ist unsere Arbeitswelt und wahrscheinlich ist bereits ganz viel «New Work» in unserem Alltag drin. Den Schmerz fühlen wir vielleicht dort am meisten, wo noch nach alten «Regeln» gespielt wird, das Spiel aber bereits ein neues ist.  
 
 ### Die neue (gute) Arbeitswelt könnte u. a. geprägt sein von:  
 
-* Mensch & Unternehmenszweck (Purpose) in «Einklang»
-* Co: Zusammen gestalten, arbeiten, entscheiden, … Verflachung oder Wegfall von Hierarchien zugunsten von geteilter Verantwortung
-* Empowerment von Menschen in den Unternehmen
-* New Learning (andere, individuellere, kontinuierlichere Formen von Lernen)
+* Mensch & Unternehmenszweck (Purpose) in Einklang.
+* Co: Zusammen gestalten, gemeinsam arbeiten und entscheiden. Verflachung oder Wegfall von Hierarchien zugunsten von geteilter Verantwortung.
+* Empowerment von Menschen in den Unternehmen.
+* New Learning (andere, individuellere, kontinuierlichere Formen von Lernen).
 
 ## Die Herausforderungen und Erweiterung der New Work-Diskussion
 
