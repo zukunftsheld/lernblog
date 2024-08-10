@@ -54,14 +54,14 @@ So bewegt sich mein (vorläufiges) Verständnis von New Work langsam in die Rich
 
 ## Die Herausforderungen und Erweiterung der New Work-Diskussion
 
-Wenn ich mich mit dem Thema New Work beschäftige, ertappe ich mich immer wieder dabei, dass mein Denken oft auf die klassischen „Wissensarbeiter“ fokussiert ist – jene, die in Büros arbeiten. Dabei wird ein grosser Teil der Arbeitswelt, der in Berufen wie Handwerk, Pflege, Dienstleistungen oder Logistik tätig ist, oft ausgeklammert, ja, einfach vergessen.
+Wenn ich mich mit dem Thema New Work beschäftige, ertappe ich mich immer wieder dabei, dass mein Denken oft auf die klassischen „Wissensarbeiter“ fokussiert ist – jene, die in Büros arbeiten. Dabei wird ein grosser Teil der Arbeitswelt, der in Berufen wie Handwerk, Pflege, Dienstleistungen oder Logistik tätig ist, oft ausgeklammert, ja, einfach vergessen. Dabei habe ich hier durch meinen bisherigen beruflichen Weg viele Anknüpfungspunkte. 
 
-> Die Arbeitsbereiche der abstrakten Kopf-Arbeit haben sich in den letzten Jahrzehnten immer weiter von der restlichen Arbeitswelt isoliert - Akademisierung, Pandemie, Digitalisierung sind, wie wir sehen werden, die maßgeblichen Triebkräfte dieser Entwicklung. Im Ergebnis kann gar nicht mehr von einer Arbeitswelt gesprochen werden, und bald villeicht auch gar nicht mehr von einer Gesellschaft? 
+> Die Arbeitsbereiche der abstrakten Kopf-Arbeit haben sich in den letzten Jahrzehnten immer weiter von der restlichen Arbeitswelt isoliert - Akademisierung, Pandemie, Digitalisierung sind, wie wir sehen werden, die massgeblichen Triebkräfte dieser Entwicklung. Im Ergebnis kann gar nicht mehr von einer Arbeitswelt gesprochen werden, und bald villeicht auch gar nicht mehr von einer Gesellschaft? 
 >
 > *Rusinek (2023),  S. 123*
 
 ## Gedanken zum Schluss
 
-New Work ist schwer zu greifen, weil das Verständnis davon sehr unterschiedlich ist. Wo einige die tiefgreifende Philosophie Bergmanns verstehen, meinen andere Homeoffice und flexible Arbeitszeiten. Rusinek und Cremer sprechen in einem Podcast davon, dass dieser Begriff vielleicht bald verschwindet und durch etwas anderes (oder verschiedenen anderen Begriffen) abgelöst wird. Wer weiss. Diese Podcastfolge lohnt sich sowieso. 
+New Work ist schwer zu greifen, weil das Verständnis davon sehr unterschiedlich ist. Wo einige die tiefgreifende Philosophie Bergmanns verstehen, meinen andere Homeoffice und flexible Arbeitszeiten. Rusinek und Cremer sprechen in einem Podcast davon, dass dieser Begriff vielleicht bald verschwindet und durch etwas anderes (oder verschiedenen anderen Begriffen) abgelöst wird. Wer weiss. 
 
 Und nun? Ich bin auf dem Weg, mein New Work Verständnis für mich und die nächste Zeit zu schärfen.
