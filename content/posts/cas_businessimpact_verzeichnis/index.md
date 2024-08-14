@@ -22,3 +22,9 @@ Dieses Verzeichnis wächst in den nächsten Wochen und Monaten.
 Hier erscheinen laufend Bücher, mit denen ich mich in diesem CAS beschäftige. Ein Buchverzeichnis findest du bereits 📚[hier.](https://www.bensblog.ch/cas-organisationsentwicklung-change-leadership-buecher-und-blogposts/)
 
 {{</box>}}
+
+Miro Board
+
+#### Es lebt und bewegt sich zusammen mit mir
+
+<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVKs2y8Fs=/?moveToViewport=-1408,-691,4307,2211&embedId=832566188847" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
