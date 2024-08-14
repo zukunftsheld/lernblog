@@ -27,6 +27,6 @@ Hier erscheinen laufend Bücher, mit denen ich mich in diesem CAS beschäftige. 
 
 **Es lebt und bewegt sich zusammen mit mir.**
 
-
-
 <iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVKs2y8Fs=/?moveToViewport=-1408,-691,4307,2211&embedId=832566188847" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+
+ℹ️ unten rechts im Miro Board kannst du auf Vollbild wechseln.
