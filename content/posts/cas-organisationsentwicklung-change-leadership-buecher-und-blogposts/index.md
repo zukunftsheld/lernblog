@@ -12,37 +12,37 @@ Mein CAS Organisationsentwicklung & Change Leadership läuft bereits einige Zeit
 
 {{<box title="CAS-Blogposts">}}
 
-[Change-Leadership](https://www.bensblog.ch/change-leadership/)
+**\#16** [Change-Leadership](https://www.bensblog.ch/change-leadership/)
 
-[Transformationale Führung](https://www.bensblog.ch/transformationale-fuhrung/)
+**\#15** [Transformationale Führung](https://www.bensblog.ch/transformationale-fuhrung/)
 
-[Organisationsentwicklung und Organisationskultur](https://www.bensblog.ch/definition_organisationsentwicklung_organisationskultur/)
+**\#14** [Organisationsentwicklung und Organisationskultur](https://www.bensblog.ch/definition_organisationsentwicklung_organisationskultur/)
 
-[Neue Arbeit gestalten: Psychologisches Empowerment](https://www.bensblog.ch/psychologisches_empowerment/)
+**\#13** [Neue Arbeit gestalten: Psychologisches Empowerment](https://www.bensblog.ch/psychologisches_empowerment/)
 
-[CAS Organisationsentwicklung & Change Leadership - Einblick](https://www.bensblog.ch/cas-organisationsentwicklung-change-leadership-einblick/)
+**\#12** [CAS Organisationsentwicklung & Change Leadership - Einblick](https://www.bensblog.ch/cas-organisationsentwicklung-change-leadership-einblick/)
 
-[Lean-Change-Management](https://www.bensblog.ch/lean-change-management/)
+**\#11** [Lean-Change-Management](https://www.bensblog.ch/lean-change-management/)
 
-[Wann sind agile Vorgehensweisen sinnvoll?](https://www.bensblog.ch/wann-agile-vorgehensweisen-sinnvoll-sind/)
+**\#10** [Wann sind agile Vorgehensweisen sinnvoll?](https://www.bensblog.ch/wann-agile-vorgehensweisen-sinnvoll-sind/)
 
-[Agilität - Ein Überblick](https://www.bensblog.ch/agilitat/)
+**\#9** [Agilität - Ein Überblick](https://www.bensblog.ch/agilitat/)
 
-[Warum Pläne helfen](https://www.bensblog.ch/warum-plaene-helfen/)
+**\#8** [Warum Pläne helfen](https://www.bensblog.ch/warum-plaene-helfen/)
 
-[Partizipation - Arbeit gemeinsam gestalten](https://www.bensblog.ch/partizipation/)
+**\#7** [Partizipation - Arbeit gemeinsam gestalten](https://www.bensblog.ch/partizipation/)
 
-[Umgang mit Widerständen bei Change und Transformation](https://www.bensblog.ch/umgang-mit-widerstand/)
+**\#6** [Umgang mit Widerständen bei Change und Transformation](https://www.bensblog.ch/umgang-mit-widerstand/)
 
-[Change Management](https://www.bensblog.ch/change-management/)
+**\#5** [Change Management](https://www.bensblog.ch/change-management/)
 
-[Kulturentwicklung in Organisationen](https://www.bensblog.ch/organisationskultur/)
+**\#4**[ Kulturentwicklung in Organisationen](https://www.bensblog.ch/organisationskultur/)
 
-[Die lernende Organisation](https://www.bensblog.ch/lernende-organisation/)
+**\#3** [Die lernende Organisation](https://www.bensblog.ch/lernende-organisation/)
 
-[So gestalte ich mein Lernen](https://www.bensblog.ch/cas-lernen-organisieren/)
+**\#2** [So gestalte ich mein Lernen](https://www.bensblog.ch/cas-lernen-organisieren/)
 
-[CAS Organisationsentwicklung & Change Leadership - Der Einstieg](https://www.bensblog.ch/cas_organisationsentwicklung_change_leadership_dereinstieg/)
+**\#1** [CAS Organisationsentwicklung & Change Leadership - Der Einstieg](https://www.bensblog.ch/cas_organisationsentwicklung_change_leadership_dereinstieg/)
 
 {{</box>}}
 
