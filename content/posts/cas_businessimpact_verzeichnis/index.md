@@ -1,6 +1,6 @@
 +++
 title = "CAS Business Impact: Bücher und Blogposts"
-date = "2024-08-07"
+date = "2024-08-01"
 draft = false
 pinned = true
 tags = ["CAS", "CAS-BI", "Personalentwicklung", "Organisationsentwicklung", "Lernen", "Bildung"]
