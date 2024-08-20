@@ -1,6 +1,6 @@
 +++
 title = "CAS Business Impact: Der Einstieg"
-date = "2024-08-07"
+date = "2024-08-02"
 draft = false
 pinned = false
 tags = ["CAS", "CAS-BI", "Lernblog"]
