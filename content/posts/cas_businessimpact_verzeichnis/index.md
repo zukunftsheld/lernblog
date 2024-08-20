@@ -2,7 +2,7 @@
 title = "CAS Business Impact: Bücher und Blogposts"
 date = "2024-08-07"
 draft = false
-pinned = false
+pinned = true
 tags = ["CAS", "CAS-BI", "Personalentwicklung", "Organisationsentwicklung", "Lernen", "Bildung"]
 image = "bibliothek.jpg"
 description = "Überblick über Blogbeiträge zum CAS Organisationsentwicklung & Change Leadership und Bücherverzeichnis."
