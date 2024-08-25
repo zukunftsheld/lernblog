@@ -4,9 +4,9 @@ date = "2024-08-02"
 draft = false
 pinned = false
 tags = ["CAS", "CAS-BI", "Lernblog"]
-image = "einstieg.jpg"
+image = "einstieg.png"
 description = "Einblicke und Gedanken zum Einstieg in das CAS Business Impact. "
-footnotes = ""
+footnotes = "Titelbild: Hintergrundbild erstellt mit Bing Image Creator"
 +++
 Nach dem Abschluss des [CAS Organisationsentwicklung und Change Leadership](https://www.bensblog.ch/cas-organisationsentwicklung-change-leadership-buecher-und-blogposts/) habe ich mich entschlossen, gleich weiterzumachen und ein Neues zu starten. Seit einigen Tagen bin ich nun im [CAS Business Impact](https://www.ikf.ch/de/kurse/cas-business-impact). Ja, das klingt noch allgemein und sagt nicht viel über den Inhalt aus. Denn diesen stelle ich mir aus 38 Modulen selbst zusammen. Aber der Reihe nach. 
 
