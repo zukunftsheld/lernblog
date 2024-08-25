@@ -4,9 +4,9 @@ date = "2024-08-20"
 draft = false
 pinned = false
 tags = ["CAS", "CAS-BI", "NewWork"]
-image = "new-work-definition.jpg"
+image = "new-work-untiefen-2-.png"
 description = "Gedanken und Einblick zum Abschluss des ersten Moduls New Work."
-footnotes = "**Einen Überblick über alle Beiträge sowie passende Bücher zum CAS Business Impact findest du [hier](https://www.bensblog.ch/cas_businessimpact_verzeichnis/).**\n\n🎧**Passende Podcasts:**\n\n[New Work Now: #75 Harry Gatterer & Prof. Dr. Stefan Tewes: Über die Zukunft von New Work, die Beobachtung von Trends und die Verschiebung der Arbeitswelt](https://open.spotify.com/episode/5fgFFCVWUuZ9H8bYlrMHM4?si=190ecc3fa50a4d51)\n\n\\\n[New Work Now: #97 Hans Rusinek: Über Erschöpfungskrisen, den Anti-Anti-Arbeits-Club und die 16. Sekunde](https://open.spotify.com/episode/2r74HQJzc2CBKof122KWUo?si=90dbde64054b4c6b)"
+footnotes = "**Einen Überblick über alle Beiträge sowie passende Bücher zum CAS Business Impact findest du [hier](https://www.bensblog.ch/cas_businessimpact_verzeichnis/).**\n\n🎧**Passende Podcasts:**\n\n[New Work Now: #75 Harry Gatterer & Prof. Dr. Stefan Tewes: Über die Zukunft von New Work, die Beobachtung von Trends und die Verschiebung der Arbeitswelt](https://open.spotify.com/episode/5fgFFCVWUuZ9H8bYlrMHM4?si=190ecc3fa50a4d51)\n\n\\\n[New Work Now: #97 Hans Rusinek: Über Erschöpfungskrisen, den Anti-Anti-Arbeits-Club und die 16. Sekunde](https://open.spotify.com/episode/2r74HQJzc2CBKof122KWUo?si=90dbde64054b4c6b)\n\nTitelbild: Hintergrundbild erstellt mit Bing Image Creator"
 +++
 New Work habe ich als Thema für mein erstes Modul gewählt. Weshalb? Darüber habe ich im Beitrag New Work: [Ein Meer voller (Un-)Tiefen](https://www.bensblog.ch/new-work_modul1/) geschrieben. Hier gibt’s einen kurzen Einblick, wo ich gelandet bin. 
 
