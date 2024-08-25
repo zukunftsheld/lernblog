@@ -4,8 +4,9 @@ date = "2024-08-01"
 draft = false
 pinned = true
 tags = ["CAS", "CAS-BI", "Personalentwicklung", "Organisationsentwicklung", "Lernen", "Bildung"]
-image = "bibliothek.jpg"
+image = "bibliothek.png"
 description = "Überblick über Blogbeiträge zum CAS Organisationsentwicklung & Change Leadership und Bücherverzeichnis."
+footnotes = "Titelbild: Hintergrundbild erstellt mit Bing Image Creator"
 +++
 ### Überblick über Blogbeiträge zum CAS Business Impact und Bücherverzeichnis.
 
