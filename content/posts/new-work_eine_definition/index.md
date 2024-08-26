@@ -23,3 +23,5 @@ Das sind ein paar Gedanken zu diesem Modul. Zum Abschluss habe ich ein Wirkungsk
 ## **Schlussgedanken**
 
 Ich bin tief getaucht und habe mich mit Themen wie Sinn, Innovation, Gesundheit, Zusammenarbeit, Arbeitsräume, Leadership, Kommunikation und vielem mehr im Zusammenhang mit New Work beschäftigt. New Work kann ein Fass ohne Boden (oder ein Meer voller (Un-) Tiefen)) sein. Es kann helfen, sich mit der New Work Charta, den Prognosen des Zukunftsinstituts (auch mit Handlungsempfehlung für die Gegenwart) oder mit der Forschung zu den Zielen und der Wirksamkeit von New Work Massnahmen auseinanderzusetzen. Am Ende ist es egal wie gute Arbeit (bei der es nicht um Wohlfühloasen, Hierarchiefreiheit o. Ä. geht) gestaltet wird. Wichtig ist, dass Organisationen und Menschen Wege finden und umsetzen(!), ihre Arbeit zukunftsfähig und gesund zu gestalten.
+
+Weiter geht es mit dem zweiten Modul «Lernende Organisation».
