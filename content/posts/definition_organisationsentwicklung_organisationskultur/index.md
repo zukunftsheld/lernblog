@@ -48,4 +48,8 @@ Auf der Stufe der **modernen und leistungsorientierten Weltsicht** ist die bes
 
 ## **Gedanken zum Schluss**
 
+> Bevor ihr euch streitet, klärt die Begriffe.
+>
+> *Konfuzius (sagt das Internet)*
+
 Organisationen und deren Kultur haben sich schon immer entwickelt und sie werden es weiterhin tun. Auch wenn die Begriffe einfach scheinen, so sehen wir in den (möglichen) Definitionen, dass beides komplex und vielschichtig ist. Ich frage mich gerade, ob Change- und Entwicklungsvorhaben nicht manchmal bereits am unterschiedlichen Verständnis davon scheitern.
