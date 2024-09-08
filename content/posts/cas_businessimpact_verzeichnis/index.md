@@ -42,6 +42,22 @@ Hier erscheinen laufend Bücher, mit denen ich mich in diesem CAS beschäftige. 
 
 **Lernende Organisation**
 
+📘[Lernhacks,](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/thomas-tillmann/lernhacks/id/9783800664986/) [Mit einfachen Routinen Schritt für Schritt zur agilen Lernkultur](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/thomas-tillmann/lernhacks/id/9783800664986/)
+
+📕[Team Toppings,](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/franziska-schleuter/team-toppings/id/9783800671939/) [21 Lernhacks für agiles Arbeiten](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/franziska-schleuter/team-toppings/id/9783800671939/)
+
+📘[Die fünfte Disziplin, Kunst und Praxis der lernenden Organisation](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/peter-m-senge/die-fuenfte-disziplin/id/9783791040301/)
+
+📕[Future Skills, 30 Zukunftsentscheidende Kompetenzen und wie wir sie lernen können](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/69-co-creators/future-skills/id/9783800666355/)
+
+📘 [New Work braucht New Learning, Eine Perspektivreise durch die Transformation unserer Organisations- und Lernwelten](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/jan-foelsing/new-work-braucht-new-learning/id/9783658327576/)
+
+ 📕[Agiles Lernen, Neue Rollen, Kompetenzen und Methoden im Unternehmenskontext](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/nele-graf/agiles-lernen/id/9783648158548/)
+
+📘[Future Skills Navigator, Ein neues Menschsein für die Welt von morgen](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/arndt-pechstein/future-skills-navigator/id/9783800670833/?utm_source=google&utm_medium=cpc&utm_campaign=Shopping+Catch+All+inkl.+LIA+(sh-CH-de)&utm_content=Catch+All+DE&utm_term=&gad_source=1&gbraid=0AAAAAD5hN-U1UxQk_iBw8oJB1NE2rZDeK&gclid=Cj0KCQjwlvW2BhDyARIsADnIe-LnYZ8E9uRFAR8kzZiEm9ROkCL3Tku5pnTmNOIgYbZbfgWPKXUNgfoaAgqkEALw_wcB)
+
+**Lernen in digitalen & agilen Zeite**
+
 **...**
 
 {{</box>}}
