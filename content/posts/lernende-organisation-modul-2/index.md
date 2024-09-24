@@ -1,7 +1,7 @@
 +++
-title = "lernende-organisation-modul-2"
+title = "Lernende Organisation: Einblick in Modul 2"
 date = "2024-09-24"
-draft = true
+draft = false
 pinned = false
 tags = ["CAS", "CAS-BI", "LernendeOrganisation"]
 image = "einstieg-3.jpg"
@@ -37,4 +37,4 @@ Ebenfalls finde ich das New Work Development Framework von Jan Foelsing und Anja
 
 ![](new-work-development-framework_cc_jan_foelsing.jpg)
 
-Ein Überblick aller Blogbeiträge zum CAS Business Impact findest du übrigens [hier.](https://www.bensblog.ch/cas_businessimpact_verzeichnis/)
+Ein Überblick aller Blogbeiträge zum CAS Business Impact sowie passende Bücher findest du übrigens [hier.](https://www.bensblog.ch/cas_businessimpact_verzeichnis/)
