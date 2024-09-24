@@ -13,7 +13,7 @@ Es fällt mir schwer, meinen eigenen Lernprozess in diesem Modul sichtbar zu mac
 
 ## **Modul 2: Lernende Organisation – Theorie und Praxis im Fokus**
 
-In diesem Modul beschäftige ich mich intensiv mit dem Konzept der lernenden Organisation. Die fünf Disziplinen nach Peter Senge, die Entwicklung einer Lernkultur und der Einfluss von künstlicher Intelligenz spielen dabei eine Rolle. Wie im ersten Modul „New Work“ könnte man jedes dieser Themen vertiefen, doch mein Ziel ist es, sie in konkrete Zusammenhänge zu stellen und praxisorientiert herunterzubrechen.
+In diesem Modul beschäftige ich mich intensiv mit dem Konzept der lernenden Organisation. [Die fünf Disziplinen nach Peter Senge](https://www.bensblog.ch/lernende-organisation/), die Entwicklung einer Lernkultur und der Einfluss von künstlicher Intelligenz spielen dabei eine Rolle. Wie im [ersten Modul „New Work“](https://www.bensblog.ch/new-work_modul1/) könnte man jedes dieser Themen vertiefen, doch mein Ziel ist es, sie in konkrete Zusammenhänge zu stellen und praxisorientiert herunterzubrechen.
 
 ## **Lernende Organisation oder Lernen in Organisationen – Ein Überblick** 
 
