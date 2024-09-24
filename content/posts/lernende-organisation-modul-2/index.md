@@ -6,6 +6,7 @@ pinned = false
 tags = ["CAS", "CAS-BI", "LernendeOrganisation"]
 image = "einstieg-3.jpg"
 description = "Einblick in Modul 2 (Lernende Organisation) im CAS Business Impact."
+footnotes = "Titelbild: Hintergrundblid mit KI erstellt."
 +++
 ## **Einleitende Gedanken**
 
