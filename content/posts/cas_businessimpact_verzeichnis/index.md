@@ -14,6 +14,8 @@ Dieses Verzeichnis wächst in den nächsten Wochen und Monaten.
 
 {{<box title="CAS-Blogposts">}}
 
+**\#4** [Lernende Organisation: Einblick in Modul 2](https://www.bensblog.ch/lernende-organisation-modul-2/)
+
 **\#3** [New Work (M)eine Definition](https://www.bensblog.ch/new-work_eine_definition/)
 
 **\#2** [New Work: Ein Meer voller (Un-)Tiefen](https://www.bensblog.ch/new-work_modul1/)
@@ -58,7 +60,7 @@ Hier erscheinen laufend Bücher, mit denen ich mich in diesem CAS beschäftige. 
 
 **Lernen in digitalen & agilen Zeite**
 
-**...**
+\--> siehe auch Lernende Organisation
 
 {{</box>}}
 
