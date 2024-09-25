@@ -18,7 +18,7 @@ In diesem Modul beschäftige ich mich intensiv mit dem Konzept der lernenden Org
 
 ## **Lernende Organisation oder Lernen in Organisationen – Ein Überblick** 
 
-Eine lernende Organisation kann man als ein dynamisches, anpassungsfähiges System, das durch das Handeln und Denken der Menschen innerhalb der Organisation gestaltet wird bezeichnen. Mehr dazu auch im Beitrag Lernend Organisation. Das [White Paper «Agiles Lernen»](https://mentus.de/whitepaper-agiles-lernen/) von Prof. Dr. Nele Graf und Dr. Frank Edelkraut zeigt die Bedeutung von Metakompetenzen, die für die Zukunftsfähigkeit von Mitarbeitenden und Unternehmen entscheidend sind. Die Entwicklung dieser Kompetenzen kann ein wichtiger Teil sein, um aus und mit lernenden Menschen schrittweise eine lernende Organisation zu gestalten. 
+Eine lernende Organisation kann man als ein dynamisches, anpassungsfähiges System, das durch das Handeln und Denken der Menschen innerhalb der Organisation gestaltet wird bezeichnen. Mehr dazu auch im Beitrag Lernend Organisation. Das [Whitepaper «Agiles Lernen»](https://mentus.de/whitepaper-agiles-lernen/) von Prof. Dr. Nele Graf und Dr. Frank Edelkraut zeigt die Bedeutung von Metakompetenzen, die für die Zukunftsfähigkeit von Mitarbeitenden und Unternehmen entscheidend sind. Die Entwicklung dieser Kompetenzen kann ein wichtiger Teil sein, um aus und mit lernenden Menschen schrittweise eine lernende Organisation zu gestalten. 
 
 ## **Praxisnahe Schritte zur lernenden Organisation**
 
