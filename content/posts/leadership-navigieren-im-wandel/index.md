@@ -52,6 +52,6 @@ Für eine Führungsperson welche ein Team durch verschiedenen Schwierigkeiten un
 
 ![](2.jpg)
 
-**Diese Plakate waren ein (freiwilliger) Teil zur Unterstützung des gemeinsamen Kennenlernens bei grösseren Veränderungen im Team.** 
+**Diese Plakate waren ein (freiwilliger) Teil zur Unterstützung des gemeinsamen Kennenlernens bei einer grösseren Veränderung im Team.** 
 
 ![](1.jpg)
