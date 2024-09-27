@@ -42,6 +42,8 @@ So unterschiedliche wie Organisationen und Teams sind, so individuell gestaltet 
 
 <script class="podigee-podcast-player" src="https://player.podigee-cdn.net/podcast-player/javascripts/podigee-podcast-player.js" data-configuration="https://entwicklungsfreiraum-siebenminuten.podigee.io/10-neue-episode/embed?context=external"></script>
 
+
+
 Nachträgliche Ergänzung:\
 \
 Für eine Führungsperson welche ein Team durch verschiedenen Schwierigkeiten und Veränderungen begleitete, habe ich einige Materialien zur Unterstützung erstellt, die Entwürfe teile ich hier zur Inspiration: 
