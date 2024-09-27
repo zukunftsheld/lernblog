@@ -41,3 +41,15 @@ Einer guten Führungskraft gelingt es, mit den Menschen, mit denen sie zusammena
 So unterschiedliche wie Organisationen und Teams sind, so individuell gestaltet sich m. E. Führung. Es wäre auch zu kurz gedacht, einer Führungsperson die volle Verantwortung für ein Team zu geben. Ich sehe kollaborative und kooperative Zusammenarbeitsformen als zielführender, um in Zeiten von Unsicherheit und Unvorhersehbarkeit agil und auch stabil unterwegs zu sein. Oben erwähnten Punkte betrachte ich jedoch als Basis resp. stabiles Fundament, um eine Gruppe von Menschen sowohl in ruhigen wie auch in stürmischen Zeiten (zum Erfolg) zu begleiten. Dabei geht es natürlich immer um die Arbeit. Die Abbildung 1 zeigt, wie die einzelnen Aspekte zusammenhängen und immer auch von aussen beeinflusst werden.
 
 <script class="podigee-podcast-player" src="https://player.podigee-cdn.net/podcast-player/javascripts/podigee-podcast-player.js" data-configuration="https://entwicklungsfreiraum-siebenminuten.podigee.io/10-neue-episode/embed?context=external"></script>
+
+Nachträgliche Ergänzung:\
+\
+Für eine Führungsperson welche ein Team durch verschiedenen Schwierigkeiten und Veränderungen begleitete, habe ich einige Materialien zur Unterstützung erstellt, die Entwürfe teile ich hier zur Inspiration: 
+
+**Diese Karten dienten als Hilfe bei der laufenden Klärung von Themen rund um die Arbeit im Team und der Rolle dieses Teams innerhalb der Organisation.**
+
+![](2.jpg)
+
+**Diese Plakate waren ein (freiwilliger) Teil zur Unterstützung des gemeinsamen Kennenlernens bei grösseren Veränderungen im Team.** 
+
+![](1.jpg)
