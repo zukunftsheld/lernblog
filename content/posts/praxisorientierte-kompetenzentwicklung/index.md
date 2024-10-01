@@ -122,8 +122,7 @@ Aufgrund der identifizierten Gelingensbedingungen ergeben sich praxisorientierte
 >
 > *\[13]*
 
-### \
-5.2.1 Massnahmen zur Etablierung einer entwicklungsorientierten Lernkultur mit der mirroco Software
+### 5.2.1 Massnahmen zur Etablierung einer entwicklungsorientierten Lernkultur mit der mirroco Software
 
 ![Eigene Darstellung: 6 Massnahmen zum Aufbau einer entwicklungsorientierten Lernkultur.](bildschirmfoto-2024-10-01-um-16.06.15.png)
 
