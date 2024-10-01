@@ -14,6 +14,8 @@ Dieses Verzeichnis wächst in den nächsten Wochen und Monaten.
 
 {{<box title="CAS-Blogposts">}}
 
+**\#5** [Praxisorientierte Kompetenzentwicklung auf dem Weg zu einer lernenden Organisation](https://www.bensblog.ch/praxisorientierte-kompetenzentwicklung/)
+
 **\#4** [Lernende Organisation: Einblick in Modul 2](https://www.bensblog.ch/lernende-organisation-modul-2/)
 
 **\#3** [New Work (M)eine Definition](https://www.bensblog.ch/new-work_eine_definition/)
