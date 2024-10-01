@@ -28,7 +28,7 @@ Unternehmen möchten ihren Mitarbeitenden mehr Möglichkeiten bieten, sich direk
 
 Dieses Konzept zielt auf die Erarbeitung eines Entwurfs für ein Massnahmeprogramm ab, um den die Software von mirroco in Organisationen einzuführen und zu etablieren. Dabei sollen erste Schritte, um arbeitsplatzbezogenes, kontinuierliches Lernen und Kompetenzentwicklung zu fördern definiert werden. Dadurch soll eine moderne Lernkultur entstehen, die sowohl die persönliche sowie fachliche Entwicklung der Mitarbeitenden als auch die Ziele des Unternehmens unterstützt. Dies als Basis einer anpassungsfähigen Organisation im Sinne einer lernenden Organisation. 
 
-## **3.0 Zielgruppe** 
+## 3.0 Zielgruppe 
 
 Alle Mitarbeitenden von Unternehmen, die Software von mirroco nutzen, mit besonderem Fokus auf Führungspersonen sowie Early Adopters als Lernfluencer und Lerncoaches.
 
