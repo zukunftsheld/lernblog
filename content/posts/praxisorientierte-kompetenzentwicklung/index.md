@@ -57,7 +57,7 @@ Diese Aussagekräftige Definition stammt von den Autorinnen und Autoren von «Ag
 * Wertsteigerung des Humankapitals
 * Bessere Proaktivität
 
-> *«Kompetenzentwicklung braucht die Führung zu lernenden Organisationen.»*
+> «Kompetenzentwicklung braucht die Führung zu lernenden Organisationen.»
 >
 > *\[8]*
 
@@ -115,8 +115,6 @@ Die folgenden Aspekte unterstützen eine gelingende Einführung sowie die Etabli
 Aufgrund der identifizierten Gelingensbedingungen ergeben sich praxisorientierte und schnell umzusetzende Massnahmen, welche die Nutzung der Software sowie die Etablierung einer neuen Lernkultur fördern. Im Vorgehen wird nicht auf die Integration und Schulung der Software selbst eingegangen. Diese findet teilweise vorgängig und parallel statt. Die Massnahmen zielen auf den Aufbau einer entwicklungsorientierten Lernkultur ab. Diese sind auf einen Zeitraum von ca. zwei Jahren ausgelegt.
 
 ![Eigene Visualisierung, 6 Schritte zur Etablierung einer entwicklungsorientieren Lernkultur mit der Nutzung der mirroco Software](6-schritte-2.png)
-
-
 
 > «Selbstlernkompetenzen sind die eigentlichen Schlüsselfähigkeiten im Wandel.»
 >
