@@ -1,10 +1,17 @@
 +++
 title = "Praxisorientierte Kompetenzentwicklung auf dem Weg zu einer lernenden Organisation"
 date = "2024-10-01"
-draft = true
+draft = false
 pinned = false
-footnotes = "[\\[1]](applewebdata://69DB80DD-9BEF-473A-BFDE-A8D23F7A09D5#_ftnref1) Die Schweizer Wirtschaft will die demografische Herausforderung anpacken, [https://www.economiesuisse.ch/de/artikel/die-schweizer-wirtschaft-will-die-demografische-herausforderung-anpacken#](https://www.economiesuisse.ch/de/artikel/die-schweizer-wirtschaft-will-die-demografische-herausforderung-anpacken) aufgerufen am 12.09.2021\n\n[\\[2]](applewebdata://69DB80DD-9BEF-473A-BFDE-A8D23F7A09D5#_ftnref2) Graf N., Edelkraut F., Whitepaper «Agiles Lernen», S. 6\n\n[\\[3]](applewebdata://69DB80DD-9BEF-473A-BFDE-A8D23F7A09D5#_ftnref3) <https://www.zukunftsinstitut.de/zukunftsthemen/zukunft-der-arbeit>, aufgerufen am 10.09.2024\n\n[\\[4]](applewebdata://69DB80DD-9BEF-473A-BFDE-A8D23F7A09D5#_ftnref4) Graf N., Gramss D., Edelkraut F. (2022), S. 21\n\n[\\[5]](applewebdata://69DB80DD-9BEF-473A-BFDE-A8D23F7A09D5#_ftnref5) Graf N., Gramss D., Edelkraut F. (2022), S. 249 \n\n[\\[6]](applewebdata://69DB80DD-9BEF-473A-BFDE-A8D23F7A09D5#_ftnref6) Senge P. (2006)\n\n[\\[7]](applewebdata://69DB80DD-9BEF-473A-BFDE-A8D23F7A09D5#_ftnref7) Graf N., Gramss D., Edelkraut F. (2022), S. 251\n\n[\\[8]](applewebdata://69DB80DD-9BEF-473A-BFDE-A8D23F7A09D5#_ftnref8) Arnold R. (2017) S. 149\n\n[\\[9]](applewebdata://69DB80DD-9BEF-473A-BFDE-A8D23F7A09D5#_ftnref9) Graf N., Gramss D., Edelkraut F. (2022), S. 47\n\n[\\[10]](applewebdata://69DB80DD-9BEF-473A-BFDE-A8D23F7A09D5#_ftnref10) Foelsing J., Schmitz A. (2021), S. 51\n\n[\\[11]](applewebdata://69DB80DD-9BEF-473A-BFDE-A8D23F7A09D5#_ftnref11) Foelsing J., Schmitz A. (2021), S. 187\n\n[\\[12]](applewebdata://69DB80DD-9BEF-473A-BFDE-A8D23F7A09D5#_ftnref12) Foelsing J., Schmitz A. (2021), S.189\n\n \n\n[\\[13]](applewebdata://69DB80DD-9BEF-473A-BFDE-A8D23F7A09D5#_ftnref13) Arnold R. (2017) S. 111"
+tags = ["Kompetenzentwicklung", "LernendeOrganisation", "Lernkultur", "CAS-BI", "CAS"]
+image = "6-schritte_quer-4.jpg"
+description = "Praxisorientierte Kompetenzentwicklung auf dem Weg zu einer lernenden Organisation: 6 Massnahmen zur Etablierung einer entwicklungsorientierten Lernkultur mit mirroco. \n"
+footnotes = "[\\[1]](applewebdata://69DB80DD-9BEF-473A-BFDE-A8D23F7A09D5#_ftnref1) Die Schweizer Wirtschaft will die demografische Herausforderung anpacken, [https://www.economiesuisse.ch/de/artikel/die-schweizer-wirtschaft-will-die-demografische-herausforderung-anpacken#](https://www.economiesuisse.ch/de/artikel/die-schweizer-wirtschaft-will-die-demografische-herausforderung-anpacken) aufgerufen am 12.09.2021\n\n[\\[2]](applewebdata://69DB80DD-9BEF-473A-BFDE-A8D23F7A09D5#_ftnref2) Graf N., Edelkraut F., Whitepaper «Agiles Lernen», S. 6\n\n[\\[3]](applewebdata://69DB80DD-9BEF-473A-BFDE-A8D23F7A09D5#_ftnref3) <https://www.zukunftsinstitut.de/zukunftsthemen/zukunft-der-arbeit>, aufgerufen am 10.09.2024\n\n[\\[4]](applewebdata://69DB80DD-9BEF-473A-BFDE-A8D23F7A09D5#_ftnref4) Graf N., Gramss D., Edelkraut F. (2022), S. 21\n\n[\\[5]](applewebdata://69DB80DD-9BEF-473A-BFDE-A8D23F7A09D5#_ftnref5) Graf N., Gramss D., Edelkraut F. (2022), S. 249 \n\n[\\[6]](applewebdata://69DB80DD-9BEF-473A-BFDE-A8D23F7A09D5#_ftnref6) Senge P. (2006)\n\n[\\[7]](applewebdata://69DB80DD-9BEF-473A-BFDE-A8D23F7A09D5#_ftnref7) Graf N., Gramss D., Edelkraut F. (2022), S. 251\n\n[\\[8]](applewebdata://69DB80DD-9BEF-473A-BFDE-A8D23F7A09D5#_ftnref8) Arnold R. (2017) S. 149\n\n[\\[9]](applewebdata://69DB80DD-9BEF-473A-BFDE-A8D23F7A09D5#_ftnref9) Graf N., Gramss D., Edelkraut F. (2022), S. 47\n\n[\\[10]](applewebdata://69DB80DD-9BEF-473A-BFDE-A8D23F7A09D5#_ftnref10) Foelsing J., Schmitz A. (2021), S. 51\n\n[\\[11]](applewebdata://69DB80DD-9BEF-473A-BFDE-A8D23F7A09D5#_ftnref11) Foelsing J., Schmitz A. (2021), S. 187\n\n[\\[12]](applewebdata://69DB80DD-9BEF-473A-BFDE-A8D23F7A09D5#_ftnref12) Foelsing J., Schmitz A. (2021), S.189\n\n[\\[13]](applewebdata://69DB80DD-9BEF-473A-BFDE-A8D23F7A09D5#_ftnref13) Arnold R. (2017) S. 111\n\nDieser Blogbeitrag basiert auf Konzept, das im Herbst 2024 erstellt wurde."
 +++
+## 6 Massnahmen zur Etablierung einer entwicklungsorientierten Lernkultur mit mirroco.
+
+![Eigene Visualisierung: 6 Massnahmen zur Etablierung einer entwicklungsorientierten Lernkultur mit mirroco.](6-schritte_quer-4.jpg)
+
 ## 1.0 Ausgangslage Marktumfeld
 
 Die Arbeitswelt ist im Wandel. Was früher längerfristig plan- und umsetzbar war, wird heute von schnelleren und kürzeren Zyklen der Veränderung abgelöst. Wir leben in einer VUKA-Welt, die von Unbeständigkeit, Unsicherheit, Komplexität und Mehrdeutigkeit geprägt ist. Da sind zum Beispiel die geopolitischen Veränderungen (Krieg in Europa), der demografische Wandel (Prognostizierter Mangel an Arbeitskräften in der Schweiz im Jahr 2040 = 431'000 Personen)[\[1]](applewebdata://69DB80DD-9BEF-473A-BFDE-A8D23F7A09D5#_ftn1) oder die rasanten technologischen Veränderungen u. a. durch die KI, deren Auswirkungen heute nur geschätzt werden können. Mitarbeitende benötigen in den nächsten Jahren neue Kompetenzen. Dazu gehörten neben Fachkompetenzen auch Metakompetenzen (u.a. Selbstorganisation, Kommunikationskompetenz, Digitale Grundkompetenzen, Resilienz, Lernkompetenzen), die gem. Studien immer wichtiger werden.[\[2]](applewebdata://69DB80DD-9BEF-473A-BFDE-A8D23F7A09D5#_ftn2) Insbesondere im Zusammenhang mit der fortschreitenden Digitalisierung weist das Zukunftsinstitut darauf hin, dass der Verschmelzung von Technologie und sozialen Systemen besondere Beachtung als aktuelles Handlungsfeld geschenkt werden sollte.[\[3]](applewebdata://69DB80DD-9BEF-473A-BFDE-A8D23F7A09D5#_ftn3) Sie identifizieren die Entwicklung von Future Skills als entscheidend, um den Anforderungen in der Zukunft gerecht zu werden. Diese sollten gezielt und laufend ausgebaut werden. Da dieses Lernen zunehmend informell und im «Moment of Need» stattfindet, braucht es neue Möglichkeiten der Kompetenzentwicklung und Kompetenzabbildung. 
@@ -53,8 +60,6 @@ Diese Aussagekräftige Definition stammt von den Autorinnen und Autoren von «Ag
 > *«Kompetenzentwicklung braucht die Führung zu lernenden Organisationen.»*
 >
 > *[\[8]](applewebdata://69DB80DD-9BEF-473A-BFDE-A8D23F7A09D5#_ftn8)*
-
-
 
 ### 4.2 Lernen 4.0, New Learning, Agiles Lernen: Eine Klärung
 
@@ -120,30 +125,26 @@ Aufgrund der identifizierten Gelingensbedingungen ergeben sich praxisorientierte
 > *[\[13]](applewebdata://69DB80DD-9BEF-473A-BFDE-A8D23F7A09D5#_ftn13)*
 
 ### \
-5.2.1 Massnahmen zur Etablierung einer entwicklungsorientierten Lernkultur mit der mirroco Softwar
+5.2.1 Massnahmen zur Etablierung einer entwicklungsorientierten Lernkultur mit der mirroco Software
 
+![Eigene Darstellung: 6 Massnahmen zum Aufbau einer entwicklungsorientierten Lernkultur.](bildschirmfoto-2024-10-01-um-16.06.15.png)
 
-
-
-
-Tabelle 3: Eigene Darstellung: 6 Massnahmen zum Aufbau einer entwicklungsorientierten Lernkultur.
-
-## [5.3 Mögliche Risiken](<>)
+### 5.3 Mögliche Risiken
 
 Die Etablierung einer entwicklungsorientierten Lernkultur ist ein Change- oder sogar ein Transformationsprozess. Je nachdem, wo die Organisation in Bezug auf Führung, Lernen und Zusammenarbeit steht. Bei der Implementierung ist darauf zu achten, diese Schritte passend zur bestehenden und zur angestrebten Organisationsstruktur zu gehen. Die Massnahmen können sich in der Umsetzungsdauer, Intensität und Tiefe unterscheiden. 
 
-### [5.3.1 Umgang mit Widerständen](<>)
+#### 5.3.1 Umgang mit Widerständen
 
 Bei Change- und Transformationsprozessen ist mit Widerständen zu rechnen. Eine neue Software ist oft zuerst mit einem Mehraufwand verbunden. Zudem wird der Vorteil der Software von mirroco nicht für alle Mitarbeitenden nachvollziehbar sein. In diesem Konzept wird bewusst nicht auf die Widerstände fokussiert. Stattdessen liegt der Fokus auf den Early Adopters, welche Rollen wie Lernfluencer und Lerncoaches einnehmen sollen. Diese nehmen eine Vorbildrolle ein, sind Ansprechpartner für andere Mitarbeitende und sind aktiv an der Kommunikation beteiligt. Widerstände sollen so auf natürlichem Weg reduziert werden. 
 
-### [5.3.2 Veränderte Rollen](<>)
+#### 5.3.2 Veränderte Rollen
 
 Die Rollen von Personalentwicklung (falls vorhanden), Führungspersonen sowie der Mitarbeitenden, insbesondere in Bezug auf Lernen und Entwicklung verändern sich. Lernprozesse werden transparenter, der Umgang mit Fehlern offener und zu entwickelnde Kompetenzen sichtbar. Die Massnahmen stellen neue Anforderungen an Führungspersonen sowie an die Organisationsstruktur. Je nach Reifegrad der Organisation sowie der Mitarbeitenden verschieben sich die Rollen sowie das Rollenverständnis deutlich, so, dass dies wiederum zu Widerständen und Unsicherheiten führen kann. Gerade bei blau/orangen Organisationen (Ordnung & Leistung) kann dieser Effekt gross sein. Dies sollte im Auge behalten werden. 
 
-# [6.0 Ausblick: Mögliche Entwicklungen](<>)
+## 6.0 Ausblick: Mögliche Entwicklungen
 
 Insbesondere die schnelle Entwicklung der künstlichen Intelligenz bietet neue Möglichkeiten, die Mitarbeitenden in persönlichen und fachlichen Entwicklungsprozessen automatisierter zu begleiten. Die Möglichkeiten von personalisieren und digitalen Lerncoaches sind zu prüfen und allenfalls in Zukunft in die Massnahmen einzubeziehen. 
 
-# [7.0 Fazit](<>)
+## 7.0 Fazit
 
 Die Implementierung einer entwicklungsorientierten Lernkultur ist für die Einführung und langfristige Nutzung der mirroco Software ein wichtiges Element. Es sind alle fünf Disziplinen einer lernenden Organisation zu berücksichtigen. Das heisst den Blick sowohl auf die individuelle sowie auf die Teamebene zu legen, ein Mindshift anzustreben und das gesamte System zu berücksichtigen. Dieses Konzept legt den Fokus auf eine praxis- und lösungsorientierte Implementierung mit schnell sichtbaren kleinen Erfolgen. Dabei stehen die Menschen und der Bezug zu ihrer Arbeit im Zentrum.
