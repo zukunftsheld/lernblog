@@ -6,7 +6,7 @@ pinned = false
 tags = ["Kompetenzentwicklung", "LernendeOrganisation", "Lernkultur", "CAS-BI", "CAS"]
 image = "6-schritte_quer-4.jpg"
 description = "Praxisorientierte Kompetenzentwicklung auf dem Weg zu einer lernenden Organisation: 6 Massnahmen zur Etablierung einer entwicklungsorientierten Lernkultur mit mirroco. \n"
-footnotes = "\\[1] Die Schweizer Wirtschaft will die demografische Herausforderung anpacken, [https://www.economiesuisse.ch/de/artikel/die-schweizer-wirtschaft-will-die-demografische-herausforderung-anpacken#](https://www.economiesuisse.ch/de/artikel/die-schweizer-wirtschaft-will-die-demografische-herausforderung-anpacken) aufgerufen am 12.09.2021\n\n\\[2] Graf N., Edelkraut F., Whitepaper «Agiles Lernen», S. 6\n\n\\[3] <https://www.zukunftsinstitut.de/zukunftsthemen/zukunft-der-arbeit>, aufgerufen am 10.09.2024\n\n\\[4] Graf N., Gramss D., Edelkraut F. (2022), S. 21\n\n\\[5] Graf N., Gramss D., Edelkraut F. (2022), S. 249 \n\n\\[6] Senge P. (2006)\n\n\\[7] Graf N., Gramss D., Edelkraut F. (2022), S. 251\n\n\\[8] Arnold R. (2017) S. 149\n\n\\[9] Graf N., Gramss D., Edelkraut F. (2022), S. 47\n\n\\[10] Foelsing J., Schmitz A. (2021), S. 51\n\n\\[11] Foelsing J., Schmitz A. (2021), S. 187\n\n\\[12] Foelsing J., Schmitz A. (2021), S.189\n\n\\[13] Arnold R. (2017) S. 111\n\nDieser Blogbeitrag basiert auf Konzept, das im Herbst 2024 erstellt wurde."
+footnotes = "\\[1] Die Schweizer Wirtschaft will die demografische Herausforderung anpacken, [https://www.economiesuisse.ch/de/artikel/die-schweizer-wirtschaft-will-die-demografische-herausforderung-anpacken#](https://www.economiesuisse.ch/de/artikel/die-schweizer-wirtschaft-will-die-demografische-herausforderung-anpacken) aufgerufen am 12.09.2021\n\n\\[2] Graf N., Edelkraut F., [Whitepaper «Agiles Lernen»](https://mentus.de/whitepaper-agiles-lernen/), S. 6\n\n\\[3] <https://www.zukunftsinstitut.de/zukunftsthemen/zukunft-der-arbeit>, aufgerufen am 10.09.2024\n\n\\[4] Graf N., Gramss D., Edelkraut F. (2022), S. 21\n\n\\[5] Graf N., Gramss D., Edelkraut F. (2022), S. 249 \n\n\\[6] Senge P. (2006)\n\n\\[7] Graf N., Gramss D., Edelkraut F. (2022), S. 251\n\n\\[8] Arnold R. (2017) S. 149\n\n\\[9] Graf N., Gramss D., Edelkraut F. (2022), S. 47\n\n\\[10] Foelsing J., Schmitz A. (2021), S. 51\n\n\\[11] Foelsing J., Schmitz A. (2021), S. 187\n\n\\[12] Foelsing J., Schmitz A. (2021), S.189\n\n\\[13] Arnold R. (2017) S. 111\n\nDieser Blogbeitrag basiert auf Konzept, das im Herbst 2024 erstellt wurde."
 +++
 ## 6 Massnahmen zur Etablierung einer entwicklungsorientierten Lernkultur mit mirroco.
 
@@ -20,7 +20,7 @@ Die Arbeitswelt ist im Wandel. Was früher längerfristig plan- und umsetzbar wa
 >
 > *\[4]*
 
-### 1.1 Ausgangslage mirroco
+### 1.1 Ausgangslage [mirroco](https://www.mirroco.ch)
 
 Unternehmen möchten ihren Mitarbeitenden mehr Möglichkeiten bieten, sich direkt am Arbeitsplatz weiterzubilden und ihre Kompenzen abzubilden. Sie sollen dabei ihre Kompetenzentwicklung sicht- und nachvollziehbar machen. Die Einführung der Software von mirroco als Tool zur Abbildung von Kompetenzen und Lernerlebnissen eröffnet neue Wege. Die Herausforderung besteht darin, dieses Potenzial effektiv zu nutzen und eine Kultur des kontinuierlichen Lernens zu etablieren.
 
@@ -36,7 +36,7 @@ Alle Mitarbeitenden von Unternehmen, die Software von mirroco nutzen, mit beso
 
 ### 4.1 Lernende Organisation
 
-Diese Aussagekräftige Definition stammt von den Autorinnen und Autoren von «Agiles Lernen»: «Als lernende Organisation kann ein Unternehmen bezeichnet werden, das in der Lage ist, den sich ständig verändernden Umweltanforderungen durch geeignete Anpassungen im Inneren der Organisation zu begegnen. In einer lernenden Organisation sind die Menschen in der Lage, sich ständig weiterzuentwickeln. Insbesondere sind Formen der Arbeitsorganisation nicht starr und endgültig, sondern so flexibel, dass die angebotenen Produkte oder Dienstleistungen ständig optimiert werden können. Die lernende Organisation ist geprägt durch Informations- und Wissensmanagement.»\[5] Stark geprägt wurde das Konzept der lernenden Organisation von Peter Senge\[6]. Er definiert dabei fünf Disziplinen, die einen lernende Organisation ausmachen.
+Diese Aussagekräftige Definition stammt von den Autorinnen und Autoren von «Agiles Lernen»: «Als [lernende Organisation](https://www.bensblog.ch/lernende-organisation/) kann ein Unternehmen bezeichnet werden, das in der Lage ist, den sich ständig verändernden Umweltanforderungen durch geeignete Anpassungen im Inneren der Organisation zu begegnen. In einer lernenden Organisation sind die Menschen in der Lage, sich ständig weiterzuentwickeln. Insbesondere sind Formen der Arbeitsorganisation nicht starr und endgültig, sondern so flexibel, dass die angebotenen Produkte oder Dienstleistungen ständig optimiert werden können. Die lernende Organisation ist geprägt durch Informations- und Wissensmanagement.»\[5] Stark geprägt wurde das Konzept der lernenden Organisation von Peter Senge\[6]. Er definiert dabei fünf Disziplinen, die einen lernende Organisation ausmachen.
 
 **Personal Mastery:** Mitarbeitende sollen gefördert und gefordert werden, ihre eigenen Kompetenzen (weiter-) zu entwickeln.
 
@@ -94,7 +94,7 @@ Im Zusammenhang mit der Einführung der Software sowie der nachhaltigen Etablier
 
 ### 4.4 Organisations- und Lernkultur: Begriffsdefinition
 
-Für Organisationsentwicklung gibt es keine einheitliche Definition. Eine Beschreibung könnte lauten: Es geht um die (systematische, strategische, langfristige) Planung und Umsetzung von Veränderungen in einer Organisation. Diese verfolgt Ziele wie die Steigerung der Leistungsfähigkeit des Unternehmens oder die Verbesserung der Arbeit der Menschen im Unternehmen. Ein Teil der Organisationskultur ist die Lernkultur. Diese kann nicht losgelöst von der Unternehmenskultur betrachtet werden.\[11]
+Für Organisationsentwicklung gibt es keine einheitliche Definition. Eine Beschreibung könnte lauten: Es geht um die (systematische, strategische, langfristige) Planung und Umsetzung von Veränderungen in einer Organisation. Diese verfolgt Ziele wie die Steigerung der Leistungsfähigkeit des Unternehmens oder die Verbesserung der Arbeit der Menschen im Unternehmen. Ein Teil der [Organisationskultur](https://www.bensblog.ch/definition_organisationsentwicklung_organisationskultur/) ist die Lernkultur. Diese kann nicht losgelöst von der Unternehmenskultur betrachtet werden.\[11]
 
 «Die Lernkultur einer Organisation besteht aus den grundlegenden lernbezogenen Über-zeugungen, Werten, Normen und Einstellungen sowie den dazugehörigen Verhaltenser-wartungen. Sie beeinflusst die mit dem Lernen in der Organisation verbundenen Wahrneh-mungen, Gedanken, Handlungen und Gefühle und verdeutlicht die Bewertung und damit einhergehend den Stellenwert des Lernens in der Organisation. Lernkultur manifestiert sich in beobachtbarem Verhalten und Artefakten.»\[12]
 
@@ -102,7 +102,7 @@ Die Organisationskultur hat also immer einen Einfluss auf die Lernkultur und umg
 
 ## 5.0 Etablierung einer Lernkultur
 
-Bei der Etablierung der Lernkultur in Richtung lernende Organisation steht die Praxisorientierung im Zentrum. Die Einführung und Nutzung der Software zur Kompetenzentwicklung- und Abbildung bedingt die Arbeit an Elementen der fünften Disziplin wie: Personal Mastery, Teamlernen und Mentale Modelle. Eine gemeinsame Vision liegt dem Gelingen zu Grunde und die Berücksichtigung des bestehenden Organisations- und Lernkultur sowie dem Reifegrad der Organisation (New Development Framework) sind dabei entscheidende Faktoren. 
+Bei der Etablierung der Lernkultur in Richtung lernende Organisation steht die Praxisorientierung im Zentrum. Die Einführung und Nutzung der Software zur Kompetenzentwicklung- und Abbildung bedingt die Arbeit an Elementen der fünften Disziplin wie: Personal Mastery, Teamlernen und Mentale Modelle. Eine gemeinsame Vision liegt dem Gelingen zu Grunde und die Berücksichtigung des bestehenden Organisations- und Lernkultur sowie dem Reifegrad der Organisation ([New Development Framework](https://learningdevelopment.institute/home/alle-grafiken-zum-buch/)) sind dabei entscheidende Faktoren. 
 
 ### 5.1 Gelingensbedingungen
 
@@ -126,15 +126,15 @@ Aufgrund der identifizierten Gelingensbedingungen ergeben sich praxisorientierte
 
 ### 5.3 Mögliche Risiken
 
-Die Etablierung einer entwicklungsorientierten Lernkultur ist ein Change- oder sogar ein Transformationsprozess. Je nachdem, wo die Organisation in Bezug auf Führung, Lernen und Zusammenarbeit steht. Bei der Implementierung ist darauf zu achten, diese Schritte passend zur bestehenden und zur angestrebten Organisationsstruktur zu gehen. Die Massnahmen können sich in der Umsetzungsdauer, Intensität und Tiefe unterscheiden. 
+Die Etablierung einer entwicklungsorientierten Lernkultur ist ein [Change- oder sogar ein Transformationsprozess](https://www.bensblog.ch/change-management/). Je nachdem, wo die Organisation in Bezug auf Führung, Lernen und Zusammenarbeit steht. Bei der Implementierung ist darauf zu achten, diese Schritte passend zur bestehenden und zur angestrebten Organisationsstruktur zu gehen. Die Massnahmen können sich in der Umsetzungsdauer, Intensität und Tiefe unterscheiden. 
 
 #### 5.3.1 Umgang mit Widerständen
 
-Bei Change- und Transformationsprozessen ist mit Widerständen zu rechnen. Eine neue Software ist oft zuerst mit einem Mehraufwand verbunden. Zudem wird der Vorteil der Software von mirroco nicht für alle Mitarbeitenden nachvollziehbar sein. In diesem Konzept wird bewusst nicht auf die Widerstände fokussiert. Stattdessen liegt der Fokus auf den Early Adopters, welche Rollen wie Lernfluencer und Lerncoaches einnehmen sollen. Diese nehmen eine Vorbildrolle ein, sind Ansprechpartner für andere Mitarbeitende und sind aktiv an der Kommunikation beteiligt. Widerstände sollen so auf natürlichem Weg reduziert werden. 
+Bei Change- und Transformationsprozessen ist mit [Widerständen](https://www.bensblog.ch/umgang-mit-widerstand/) zu rechnen. Eine neue Software ist oft zuerst mit einem Mehraufwand verbunden. Zudem wird der Vorteil der Software von mirroco nicht für alle Mitarbeitenden nachvollziehbar sein. In diesem Konzept wird bewusst nicht auf die Widerstände fokussiert. Stattdessen liegt der Fokus auf den Early Adopters, welche Rollen wie Lernfluencer und Lerncoaches einnehmen sollen. Diese nehmen eine Vorbildrolle ein, sind Ansprechpartner für andere Mitarbeitende und sind aktiv an der Kommunikation beteiligt. Widerstände sollen so auf natürlichem Weg reduziert werden. 
 
 #### 5.3.2 Veränderte Rollen
 
-Die Rollen von Personalentwicklung (falls vorhanden), Führungspersonen sowie der Mitarbeitenden, insbesondere in Bezug auf Lernen und Entwicklung verändern sich. Lernprozesse werden transparenter, der Umgang mit Fehlern offener und zu entwickelnde Kompetenzen sichtbar. Die Massnahmen stellen neue Anforderungen an Führungspersonen sowie an die Organisationsstruktur. Je nach Reifegrad der Organisation sowie der Mitarbeitenden verschieben sich die Rollen sowie das Rollenverständnis deutlich, so, dass dies wiederum zu Widerständen und Unsicherheiten führen kann. Gerade bei blau/orangen Organisationen (Ordnung & Leistung) kann dieser Effekt gross sein. Dies sollte im Auge behalten werden. 
+Die Rollen von Personalentwicklung (falls vorhanden), [Führungspersonen](https://www.bensblog.ch/tags/leadership/) sowie der Mitarbeitenden, insbesondere in Bezug auf Lernen und Entwicklung verändern sich. Lernprozesse werden transparenter, der Umgang mit Fehlern offener und zu entwickelnde Kompetenzen sichtbar. Die Massnahmen stellen neue Anforderungen an Führungspersonen sowie an die Organisationsstruktur. Je nach Reifegrad der Organisation sowie der Mitarbeitenden verschieben sich die Rollen sowie das Rollenverständnis deutlich, so, dass dies wiederum zu Widerständen und Unsicherheiten führen kann. Gerade bei blau/orangen Organisationen (Ordnung & Leistung) kann dieser Effekt gross sein. Dies sollte im Auge behalten werden. 
 
 ## 6.0 Ausblick: Mögliche Entwicklungen
 
