@@ -26,6 +26,10 @@ Hier bist du in der Lern-Bibliothek. Du findest einen Überblick meiner neueren 
 
 Die Kompetenzorientierung in der Bildung ist (eigentlich) nichts Neues. Es ist kein Geheim- oder Zauberrezept, welches die Bildungswelt revolutioniert und doch ist es für Bildungsinstitutionen, Unternehmen und Lehrpersonen ein oft (enorm) grosser Schritt.
 
+**[Praxisorientierte Kompetenzentwicklung auf dem Weg zu einer lernenden Organisation](https://www.bensblog.ch/praxisorientierte-kompetenzentwicklung/)**
+
+6 Massnahmen zur Etablierung einer entwicklungsorientierten Lernkultur mit mirroco.
+
 **[Individuelle Lernwege in Unternehmen](https://www.bensblog.ch/selbstbestimmtes-lernen-im-unternehmen/)**
 
 Was passiert, wenn wir Menschen in Unternehmen lernen lassen? Wie lässt sich selbstbestimmtes und selbstorganisiertes Lernen umsetzen?
