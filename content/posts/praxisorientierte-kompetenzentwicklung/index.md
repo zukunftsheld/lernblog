@@ -22,11 +22,11 @@ Die Arbeitswelt ist im Wandel. Was früher längerfristig plan- und umsetzbar wa
 
 ### 1.1 Ausgangslage [mirroco](https://www.mirroco.ch)
 
-Unternehmen möchten ihren Mitarbeitenden mehr Möglichkeiten bieten, sich direkt am Arbeitsplatz weiterzubilden und ihre Kompenzen abzubilden. Sie sollen dabei ihre Kompetenzentwicklung sicht- und nachvollziehbar machen. Die Einführung der Software von mirroco als Tool zur Abbildung von Kompetenzen und Lernerlebnissen eröffnet neue Wege. Die Herausforderung besteht darin, dieses Potenzial effektiv zu nutzen und eine Kultur des kontinuierlichen Lernens zu etablieren.
+Unternehmen möchten ihren Mitarbeitenden mehr Möglichkeiten bieten, sich direkt am Arbeitsplatz weiterzubilden und ihre Kompenzen abzubilden. Sie sollen dabei ihre Kompetenzentwicklung sicht- und nachvollziehbar machen. Die Einführung der Software von mirroco als Tool zur Abbildung von Kompetenzen und Lernerlebnissen eröffnet neue Wege. Die Herausforderung besteht darin, dieses Potenzial effektiv zu nutzen und eine Kultur des kontinuierlichen Lernens zu etablieren. Das Team von mirroco hat bereits viel Erfahrung in der Implementierung der Software, entwickelt ihre Vorgehensweise aber laufend weiter. So auch im Dialog mit dem Bildungsexperten Ben Zaugg und mit Unterstützung dieser vorliegenden Arbeit. 
 
 ## 2.0 Konzeptziel
 
-Dieses Konzept zielt auf die Erarbeitung eines Entwurfs für ein Massnahmeprogramm ab, um den die Software von mirroco in Organisationen einzuführen und zu etablieren. Dabei sollen erste Schritte, um arbeitsplatzbezogenes, kontinuierliches Lernen und Kompetenzentwicklung zu fördern definiert werden. Dadurch soll eine moderne Lernkultur entstehen, die sowohl die persönliche sowie fachliche Entwicklung der Mitarbeitenden als auch die Ziele des Unternehmens unterstützt. Dies als Basis einer anpassungsfähigen Organisation im Sinne einer lernenden Organisation. 
+Dieses Konzept zielt auf die Erarbeitung eines Entwurfs für ein Massnahmeprogramm ab, um die Einführung der Software von mirroco in Organisationen weiterzuentwickeln und zu etablieren. Dabei sollen erste Schritte, um arbeitsplatzbezogenes, kontinuierliches Lernen und Kompetenzentwicklung zu fördern definiert werden. Dadurch soll die Etablierung einer modernen Lernkultur unterstützt werden, die sowohl die persönliche sowie fachliche Entwicklung der Mitarbeitenden als auch die Ziele des Unternehmens fördert. Dies als Basis einer anpassungsfähigen Organisation im Sinne einer lernenden Organisation. 
 
 ## 3.0 Zielgruppe 
 
