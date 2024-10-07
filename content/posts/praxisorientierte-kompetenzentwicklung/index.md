@@ -92,7 +92,7 @@ Im Zusammenhang mit der Einführung der Software sowie der nachhaltigen Etablier
 
 ![New Work Development Framework, Foelsing J., Schmitz A. (2021) S. 75](new-work-development-framework_cc_jan_foelsing.jpg)
 
-{{<box title="Video: Das New Learning und New Work Development Framework">}}
+{{<box title="Video Jan Foelsing: Das New Learning und New Work Development Framework">}}
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YHYYZDl-6nE?si=ETlrF-r6x_2aoNAp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
