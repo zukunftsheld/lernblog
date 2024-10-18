@@ -12,7 +12,7 @@ footnotes = "Die Inhalte in diesem Beitrag sind Teil eines Konzepts, welches im 
 
 Hier findest du Tipps und Tricks, wie du dein Lernen für dich selbst und gemeinsam mit deinem Team gestalten kannst. Es geht darum, dein lebenslanges Lernen mit und bei der Arbeit zu gestalten. Du lernst, während du arbeitest «Learning by Doing» und im «Moment of Need», also dann, wenn du vor oder in einer (neuen) Herausforderung stehst. Du findest folgende Themen:
 
-{{<box title="Lernende:r, du bist gefragt: Deine Rolle als Lernende:r">}}
+{{<box title="🦉Lernende:r, du bist gefragt: Deine Rolle als Lernende:r">}}
 
 Vielleicht denkst du dir beim Thema Lernen, alles nur das nicht! Bei diesem Lernen hier geht es aber nicht darum, etwas tun zu müssen. Hier kannst du deine Lernprozesse selbst bestimmen, steuern und gestalten. Das ist zwar auch nicht immer einfach (vor allem weil uns die Erfahrung damit fehlt), aber es ist lernbar. Alles wichtige und nötige, um zu starten findest du hier. Lass dir Zeit, experimentiere und sei mutig. 
 
@@ -46,7 +46,7 @@ Selbstgesteuertes Lernen heisst nicht, dass du alleine unterwegs bist. Es geht v
 
 {{</box>}}
 
-{{<box title="Lernbedarf erkennen">}}
+{{<box title="🔎Lernbedarf erkennen">}}
 
 Den eigenen Lernbedarf zu erkennen und klar zu benennen, ist oft nicht leicht. Ein vorausschauender Blick kann dabei sehr hilfreich sein. Du kannst dich an aktuellen Anforderungen deiner Arbeit orientieren oder längerfristige Ziele ins Auge fassen – beides ist möglich und schliesst sich nicht aus. Die folgenden Fragen können dir dabei helfen, deinen Lernbedarf besser einzuordnen. Es ist nicht nötig, alle zu beantworten – wähle die Fragen, die für dich am relevantesten sind:
 
@@ -62,7 +62,7 @@ Den eigenen Lernbedarf zu erkennen und klar zu benennen, ist oft nicht leicht. E
 
 {{</box>}}
 
-{{<box title="Lernen planen">}}
+{{<box title="🗓️Lernen planen">}}
 
 Unsere Arbeit bietet eine Menge an Lerngelegenheiten und wir lernen sogar, dabei nehmen dies meistens nur nicht bewusst wahr. Deshalb lohnt es sich, zu Beginn eines Lernzyklus dein Lernen bewusst zu planen. Dazu gehören nicht nur die Lernzeiten, sondern auch Lernorte, Lernmaterialien etc. Folgende Fragen können dir helfen, einen Überblick zu verschaffen und diese Themen in deine Planung einzubeziehen. 
 
@@ -91,7 +91,7 @@ Es kann hilfreich sein, als oder im Team gemeinsame Lernzeiten zu definieren. Da
 
 {{</box>}}
 
-{{<box title="Lernziele setzen">}}
+{{<box title="🎯Lernziele setzen">}}
 
 Ziele sind wichtig. Sie bieten Orientierung, helfen uns dranzubleiben und machen das, was wir tun, messbar. Die eigenen Ziele festzulegen ist manchmal herausfordernder, als sie von aussen vorgesetzt zu bekommen. Diese Methoden können dir helfen, deine Ziele festzulegen. Probiere aus, was für dich am besten passt. 
 
@@ -128,7 +128,7 @@ Weitere Informationen und Anleitungen wie du deine OKR definieren kannst, findes
 
 {{</box>}}
 
-{{<box title="Lernen reflektieren">}}
+{{<box title="🪞Lernen reflektieren">}}
 
 Die Reflexion deiner Lern- und Entwicklungsprozesse ist ein zentraler Bestandteil des selbstorganisierten Lernens. Sie hilft dir dabei, deinen aktuellen Stand zu erkennen, dir deine Lernerfahrungen bewusst zu machen und Erfolge zu feiern. Dies kann am Ende oder zu Beginn eines Arbeitstages, nach einem Lernzyklus oder einem bestimmten Ereignis stattfinden. Wichtig ist, dass du deine Erkenntnisse regelmässig schriftlich festhältst, beispielsweise in einem Lerntagebuch. So behältst du den Überblick über deinen Fortschritt und kannst deine Lernprozesse langfristig weiterentwickeln. Um dich bei der Reflexion zu unterstützen, können dir die folgenden Fragen als Leitfaden dienen:
 
@@ -147,7 +147,7 @@ Die Reflexion deiner Lern- und Entwicklungsprozesse ist ein zentraler Bestandtei
 
 {{</box>}}
 
-{{<box title="Lernen sichtbar machen">}}
+{{<box title="💻Lernen sichtbar machen">}}
 
 Die Reflexion deiner Lern- und Entwicklungsprozesse ist ein wichtiger Bestandteil des selbstorganisierten Lernens. Sie hilft dir, deinen aktuellen Stand zu überprüfen, dir deine Lernerlebnisse bewusst zu machen und Erfolge zu feiern. Dies kann am Ende oder zu Beginn eines Arbeitstages, nach einem Lernzyklus oder einer bestimmten Lernphase stattfinden. Idealerweise hältst du deine Gedanken regelmässig schriftlich fest, zum Beispiel in einem Lerntagebuch. Wenn du dein Lernen sichtbar machst, lässt du andere an deinen Lernprozessen teilhaben und ermöglichst es ihnen, mit und von dir zu lernen. Gleichzeitig kannst du von den Fragen und Erkenntnissen anderer profitieren und möglicherweise neue Lernpartner finden, die an ähnlichen Themen arbeiten. Auf diese Weise leistest du nicht nur einen Beitrag zu deiner persönlichen Entwicklung, sondern trägst auch zum organisationalen Wissensmanagement bei. Im Laufe der Zeit entsteht so ein wertvolles Lern- und Kompetenzportfolio, das sowohl dir als auch der Organisation zugutekommt.
 
@@ -209,7 +209,7 @@ Ein erster Schritt um die Lernkultur im Team zu fördern und sich die kleinen un
 
 {{</box>}}
 
-{{<box title="Digitale Tools">}}
+{{<box title="🛠️ Digitale Tools">}}
 
 Es gibt etliche Tools, die dein Lernen unterstützen können. Hier findest du eine Auswahl an Tools und Möglichkeiten, sie anzuwenden. 
 
@@ -236,7 +236,7 @@ Erstellen von digitalen Pinnwänden in unterschiedlichen Stilen. Zum Beispiel al
 
 {{</box>}}
 
-{{<box title="Unterstützende Methoden">}}
+{{<box title="📋Unterstützende Methoden">}}
 
 Hier findest du ein paar Methoden die dir helfen können, dein Lernen zu gestalten und zu strukturieren. Nicht jede Methode wird zu dir und nicht zu jeder Lernsituation passen. Probier dich aus, passe die Methoden für dich und deine Bedürfnisse an. 
 
