@@ -3,10 +3,14 @@ title = "Selbstorganisiertes Lernen"
 date = "2024-10-18"
 draft = true
 pinned = false
+tags = ["CAS", "CAS-BI", "Personalentwicklung", "Lernen", "Bildung"]
+image = "selbstorganisiertes-lernen.jpg"
+description = "Hier findest du Tipps und Tricks, wie du dein Lernen für dich selbst und gemeinsam mit deinem Team gestalten kannst. Es geht darum, dein lebenslanges Lernen mit und bei der Arbeit zu gestalten."
+footnotes = "Die Inhalte in diesem Beitrag sind Teil eines Konzepts, welches im Rahmen eines CAS-Moduls erstellt wurde. Die hier abgeblideten Inhalte wurden als Einstieg und Basis für eine Wissensmanagement und -Austausch Plattform (Confluence) erstellt, welche sich bei einer möglichen Praxisanwendung laufend kollaborativ mit Best Practices entwickeln kann und soll."
 +++
 ## Einführung: Selbstorganisiertes Lernen gestalten
 
-Hier findest du Tipps und Tricks, wie du dein Lernen für dich selbst und gemeinsam mit deinem Team gestalten kannst. Es geht darum dein lebenslanges Lernen mit und bei der Arbeit zu gestalten. Du lernst, während du arbeitest «Learning by Doing» und im «Moment of Need», also dann, wenn du vor oder in einer (neuen) Herausforderung stehst. Du findest folgende Themen:
+Hier findest du Tipps und Tricks, wie du dein Lernen für dich selbst und gemeinsam mit deinem Team gestalten kannst. Es geht darum, dein lebenslanges Lernen mit und bei der Arbeit zu gestalten. Du lernst, während du arbeitest «Learning by Doing» und im «Moment of Need», also dann, wenn du vor oder in einer (neuen) Herausforderung stehst. Du findest folgende Themen:
 
 {{<box title="Lernende:r, du bist gefragt: Deine Rolle als Lernende:r">}}
 
@@ -34,7 +38,7 @@ Ein geplanter selbstorganisierter Kompetenzentwicklungs- und Lernprozess folgt d
 5. Lernen reflektieren
 6. Lernen teilen
 
-![Lebenslanges Lernen, Lernprozess, der immer wieder von vorne beginnt. Eigene Visualisierung.]()
+![Lebenslanges Lernen, Lernprozess, der immer wieder von vorne beginnt. Eigene Visualisierung.](lebenslanges-lernen.png)
 
 ℹ️Am besten geht selbstgesteuertes Lernen übrigens gemeinsam mit anderen!
 
@@ -112,7 +116,7 @@ Eine andere Möglichkeit ist die Zieldefinition mit der OKR. Die detaillierte Be
 
 Typischerweise setzt sich ein OKR aus einem Objective und etwa 3 bis 5 Key Results zusammen. Die Methode fördert Transparenz und Fokus, da die Ziele und Fortschritte für alle im Team oder der Organisation sichtbar gemacht werden. Dadurch wird die Zusammenarbeit gefördert und alle arbeiten auf gemeinsame Prioritäten hin. OKRs werden häufig in Quartalszyklen definiert und evaluiert, was eine schnelle Anpassung an Veränderungen ermöglicht. Die Methode wurde von Intel in den 1970er Jahren entwickelt und später von Unternehmen wie Google populär gemacht, um strategische Ziele in dynamischen Umfeldern besser verfolgen und umsetzen zu können.»
 
-![OKR-Teilprozess, Eigene Darstellung.]()
+![OKR-Teilprozess, Eigene Darstellung.](okr.png)
 
 Weitere Informationen und Anleitungen wie du deine OKR definieren kannst, findest du auf diesen Seiten:
 
@@ -199,7 +203,7 @@ Ein erster Schritt um die Lernkultur im Team zu fördern und sich die kleinen un
 * Lernen wird ein Teil euer (Zusammen-) Arbeit. 
 * Die Lernkultur wird positiv beeinflusst. 
 
-![Lernmöglichkeiten im Team, Eigene Darstellung.]()
+![Lernmöglichkeiten im Team, Eigene Darstellung.](teamlernen-2.jpg)
 
 ℹ️Ihr könnte diese Lernmomente auch in eure Team-Meetings einbauen. Das kann bei einem Check-in/Check-out sein oder fix in den Traktanden stehen. Dabei muss es sich nicht um ein abgeschlossenes Lernen handeln. Es kann auch eine aktuelle Herausforderung oder Fragestellung sein.
 
@@ -250,7 +254,7 @@ Diese Technik kann dir helfen, deinen Fokus und deine Konzentration auf ein best
 * Wiederhole diesen Ablauf noch ein- oder zwei Mal und mach dann eine längere Pause von 25-30 Minuten. 
 * Starte wieder von vorne
 
-![Pomodoro-Teilprozess, Eigene Darstellung. ]()
+![Pomodoro-Teilprozess, Eigene Darstellung. ](pomodoro.png)
 
 ℹ️Dieses Vorgehen eignet sich auch gut für “nur” eine konzentrierte Lernphase von 25 Minuten in deinem Arbeitsalltag, um dich voll und ganz auf dein Lernen zu fokussieren.
 
@@ -258,10 +262,6 @@ Diese Technik kann dir helfen, deinen Fokus und deine Konzentration auf ein best
 
 Mentoring bietet die Möglichkeit, regelmässige Reflexion und gegenseitige Unterstützung zu fördern, indem ihr eure Arbeits- und Lernprozesse gemeinsam reflektiert. Es schafft Verbindlichkeit, stärkt das Vertrauen und unterstützt die kontinuierliche Entwicklung durch konstruktives Feedback und neue Perspektiven. Beim Peer- oder Colearning-Mentoring triffst du dich einmal oder alle zwei Wochen zu einem kurzen Mentoring. Entlang der Fünf Fragen begleitet ihr euch gegenseitig und reflektiert eure Arbeits- und Lernprozesse. Der Zeitaufwand pro Person beträgt ca. 15 Minuten. 
 
- 
-
-![Colearning Mentoring, Quelle: colearning.org]()
-
-
+![Colearning Mentoring, Quelle: colearning.org](mentoring-ablauf_colearning.png)
 
 {{</box>}}
