@@ -230,7 +230,7 @@ Vom Mindmap über Kanban-Boards bis zu deinem eigenen Lernboard kannst du hier d
 
 **[padlet.com](https://www.padlet.com/ "https\://www.padlet.com")**
 
-Erstellen Pinnwänden in unterschiedlichen Stilen. Zum Beispiel als Timeline zur Planung von Lernschritten oder -Themen, als Ort der Sammlung von Links, Ideen und Inspirationen. Am besten probierst du es aus.
+Erstellen von digitalen Pinnwänden in unterschiedlichen Stilen. Zum Beispiel als Timeline zur Planung von Lernschritten oder -Themen, als Ort der Sammlung von Links, Ideen und Inspirationen. Am besten probierst du es aus.
 
 ℹ️In Organisationen wird oft mit Microsoft gearbeitet. Dort findest du viele ähnliche Tools, so kannst du deine Lernthemen und Lernplanung fliessend in deine Arbeit integrieren. Das gilt ebenfalls für Mac-Tools.
 
