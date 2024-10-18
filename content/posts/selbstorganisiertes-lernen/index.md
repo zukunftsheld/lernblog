@@ -1,5 +1,5 @@
 +++
-title = "Selbstorganisiertes Lernen"
+title = "Wie können Menschen in Unternehmen ihr Lernen selbst gestalten?"
 date = "2023-09-09"
 draft = false
 pinned = false
