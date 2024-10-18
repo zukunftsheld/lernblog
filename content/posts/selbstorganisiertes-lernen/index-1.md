@@ -1,7 +1,7 @@
 +++
 title = "Selbstorganisiertes Lernen"
 date = "2024-10-18"
-draft = false
+draft = true
 pinned = false
 tags = ["CAS", "CAS-BI", "Personalentwicklung", "Lernen", "Bildung"]
 image = "selbstorganisiertes-lernen.jpg"
