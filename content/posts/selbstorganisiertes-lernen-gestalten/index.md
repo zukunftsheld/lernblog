@@ -6,7 +6,7 @@ pinned = false
 tags = ["CAS", "CAS-BI", "Personalentwicklung", "Lernen", "Bildung"]
 image = "selbstorganisiertes-lernen.jpg"
 description = "Hier findest du Tipps und Tricks, wie du dein Lernen für dich selbst und gemeinsam mit deinem Team gestalten kannst. Es geht darum, dein lebenslanges Lernen mit und bei der Arbeit zu gestalten."
-footnotes = "Die Inhalte in diesem Beitrag sind Teil eines Konzepts, welches im Rahmen eines CAS-Moduls erstellt wurde. Die hier abgeblideten Inhalte wurden als Einstieg und Basis für eine Wissensmanagement und -Austausch Plattform (Confluence) erstellt, welche sich bei einer möglichen Praxisanwendung laufend kollaborativ mit Best Practices entwickeln kann und soll.\n\n📚Passende Bücher dazu gibts in der [Bibliothek](https://www.bensblog.ch/cas_businessimpact_verzeichnis/)."
+footnotes = "Die Inhalte in diesem Beitrag sind Teil eines Konzepts, welches im Rahmen eines CAS-Moduls erstellt wurde. Die hier abgeblideten Inhalte wurden als Einstieg und Basis für eine Wissensmanagement und -Austausch Plattform (Confluence) erstellt, welche sich bei einer möglichen Praxisanwendung laufend kollaborativ mit Best Practice Beispielen entwickeln kann und soll.\n\n📚Passende Bücher dazu gibts in der [Bibliothek](https://www.bensblog.ch/cas_businessimpact_verzeichnis/)."
 +++
 ## Einführung: Selbstorganisiertes Lernen gestalten
 
