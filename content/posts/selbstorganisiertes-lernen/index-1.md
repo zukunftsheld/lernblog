@@ -34,8 +34,6 @@ Ein geplanter selbstorganisierter Kompetenzentwicklungs- und Lernprozess folgt d
 5. Lernen reflektieren
 6. Lernen teilen
 
- 
-
 ![Lebenslanges Lernen, Lernprozess, der immer wieder von vorne beginnt. Eigene Visualisierung.]()
 
 ℹ️Am besten geht selbstgesteuertes Lernen übrigens gemeinsam mit anderen!
@@ -214,22 +212,56 @@ Es gibt etliche Tools, die dein Lernen unterstützen können. Hier findest du ei
 * [miro Board](https://newlearning4work.atlassian.net/wiki/home#miro-Board)
 * [padlet.com](https://newlearning4work.atlassian.net/wiki/home#padlet.com)
 
-[miro Board](http://miro.com/ "http\://miro.com")
+**[miro Board](http://miro.com/ "http\://miro.com")**
 
 Vom Mindmap über Kanban-Boards bis zu deinem eigenen Lernboard kannst du hier deine Ideen, Gedanken, Lernprozesse und Kompetenzentwicklung planen, durchführen und abbilden. Das kannst du für dich alleine tun, mit anderen Teilen oder ihr arbeitet als Team daran. 
 
+**Beispiel 1: Mindmap und Lerninhalten zu einem CAS im Bereich Personal- und Organisationsentwicklung.**
 
+<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVKs2y8Fs=/?moveToViewport=-7105,-4030,12632,6434&embedId=58733007276" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
 
-[padlet.com](https://www.padlet.com/ "https\://www.padlet.com")
+**Beispiel 2: Eine Lernboard-Vorlage als Inspiration**
+
+<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVLU6-uTg=/?moveToViewport=-3299,-431,7935,4042&embedId=129550988990" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+
+**[padlet.com](https://www.padlet.com/ "https\://www.padlet.com")**
 
 Erstellen Pinnwänden in unterschiedlichen Stilen. Zum Beispiel als Timeline zur Planung von Lernschritten oder -Themen, als Ort der Sammlung von Links, Ideen und Inspirationen. Am besten probierst du es aus.
-
- 
 
 ℹ️In Organisationen wird oft mit Microsoft gearbeitet. Dort findest du viele ähnliche Tools, so kannst du deine Lernthemen und Lernplanung fliessend in deine Arbeit integrieren. Das gilt ebenfalls für Mac-Tools.
 
 {{</box>}}
 
 {{<box title="Unterstützende Methoden">}}
+
+Hier findest du ein paar Methoden die dir helfen können, dein Lernen zu gestalten und zu strukturieren. Nicht jede Methode wird zu dir und nicht zu jeder Lernsituation passen. Probier dich aus, passe die Methoden für dich und deine Bedürfnisse an. 
+
+#### **Pomodoro-Technik zur Planung von Lerneinheiten**
+
+Diese Technik kann dir helfen, deinen Fokus und deine Konzentration auf ein bestimmtes Lernthema zu lenken. Dabei konzentrierst du dich während einer definierten Zeit voll auf dein Lernen und machst anschliessend Pause. Am besten schaltest du dein Handy aus oder schaltest auf Flugmodus, wenn du es als Timer benutzt. Falls du am PC lernst, schliesse alle Fenster die nicht mit dem Lernen zu tun haben und schalte Push-Nachrichten aus. 
+
+ℹ️Der Name dieser Technik kommt von einer Küchenuhr in Tomatenform. Mehr über die Pomodorotechnik und den Original-Ablauf findest du [hier](https://de.wikipedia.org/wiki/Pomodoro-Technik "https\://de.wikipedia.org/wiki/Pomodoro-Technik").
+
+**Ablauf:** Definiere ein konkretes Lernziel oder ein konkretes Lern-Thema, welches du in dieser Zeit bearbeiten möchtest. 
+
+* Stelle den Timer auf 25 Minuten.
+* Arbeite nur an diesem Thema.
+* Mach 5 Minuten Pause.
+* Wiederhole diesen Ablauf noch ein- oder zwei Mal und mach dann eine längere Pause von 25-30 Minuten. 
+* Starte wieder von vorne
+
+![Pomodoro-Teilprozess, Eigene Darstellung. ]()
+
+ℹ️Dieses Vorgehen eignet sich auch gut für “nur” eine konzentrierte Lernphase von 25 Minuten in deinem Arbeitsalltag, um dich voll und ganz auf dein Lernen zu fokussieren.
+
+#### **Mentoring**
+
+Mentoring bietet die Möglichkeit, regelmässige Reflexion und gegenseitige Unterstützung zu fördern, indem ihr eure Arbeits- und Lernprozesse gemeinsam reflektiert. Es schafft Verbindlichkeit, stärkt das Vertrauen und unterstützt die kontinuierliche Entwicklung durch konstruktives Feedback und neue Perspektiven. Beim Peer- oder Colearning-Mentoring triffst du dich einmal oder alle zwei Wochen zu einem kurzen Mentoring. Entlang der Fünf Fragen begleitet ihr euch gegenseitig und reflektiert eure Arbeits- und Lernprozesse. Der Zeitaufwand pro Person beträgt ca. 15 Minuten. 
+
+ 
+
+![Colearning Mentoring, Quelle: colearning.org]()
+
+
 
 {{</box>}}
