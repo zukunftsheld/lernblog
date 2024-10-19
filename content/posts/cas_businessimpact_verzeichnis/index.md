@@ -14,6 +14,8 @@ Dieses Verzeichnis wächst in den nächsten Wochen und Monaten.
 
 {{<box title="CAS-Blogposts">}}
 
+\#6 [Selbstorganisiertes Lernen gestalten](https://www.bensblog.ch/selbstorganisiertes-lernen-gestalten/)
+
 **\#5** [Praxisorientierte Kompetenzentwicklung auf dem Weg zu einer lernenden Organisation](https://www.bensblog.ch/praxisorientierte-kompetenzentwicklung/)
 
 **\#4** [Lernende Organisation: Einblick in Modul 2](https://www.bensblog.ch/lernende-organisation-modul-2/)
@@ -56,9 +58,11 @@ Hier erscheinen laufend Bücher, mit denen ich mich in diesem CAS beschäftige. 
 
 📘 [New Work braucht New Learning, Eine Perspektivreise durch die Transformation unserer Organisations- und Lernwelten](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/jan-foelsing/new-work-braucht-new-learning/id/9783658327576/)
 
- 📕[Agiles Lernen, Neue Rollen, Kompetenzen und Methoden im Unternehmenskontext](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/nele-graf/agiles-lernen/id/9783648158548/)
+📕[Agiles Lernen, Neue Rollen, Kompetenzen und Methoden im Unternehmenskontext](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/nele-graf/agiles-lernen/id/9783648158548/)
 
 📘[Future Skills Navigator, Ein neues Menschsein für die Welt von morgen](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/arndt-pechstein/future-skills-navigator/id/9783800670833/?utm_source=google&utm_medium=cpc&utm_campaign=Shopping+Catch+All+inkl.+LIA+(sh-CH-de)&utm_content=Catch+All+DE&utm_term=&gad_source=1&gbraid=0AAAAAD5hN-U1UxQk_iBw8oJB1NE2rZDeK&gclid=Cj0KCQjwlvW2BhDyARIsADnIe-LnYZ8E9uRFAR8kzZiEm9ROkCL3Tku5pnTmNOIgYbZbfgWPKXUNgfoaAgqkEALw_wcB)
+
+📕[Entlehrt euch! Ausbruch aus dem Vollständigkeitswahn. ](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/rolf-arnold/entlehrt-euch/id/9783035504590/?srsltid=AfmBOooZp4YV_FJdBAzztYuJWXoWrS3sGdZ5DpzTMOherYdxVrh1TS9q)
 
 **Lernen in digitalen & agilen Zeite**
 
