@@ -83,7 +83,7 @@ In unserem (Arbeits-)Alltag gehen geplante Lernzeiten gerne unter. Gerade wenn w
 
 ℹ️ Wenn du für dich allein lernst, plane Lernzeiten in deinem Kalender ein und blockiere diese verbindlich. Am besten informierst du deine:n Vorgesetzte:n und dein Team darüber.
 
-#### Lernenzeiten im und als Team
+#### Lernzeiten im und als Team
 
 Es kann hilfreich sein, als oder im Team gemeinsame Lernzeiten zu definieren. Das heisst nicht, dass alle gemeinsam das gleiche lernen oder am selben Ort sein müssen. Ihr könnt euch gemeinsam ein Sitzungszimmer reservieren und jede:r arbeitet ohne Ablenkung an seinem/ihrem Lernthema. Eine andere Möglichkeit ist, dass ihr euch in einem virtuellen Raum trefft und ebenfalls jede:r am eigenen Thema arbeitet. So entsteht eine Verbindlichkeit und ein Gefühl gemeinsam unterwegs zu sein.  
 
@@ -99,7 +99,7 @@ Ziele sind wichtig. Sie bieten Orientierung, helfen uns dranzubleiben und machen
 
 Eine Möglichkeit deine Ziele zu definieren ist die Smart-Methode. Dabei formulierst du das Ziel so genau wie möglich. Die Wahrscheinlichkeit dein Ziel zu erreichen, erhöht sich so und du kannst das Erreichen überprüfen. Smart steht für: 
 
-Spezifisch - Messbar - Attraktiv - Realitstisch – Terminiert
+Spezifisch - Messbar - Attraktiv - Realistisch – Terminiert
 
 * Spezifisch = Du beschreibst dein Ziel konkret und detailliert.
 * Messbar = Die Erreichung des Ziels kann gemessen oder beurteilt werden. Qualitative und/oder quantitative Kriterien. 
