@@ -1,6 +1,6 @@
 +++
 title = "Selbstorganisiertes Lernen gestalten"
-date = "2024-10-19"
+date = "2024-10-18"
 draft = true
 pinned = false
 tags = ["CAS", "CAS-BI", "Personalentwicklung", "Lernen", "Bildung"]
