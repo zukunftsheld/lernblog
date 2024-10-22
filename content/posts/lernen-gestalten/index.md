@@ -22,6 +22,10 @@ Hier bist du in der Lern-Bibliothek. Du findest einen Überblick meiner neueren 
 
 {{<box title="Blogartikel">}}
 
+**[Selbstorganisiertes Lernen gestalten](https://www.bensblog.ch/selbstorganisiertes-lernen-gestalten/)**
+
+Hier findest du Tipps und Tricks, wie du dein Lernen für dich selbst und gemeinsam mit deinem Team gestalten kannst. Es geht darum, dein lebenslanges Lernen mit und bei der Arbeit zu gestalten.
+
 **[Kompetenzorientierung in der Erwachsenenbildung](https://www.bensblog.ch/kompetenzentwicklung/)**
 
 Die Kompetenzorientierung in der Bildung ist (eigentlich) nichts Neues. Es ist kein Geheim- oder Zauberrezept, welches die Bildungswelt revolutioniert und doch ist es für Bildungsinstitutionen, Unternehmen und Lehrpersonen ein oft (enorm) grosser Schritt.
