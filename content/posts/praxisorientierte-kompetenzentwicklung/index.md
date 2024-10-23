@@ -4,7 +4,7 @@ date = "2024-10-01"
 draft = false
 pinned = false
 tags = ["Kompetenzentwicklung", "LernendeOrganisation", "Lernkultur", "CAS-BI", "CAS"]
-image = "6-schritte_quer-4.jpg"
+image = "praxisorientierte-kompetenzentwicklung.jpg"
 description = "Praxisorientierte Kompetenzentwicklung auf dem Weg zu einer lernenden Organisation: 6 Massnahmen zur Etablierung einer entwicklungsorientierten Lernkultur mit mirroco. \n"
 footnotes = "\\[1] Die Schweizer Wirtschaft will die demografische Herausforderung anpacken, [https://www.economiesuisse.ch/de/artikel/die-schweizer-wirtschaft-will-die-demografische-herausforderung-anpacken#](https://www.economiesuisse.ch/de/artikel/die-schweizer-wirtschaft-will-die-demografische-herausforderung-anpacken) aufgerufen am 12.09.2021\n\n\\[2] Graf N., Edelkraut F., [Whitepaper «Agiles Lernen»](https://mentus.de/whitepaper-agiles-lernen/), S. 6\n\n\\[3] <https://www.zukunftsinstitut.de/zukunftsthemen/zukunft-der-arbeit>, aufgerufen am 10.09.2024\n\n\\[4] Graf N., Gramss D., Edelkraut F. (2022), S. 21\n\n\\[5] Graf N., Gramss D., Edelkraut F. (2022), S. 249 \n\n\\[6] Senge P. (2006)\n\n\\[7] Graf N., Gramss D., Edelkraut F. (2022), S. 251\n\n\\[8] Arnold R. (2017) S. 149\n\n\\[9] Graf N., Gramss D., Edelkraut F. (2022), S. 47\n\n\\[10] Foelsing J., Schmitz A. (2021), S. 51\n\n\\[11] Foelsing J., Schmitz A. (2021), S. 187\n\n\\[12] Foelsing J., Schmitz A. (2021), S.189\n\n\\[13] Arnold R. (2017) S. 111\n\nDieser Blogbeitrag basiert auf Konzept, das im Herbst 2024 erstellt wurde."
 +++
