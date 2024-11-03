@@ -14,7 +14,7 @@ footnotes = "**Dieser Beitrag ist Teil eines Konzepts, welches im Rahmen des CAS
 
 > «Wir leben heute in der langsamsten Zeit, in der wir je leben werden.» 
 >
-> *Heike Bruch \[1]*
+> *Heike Bruch in der Sternstunde Philosophie\[1]*
 
 Mit dem Wandel in der Arbeitswelt, der durch schnelle Veränderungen und kürzeren Lebenszyklen sowie einer immer höheren Vernetzung geprägt ist, sind nicht nur die Anforderungen an unsere Arbeit anders, sondern auch unser Lernen ist davon betroffen. Wir kommen aus einer Zeit, in der Lernbedarfe von aussen (Personalentwicklung, HR) eruiert und Bildungsangebote konzipiert wurden. Diese Prozesse brauchen Zeit und können vielen Anforderungen in der heutigen digitalisierten (Arbeits-) Welt zunehmend weniger gerecht werden, da Wissen und Informationen schnell benötigt werden oder genauso schnell veraltet oder überholt sein können. Es braucht deshalb ein neues Lernverständnis für die Arbeitswelt in der digitalen Netzwerkgesellschaft, wie Foelsing und Schmitz\[2] sie nennen. Bei dieser stehen die individuellen Lern- und Entwicklungsthemen der Arbeitnehmenden im Zentrum. 
 
