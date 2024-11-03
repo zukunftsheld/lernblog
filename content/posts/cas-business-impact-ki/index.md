@@ -6,6 +6,7 @@ pinned = false
 tags = ["CAS", "CAS-BI", "Kompetenzentwicklung", "Lernen", "Bildung", "KI"]
 image = "ich-und-die-ki.jpg"
 description = "Im vierten Modul des CAS Business Impact werde ich mich mit KI beschäftigen. Neben der bewussten Auseinandersetzung mit Grundlagen geht es dabei auch um die Anwendung im Kontext von Bildungs-, Personal- und Organisationsentwicklung."
+footnotes = "Titelbild: Hintergrund erstellt mit Bing Image Creator"
 +++
 ## Einleitende Gedanken
 
@@ -49,4 +50,4 @@ Innerhalb dieses Prozesses habe ich als Praxisbeispiel ein zusätzliches Projekt
 
 Auf Basis dieser zu erwerbenden Kompetenzen kann ich konkrete Lernziele setzen oder mir Lernpläne machen. Ich kann aber auch passende Lernmaterialien (Podcasts, Artikel, Bücher, Videos, Blogs etc.) oder Expertinnen und Experten suchen und diese Lernmomente abbilden. So entsteht nach und nach ein Kompetenzportfolio. 
 
-![](mirroco-2.jpg)
+![](mirroco-3.jpg)
