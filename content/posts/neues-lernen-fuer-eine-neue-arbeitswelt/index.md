@@ -88,11 +88,11 @@ Wenn Mitarbeitende dazu aufgefordert sind, selbstorganisiert ihr Lernen zu plane
 >
 > *Aus Entlehrt euch! \[16]*
 
-Bei einem neuen Lernverständnis von «kontinuierlichem arbeitsplatzbezogenem Lernen»\[17] verändern sich die Rollen der Lernenden. Sie übernehmen selbst Verantwortung für ihre Kompetenzentwicklung. Dabei sind sie selbst für den gesamten Lernprozess von der Initiierung bis zum Abschluss verantwortlich.\[18] Dabei werden sie von der Personalentwicklung sowie ihren Führungspersonen unterstützt und begleitet. Es sind also Elemente dabei (u. a. Planung, Organisation & Durchführung), die in der Vergangenheit vor allem durch die Personalentwicklung übernommen wurden. 
+Bei einem neuen Lernverständnis von «kontinuierlichem arbeitsplatzbezogenem Lernen»\[17] verändern sich die Rollen der Lernenden. Sie übernehmen selbst Verantwortung für ihre [Kompetenzentwicklung](https://www.bensblog.ch/tags/kompetenzentwicklung/). Dabei sind sie selbst für den gesamten Lernprozess von der Initiierung bis zum Abschluss verantwortlich.\[18] Dabei werden sie von der Personalentwicklung sowie ihren Führungspersonen unterstützt und begleitet. Es sind also Elemente dabei (u. a. Planung, Organisation & Durchführung), die in der Vergangenheit vor allem durch die Personalentwicklung übernommen wurden. 
 
 ![Abbildung 4: Die neuen Rollen der Mitarbeitenden bei selbstorganisiertem Lernen. Quelle Graf N., Gramss D., Edelkraut F. (2022) S. 160, Schönfeld J, Tillman T. (2021), S. 22. Eigene Visualisierung](neue-rollen-mitarbeiter_agiles-lernen.jpg)
 
-####  **2.2.4 Ganzheitliches Zusammenspiel von Rollen und Lernen**
+#### **2.2.4 Ganzheitliches Zusammenspiel von Rollen und Lernen**
 
 Ein anzustrebender Zielzustand als Idealbild für die Ermöglichung und Förderung von selbstorganisiertem Lernen bei der Arbeit könnte also wie folgt (siehe Abbildung 5) aussehen. Dabei spielen die drei Bereiche Leadership, Personalentwicklung und Mitarbeitende zusammen. Wobei diese im Spannungsfeld und der Wechselwirkung zwischen der bestehenden und anzustrebenden Organisations- und Lernkultur stehen. Das Ziel ist, Lernen und Kompetenzentwicklung bewusst im Arbeitsalltag zu integrieren und zu etablieren. 
 
