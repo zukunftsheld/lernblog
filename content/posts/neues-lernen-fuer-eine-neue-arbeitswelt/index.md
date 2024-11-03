@@ -20,7 +20,7 @@ Mit dem Wandel in der Arbeitswelt, der durch schnelle Veränderungen und kürzer
 
 ### 1.1 Lernen und Arbeiten in Verbindung
 
-Mitarbeitende lernen heute vieles am Arbeitsplatz. Das lässt sich gut am 70:20:10 Modell[\[3]](applewebdata://69B8C8F5-A6F9-438E-BFE1-8E9A5784C4ED#_ftn3) veranschaulichen. Bei diesem sogenannten informellen Lernen beschaffen sich Mitarbeitende Lerninhalte (Videos, Bücher, Podcasts, Artikel etc.) selbst, suchen sich Expertinnen und Experten (z. B. über Linkedin oder innerhalb der eigenen Organisation) oder tauschen sich mit Kolleg:innen aus.\[4] Viele Ressourcen in der Personalentwicklung werden noch in die 10 % gesteckt, wobei hier aus Sicht des arbeitsplatzbezogenen und kontinuierlichen Lernens in der sich schnell verändernden VUCA-Welt ein Change in Richtung 70 & 20 anzustreben ist.  
+Mitarbeitende lernen heute vieles am Arbeitsplatz. Das lässt sich gut am 70:20:10 Modell\[3] veranschaulichen. Bei diesem sogenannten informellen Lernen beschaffen sich Mitarbeitende Lerninhalte (Videos, Bücher, Podcasts, Artikel etc.) selbst, suchen sich Expertinnen und Experten (z. B. über Linkedin oder innerhalb der eigenen Organisation) oder tauschen sich mit Kolleg:innen aus.\[4] Viele Ressourcen in der Personalentwicklung werden noch in die 10 % gesteckt, wobei hier aus Sicht des arbeitsplatzbezogenen und kontinuierlichen Lernens in der sich schnell verändernden VUCA-Welt ein Change in Richtung 70 & 20 anzustreben ist.  
 
 > «Die Weiterentwicklung des Lernens im beruflichen Kontext lässt sich als fortschreitender Prozess der Einswerdung von Arbeiten und Lernen beschreiben.»\[5]
 
