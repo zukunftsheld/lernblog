@@ -14,7 +14,9 @@ Dieses Verzeichnis wächst in den nächsten Wochen und Monaten.
 
 {{<box title="CAS-Blogposts">}}
 
-**\#7** [Kompetenzentwicklung sichtbar machen: Das KI-Modul als Beispiel](https://www.bensblog.ch/cas-business-impact-ki/)
+**\#8** [Kompetenzentwicklung sichtbar machen: Das KI-Modul als Beispiel](https://www.bensblog.ch/cas-business-impact-ki/)
+
+**\#7** [Neues Lernen für eine neue Arbeitswelt](https://www.bensblog.ch/neues-lernen-fuer-eine-neue-arbeitswelt/)
 
 **\#6** [Selbstorganisiertes Lernen gestalten](https://www.bensblog.ch/selbstorganisiertes-lernen-gestalten/)
 
