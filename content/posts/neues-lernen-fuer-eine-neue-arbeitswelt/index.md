@@ -40,7 +40,7 @@ In diesem Dokument geht es um Umsetzungspraktiken für selbstorganisiertes Lerne
 
 «Ziel muss es sein, dass jeder Einzelne selbst zum Gestalter seiner bzw. ihrer Weiterentwicklung wird.»\[7]
 
-«Lernen folgt einer Aneignungs- und keiner Vermittlungslogik.»[\[8]](applewebdata://69B8C8F5-A6F9-438E-BFE1-8E9A5784C4ED#_ftn8) Das schreibt Dr. Rolf Arnold in seinem Buch «Entlehrt euch». Dazu kommt, dass die Einführung von agilen- und anderen modernen Lern- und Arbeitsmethoden am besten bereits in iterativen Prozessen von Try & Error stattfinden. So nähern sich Mitarbeitenden und Vorgesetzte sowie ganze Organisationen im Sinne von «Learning by Doing» an den neuen Soll-Zustand an. In diesem Prozess werden sich zwangsläufig auch die Rollen der Personalentwicklung sowie der Führungspersonen in Bezug auf Lernen anpassen. Wie das aussehen kann, wird im nächsten Abschnitt beleuchtet.  
+«Lernen folgt einer Aneignungs- und keiner Vermittlungslogik.»\[8] Das schreibt Dr. Rolf Arnold in seinem Buch «Entlehrt euch». Dazu kommt, dass die Einführung von agilen- und anderen modernen Lern- und Arbeitsmethoden am besten bereits in iterativen Prozessen von Try & Error stattfinden. So nähern sich Mitarbeitenden und Vorgesetzte sowie ganze Organisationen im Sinne von «Learning by Doing» an den neuen Soll-Zustand an. In diesem Prozess werden sich zwangsläufig auch die Rollen der Personalentwicklung sowie der Führungspersonen in Bezug auf Lernen anpassen. Wie das aussehen kann, wird im nächsten Abschnitt beleuchtet.  
 
 ### 2.1 Lernkultur
 
