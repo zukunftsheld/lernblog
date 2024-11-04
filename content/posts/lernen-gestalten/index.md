@@ -22,6 +22,10 @@ Hier bist du in der Lern-Bibliothek. Du findest einen Überblick meiner neueren 
 
 {{<box title="Blogartikel">}}
 
+**[Neues Lernen für eine neue Arbeitswelt](https://www.bensblog.ch/neues-lernen-fuer-eine-neue-arbeitswelt/)**
+
+(Neue) Rollen zur Förderung von arbeitsplatzbezogenem kontinuierlichem Lernen in einer digitalen und agilen Arbeitswelt.
+
 **[Selbstorganisiertes Lernen gestalten](https://www.bensblog.ch/selbstorganisiertes-lernen-gestalten/)**
 
 Hier findest du Tipps und Tricks, wie du dein Lernen für dich selbst und gemeinsam mit deinem Team gestalten kannst. Es geht darum, dein lebenslanges Lernen mit und bei der Arbeit zu gestalten.
