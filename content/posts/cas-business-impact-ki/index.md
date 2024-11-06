@@ -54,10 +54,10 @@ Auf Basis dieser zu erwerbenden Kompetenzen kann ich konkrete Lernziele setzen o
 
 ### Beispiel Abbildung «Lernmomente» in der Software von mirroco
 
-In der Übersicht werden alle Lernmomente angezeigt. 
+In der Übersicht werden die Lernmomente angezeigt. 
 
 ![Screenshot Übersicht Lernmomente](bildschirmfoto-2024-11-06-um-08.13.35.png)
 
-Dieses Bild zeigt die detaillierte Erfassung eines Lernmoments mit Titel, Text, erfassten Kompetenzbereichen sowie Links und Dateien, die zu dieser Lernerfahrung beigetragen haben. 
+Dieses Bild zeigt die detaillierte Erfassung eines Lernmoments mit Titel, Text (nur ein Ausschnitt sichtbar), erfassten Kompetenzbereichen sowie Links und Dateien, die zu dieser Lernerfahrung beigetragen haben. 
 
 ![Screenshot Abbildung Lernmoment](mirroco_lernmoment.jpg)
