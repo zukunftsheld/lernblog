@@ -270,4 +270,4 @@ Mentoring bietet die Möglichkeit, regelmässige Reflexion und gegenseitige Unte
 
 Aus verschiedenen Gesprächen zu diesem und den letzten Beitragen kam der Gedanke auf, diese Anleitung noch einmal (stark) zu vereinfachen. So habe ich einen ersten Entwurf eines **(Selbst-)Lern-Canvas** erstellt. 
 
-![](canvas-version-2.jpg)
+![](canvas-version-2-2.jpg)
