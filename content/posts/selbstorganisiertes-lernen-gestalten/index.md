@@ -265,3 +265,9 @@ Mentoring bietet die Möglichkeit, regelmässige Reflexion und gegenseitige Unte
 ![Colearning Mentoring, Quelle: colearning.org](mentoring-ablauf_colearning.png)
 
 {{</box>}}
+
+#### Nachträgliche Ergänzung:
+
+Aus verschiedenen Gesprächen zu diesem und den letzten Beitragen kam der Gedanke auf, diese Anleitung noch einmal (stark) zu vereinfachen. So habe ich einen ersten Entwurf eines **(Selbst-)Lern-Canvas** erstellt. 
+
+![](canvas-version-2.jpg)
