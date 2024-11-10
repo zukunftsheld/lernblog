@@ -34,7 +34,7 @@ Das Buch „Work Survive Balance“ von Hans Rusinek ist mehr als ein Werk über
 
 ### Vergangenheit und Wandel der Arbeitswelt
 
-Rusinek nimmt uns Lesende mit auf eine Zeitreise durch die Arbeitsgeschichte. Er zeigt, wie frühere Berufszweige, wie etwa Kunstmaler, die vor der Fotografie Angst hatten, ihren Platz in der Arbeitswelt neu definieren mussten. Diese Beispiele verbindet er mit der heutigen Situation und vergleicht sie mit der Einführung von Technologien wie der künstlichen Intelligenz, die erneut Ängste und Unsicherheiten schürt. Der Autor verdeutlicht, dass technologischer Fortschritt nicht nur Arbeitsplätze verändert, sondern auch unser Verständnis von Arbeit selbst.
+Rusinek nimmt uns Lesende mit auf eine Zeitreise durch die Arbeitsgeschichte. Er zeigt, wie frühere Berufszweige, wie etwa Kunstmaler, die vor der Fotografie Angst hatten, ihren Platz in der Arbeitswelt neu definieren mussten. Diese Beispiele verbindet er mit der heutigen Situation und vergleicht sie mit der Einführung von Technologien wie der [künstlichen Intelligenz](https://www.bensblog.ch/tags/ki/), die erneut Ängste und Unsicherheiten schürt. Der Autor verdeutlicht, dass technologischer Fortschritt nicht nur Arbeitsplätze verändert, sondern auch unser Verständnis von Arbeit selbst.
 
 > «Die Gefahr, dass der Computer so wird wie der Mensch, ist nicht so gross wie die Gefahr, dass der Mensch so wird wie der Computer.» 
 >
@@ -48,7 +48,7 @@ Rusinek schildert, wie die Arbeitswelt und Wirtschaft erheblich zur ökologische
 
 ### Dimensionen des Wandels
 
-Rusinek betrachtet verschiedene Dimensionen des Wandels, um die Arbeitswelt grundlegend zu verändern:
+Er betrachtet verschiedene Dimensionen des Wandels, um die Arbeitswelt grundlegend zu verändern:
 
 \
 **Haltung und Organisationsverständnis:** Der Text fordert eine Abkehr von kurzfristigem Profitdenken zugunsten eines ganzheitlicheren Ansatzes, der auch künftigen Generationen (Stichwort Enkeltauglichkeit) zugutekommt.
@@ -68,9 +68,9 @@ Rusinek betrachtet verschiedene Dimensionen des Wandels, um die Arbeitswelt grun
 >
 > *Hans Rusinek, Seite 71*
 
-### Der Generationenkonflikt
+### Der Generationenkonflikt - Alterseffekte sind keien Generationeneffekte
 
-Rusinek räumt mit der Idee einer generationenbasierten Arbeitseinstellung auf. Statt Menschen in stereotype Generationen wie „Babyboomer“ oder „Generation Z“ einzuordnen, schlägt er eine übergreifende Zusammenarbeit vor, bei der unterschiedliche Perspektiven geschätzt und genutzt werden.
+Rusinek räumt mit der Idee der Generationenteilung auf. Statt Menschen in stereotype Generationen wie „Babyboomer“ oder „Generation Z“ einzuordnen, schlägt er eine übergreifende Zusammenarbeit vor, bei der unterschiedliche Perspektiven geschätzt und genutzt werden. 
 
 Mehr Aufklärung gibt es übrigens auch hier: [«Warum es keine Generationen gibt»](https://www.martin-schroeder.de/2023/07/17/warum-es-keine-generationen-gibt/)
 
