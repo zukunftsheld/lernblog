@@ -1,14 +1,14 @@
 +++
 title = "Work-Survive Balance - Buch von Hans Rusinek "
 date = "2024-11-10"
-draft = true
+draft = false
 pinned = false
 tags = ["Buch", "Organisationsentwicklung", "Gedanken", "NewWork"]
 image = "work-survive-balance.jpg"
 description = "Einblick und Gedanken zum Buch von Hans Rusinek. "
-footnotes = "🛒[Zum Buch Work Survive Balance bei exlibris ](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/hans-rusinek/work-survive-balance/id/9783451399657/?srsltid=AfmBOoqw0gxN4wZL26mlgpG2HbqYUkywW9BB8k67O46oq9dxgQBoqoHN)\n\n🌐[Webseite des Autors](https://www.hans-rusinek.de)\n\nPS: Das ist meine zweite «Buchrezension» und ein weiterer Versuch. Nachdem ich in meinem ersten Podcastformat vor ein paar Jahren über Bücher erzählt habe und ich etliche positive Rückmeldungen erhielt, dachte ich mir schon lange, ich könnte doch auch einmal etwas schreiben. Wie gefällts dir?"
+footnotes = "🛒[Zum Buch Work Survive Balance bei exlibris ](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/hans-rusinek/work-survive-balance/id/9783451399657/?srsltid=AfmBOoqw0gxN4wZL26mlgpG2HbqYUkywW9BB8k67O46oq9dxgQBoqoHN)\n\n🌐[Webseite des Autors](https://www.hans-rusinek.de)\n\nPS: Das ist meine dritte [«Buchrezension»](https://www.bensblog.ch/tags/buch/) und ein weiterer Versuch. Nachdem ich in meinem ersten Podcastformat vor ein paar Jahren über Bücher erzählt habe und ich etliche positive Rückmeldungen erhielt, dachte ich mir schon lange, ich könnte doch auch einmal etwas schreiben. Wie gefällts dir?"
 +++
-> «Der Anlass dieses Buches ist damit die Idiotie der New-Work-Debatten. Die Haltung, die diese Debatten bräuchten, ist die des Zoon politikon, des gesellschaftlichen Wesens. Ein Handeln in dieser Haltung geschieht gemeinsam mit anderen und geschieht aus Sorge um die gemeinsame Welt.»
+> «Der Anlass dieses Buches ist damit die Idiotie der [New-Work](https://www.bensblog.ch/tags/newwork/)-Debatten. Die Haltung, die diese Debatten bräuchten, ist die des Zoon politikon, des gesellschaftlichen Wesens. Ein Handeln in dieser Haltung geschieht gemeinsam mit anderen und geschieht aus Sorge um die gemeinsame Welt.»
 >
 > *Hans Rusinek, Seite 95*
 
@@ -20,7 +20,7 @@ footnotes = "🛒[Zum Buch Work Survive Balance bei exlibris ](https://www.exlib
 
 **Verlag:** Verlag Herder GmbH, Freiburg im Breisgau
 
- 
+![](work-survive-balance.jpg)
 
 ## Einführung
 
@@ -43,6 +43,8 @@ Rusinek nimmt uns Lesende mit auf eine Zeitreise durch die Arbeitsgeschichte. Er
 ### Die Zukunft des Planeten und der Arbeitswelt
 
 Rusinek schildert, wie die Arbeitswelt und Wirtschaft erheblich zur ökologischen Krise beitragen und welchen Einfluss ein nachhaltigeres Wirtschaften haben könnte. Dabei geht er nicht nur theoretisch vor, sondern schildert eigene Erfahrungen und Beispiele, wie z. B. seinen „Knoppers-Konsum“, um praktische Ansätze zu zeigen. Er verbindet hier Wissenschaft und Praxis und fordert eine zukunftsfähige Gestaltung unserer Arbeit im Einklang mit den ökologischen Herausforderungen.
+
+![](img_1020-2.jpg)
 
 ### Dimensionen des Wandels
 
