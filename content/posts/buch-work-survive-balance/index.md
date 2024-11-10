@@ -1,5 +1,5 @@
 +++
-title = "Work-Survive Balance - Buch von Hans Rusinek "
+title = "Work Survive Balance - Buch von Hans Rusinek "
 date = "2024-11-10"
 draft = false
 pinned = false
@@ -12,7 +12,7 @@ footnotes = "🛒[Zum Buch Work Survive Balance bei exlibris ](https://www.exlib
 >
 > *Hans Rusinek, Seite 95*
 
-**Titel:** Work-Survive-Balance – Warum die Zukunft der Arbeit die Zukunft unserer Erde ist
+**Titel:** Work Survive Balance – Warum die Zukunft der Arbeit die Zukunft unserer Erde ist
 
 **Autor:** Hans Rusinek
 
@@ -28,7 +28,7 @@ footnotes = "🛒[Zum Buch Work Survive Balance bei exlibris ](https://www.exlib
 >
 > *Zitat von Tom Cashman im Buch auf Seite 9*
 
-Das Buch „Work-Survive-Balance“ von Hans Rusinek ist mehr als ein Werk über Nachhaltigkeit, wie es der Untertitel vermuten lassen könnte. Es ist ein tiefgründiger und zugleich praktischer Blick auf die Vergangenheit, Gegenwart und Zukunft der Arbeit und uns Menschen im Kontext von Arbeit. Rusinek zeigt auf, wie eng die Zukunft unseres Planeten mit der Zukunft der Arbeit verwoben ist. Er analysiert die Entwicklungen und Veränderungen, die unsere Arbeitswelt durchlaufen hat, und beleuchtet, wie heutige Herausforderungen mit der Vergangenheit verbunden sind und wie sie unsere Zukunft beeinflussen.
+Das Buch „Work Survive Balance“ von Hans Rusinek ist mehr als ein Werk über Nachhaltigkeit, wie es der Untertitel vermuten lassen könnte. Es ist ein tiefgründiger und zugleich praktischer Blick auf die Vergangenheit, Gegenwart und Zukunft der Arbeit und uns Menschen im Kontext von Arbeit. Rusinek zeigt auf, wie eng die Zukunft unseres Planeten mit der Zukunft der Arbeit verwoben ist. Er betrachtet die Entwicklungen und Veränderungen, die unsere Arbeitswelt durchlaufen hat, und beleuchtet, wie heutige Herausforderungen mit der Vergangenheit verbunden sind und wie sie unsere Zukunft beeinflussen.
 
 ## Inhaltliche Schwerpunkte
 
