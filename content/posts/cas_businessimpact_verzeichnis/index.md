@@ -44,7 +44,11 @@ Hier erscheinen laufend Bücher, mit denen ich mich in diesem CAS beschäftige. 
 
 📕[Work Survive Balance, Hans Rusinek](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/hans-rusinek/work-survive-balance/id/9783451399657/)
 
+**[\--> Einblicke und Gedanken zum Buch in diesem Blogbeitrag](https://www.bensblog.ch/buch-work-survive-balance/)**
+
 📘[New Work - Gute Arbeit gestalten, Psychologisches Empowerment von Mitarbeitern, Carsten Schermuly](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/carsten-c-schermuly/new-work-gute-arbeit-gestalten/id/9783648176290/)
+
+**[\--> Einblicke und Gedanken zum Buch in diesem Blogbeitrag](https://www.bensblog.ch/new-work-gute-arbeit-gestalten-buch-von-carsten-c-schermuly/)**
 
 📕[Psychologie des Lebenssinns, Tatjana Schnell](https://www.exlibris.ch/de/buecher-buch/e-books-deutsch/tatjana-schnell/psychologie-des-lebenssinns/id/9783662489222/)
 
