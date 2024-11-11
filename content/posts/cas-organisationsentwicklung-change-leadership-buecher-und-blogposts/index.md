@@ -66,6 +66,8 @@ Mein CAS Organisationsentwicklung & Change Leadership läuft bereits einige Zeit
 
 📘[New Work - Gute Arbeit gestalten, Psychologisches Empowerment von Mitarbeitern](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/carsten-c-schermuly/new-work-gute-arbeit-gestalten/id/9783648150023/)
 
+**[\--> Einblicke und Gedanken zum Buch in diesem Blogbeitrag](https://www.bensblog.ch/new-work-gute-arbeit-gestalten-buch-von-carsten-c-schermuly/)**
+
 **Fokus Lernen & Personalentwicklung**
 
 📘[Lernhacks,](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/thomas-tillmann/lernhacks/id/9783800664986/) [Mit einfachen Routinen Schritt für Schritt zur agilen Lernkultur](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/thomas-tillmann/lernhacks/id/9783800664986/)
@@ -92,6 +94,8 @@ Mein CAS Organisationsentwicklung & Change Leadership läuft bereits einige Zeit
 
 📘 [Das neue Führen, Führen und sich führen lassen in Zeiten der Unvorhersehbarkeit, Bodo Janssen](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/bodo-janssen/das-neue-fuehren/id/9783424202854/)
 
+**[\--> Einblicke und Gedanken zum Buch in diesem Blogbeitrag](https://www.bensblog.ch/das-neue-fuehren/)**
+
 📕 [Trust me, warum Vertrauen die Zukunft der Arbeit ist, Karin Lausch](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/karin-lausch/trust-me-warum-vertrauen-die-zukunft-der-arbeit-ist/id/9783648172353/)
 
 📘 [TZI - Die Kunst sich selbst und eine Gruppe zu leiten](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/cornelia-loehmer/tzi-die-kunst-sich-selbst-und-eine-gruppe-zu-leiten/id/9783608961225/)
@@ -104,7 +108,9 @@ Mein CAS Organisationsentwicklung & Change Leadership läuft bereits einige Zeit
 
 📘[Wofür stehen Sie morgens auf? Warum Sinn und Bedeutung für unsere Gesundheit wichtig sind von Prof. Dr. Tobias Esch](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/tobias-esch/wofuer-stehen-sie-morgens-auf/id/9783833887611/)
 
-📕[Psychologie des Lebenssinns, Tatjana Schnell ](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/tatjana-schnell/psychologie-des-lebenssinns/id/9783662611197/)📕[Mindful Leadership, Die 7 Prinzipien achtsamer Führung von Marc Lesser ](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/marc-lesser/mindful-leadership-die-7-prinzipien-achtsamer-fuehrung/id/9783867812740/)
+📕[Psychologie des Lebenssinns, Tatjana Schnell ](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/tatjana-schnell/psychologie-des-lebenssinns/id/9783662611197/)
+
+📕[Mindful Leadership, Die 7 Prinzipien achtsamer Führung von Marc Lesser ](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/marc-lesser/mindful-leadership-die-7-prinzipien-achtsamer-fuehrung/id/9783867812740/)
 
 📘[Theorie U, Von der Zukunft her führen, Presencing als soziale Technik, C. Otto Scharmer](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/c-otto-scharmer/theorie-u-von-der-zukunft-her-fuehren/id/9783849703479/)
 
