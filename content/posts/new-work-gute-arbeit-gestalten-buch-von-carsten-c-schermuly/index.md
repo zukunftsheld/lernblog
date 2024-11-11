@@ -8,8 +8,6 @@ image = "new-work.jpg"
 description = "Einblicke und Gedanken zum Buch von Carsten C. Schermuly"
 footnotes = "🛒[Zum Buch New Work - Gute Arbeit gestalten (4. Auflage) bei exlibris](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/carsten-c-schermuly/new-work-gute-arbeit-gestalten/id/9783648176290/)\n\n🌐[Webseite des Autors](https://carstenschermuly.de)\n\nPS: Das ist meine vierte [«Buchrezension»](https://www.bensblog.ch/tags/buch/) und ein weiterer Versuch. Nachdem ich in meinem ersten Podcastformat vor ein paar Jahren über Bücher erzählt habe und ich etliche positive Rückmeldungen erhielt, dachte ich mir schon lange, ich könnte doch auch einmal etwas schreiben. Wie gefällts dir?\n\nPPS: Keine bezahlte Werbung, nur persönliche Einschätzung & Empfehlung."
 +++
-# New Work – Gute Arbeit gestalten
-
 ## Zusammenfassung
 
 Das Buch von Carsten C. Schermuly beschäftigt sich intensiv mit dem Thema [New Work](https://www.bensblog.ch/tags/newwork/) und beleuchtet es aus der Perspektive des psychologischen Empowerments der Mitarbeitenden. Der Autor stellt dabei die Frage in den Mittelpunkt, wie Menschen in ihrer Arbeit gestärkt werden können und welche positiven Auswirkungen ein solches Empowerment haben kann. Schermuly führt kurz durch die historische Entwicklung der Arbeitswelt und greift dabei vier Trends auf, die die Zukunft der Arbeit massgeblich beeinflussen: Wissenszuwachs, Digitalisierung, Globalisierung und der demografische Wandel.
