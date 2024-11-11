@@ -8,7 +8,7 @@ image = "new-work.jpg"
 description = "Einblicke und Gedanken zum Buch von Carsten C. Schermuly"
 footnotes = "🛒[Zum Buch New Work - Gute Arbeit gestalten (4. Auflage) bei exlibris](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/carsten-c-schermuly/new-work-gute-arbeit-gestalten/id/9783648176290/)\n\n🌐[Webseite des Autors](https://carstenschermuly.de)\n\nPS: Das ist meine vierte [«Buchrezension»](https://www.bensblog.ch/tags/buch/) und ein weiterer Versuch. Nachdem ich in meinem ersten Podcastformat vor ein paar Jahren über Bücher erzählt habe und ich etliche positive Rückmeldungen erhielt, dachte ich mir schon lange, ich könnte doch auch einmal etwas schreiben. Wie gefällts dir?\n\nPPS: Keine bezahlte Werbung, nur persönliche Einschätzung & Empfehlung."
 +++
-# New Work – Gute Arbeit gestalten 
+# New Work – Gute Arbeit gestalten
 
 ## Zusammenfassung
 
@@ -22,8 +22,7 @@ Das Buch von Carsten C. Schermuly beschäftigt sich intensiv mit dem Thema [New 
 
 Das Buch startet mit einer Einführung in das Konzept von New Work und zieht eine kleine historische Linie der Arbeitswelt. Es gibt einen kurzen Einlick in den Ansatz von Frithjof Bergmann oder von New Work als Containerbegriff, bevor es mit dem psychologischen Empowerment weitergeht. 
 
-#### \
-Strukturelles vs. Psychologisches Empowerment als Grundlage
+#### Strukturelles vs. Psychologisches Empowerment als Grundlage
 
 Das Buch beginnt mit einer Einführung in das strukturelle und psychologische Empowerment, um das Zusammenspiel beider Ansätze verständlich zu machen. Diese Grundlage hilft, das folgende Konzept des psychologischen Empowerments in der Arbeitsgestaltung besser zu verorten.
 
@@ -46,6 +45,8 @@ Auch die Organisationskultur wird umfassend thematisiert. Eine offene Fehlerkult
 #### Personalauswahl und -entwicklung
 
 Schermuly beleuchtet zudem, wie die gezielte Personalauswahl und passgenaue [Personalentwicklung](https://www.bensblog.ch/tags/personalentwicklung/) das psychologische Empowerment verstärken können. Er spricht sich gegen einen Giesskannenansatz aus und betont die Notwendigkeit, individuelle Entwicklungsmassnahmen anzubieten, die auf die Bedürfnisse und Potenziale der Mitarbeitenden abgestimmt sind.
+
+![](img_9941-2.jpg)
 
 ## Persönliche Gedanken
 
