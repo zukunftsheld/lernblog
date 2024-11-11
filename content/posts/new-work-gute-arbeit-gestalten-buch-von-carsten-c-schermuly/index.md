@@ -26,15 +26,27 @@ Das Buch beginnt mit einer Einführung in das strukturelle und psychologische Em
 
 #### Der Boden, auf dem psychologisches Empowerment wachsen kann
 
+> «Bei einer empowermentorientierten Grundhaltung verschmelzen der Erfolg und das Wohl der Mitarbieter mit dem Erfolg und dem Wohl des Unternehmens.»
+>
+> *aus dem Buch S. 99*
+
 Der Autor beschreibt sieben Grundhaltungen, die für psychologisches Empowerment wichtig sind. Dazu gehören u.a. die Wertschätzung der Mitarbeitenden, Vertrauen statt Kontrolle und eine organisationsweite Empowerment-Strategie. Diese Grundhaltungen schaffen die Basis, dass psychologisches Empowerment in der Praxis nachhaltig Wirkung entfalten kann.
 
 #### Förderung des Empowerments durch die Arbeitsgestaltung
 
 Ein weiterer Schwerpunkt liegt auf der Frage, wie [psychologisches Empowerment](https://www.bensblog.ch/psychologisches_empowerment/) durch die Gestaltung der Arbeit gefördert werden kann. Schermuly beschreibt, wie Arbeitsprozesse und -umgebungen gezielt gestaltet werden können, um den Mitarbeitenden mehr Kompetenz, Selbstbestimmung, Einfluss und Bedeutsamkeit zu ermöglichen – die vier wesentlichen Facetten des psychologischen Empowerments.
 
+> «Menschen haben eine tiefe Sehnsucht danach, dass ihr Handeln bedeutsam ist.»
+>
+> *aus dem Buch S. 62*
+
 #### Rolle der [Führungskraft](https://www.bensblog.ch/tags/leadership/)
 
 Ein weiterer zentraler Aspekt ist die Rolle der Führungskraft im Empowerment-Prozess. Der Autor schreibt, dass Führungskräfte eine wesentliche Rolle spielen, indem sie ein Umfeld schaffen, das Empowerment fördert, und durch ihre Haltung und ihr Verhalten das psychologische Empowerment aktiv unterstützen.
+
+> «Empowermentorientierte Führungskräfte klären und erklären Arbeitsziele. Sie helfen den Mitarbeitern zu verstehen, wie die Teilziele miteinander verbunden sind und durch die Teilziele das Gesamtziel erreicht wird.»
+>
+> *aus dem Buch S. 208*
 
 #### Einfluss der [Organisationskultur](https://www.bensblog.ch/tags/organisationskultur/)
 
