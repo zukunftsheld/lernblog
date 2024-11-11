@@ -6,10 +6,8 @@ pinned = false
 tags = ["Buch", "Agilität", "Lernen", "Bildung", "Leadership", "Personalentwicklung", "Organisationsentwicklung"]
 image = "agiles-lernen.jpg"
 description = "Einblicke in das Buch «Agiles Lernen» und Gedanken dazu. "
-footnotes = "🛒[Zum Buch New Work - Gute Arbeit gestalten (4. Auflage) bei exlibris](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/nele-graf/agiles-lernen/id/9783648158548/?srsltid=AfmBOop9JV1Yq0PsvcHP4APLxIEl8rE6s1cuSRj9oJRv0O0d-LepJPKO)\n\nPS: Das ist meine fünfte [«Buchrezension»](https://www.bensblog.ch/tags/buch/) und ein weiterer Versuch (wobei langsam nicht mehr von einem Versuch gesprochen werden kann 😉). Nachdem ich in meinem ersten Podcastformat vor ein paar Jahren über Bücher erzählt habe und ich etliche positive Rückmeldungen erhielt, dachte ich mir schon lange, ich könnte doch auch einmal etwas schreiben. Wie gefällts dir?\n\nPPS: Keine bezahlte Werbung, nur persönliche Einschätzung & Empfehlung."
+footnotes = "🛒[Zum Buch «Agiles Lernen» bei exlibris](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/nele-graf/agiles-lernen/id/9783648158548/?srsltid=AfmBOop9JV1Yq0PsvcHP4APLxIEl8rE6s1cuSRj9oJRv0O0d-LepJPKO)\n\nPS: Das ist meine fünfte [«Buchrezension»](https://www.bensblog.ch/tags/buch/) und ein weiterer Versuch (wobei langsam nicht mehr von einem Versuch gesprochen werden kann 😉). Nachdem ich in meinem ersten Podcastformat vor ein paar Jahren über Bücher erzählt habe und ich etliche positive Rückmeldungen erhielt, dachte ich mir schon lange, ich könnte doch auch einmal etwas schreiben. Wie gefällts dir?\n\nPPS: Keine bezahlte Werbung, nur persönliche Einschätzung & Empfehlung."
 +++
-Autor:innen: Nele Graf, Denise Gramss und Frank Edelkraut
-
 ## Einleitung: Die Notwendigkeit agilen Lernens in einer sich wandelnden Arbeitswelt
 
 Das Buch beginnt mit der Beobachtung, dass sich nicht nur die Arbeitswelt, sondern auch die Lernwelt grundlegend wandelt. Während sich Unternehmen früher langsamer entwickelten, beschleunigen heute technologische Innovationen, etwa durch künstliche Intelligenz und digitale Transformation, diesen Wandel. Die Autoren argumentieren, dass die Diskrepanz zwischen den Anforderungen der industriellen und der digitalen Revolution eine neue Herangehensweise an das Lernen erfordert. In diesem Zusammenhang wird agiles Lernen als ein Schlüsselkonzept hervorgehoben, das sich an die dynamischen Bedingungen der modernen Arbeitswelt anpassen kann.
@@ -49,5 +47,9 @@ Ein weiterer Aspekt des Buches sind die neuen Rollen von Führungskräften und P
 > «In der Konsequenz gehört das kontinuierliche Lernen von Mitarbeitenden, Führungskräften und der Organisation zu den zentralen Aufgaben moderner Personalentwicklung.»
 >
 > *aus dem Buch S. 35*
+
+Buch: Agiles Lernen – Neue Rollen, Kompetenzen und Methoden im Unternehmenskontext
+
+Autor:innen: Nele Graf, Denise Gramss und Frank Edelkraut
 
 **👍Von mir gibt es dafür eine Lese-Empfehlung!**
