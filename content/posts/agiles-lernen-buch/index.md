@@ -48,8 +48,8 @@ Ein weiterer Aspekt des Buches sind die neuen Rollen von Führungskräften und P
 >
 > *aus dem Buch S. 35*
 
+**👍Von mir gibt es dafür eine Lese-Empfehlung!**
+
 Buch: Agiles Lernen – Neue Rollen, Kompetenzen und Methoden im Unternehmenskontext
 
 Autor:innen: Nele Graf, Denise Gramss und Frank Edelkraut
-
-**👍Von mir gibt es dafür eine Lese-Empfehlung!**
