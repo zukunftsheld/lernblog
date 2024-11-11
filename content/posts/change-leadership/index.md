@@ -22,22 +22,22 @@ Obwohl meine aktuelle Weiterbildung Organisationsentwicklung und Change Leadersh
 
 **Change-Management wird durch folgende Elemente charakterisiert:** 
 
-* Strukturierter und methodischer Prozess, der den Wandel in der Organisation steuert.
-* Planung, Überwachung und Evaluation der Prozesse und Ergebnisse. 
+* Strukturierter und methodischer Prozess, der den Wandel in der Organisation steuert
+* Planung, Überwachung und Evaluation der Prozesse und Ergebnisse
 * Fokus auf den Strukturen und den Systemen in der Organisation
 
 #### **Change-Leadership**
 
 **Beim Change-Leadership rücken die Menschen in den Fokus. Es geht nicht mehr lediglich um Prozesse und Ergebnisse. Folgende Elemente stehen für Change-Leadership.**  
 
-* Mitarbeitende stehen neben der Strategie im Fokus.
+* Mitarbeitende stehen neben der Strategie im Fokus
 * Visionen und Orientierung spielen eine wichtige Rolle
 * Die Rolle von Führungspersonen ist zentral
 * Es wird ein besonderes Augenmerk auf Kommunikation/Information gelegt.
 
 ## (Mögliche) Rollen von Change-Leadern
 
-Auch wenn für Change-Leader gerne konkrete Rollen oder ein konkretes Rollen-Set definiert werden, ist es für mich hier wichtig zu erwähnen, dass es sich dabei m. E. eher um eine Auswahl handelt, die zur Person und zur jeweiligen Organisation passen muss. Zudem scheint es mir eine (sehr) grosse Herausforderung für einen Menschen zu sein, alle Rollen auszufüllen. Insbesondere wenn man bedenkt, dass die Führung oft eine Rolle neben der Fachfunktion ist. Zudem können Change-Leader auch Mitarbeitende ohne Führungsrolle sein, sondern Menschen, welche die Veränderung mittragen und mitbegleiten. 
+Auch wenn für Change-Leader gerne konkrete Rollen oder ein konkretes Rollen-Set definiert werden, ist es für mich hier wichtig zu erwähnen, dass es sich dabei m. E. eher um eine Auswahl handelt, die zur Person und zur jeweiligen Organisation passen muss. Zudem scheint es mir eine (sehr) grosse Herausforderung für einen Menschen zu sein, alle Rollen auszufüllen. Insbesondere wenn man bedenkt, dass die Führung oft eine Rolle neben der Fachfunktion ist. Zudem können Change-Leader auch Mitarbeitende ohne Führungsrolle sein, Menschen, welche die Veränderung mittragen und mitbegleiten. 
 
 ### Visionär
 
@@ -45,7 +45,7 @@ Die (Führungs-) Personen haben eine klare Vision der Veränderung, des Zielbild
 
 ### Kommunikator
 
-Hier müssten wir noch eine Unterscheidung zwischen Kommunizieren und Informieren machen. Gute Change-Leader machen m. E. beides. Sie stellen einen zielführenden Informationsfluss sicher und informieren klar und verständlich. Gute Kommunikation ist ein zwei- oder gegenseitiger Prozess. Es geht also um den Dialog, darum zuzuhören, abzugleichen und zu verstehen. 
+Hier müssten wir noch eine Unterscheidung zwischen Kommunizieren und Informieren machen. Gute Change-Leader machen m. E. beides. Sie stellen einen zielführenden Informationsfluss sicher, informieren klar und verständlich. Gute Kommunikation ist ein zwei- oder gegenseitiger Prozess. Es geht also um den Dialog, darum zuzuhören, abzugleichen und zu verstehen. 
 
 ### Coach
 
