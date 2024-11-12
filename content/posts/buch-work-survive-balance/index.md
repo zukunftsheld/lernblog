@@ -1,6 +1,6 @@
 +++
 title = "Work Survive Balance - Buch von Hans Rusinek "
-date = "2024-11-10"
+date = "2024-10-05"
 draft = false
 pinned = false
 tags = ["Buch", "Organisationsentwicklung", "Gedanken", "NewWork"]
