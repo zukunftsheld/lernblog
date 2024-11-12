@@ -1,6 +1,6 @@
 +++
 title = "Buch: Agiles Lernen – Neue Rollen, Kompetenzen und Methoden im Unternehmenskontext"
-date = "2024-11-11"
+date = "2024-09-02"
 draft = false
 pinned = false
 tags = ["Buch", "Agilität", "Lernen", "Bildung", "Leadership", "Personalentwicklung", "Organisationsentwicklung"]
