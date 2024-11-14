@@ -8,15 +8,15 @@ description = "Hallo, ich bin Ben. \n\n"
 
 ## Ben Zaugg
 
-Hallo, ich bin Ben. \
+👋Hallo, ich bin Ben. \
 \
 ❤️‍🔥Ich beschäftige mich mit den Menschen und ihrer Arbeit.\
 \
-Mein Fokus liegt darauf, Menschen durch Veränderungen zu begleiten, vertrauensvolle und leistungsfähige Teams zu fördern und die individuelle Kompetenzentwicklung zu unterstützen.\
+✨Mein Fokus liegt darauf, Menschen durch Veränderungen zu begleiten, vertrauensvolle und leistungsfähige Teams zu fördern und die individuelle Kompetenzentwicklung zu unterstützen.\
 \
-In meinem Blog schreibe ich über mein Lernen sowie über (neue) Perspektiven und Ansätze für eine erfolgreiche und erfüllende Arbeits- und Lernkultur.
+✍️In meinem Blog schreibe ich über mein Lernen sowie über (neue) Perspektiven und Ansätze für eine erfolgreiche und erfüllende Arbeits- und Lernkultur.
 
-Ich engagiere ich mich für die [Colearning-Bewegung](https://www.colearning.org/) und bin selber Colearner. 
+🌟Ich engagiere ich mich für die [Colearning-Bewegung](https://www.colearning.org/) und bin selber Colearner. 
 
 🎧 In drei verschiedenen Podcast-Formaten 🎙️[zukunftshelden.ch](https://zukunftshelden.podigee.io), 🎙️[24stunden.life](https://24stunden.podigee.io)  🎙️[entwicklungsfreiraum.ch](https://entwicklungsfreiraum.podigee.io) spreche ich mit Menschen, die ehrliche und tiefe Einblicke in ihre Arbeit, Biografien und Lernerfahrungen geben. Alle drei Podcasts pausieren zurzeit. Die bestehenden Folgen kannst du natürlich trotzdem nachhören. Es lohnt sich! 
 
