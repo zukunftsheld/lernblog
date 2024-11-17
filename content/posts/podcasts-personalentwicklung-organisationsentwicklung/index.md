@@ -1,12 +1,12 @@
 +++
 title = "Podcasts: Eine wertvolle Ressource für die Personal- und Organisationsentwicklung"
 date = "2024-11-17"
-draft = true
+draft = false
 pinned = false
 tags = ["Podcast", "Personalentwicklung", "Organisationsentwicklung", "Kommunikation", "Lernen"]
-image = "podcast_studio.jpg"
+image = "blogbilder-4.jpg"
 description = "Podcasts sind mehr als nur ein Trend – sie bieten enorme Möglichkeiten für die Personal- und Organisationsentwicklung. Von emotionaler Ansprache bis hin zu barrierefreier Wissensvermittlung eröffnen sie neue Wege, um Mitarbeitende zu erreichen und zu begeistern. "
-footnotes = "Etwas ältere Artikel in denen ich über (mein) Equipment und meine Erfahrungen schreibe gibt es [hier](https://www.bensblog.ch/tags/podcast/)."
+footnotes = "Etwas ältere Artikel in denen ich über (mein) Equipment und meine Erfahrungen schreibe gibt es [hier](https://www.bensblog.ch/tags/podcast/).\n\n**Bildnachweise:**\n\nTitelbild: Canva, von Getty Images, littlehenrabi \n\nFoto Ben: Joscha Tschanz\n\nGrafiken: Erstelle von Ben Zaugg\n\nFoto Equipment: Ben Zaugg"
 +++
 ## Einleitende Gedanken
 
