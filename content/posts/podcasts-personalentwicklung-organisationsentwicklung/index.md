@@ -6,7 +6,7 @@ pinned = false
 tags = ["Podcast", "Personalentwicklung", "Organisationsentwicklung", "Kommunikation", "Lernen"]
 image = "blogbilder-4.jpg"
 description = "Podcasts sind mehr als nur ein Trend – sie bieten enorme Möglichkeiten für die Personal- und Organisationsentwicklung. Von emotionaler Ansprache bis hin zu barrierefreier Wissensvermittlung eröffnen sie neue Wege, um Mitarbeitende zu erreichen und zu begeistern. "
-footnotes = "Etwas ältere Artikel in denen ich über (mein) Equipment und meine Erfahrungen schreibe gibt es [hier](https://www.bensblog.ch/tags/podcast/).\n\n**Bildnachweise:**\n\nTitelbild: Canva, von Getty Images, littlehenrabi \n\nFoto Ben: Joscha Tschanz\n\nGrafiken: Erstelle von Ben Zaugg\n\nFoto Equipment: Ben Zaugg"
+footnotes = "Etwas ältere Artikel in denen ich über (mein) Podcast-Equipment und meine Erfahrungen schreibe gibt es [hier](https://www.bensblog.ch/tags/podcast/).\n\n📸**Bildnachweise:**\n\nTitelbild: Canva, von Getty Images, littlehenrabi \n\nFoto Ben: Joscha Tschanz\n\nGrafiken: Erstelle von Ben Zaugg\n\nFoto Equipment: Ben Zaugg\n\n🎙️**Umsetzungsmöglichkeiten aus der Praxis**\n\n🎧[Zu meinen Podcast-Formaten gehts mit diesem Link.](https://www.benzaugg.ch)\n\n🎧[Hier hörst du meinen aktuellen Podcast rund um (mein) Lernen, Personal- und Organisationsentwicklungsthemen.](https://entwicklungsfreiraum-siebenminuten.podigee.io)\n\n🎧[Da gehts zu einem Podcast mit Video.](https://www.youtube.com/watch?v=0ChwbO_-2-Q)\n\n🎧[Wie Podcast-Interviews bei einem Projekt begleitend eingesetzt werden können siehst und hörst du hier.](https://www.muehlemattbelp.ch/tags/podcast/)"
 +++
 ## Einleitende Gedanken
 
