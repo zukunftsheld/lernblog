@@ -4,10 +4,14 @@ date = "2024-11-17"
 draft = true
 pinned = false
 tags = ["Podcast", "Personalentwicklung", "Organisationsentwicklung", "Kommunikation", "Lernen"]
+image = "podcast_studio.jpg"
+description = "Podcasts sind mehr als nur ein Trend – sie bieten enorme Möglichkeiten für die Personal- und Organisationsentwicklung. Von emotionaler Ansprache bis hin zu barrierefreier Wissensvermittlung eröffnen sie neue Wege, um Mitarbeitende zu erreichen und zu begeistern. "
 +++
 ## Einleitende Gedanken
 
 Vor über vier Jahren habe ich meine ersten Podcastfolgen aufgezeichnet. Zwischen der ersten Idee bis zur ersten Aufnahme ist einige Zeit vergangen. Dafür sind mittlerweile ein paar Stunden Audioaufnahmen online gegangen. In Podcasts sehe ich ein grosses Potenzial für die Personal- und Organisationsentwicklung. Das heisst nicht, dass es die richtige Lösung für alle Organisationen ist, aber dazu mehr im Text. 
+
+![](podcast-ben.jpg)
 
 ## Podcasts als Tool der modernen Personal- und Organisationsentwicklung
 
