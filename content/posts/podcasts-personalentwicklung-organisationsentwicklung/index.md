@@ -70,4 +70,4 @@ Podcasts sind mehr als ein Trend. Sie haben sich in den letzten Jahren etabliert
 
 Auch wenn Podcasts eine tolle Möglichkeit sind, sind sie genauso wie alle anderen Tools und Technologien nicht die Lösung für jede Organisation. Konkrete Anwendungsfälle sollten geprüft und allenfalls in ersten Experimenten getestet werden. Für den Start eines Podcasts braucht es nicht viel. Trotzdem sind Professionalität und Qualität wichtig.  
 
-![Einfaches und professionelles Podcast-Equipment für ein kleines (Home-)Studio oder Aufnahmen unterwegs](bildschirmfoto-2024-11-17-um-11.28.30.png)
+![Einfaches und professionelles Podcast-Equipment für ein kleines (Home-)Studio oder Aufnahmen unterwegs.](bildschirmfoto-2024-11-17-um-11.28.30.png)
