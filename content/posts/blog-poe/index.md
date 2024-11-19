@@ -6,6 +6,7 @@ pinned = false
 tags = ["Blog", "Personalentwicklung", "Organisationsentwicklung", "Leadership"]
 image = "blog_100-2.jpg"
 description = "Blog - eine versteckte Superkraft der Personal- und Organisationsentwicklung?\nIn einer Zeit, in der Wissen, Vertrauen und Dialog entscheidend sind, können Blogs mehr als nur informieren: Sie schaffen Persönlichkeit, stärken den internen Austausch und fördern strategische Entwicklungen. "
+footnotes = "Titelbild: Erstellt mit Dall-E 3\n\nBlog: Erstellt mit [Lilo.Blog](https://www.lilo.blog)"
 +++
 ## Einleitung: Warum Blogs?
 
