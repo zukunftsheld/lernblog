@@ -1,6 +1,6 @@
 +++
 title = "Stark durch den Wandel: Veränderungen im Arbeitsumfeld meistern"
-date = "2024-11-24"
+date = "2024-11-25"
 draft = true
 pinned = false
 tags = ["Change", "Leadership", "Personalentwicklung", "Organisationsentwicklung", "Transformation"]
