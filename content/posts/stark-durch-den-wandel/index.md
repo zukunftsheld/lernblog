@@ -1,5 +1,5 @@
 +++
-title = "stark-durch-den-wandel"
+title = "Stark durch den Wandel: Veränderungen im Arbeitsumfeld meistern"
 date = "2024-11-19"
 draft = true
 pinned = false
