@@ -23,6 +23,8 @@ Ein Blog aus der Feder der Personal- und Organisationsentwicklung spiegelt die E
 
 Durch diese gezielte Mischung aus Fachwissen und optionaler Beteiligung wird der Blog zu einem wertvollen Werkzeug für interne Kommunikation und Wissensmanagement.
 
+![Vorteile und Nutzungsmöglichkeiten eines Blogs der Personal- und Organisationsentwicklung. Eigene Darstellung. ](vorteile-blog-poe.jpg)
+
 ## Praxisorientierte Einsatzmöglichkeiten
 
 ### Change-Prozesse begleiten
@@ -49,15 +51,15 @@ Der Blog kann dazu beitragen, Wissen nachhaltig zu dokumentieren und abteilungs�
 
 Neben der inhaltlichen Vielfalt können Blogs auch durch innovative Erweiterungen überzeugen, die ihre Reichweite und Wirkung verstärken.
 
-## Erweiterungsmöglichkeiten: Von KI bis Mehrsprachigkeit
+## Erweiterungsmöglichkeiten: Von [KI](https://www.bensblog.ch/tags/ki/) bis Mehrsprachigkeit
 
-**Durch KI in andere Formate umwandeln:** Blogs können mit Hilfe von KI in Podcasts umgewandelt werden. Das ermöglicht die Teilhabe z. B. von Menschen mit Schwierigkeiten beim Lesen und Schreiben. 
+**Durch KI in andere Formate umwandeln:** Blogs können mit Hilfe von KI in [Podcasts](https://www.bensblog.ch/podcasts-personalentwicklung-organisationsentwicklung/) umgewandelt werden. Das ermöglicht die Teilhabe z. B. von Menschen mit Schwierigkeiten beim Lesen und Schreiben. 
 
 **Integration anderer Formate in den Blogartikel:** Die Ergänzung von Podcasts oder Videos kann helfen, Inhalte interaktiv und barrierefrei zugänglich zu machen. 
 
 **Mehrsprachigkeit fördern:** Übersetzungen ermöglichen einen einfachen Zugang für alle Mitarbeitenden, unabhängig von ihrer Muttersprache.
 
-![](vorteile-podcast_poe.jpg)
+![Vielfältige Nutzungsmöglichkeiten mit wenig Aufwand durch die Hilfe von KI. Eigene Darstellung.](vorteile-podcast_poe.jpg)
 
 ## Interaktivität und Feedback-Kultur: Dialog fördern
 
@@ -67,4 +69,6 @@ Ein Blog ist nicht nur ein Informationskanal, sondern auch eine Plattform für d
 
 Ein Blog aus der Feder der Personal- und Organisationsentwicklung ist mehr als ein Informationsmedium: Er verbindet fundierte Fachthemen mit strategischer Kommunikation und optionalen Perspektiven der Mitarbeitenden. Mit einer klaren Ausrichtung und einer interaktiven Gestaltung kann er nicht nur Wissen teilen, sondern auch Vertrauen und Vernetzung innerhalb der Organisation fördern. Ein schrittweises Herantasten in iterativen Prozessen hilft dabei, die idealen Inhalte und Formate zu entwickeln.
 
-PS: Das ist mein hundertster (100!)🎉 Blogbeitrag, der hier erscheint.
+PS: Das ist mein hundertster (100!)🎉 Blogbeitrag!
+
+![](f85b975b-b80a-490b-b752-cec4763f434d.jpg)
