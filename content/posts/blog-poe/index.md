@@ -1,6 +1,6 @@
 +++
 title = "Blogs als wertvolle Ressource in der Personal- und Organisationsentwicklung"
-date = "2024-12-02"
+date = "2024-12-09"
 draft = true
 pinned = false
 tags = ["Blog", "Personalentwicklung", "Organisationsentwicklung", "Leadership"]
