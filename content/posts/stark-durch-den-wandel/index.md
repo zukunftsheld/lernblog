@@ -1,9 +1,12 @@
 +++
 title = "Stark durch den Wandel: Veränderungen im Arbeitsumfeld meistern"
-date = "2024-11-19"
+date = "2024-11-24"
 draft = true
 pinned = false
 tags = ["Change", "Leadership", "Personalentwicklung", "Organisationsentwicklung", "Transformation"]
+image = "beach-1853549_1280.jpg"
+description = "Veränderungen am Arbeitsplatz sind allgegenwärtig und oft herausfordernd. Doch mit der richtigen Perspektive und Strategien können sie eine Chance für persönliches und berufliches Wachstum sein."
+footnotes = "Titelbild von [Pexels](https://pixabay.com/de/users/pexels-2286921/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1853549) auf [Pixabay](https://pixabay.com/de//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1853549)"
 +++
 ## Einleitung
 
