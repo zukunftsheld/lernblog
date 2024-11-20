@@ -1,6 +1,6 @@
 +++
 title = "Widerstände anerkennen: Der Schlüssel zu nachhaltiger Veränderung"
-date = "2024-11-20"
+date = "2024-12-16"
 draft = true
 pinned = false
 tags = ["Change", "Change-Management", "Leadership", "Personalentwicklung", "Organisationsentwicklung"]
@@ -121,8 +121,7 @@ Change-Begleiter:innen spielen eine wichtige Rolle in Veränderungsprozessen, in
 
 **Coach und Motivator:innen:** Sie begleiten Menschen durch die emotionalen Höhen und Tiefen eines Wandels. Dabei unterstützen sie diese beim Erkennen, Aufbauen und Nutzen von ihren eigenen Ressourcen. 
 
-### \
-Nutzung der Ansätze
+### Nutzung der Ansätze
 
 Die drei vorgestellten Modelle können einzeln genutzt werden und sie lassen sich auch ideal miteinander kombinieren:
 
@@ -133,3 +132,5 @@ Die drei vorgestellten Modelle können einzeln genutzt werden und sie lassen sic
 ## Gedanken zum Schluss
 
 Widerstände sind (auch wenn sie so wirken) keine Hindernisse, sondern wertvolle Hinweise in Veränderungsprozessen. Mit den richtigen Ansätzen sowie der Unterstützung durch kompetente Change-Begleiter:innen lassen sich Widerstände sinnvoll und wirksam nutzen. So wird nachhaltige Veränderung möglich.
+
+![](widerstand.jpg)
