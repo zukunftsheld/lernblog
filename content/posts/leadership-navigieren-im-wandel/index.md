@@ -42,11 +42,11 @@ So unterschiedliche wie Organisationen und Teams sind, so individuell gestaltet 
 
 <script class="podigee-podcast-player" src="https://player.podigee-cdn.net/podcast-player/javascripts/podigee-podcast-player.js" data-configuration="https://entwicklungsfreiraum-siebenminuten.podigee.io/10-neue-episode/embed?context=external"></script>
 
-Nachträgliche Ergänzung:\
-\
+#### Nachträgliche Ergänzung:
+
 Für eine Führungsperson, welche ein Team durch verschiedenen Schwierigkeiten und Veränderungen begleitete, habe ich einige Materialien zur Unterstützung erstellt. Die Entwürfe teile ich hier zur Inspiration: 
 
-**Diese Karten dienten als Hilfe bei der laufenden Klärung von Themen rund um die Arbeit im Team und der Rolle dieses Teams innerhalb der Organisation.**
+**Aufgrund verschiedener Spannungen, Unsicherheiten und Konflikten im Team habe ich ein Kartenset zur Unterstützung erstellt. Diese Karten dienten als Hilfe bei der laufenden Klärung von Themen rund um die Arbeit im Team und der Rolle dieses Teams innerhalb der Organisation.**
 
 ![](2.jpg)
 
