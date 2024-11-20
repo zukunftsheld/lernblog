@@ -50,7 +50,6 @@ Rusinek schildert, wie die Arbeitswelt und Wirtschaft erheblich zur ökologische
 
 Er betrachtet verschiedene Dimensionen des Wandels, um die Arbeitswelt grundlegend zu verändern:
 
-\
 **Haltung und Organisationsverständnis:** Der Text fordert eine Abkehr von kurzfristigem Profitdenken zugunsten eines ganzheitlicheren Ansatzes, der auch künftigen Generationen (Stichwort Enkeltauglichkeit) zugutekommt.
 
 **Anerkennung von Arbeit**: Gerechte Wertschätzung wird für alle Arbeitsformen gefordert, nicht nur für Wissensarbeit. Die Spaltung der Arbeitsgesellschaft wird kritisch beleuchtet.
@@ -84,6 +83,10 @@ Rusineks Stil ist zugänglich und klar, zugleich reflektiert und humorvoll. Er v
 
 ## Fazit
 
-„Work-Survive-Balance“ ist ein inspirierendes und wichtiges Buch, das zentrale Fragen der heutigen Arbeitswelt aufgreift und gleichzeitig einen konkreten Ausblick auf eine nachhaltigere Zukunft gibt. Rusinek schlägt Brücken zwischen Theorie und Praxis. Dabei spricht er Leser (fast) jeden Alters und jeder Berufssparte an. Das Buch bietet zahlreiche Denkanstösse, wie wir gemeinsam die Zukunft der Arbeit und des Planeten positiv gestalten können. Es ist ein Werk, das Mut macht und gleichzeitig Wege aufzeigt, wie wir zu einem bewussteren Umgang mit Arbeit und Umwelt finden können.\
+„Work-Survive-Balance“ ist ein inspirierendes und wichtiges Buch, das zentrale Fragen der heutigen Arbeitswelt aufgreift und gleichzeitig einen konkreten Ausblick auf eine nachhaltigere Zukunft gibt. Rusinek schlägt Brücken zwischen Theorie und Praxis. Dabei spricht er Leser (fast) jeden Alters und jeder Berufssparte an. Das Buch bietet zahlreiche Denkanstösse, wie wir gemeinsam die Zukunft der Arbeit und des Planeten positiv gestalten können. Es ist ein Werk, das Mut macht und gleichzeitig Wege aufzeigt, wie wir zu einem bewussteren Umgang mit Arbeit und Umwelt finden können.
+
+![](rusinek_zitat.jpg)
+
+\
 \
 **Empfehlung:** Für alle, die sich für die Themen Arbeit, Nachhaltigkeit und Zukunftsperspektiven interessieren und bereit sind, ihr eigenes Arbeitsverständnis zu hinterfragen.
