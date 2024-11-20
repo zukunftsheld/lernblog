@@ -46,7 +46,7 @@ Im [ZUKUNFTSHELDEN-Podcast](https://zukunftshelden.podigee.io) sprechen Menschen
 
 **Offenheit:** Auch wenn es schwierig ist offenzubleiben und eine gewisse Veränderungsmüdigkeit einsetzen kann, hilft es dir, dem Neuen mit Offenheit zu begegnen. 
 
-**Klarheit schaffen:** Wenn die Klarheit oder Kommunikation in der Organisation fehlt, kannst du versuchen diese durch selbst zu beschaffen oder Unsicherheiten bei Vorgesetzten anzusprechen. Nicht selten sind die Führungspersonen in solchen Change-Prozessen selbst Betroffene und möglicherweise unsicher. 
+**Klarheit schaffen:** Wenn die Klarheit oder Kommunikation in der Organisation fehlt, kannst du versuchen diese selbst zu beschaffen oder Unsicherheiten bei Vorgesetzten anzusprechen. Nicht selten sind die Führungspersonen in solchen Change-Prozessen selbst Betroffene und möglicherweise unsicher. 
 
 **Netzwerken:** Es kann dem persönlichen und beruflichen Wachstum und der Change-Kompetenz dienen, sich Unterstützung ausserhalb der Organisation zu suchen. Das können Coaches, Supervisor:innen, Psychotherapeut:innen etc. sein. 
 
