@@ -4,6 +4,9 @@ date = "2024-11-20"
 draft = true
 pinned = false
 tags = ["Change", "Change-Management", "Leadership", "Personalentwicklung", "Organisationsentwicklung"]
+image = "img_0615-2.jpg"
+description = "Widerstände in Veränderungsprozessen sind keine Hindernisse, sondern wertvolle Signale, die auf Bedürfnisse und Potenziale hinweisen."
+footnotes = "Titelbild: Ben Zaugg\\\n\\\n**Herkunft der Modelle:** \n\n* Circle of Influence: Stephen R. Covey\n* Störungen haben Vorrang: Ruth C. Cohn\n* 4-Zimmer der Veränderung: Claes D. Janssen"
 +++
 ## Einführung
 
