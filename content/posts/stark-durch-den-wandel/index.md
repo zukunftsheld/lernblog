@@ -54,8 +54,6 @@ Im [ZUKUNFTSHELDEN-Podcast](https://zukunftshelden.podigee.io) sprechen Menschen
 
 **Planen:** Wenn im Aussen die Orientierung fehlt oder für das eigene Bedürfnis zu wenig ist, kann man selbst planen und sich so gut wie möglich organisieren. [Es hilft, einen Plan und vielleicht auch einen Plan B zu haben. ](https://www.bensblog.ch/warum-plaene-helfen/)
 
-![]()
-
 ## **Sich selbst kennen(-lernen)**
 
 Sich selbst und die eigenen physischen und psychischen Reaktionen auf Stress, Veränderungen, Unsicherheiten etc. zu kennen kann enorm helfen, sich in Zeiten des Wandels zu orientieren. Das braucht natürlich Zeit und am besten (professionelle) Hilfe von aussen. Es gibt auch Dinge, die man selbst tun kann. Nachfolgende Möglichkeiten helfen, sich und die eigenen Reaktionen besser kennenzulernen oder einen anderen Umgang mit Stress und Unsicherheiten zu finden. 
@@ -72,7 +70,7 @@ Sich selbst und die eigenen physischen und psychischen Reaktionen auf Stress, Ve
 
 Die Resilienz wird oft mit 7 Säulen der Resilienz dargestellt. Diese Elemente dieser Säulen helfen uns auch, gesund und stark durch den Wandel zu kommen. Eine Investition in die Lebensbereiche und Haltungen, die im eigenen Leben wenig ausgeprägt sind, lohnt sich also. So kannst du dich ganz grundsätzlich und für den Wandel stärken.  
 
-![](resilienz.jpg)
+![](resilienz-2.jpg)
 
 ## Das führt zu mehr Schwierigkeiten
 
