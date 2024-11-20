@@ -1,12 +1,12 @@
 +++
 title = "Stark durch den Wandel: Veränderungen im Arbeitsumfeld meistern"
-date = "2024-11-25"
-draft = true
+date = "2024-11-20"
+draft = false
 pinned = false
 tags = ["Change", "Leadership", "Personalentwicklung", "Organisationsentwicklung", "Transformation"]
 image = "beach-1853549_1280.jpg"
 description = "Veränderungen am Arbeitsplatz sind allgegenwärtig und oft herausfordernd. Doch mit der richtigen Perspektive und Strategien können sie eine Chance für persönliches und berufliches Wachstum sein."
-footnotes = "Titelbild von [Pexels](https://pixabay.com/de/users/pexels-2286921/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1853549) auf [Pixabay](https://pixabay.com/de//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1853549)\n\n**Passende Bücher:**\n\n📕[Achtsamkeit für alle, Weisheit zur Transformation der Welt](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/jon-kabat-zinn/achtsamkeit-fuer-alle/id/9783867812535/)\n\n📕[Meditation ist nicht, was Sie denken, Warum Achtsamkeit so wichtig ist](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/jon-kabat-zinn/meditation-ist-nicht-was-sie-denken/id/9783867812504/)\n\n📕[Wach weden und unser Leben wirklich leben, Wie wir Achtsamkeit im Alltag praktizieren](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/jon-kabat-zinn/wach-werden-und-unser-leben-wirklich-leben/id/9783867812511/)\n\n📕[Das heilende Potenzial der Achtsamkeit, Eine neue Art zu sein](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/jon-kabat-zinn/das-heilende-potenzial-der-achtsamkeit/id/9783867812528/)\n\n📕[Mindful Leadership, Die 7 Prinzipien achtsamer Führung von Marc Lesser ](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/marc-lesser/mindful-leadership-die-7-prinzipien-achtsamer-fuehrung/id/9783867812740/)\n\n📕[Das neue Führen, Führen und sich führen lassen in Zeiten der Unvorhersehbarkeit von Bodo Janssen](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/bodo-janssen/das-neue-fuehren/id/9783424202854/)\n\n📕[Wofür stehen Sie morgens auf? Warum Sinn und Bedeutung für unsere Gesundheit wichtig sind von Prof. Dr. Tobias Esch](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/tobias-esch/wofuer-stehen-sie-morgens-auf/id/9783833887611/)\n\n📕[Wege zum glücklichen Handeln, Epiktet](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/epiktet/wege-zum-gluecklichen-handeln/id/9783458351276/?srsltid=AfmBOoo-K8gEJcWThBZnHsCm31nsZTMg5Kzu21IEWEwHmCO5HLZnJ1nC)"
+footnotes = "Titelbild von [Pexels](https://pixabay.com/de/users/pexels-2286921/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1853549) auf [Pixabay](https://pixabay.com/de//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1853549)\n\nBild: Surfer im Wasser von [Kiril Dobrev](https://pixabay.com/de/users/kirildobrev-12266114/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4145659) auf [Pixabay](https://pixabay.com/de//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4145659)\n\n**Passende Bücher:**\n\n📕[Achtsamkeit für alle, Weisheit zur Transformation der Welt](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/jon-kabat-zinn/achtsamkeit-fuer-alle/id/9783867812535/)\n\n📕[Meditation ist nicht, was Sie denken, Warum Achtsamkeit so wichtig ist](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/jon-kabat-zinn/meditation-ist-nicht-was-sie-denken/id/9783867812504/)\n\n📕[Wach weden und unser Leben wirklich leben, Wie wir Achtsamkeit im Alltag praktizieren](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/jon-kabat-zinn/wach-werden-und-unser-leben-wirklich-leben/id/9783867812511/)\n\n📕[Das heilende Potenzial der Achtsamkeit, Eine neue Art zu sein](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/jon-kabat-zinn/das-heilende-potenzial-der-achtsamkeit/id/9783867812528/)\n\n📕[Mindful Leadership, Die 7 Prinzipien achtsamer Führung von Marc Lesser ](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/marc-lesser/mindful-leadership-die-7-prinzipien-achtsamer-fuehrung/id/9783867812740/)\n\n📕[Das neue Führen, Führen und sich führen lassen in Zeiten der Unvorhersehbarkeit von Bodo Janssen](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/bodo-janssen/das-neue-fuehren/id/9783424202854/)\n\n📕[Wofür stehen Sie morgens auf? Warum Sinn und Bedeutung für unsere Gesundheit wichtig sind von Prof. Dr. Tobias Esch](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/tobias-esch/wofuer-stehen-sie-morgens-auf/id/9783833887611/)\n\n📕[Wege zum glücklichen Handeln, Epiktet](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/epiktet/wege-zum-gluecklichen-handeln/id/9783458351276/?srsltid=AfmBOoo-K8gEJcWThBZnHsCm31nsZTMg5Kzu21IEWEwHmCO5HLZnJ1nC)"
 +++
 ## Einleitung
 
@@ -32,6 +32,8 @@ Oft sind es nicht die Veränderungen selbst, die uns Menschen verunsichern, sond
 >
 > *Rogers Carl (1973), S. 37*
 
+![](blue-4145659_640.jpg)
+
 ## Veränderung als berufliche Chance erkennen
 
 Veränderungen als Change erkennen – dieser Ratschlag hilft eben wenig, wenn man im Tunnel steckt und die negativen oder nicht hilfreichen Emotionen und Gedanken überhandnehmen. Trotzdem hilft es, eine andere Perspektive einzunehmen und zu schauen, was eine Veränderung denn bringen kann. Denn der Wandel ist, wenn er einmal läuft, kaum mehr aufzuhalten. Es gibt viele Beispiele, wie Menschen gerade auch durch Veränderungen neue Karrierewege einschlagen konnten, sich neu orientierten oder daran wuchsen. Manchmal helfen diese Geschichten, sich inspirieren zu lassen und neuen Mut zu fassen. 
@@ -51,6 +53,8 @@ Im [ZUKUNFTSHELDEN-Podcast](https://zukunftshelden.podigee.io) sprechen Menschen
 **Netzwerken:** Es kann dem persönlichen und beruflichen Wachstum und der Change-Kompetenz dienen, sich Unterstützung ausserhalb der Organisation zu suchen. Das können Coaches, Supervisor:innen, Psychotherapeut:innen etc. sein. 
 
 **Planen:** Wenn im Aussen die Orientierung fehlt oder für das eigene Bedürfnis zu wenig ist, kann man selbst planen und sich so gut wie möglich organisieren. [Es hilft, einen Plan und vielleicht auch einen Plan B zu haben. ](https://www.bensblog.ch/warum-plaene-helfen/)
+
+![]()
 
 ## **Sich selbst kennen(-lernen)**
 
