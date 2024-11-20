@@ -26,12 +26,20 @@ Im Zentrum des Buchs steht die Idee, dass nicht alles Neue automatisch gut und n
 
 Ich finde das Buch praktisch und übersichtlich geschrieben. Es gibt konkrete Ansätze, wie Organisationen sich in der Arbeitswelt im Wandel entwickeln können. Themen sind u. a. die Zusammenarbeit, wie flexible Strukturen aussehen könn(t)en und welche Bedeutung Agilität hat oder haben kann. Es geht zum Beispiel darum, wie wichtig zwischenmenschliche Beziehungen am Arbeitsplatz sind und welche Rolle flexible Arbeitszeiten oder räumliche Flexibilität spielen. Die Autorin zeigt nicht nur die Vorteile dieser Ansätze, sondern spricht auch über die Herausforderungen.
 
+> «Denn absichtsfreie Begegnung ist kein Synonym für Small Talk. Es kann die Ouvertüre sein für grosse Gedanken und für tieferes, inhaltliches und persönliches Vernetzen jenseits der häufig intensiv gepflehten Verbindungen.»
+>
+> *aus dem Buch, S. 91*
+
 ### **Ein kritischer Blick auf Agilität**
 
 Mir gefällt auch gut, dass sie im Buch kritisch auf Agilität schaut – ein Thema, das oft als Allheilmittel für moderne Unternehmen angesehen wird. Sie hinterfragt, wann Agilität wirklich sinnvoll ist und wann eher nicht. Dabei spricht sie immer aus der Praxis und bringt viele Stimmen von Fachleuten ein, die sie im Rahmen ihrer Podcasts interviewt hat. Mit QR-Codes im Buch kann man direkt auf diese Podcast-Folgen zugreifen und tiefer in die Themen einsteigen.
+
+> «Ein echter GOOD WORK Ansatz im Sinne der gelebten Agilität besteht in der professionellen Rosinenpickerei.»
+>
+> *aus dem Buch, S. 199*
 
 ### **Einfach und ansprechend gestaltet**
 
 Das Buch ist gut zu lesen und enthält viele kleine Visualisierungen, die die Inhalte auflockern. Die bereits erwähnten QR-Codes zu den Podcast-Folgen und Auszüge aus den Gesprächen ergänzen das Buch perfekt und bieten noch mehr Einblicke und Anregungen aus der Praxis.
 
-**Fazit:** Ein Buch für alle, die die Arbeitswelt von morgen (mit-)gestalten wollen
+**Fazit:** Ein Buch für alle, die die Arbeitswelt von morgen (mit-)gestalten wollen.
