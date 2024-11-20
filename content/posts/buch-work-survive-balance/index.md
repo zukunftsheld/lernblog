@@ -20,7 +20,7 @@ footnotes = "🛒[Zum Buch Work Survive Balance bei exlibris ](https://www.exlib
 
 **Verlag:** Verlag Herder GmbH, Freiburg im Breisgau
 
-![](work-survive-balance.jpg)
+![](work-survive-balance-4.jpg)
 
 ## Einführung
 
