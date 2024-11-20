@@ -90,6 +90,4 @@ Wandel ist unvermeidlich, aber er bietet eine Möglichkeit, persönlich und beru
 
 [Change-Management](https://www.bensblog.ch/change-management/)
 
-[Psychische Flexibilität](https://www.bensblog.ch/psychische-flexibilitat/)
-
 [Lean-Change-Management](https://www.bensblog.ch/lean-change-management/)
