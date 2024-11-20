@@ -20,6 +20,8 @@ Im Buch «Zwischen Alt und Neu liegt Gut» schreibt Jule Jankowski darüber, wie
 
 Im Zentrum des Buchs steht die Idee, dass nicht alles Neue automatisch gut und nicht alles Alte automatisch schlecht ist. Sie beschreibt, wie man das Beste aus beiden Welten vereinen kann, um eine Arbeitskultur zu schaffen, die zu den heutigen Herausforderungen passt. Die Essenz daraus beschreibt sie in den «GoodWork-Pinzipien». 
 
+![](bu-cher-7.jpg)
+
 ### **GoodWork-Prinzipien für die Praxis**
 
 Ich finde das Buch praktisch und übersichtlich geschrieben. Es gibt konkrete Ansätze, wie Organisationen sich in der Arbeitswelt im Wandel entwickeln können. Themen sind u. a. die Zusammenarbeit, wie flexible Strukturen aussehen könn(t)en und welche Bedeutung Agilität hat oder haben kann. Es geht zum Beispiel darum, wie wichtig zwischenmenschliche Beziehungen am Arbeitsplatz sind und welche Rolle flexible Arbeitszeiten oder räumliche Flexibilität spielen. Die Autorin zeigt nicht nur die Vorteile dieser Ansätze, sondern spricht auch über die Herausforderungen.
