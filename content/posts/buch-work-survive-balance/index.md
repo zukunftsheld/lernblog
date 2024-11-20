@@ -4,7 +4,7 @@ date = "2024-10-05"
 draft = false
 pinned = false
 tags = ["Buch", "Organisationsentwicklung", "Gedanken", "NewWork"]
-image = "work-survive-balance-2.jpg"
+image = "work-survive-balance-4.jpg"
 description = "Einblick und Gedanken zum Buch von Hans Rusinek. "
 footnotes = "🛒[Zum Buch Work Survive Balance bei exlibris ](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/hans-rusinek/work-survive-balance/id/9783451399657/?srsltid=AfmBOoqw0gxN4wZL26mlgpG2HbqYUkywW9BB8k67O46oq9dxgQBoqoHN)\n\n🌐[Webseite des Autors](https://www.hans-rusinek.de)\n\nPS: Das ist meine dritte [«Buchrezension»](https://www.bensblog.ch/tags/buch/) und ein weiterer Versuch. Nachdem ich in meinem ersten Podcastformat vor ein paar Jahren über Bücher erzählt habe und ich etliche positive Rückmeldungen erhielt, dachte ich mir schon lange, ich könnte doch auch einmal etwas schreiben. Wie gefällts dir?\n\nPPS: Keine bezahlte Werbung, nur persönliche Einschätzung & Empfehlung."
 +++
@@ -87,6 +87,5 @@ Rusineks Stil ist zugänglich und klar, zugleich reflektiert und humorvoll. Er v
 
 ![](rusinek_zitat.jpg)
 
-\
 \
 **Empfehlung:** Für alle, die sich für die Themen Arbeit, Nachhaltigkeit und Zukunftsperspektiven interessieren und bereit sind, ihr eigenes Arbeitsverständnis zu hinterfragen.
