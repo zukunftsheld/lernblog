@@ -20,6 +20,8 @@ Das Buch von Carsten C. Schermuly beschäftigt sich intensiv mit dem Thema [New 
 
 Das Buch startet mit einer Einführung in das Konzept von New Work und zieht eine kleine historische Linie der Arbeitswelt. Es gibt einen kurzen Einlick in den Ansatz von Frithjof Bergmann oder von New Work als Containerbegriff, bevor es mit dem psychologischen Empowerment weitergeht. 
 
+![](psychologisches-empowerment-2.jpg)
+
 #### Strukturelles vs. Psychologisches Empowerment als Grundlage
 
 Das Buch beginnt mit einer Einführung in das strukturelle und psychologische Empowerment, um das Zusammenspiel beider Ansätze verständlich zu machen. Diese Grundlage hilft, das folgende Konzept des psychologischen Empowerments in der Arbeitsgestaltung besser zu verorten.
