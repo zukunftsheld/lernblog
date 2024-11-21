@@ -1,7 +1,7 @@
 +++
 title = "Zwischen Alt und Neu liegt Gut - Das Buch von Jule Jankowski"
 date = "2024-12-02"
-draft = true
+draft = false
 pinned = false
 tags = ["NewWork", "Buch", "Personalentwicklung", "Organisationsentwicklung"]
 image = "good-work.jpg"
