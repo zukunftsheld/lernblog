@@ -32,7 +32,7 @@ Ich finde das Buch praktisch und übersichtlich geschrieben. Es gibt konkrete An
 
 ### **Ein kritischer Blick auf Agilität**
 
-Mir gefällt auch gut, dass sie im Buch kritisch auf Agilität schaut – ein Thema, das oft als Allheilmittel für moderne Unternehmen angesehen wird. Sie hinterfragt, wann Agilität wirklich sinnvoll ist und wann eher nicht. Dabei spricht sie immer aus der Praxis und bringt viele Stimmen von Fachleuten ein, die sie im Rahmen ihrer Podcasts interviewt hat. Mit QR-Codes im Buch kann man direkt auf diese Podcast-Folgen zugreifen und tiefer in die Themen einsteigen.
+Mir gefällt auch gut, dass sie im Buch kritisch auf [Agilität](https://www.bensblog.ch/tags/agilitat/) schaut – ein Thema, das oft als Allheilmittel für moderne Unternehmen angesehen wird. Sie hinterfragt, wann Agilität wirklich sinnvoll ist und wann eher nicht. Dabei spricht sie immer aus der Praxis und bringt viele Stimmen von Fachleuten ein, die sie im Rahmen ihrer Podcasts interviewt hat. Mit QR-Codes im Buch kann man direkt auf diese Podcast-Folgen zugreifen und tiefer in die Themen einsteigen.
 
 > «Ein echter GOOD WORK Ansatz im Sinne der gelebten Agilität besteht in der professionellen Rosinenpickerei.»
 >
