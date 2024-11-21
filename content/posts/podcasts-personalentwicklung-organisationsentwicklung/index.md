@@ -16,7 +16,7 @@ Vor über vier Jahren habe ich meine ersten [Podcastfolgen](https://www.bensblog
 
 ## Podcasts als Tool der modernen Personal- und Organisationsentwicklung
 
-Podcasts haben sich in der Welt etabliert. Es gibt zu wohl fast allem etwas. Sie bieten eine ansprechende Möglichkeit, Wissen zu teilen und Mitarbeitende auf unterschiedlichen Ebenen zu erreichen. Für die Personal- und Organisationsentwicklung ergeben sich dadurch neue Chancen in der Kommunikation mit den Mitarbeitenden und im Bereich von Lernen und Entwicklung. 
+Podcasts haben sich in der Welt etabliert. Es gibt zu wohl fast allem etwas. Sie bieten eine ansprechende Möglichkeit, Wissen zu teilen und Mitarbeitende auf unterschiedlichen Ebenen zu erreichen. Für die [Personal- und Organisationsentwicklung](https://www.bensblog.ch/tags/organisationsentwicklung/) ergeben sich dadurch neue Chancen in der Kommunikation mit den Mitarbeitenden und im Bereich von Lernen und Entwicklung. 
 
 ## Die Vorteile von Podcasts für die Personal- und Organisationsentwicklung
 
