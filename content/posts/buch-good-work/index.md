@@ -10,7 +10,7 @@ footnotes = "🛒[Zum Buch »Zwischen Alt und Neu liegt Gut» bei exlibris ](ht
 +++
 ## Einleitende Gedanken
 
-Ich mag Menschen und Bücher, die Themen und das Leben differenziert betrachten. Dabei spielt für mich die Verbindung von Theorie und Praxis eine wichtige Rolle. Es gibt meistens nicht die eine Lösung, die für alle passt, auch wenn wir das (insbesondere in der Arbeitswelt) gerne so hätten. Ich mag den vereinfachten Hype zu New Work genauso wenig wie das Abwerten von allem «Alten» in unseren Arbeitssystemen. Deshalb schreibe ich hier über das Buch «Good Work». 
+Ich mag Menschen und Bücher, die Themen und das Leben differenziert betrachten. Dabei spielt für mich die Verbindung von Theorie und Praxis eine wichtige Rolle. Es gibt meistens nicht die eine Lösung, die für alle passt, auch wenn wir das (insbesondere in der Arbeitswelt) gerne so hätten. Ich mag den vereinfachten Hype zu [New Work](https://www.bensblog.ch/tags/newwork/) genauso wenig wie das Abwerten von allem «Alten» in unseren Arbeitssystemen. Deshalb schreibe ich hier über das Buch «Good Work». 
 
 ## Über das Buch «Zwischen Alt und Neu liegt Gut» von Jule Jankowski
 
@@ -24,9 +24,9 @@ Im Zentrum des Buchs steht die Idee, dass nicht alles Neue automatisch gut und n
 
 ### **GoodWork-Prinzipien für die Praxis**
 
-Ich finde das Buch praktisch und übersichtlich geschrieben. Es gibt konkrete Ansätze, wie Organisationen sich in der Arbeitswelt im Wandel entwickeln können. Themen sind u. a. die Zusammenarbeit, wie flexible Strukturen aussehen könn(t)en und welche Bedeutung Agilität hat oder haben kann. Es geht zum Beispiel darum, wie wichtig zwischenmenschliche Beziehungen am Arbeitsplatz sind und welche Rolle flexible Arbeitszeiten oder räumliche Flexibilität spielen. Die Autorin zeigt nicht nur die Vorteile dieser Ansätze, sondern spricht auch über die Herausforderungen.
+Ich finde das Buch praktisch und übersichtlich geschrieben. Es gibt konkrete Ansätze, wie Organisationen sich in der Arbeitswelt im Wandel entwickeln können. Themen sind u. a. die Zusammenarbeit, wie flexible Strukturen aussehen könn(t)en und welche Bedeutung Agilität hat oder haben kann. Es geht zum Beispiel darum, wie wichtig [zwischenmenschliche Beziehungen](https://www.bensblog.ch/tags/verbundenheit/) am Arbeitsplatz sind und welche Rolle flexible Arbeitszeiten oder räumliche Flexibilität spielen. Die Autorin zeigt nicht nur die Vorteile dieser Ansätze, sondern spricht auch über die Herausforderungen.
 
-> «Denn absichtsfreie Begegnung ist kein Synonym für Small Talk. Es kann die Ouvertüre sein für grosse Gedanken und für tieferes, inhaltliches und persönliches Vernetzen jenseits der häufig intensiv gepflehten Verbindungen.»
+> «Denn absichtsfreie Begegnung ist kein Synonym für Small Talk. Es kann die Ouvertüre sein für grosse Gedanken und für tieferes, inhaltliches und persönliches Vernetzen jenseits der häufig intensiv gepflegten Verbindungen.»
 >
 > *aus dem Buch, S. 91*
 
