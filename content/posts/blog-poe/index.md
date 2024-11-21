@@ -14,9 +14,9 @@ Blogs sind ein bekanntes Medium und werden häufig genutzt, um Expertenwissen zu
 
 ## Ein Kommunikationskanal der Personal- und Organisationsentwicklung
 
-Ein Blog aus der Feder der Personal- und Organisationsentwicklung spiegelt die Expertise und Perspektiven dieses Bereichs wider. Er bietet die Möglichkeit, fachliche und aktuelle Inhalte zu teilen, die die strategische Ausrichtung der Organisation unterstützen.
+Ein Blog aus der Feder der [Personal- und Organisationsentwicklung](https://www.bensblog.ch/tags/organisationsentwicklung/) spiegelt die Expertise und Perspektiven dieses Bereichs wider. Er bietet die Möglichkeit, fachliche und aktuelle Inhalte zu teilen, die die strategische Ausrichtung der Organisation unterstützen.
 
-**Fachthemen mit Mehrwert:** Themen wie Leadership, Change-Management oder aktuelle Herausforderungen in der Organisation können praxisnah und verständlich aufbereitet werden.
+**Fachthemen mit Mehrwert:** Themen wie [Leadership](https://www.bensblog.ch/tags/leadership/), [Change-Management](https://www.bensblog.ch/tags/change/) oder aktuelle Herausforderungen in der Organisation können praxisnah und verständlich aufbereitet werden.
 
 **Einblicke in Entwicklungsarbeit:** Artikel können Ansätze und Methoden beleuchten, die von der Personal- und Organisationsentwicklung entwickelt wurden.
 
@@ -45,7 +45,7 @@ Inhalte, die von der Personal- und Organisationsentwicklung aufbereitet werden, 
 **Mögliche Themen**
 
 * Leadership: Moderne Ansätze im Führungsalltag
-* Remote Leadership: Erfolgsfaktoren und Stolpersteine
+* Remote-Leadership: Erfolgsfaktoren und Stolpersteine
 * Führung im Wandel
 
 ### Wissensmanagement vorantreiben
