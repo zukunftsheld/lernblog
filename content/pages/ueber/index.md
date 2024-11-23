@@ -10,9 +10,13 @@ description = "Hallo, ich bin Ben. \n\n"
 
 👋Hallo, ich bin Ben. \
 \
-❤️‍🔥Ich beschäftige mich mit den Menschen und ihrer Arbeit.\
+❤️‍🔥Ich beschäftige mich mit den Menschen, ihrer Arbeit und ihrem Lernen in Zeiten des Wandels. Dabei liegt mein Fokus auf den Stärken und Entwicklungsmöglichkeiten – sowohl bei Einzelpersonen als auch in Organisationen.\
 \
-✨Mein Fokus liegt darauf, Menschen durch Veränderungen zu begleiten, vertrauensvolle und leistungsfähige Teams zu fördern und die individuelle Kompetenzentwicklung zu unterstützen.\
+🌱👩‍💻Personalentwicklung\
+🏢✨Organisationsentwicklung\
+💡🌱Bildungsentwicklung\
+🌊⭐Change-Leadership
+
 \
 ✍️In meinem Blog schreibe ich über mein Lernen sowie über (neue) Perspektiven und Ansätze für eine erfolgreiche und erfüllende Arbeits- und Lernkultur.
 
