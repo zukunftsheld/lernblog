@@ -17,6 +17,8 @@ description = "Hallo, ich bin Ben. \n\n"
 💡🌱Bildungsentwicklung\
 🌊⭐Change-Leadership
 
+![](hoizon-travel-co.-3.jpg)
+
 \
 ✍️In meinem Blog schreibe ich über mein Lernen sowie über (neue) Perspektiven und Ansätze für eine erfolgreiche und erfüllende Arbeits- und Lernkultur.
 
