@@ -12,7 +12,7 @@ description = "Hallo, ich bin Ben. \n\n"
 \
 ❤️‍🔥Ich beschäftige mich mit den Menschen, ihrer Arbeit und ihrem Lernen in Zeiten des Wandels. Dabei liegt mein Fokus auf den Stärken und Entwicklungsmöglichkeiten – sowohl bei Einzelpersonen als auch in Organisationen.\
 \
-🌱👩‍💻Personalentwicklung\
+🌱👩🏻‍🔧Personalentwicklung\
 🏢✨Organisationsentwicklung\
 💡🌱Bildungsentwicklung\
 🌊⭐Change-Leadership
