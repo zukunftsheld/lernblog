@@ -4,7 +4,7 @@ date = "2024-12-02"
 draft = false
 pinned = false
 tags = ["Buch", "Gesundheitsmanagement", "Gesundheit", "Sinn", "Selbstmanagement"]
-image = "esch.png"
+image = "esch.jpg"
 description = "Prof. Dr. Tobias Esch zeigt in seinem Buch, wie Sinn und Lebensfreude entscheidend für unsere Gesundheit sind. Ein Einblick und meine Gedanken dazu in diesem Text. "
 footnotes = "🛒[Zum Buch «Wofür stehen Sie morgens auf?» bei exlibris ](<https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/tobias-esch/wofuer-stehen-sie-morgens-auf/id/9783833887611/>)\n\nPS: Keine bezahlte Werbung, nur persönliche Einschätzung & Empfehlung."
 +++
