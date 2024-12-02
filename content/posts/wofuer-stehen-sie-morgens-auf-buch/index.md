@@ -12,7 +12,7 @@ footnotes = "🛒[Zum Buch «Wofür stehen Sie morgens auf?» bei exlibris ](<h
 \
 Das Buch von Prof. Dr. med. Tobias Esch ist eine fundierte und inspirierende Auseinandersetzung mit der Bedeutung von Sinn und Lebensfreude für unsere Gesundheit. Es verbindet persönliche Geschichten, einen rundum Blick auf Medizin und wissenschaftliche Erkenntnisse zu einer ganzheitlichen Perspektive auf das Thema Gesundheit. Der Autor schafft durch die Einblicke in die Leben der Patient:innen und seine eigenen Erlebnisse als Mensch und Arzt eine Nähe zu den Lesenden. 
 
-![](esch.png)
+![](esch.jpg)
 
 Das Buch beginnt mit der Geschichte von Bauer Henningsen, einem Patienten, der in einer schwierigen Lebenssituation steckte. Diese Episode dient als Ausgangspunkt, um viele der zentralen Themen des Buches anzustossen: [Verbundenheit](https://www.bensblog.ch/verbundenheit/), Kommunikation und die Frage, was Menschen antreibt, morgens aufzustehen. Diese Geschichte ist mir besonders in Erinnerung geblieben, weil sie die essenziellen Aspekte des Lebens und der Medizin auf eine sehr menschliche Weise darstellt. Sie zeigt, wie wichtig es ist, nicht nur Symptome zu behandeln, sondern auch den Menschen in seiner Gesamtheit zu betrachten. 
 
