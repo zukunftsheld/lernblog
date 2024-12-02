@@ -6,7 +6,7 @@ pinned = false
 tags = ["Buch", "Gesundheitsmanagement", "Gesundheit", "Sinn", "Selbstmanagement"]
 image = "esch.png"
 description = "Prof. Dr. Tobias Esch zeigt in seinem Buch, wie Sinn und Lebensfreude entscheidend für unsere Gesundheit sind. Ein Einblick und meine Gedanken dazu in diesem Text. "
-footnotes = "🛒[Zum Buch «Wofür stehen Sie morgens auf?» bei exlibris ](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/jule-jankowski/zwischen-alt-und-neu-liegt-gut/id/9783800669332/?srsltid=AfmBOoobUhuWOk1ZasCoMk_Leh47MYWgNRIHVdXmEAtWkDm_clgtxtMu)\n\nPS: Keine bezahlte Werbung, nur persönliche Einschätzung & Empfehlung."
+footnotes = "🛒[Zum Buch «Wofür stehen Sie morgens auf?» bei exlibris ](<https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/tobias-esch/wofuer-stehen-sie-morgens-auf/id/9783833887611/>)\n\nPS: Keine bezahlte Werbung, nur persönliche Einschätzung & Empfehlung."
 +++
 **Wofür stehen Sie morgens auf? Warum Sinn und Bedeutung entscheidend für unsere Gesundheit sind von Prof. Dr. Tobias Esch**\
 \
@@ -30,4 +30,4 @@ Das Buch ist ein wertvoller Beitrag zu einem neuen Verständnis von Gesundheit u
 
 Es ist ein Buch, das ich allen empfehle, die sich mit ihrer Gesundheit und ihrem Lebenssinn auseinandersetzen möchten. Es zeigt auf gute Weise, dass Gesundheit weit mehr ist als die Abwesenheit von Krankheit und dass wir alle durch kleine Veränderungen im Alltag viel für unser Wohlbefinden tun können. Dabei vermittelt das Buch Hoffnung und macht deutlich, dass sowohl medizinische Fachpersonen als auch Patient:innen gemeinsam Verantwortung für ein gesundes, erfülltes Leben tragen können.\
 \
-Ein inspirierendes Werk, das mich nicht nur in meinem Denken bestätigt hat, sondern auch immer wieder zum Nachdenken und zum Handeln anregt.<https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/tobias-esch/wofuer-stehen-sie-morgens-auf/id/9783833887611/>
+Ein inspirierendes Werk, das mich nicht nur in meinem Denken bestätigt hat, sondern auch immer wieder zum Nachdenken und zum Handeln anregt.
