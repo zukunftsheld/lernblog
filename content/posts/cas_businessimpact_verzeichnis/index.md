@@ -14,6 +14,8 @@ Dieses Verzeichnis wächst in den nächsten Wochen und Monaten.
 
 {{<box title="CAS-Blogposts">}}
 
+**\#9** [Leitfaden: Einführung von generativer KI in Organisationen](https://www.bensblog.ch/leitfaden-einfuhrung-von-generativer-ki-in-organisationen/)
+
 **\#8** [Kompetenzentwicklung sichtbar machen: Das KI-Modul als Beispiel](https://www.bensblog.ch/cas-business-impact-ki/)
 
 **\#7** [Neues Lernen für eine neue Arbeitswelt](https://www.bensblog.ch/neues-lernen-fuer-eine-neue-arbeitswelt/)
@@ -36,7 +38,9 @@ Dieses Verzeichnis wächst in den nächsten Wochen und Monaten.
 
 Hier erscheinen laufend Bücher, mit denen ich mich in diesem CAS beschäftige. Ein Buchverzeichnis findest du bereits 📚[hier.](https://www.bensblog.ch/cas-organisationsentwicklung-change-leadership-buecher-und-blogposts/)
 
-**New Work**
+**New Work & Leadership**
+
+📘[Organisationsdesign in einer komplexen und instabilen Welt, Einführung in Modelle und Konzepte sowie deren Anwendung](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/jens-o-meissner/organisationsdesign-in-einer-komplexen-und-instabilen-welt/id/9783658423384/?userLoggedOut=true)
 
 📕[Neue Arbeit, neue Kultur, Frithjof Bergmann](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/frithjof-bergmann/neue-arbeit-neue-kultur/id/9783867812085/)
 
@@ -54,7 +58,37 @@ Hier erscheinen laufend Bücher, mit denen ich mich in diesem CAS beschäftige. 
 
 📘 [Zwischen Alt und Neu liegt gut, Wie wir mit Good Work eine zukunftsfähige Arbeitskultur gestalten können, ohne alles neu machen zu müssen, Jule Jankowski](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/jule-jankowski/zwischen-alt-und-neu-liegt-gut/id/9783800669332/)
 
-**Lernende Organisation**
+\--> **[Einblicke und Gedanken zum Buch in diesem Blogbeitrag](https://www.bensblog.ch/buch-good-work/)**
+
+📕[Die angstfreie Organisation, Wie Sie psychologische Sicherheit am Arbeitsplatz für mehr Entwicklung, Lernen und Innovation schaffen](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/amy-c-edmondson/die-angstfreie-organisation/id/9783800660674/)
+
+📘 [Das neue Führen, Führen und sich führen lassen in Zeiten der Unvorhersehbarkeit, Bodo Janssen](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/bodo-janssen/das-neue-fuehren/id/9783424202854/)
+
+**[\--> Einblicke und Gedanken zum Buch in diesem Blogbeitrag](https://www.bensblog.ch/das-neue-fuehren/)**
+
+📕 [Trust me, warum Vertrauen die Zukunft der Arbeit ist, Karin Lausch](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/karin-lausch/trust-me-warum-vertrauen-die-zukunft-der-arbeit-ist/id/9783648172353/)
+
+📘 [TZI - Die Kunst sich selbst und eine Gruppe zu leiten](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/cornelia-loehmer/tzi-die-kunst-sich-selbst-und-eine-gruppe-zu-leiten/id/9783608961225/)
+
+📕[Storch Maja / Krause Frank (2017), Selbstmanagement ressourcenorientiert, Theoretische Grundlagen und Trainingsmanual für die Arbeit mit dem Zürcher Ressourcen Modell (ZRM®)](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/maja-storch/selbstmanagement-ressourcenorientiert/id/9783456862149/)
+
+📘[Janssen Bodo (2023), Das neue Führen, Führen und sich führen lassen in Zeiten der Unvorhersehbarkeit](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/bodo-janssen/das-neue-fuehren/id/9783424202854/)
+
+[📕Sinek Simon (2014), Frag immer erst: warum, Wie Top-Firmen und Führungskräfte zum Erfolg inspirieren](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/simon-sinek/frag-immer-erst-warum/id/9783868815382/)
+
+📘[Wofür stehen Sie morgens auf? Warum Sinn und Bedeutung für unsere Gesundheit wichtig sind von Prof. Dr. Tobias Esch](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/tobias-esch/wofuer-stehen-sie-morgens-auf/id/9783833887611/)
+
+📕[Mindful Leadership, Die 7 Prinzipien achtsamer Führung von Marc Lesser ](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/marc-lesser/mindful-leadership-die-7-prinzipien-achtsamer-fuehrung/id/9783867812740/)
+
+📘[Theorie U, Von der Zukunft her führen, Presencing als soziale Technik, C. Otto Scharmer](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/c-otto-scharmer/theorie-u-von-der-zukunft-her-fuehren/id/9783849703479/)
+
+📘[Minnaar Jost, de Morree Pim (2020), Corporate Rebels, Wie Pioniere die Arbeitswelt revolutionieren](https://www.exlibris.ch/de/buecher-buch/e-books-deutsch/joost-minnaar/corporate-rebels/id/9789083004860/)
+
+📕[Dark Horse Innovation (2023), Future Organization Playbook, Die unverzichtbare Anleitung für innovative Unternehmen in der Transformation](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/dark-horse-innovation/future-organization-playbook/id/9783867747554/)
+
+📘[Organisationskultur und Leadership, Edgar Schein](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/edgar-h-schein/organisationskultur-und-leadership/id/9783800656592/?srsltid=AfmBOopMjwaXu66e2VDwEED_5wahkkeYFw4pZxzrsdzt2J25j8AlHn0t)
+
+**Lernende Organisation, Lernen in digitalen & agilen Zeiten**
 
 📘[Lernhacks,](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/thomas-tillmann/lernhacks/id/9783800664986/) [Mit einfachen Routinen Schritt für Schritt zur agilen Lernkultur](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/thomas-tillmann/lernhacks/id/9783800664986/)
 
@@ -71,10 +105,6 @@ Hier erscheinen laufend Bücher, mit denen ich mich in diesem CAS beschäftige. 
 📘[Future Skills Navigator, Ein neues Menschsein für die Welt von morgen](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/arndt-pechstein/future-skills-navigator/id/9783800670833/?utm_source=google&utm_medium=cpc&utm_campaign=Shopping+Catch+All+inkl.+LIA+(sh-CH-de)&utm_content=Catch+All+DE&utm_term=&gad_source=1&gbraid=0AAAAAD5hN-U1UxQk_iBw8oJB1NE2rZDeK&gclid=Cj0KCQjwlvW2BhDyARIsADnIe-LnYZ8E9uRFAR8kzZiEm9ROkCL3Tku5pnTmNOIgYbZbfgWPKXUNgfoaAgqkEALw_wcB)
 
 📕[Entlehrt euch! Ausbruch aus dem Vollständigkeitswahn. ](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/rolf-arnold/entlehrt-euch/id/9783035504590/?srsltid=AfmBOooZp4YV_FJdBAzztYuJWXoWrS3sGdZ5DpzTMOherYdxVrh1TS9q)
-
-**Lernen in digitalen & agilen Zeite**
-
-\--> siehe auch Lernende Organisation
 
 {{</box>}}
 
