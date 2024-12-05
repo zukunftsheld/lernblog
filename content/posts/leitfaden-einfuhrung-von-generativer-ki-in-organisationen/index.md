@@ -88,7 +88,7 @@ Für den Einsatz mit generativer KI sind strukturierte Daten essenziell. Organis
 **Urheberrecht:** Der Ursprung von KI-generierten Inhalten ist oft unklar. Der Umgang mit Urheberrechten ist noch nicht geklärt. Es ist also auf folgendes zu achten: 
 
 * KI-generierte Inhalte könnten, je nach dem, womit ein Modell trainiert wurde, Urheberrechte verletzen. 
-*  Wissen wir, woher die Daten kommen, mit denen ein Modell trainiert wird oder wurde?
+* Wissen wir, woher die Daten kommen, mit denen ein Modell trainiert wird oder wurde?
 
 **Bias und Diversität:** Die Resultate der KI können nur so gut sein, wie ihre Trainingsdaten. Es ist auf Bias und Inklusionsthemen bei der Einführung und Nutzung der KI zu achten. Im Idealfall werden hier Expert:innen hinzugezogen. 
 
