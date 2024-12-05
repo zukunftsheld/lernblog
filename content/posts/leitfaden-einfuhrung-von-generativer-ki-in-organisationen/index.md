@@ -17,11 +17,7 @@ Dieser Leitfaden entstand im Herbst 2024 aus verschiedenen Gesprächen mit Perso
 
 Künstliche Intelligenz ist die Basistechnologie. Tools wie ChatGPT werden der Generativen KI zugeordnet, die eine Form des Deep Learnings ist und durch künstliche neuronale Netze (in Anlehnung an das menschliche Gehirn) funktioniert. KI generiert oft Inhalte basierend auf Trainingsdaten, weshalb ethische und urheberrechtliche Fragen in den Entwicklungsprozess integriert werden sollten. 
 
-![Ein Bild, das Text, Screenshot, Design enthält.
-
-Automatisch generierte Beschreibung](blob:https://www.bensblog.ch/87eae53e-951e-4d23-8291-73b9e4e187f1)
-
- 
+![](ku-nstliche-intelligenz_u-bersicht-2.jpg)
 
 ## 3.0 Neue Kompetenzen entwickeln
 
