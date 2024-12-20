@@ -78,15 +78,15 @@ Diese drei Führungsansätze können ergänzt und verstärkt werden durch Prinzi
 
 Die Integration dieser Führungsansätze ermöglicht es, situativ und flexibel zu führen und dabei sowohl den Menschen als auch den Anforderungen der Organisation gerecht zu werden. Die verschiedenen Ansätze ergänzen sich und bilden zusammen ein ganzheitliches Führungsverständnis für die moderne Arbeitswelt.
 
-![]()
+![](integriertes-fu-hrungsversta-ndnis.jpg)
 
 Abbildung 1: Integriertes Führungsverständnis New Leadership, eigene Darstellung
 
 ## 4.0 Ganzheitliches Führungsverständnis
 
-> \*«Orientieren Sie sich bei Führungsaufgaben an der Tätigkeit des Gärtners: Sorgen Sie dafür, dass Ihre Mitarbeiter:innen ein gutes Arbeitsklima vorfinden, dass sie mit den nötigen Nährstoffen versehen werden, dass sie Wurzeln schlagen und einander unterstützen können, um zur Schönheit zu erblühen und reiche Frucht zu tragen»**\[[8]](applewebdata://0AC45A0F-C249-4BF5-9E4A-B4EC31A5B169#_ftn8)***
+> \*«Orientieren Sie sich bei Führungsaufgaben an der Tätigkeit des Gärtners: Sorgen Sie dafür, dass Ihre Mitarbeiter:innen ein gutes Arbeitsklima vorfinden, dass sie mit den nötigen Nährstoffen versehen werden, dass sie Wurzeln schlagen und einander unterstützen können, um zur Schönheit zu erblühen und reiche Frucht zu tragen»\[[8]]
 
-Im Kern von New Leadership steht für mich die Integration von vier wesentlichen Dimensionen, die in einem dynamischen (Arbeits-)Umfeld immer wieder ausbalanciert werden müssen. Martin Ebner beschreibt im Buch Positive Leadership die Führung von Menschen als das Führen von unterschiedlichen Individuen und dabei u. a. deren Wertesysteme, kulturelle Hintergründe und Bedürfnisse zu berücksichtigen.\[[9]](applewebdata://0AC45A0F-C249-4BF5-9E4A-B4EC31A5B169#_ftn9)
+Im Kern von New Leadership steht für mich die Integration von vier wesentlichen Dimensionen, die in einem dynamischen (Arbeits-)Umfeld immer wieder ausbalanciert werden müssen. Martin Ebner beschreibt im Buch Positive Leadership die Führung von Menschen als das Führen von unterschiedlichen Individuen und dabei u. a. deren Wertesysteme, kulturelle Hintergründe und Bedürfnisse zu berücksichtigen.\[[9]]
 
 **Selbstführung:** Die bewusste Entwicklung der eigenen Führungspersönlichkeit bildet das Fundament. Das heisst, die eigenen Werte zu kennen und zu leben, authentisch zu handeln und lernen mit Veränderungen umzugehen. Dabei ist es wichtig, sich der eigenen Denk- und Verhaltensmuster bewusst zu werden und diese zu reflektieren. Der konstruktive Umgang mit persönlichen Hürden und das Lernen, Unsicherheiten als Teil des Entwicklungsprozesses zu akzeptieren, sind zentrale Elemente dieser Selbstführung.
 
