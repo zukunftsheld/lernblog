@@ -41,9 +41,9 @@ Dazu passt das PERMA-Lead-Modell\[[4]] von Dr. Markus Ebner.\
 
 ### 3.2 Transformationale Führung 
 
-Die transformative Führung zielt auf die inspirierende Vermittlung von Visionen und Zielen sowie die individuelle Förderung von Mitarbeitenden. Führungskräfte wirken als Vorbilder und Impulsgeber. Sie motivieren durch Sinnstiftung und fördern innovatives Denken. Dieser Ansatz ist besonders wertvoll für die Gestaltung von Veränderungsprozessen, da er Orientierung gibt und gleichzeitig Entwicklung fördert. *«Transformationale Führung ist darauf ausgerichtet in Zeiten kontinuierlicher und disruptiver Veränderung Sinn und Orientierung zu vermitteln, Mitarbeitende für die gemeinsame Vision zu begeistern und sie auf emotionaler Ebene anzusprechen, um ihr Engagement zu fördern.» **\[[5]](applewebdata://0AC45A0F-C249-4BF5-9E4A-B4EC31A5B169#_ftn5)***
+Die transformative Führung zielt auf die inspirierende Vermittlung von Visionen und Zielen sowie die individuelle Förderung von Mitarbeitenden. Führungskräfte wirken als Vorbilder und Impulsgeber. Sie motivieren durch Sinnstiftung und fördern innovatives Denken. Dieser Ansatz ist besonders wertvoll für die Gestaltung von Veränderungsprozessen, da er Orientierung gibt und gleichzeitig Entwicklung fördert. *«Transformationale Führung ist darauf ausgerichtet in Zeiten kontinuierlicher und disruptiver Veränderung Sinn und Orientierung zu vermitteln, Mitarbeitende für die gemeinsame Vision zu begeistern und sie auf emotionaler Ebene anzusprechen, um ihr Engagement zu fördern.» \[[5]]
 
-Die Rollen der transformativen Führung\[[6]](applewebdata://0AC45A0F-C249-4BF5-9E4A-B4EC31A5B169#_ftn6)
+Die Rollen der transformativen Führung\[[6]]
 
 * Idealisierter Einfluss / Idealized Influence – Rolle Vorbild
 * Inspirierende Motivation / Inspirational Motivation  - Rolle Visionär 
@@ -61,7 +61,7 @@ Der empowermentorientierte Führungsstil zielt auf die vier Dimensionen des psyc
 
 Führungskräfte schaffen Rahmenbedingungen, in denen Menschen Selbstwirksamkeit erleben und Verantwortung übernehmen können. Sie fördern das Kompetenzerleben ihrer Mitarbeitenden und ermöglichen ihnen, Einfluss auf ihre Arbeit zu nehmen. Dieser Ansatz stärkt die intrinsische Motivation und das Engagement der Mitarbeitenden. 
 
-**Die Rollen der empowermentorientierten Führung\[[7]](applewebdata://0AC45A0F-C249-4BF5-9E4A-B4EC31A5B169#_ftn7)**
+**Die Rollen der empowermentorientierten Führung**\[[7]]
 
 * Sinnstiftung: Rolle Sinnstifter
 * Individualisierte Berücksichtigung: Coach
