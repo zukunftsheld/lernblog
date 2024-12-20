@@ -3,7 +3,7 @@ title = "new-leadership-m5"
 date = "2024-12-20"
 draft = true
 pinned = false
-footnotes = "[\\[1]](applewebdata://0AC45A0F-C249-4BF5-9E4A-B4EC31A5B169#_ftnref1) Vgl. Starker Vera, Thies David-Ruben, Frommelt Mona (2022), S. 148\n\n[\\[2]](applewebdata://0AC45A0F-C249-4BF5-9E4A-B4EC31A5B169#_ftnref2) Vgl. Edmondson A. (2020), S. 14 und Janssen B. (2023) S. 171\n\n[\\[3]](applewebdata://0AC45A0F-C249-4BF5-9E4A-B4EC31A5B169#_ftnref3) Ebner M. (2024), S. 57\n\n[\\[4]](applewebdata://0AC45A0F-C249-4BF5-9E4A-B4EC31A5B169#_ftnref4) Ebner M. (2024)\n\n**[\\[5]](applewebdata://0AC45A0F-C249-4BF5-9E4A-B4EC31A5B169#_ftnref5)** Foelsing J., Schmitz A. (2021) S. 212\n\n[\\[6]](applewebdata://0AC45A0F-C249-4BF5-9E4A-B4EC31A5B169#_ftnref6) Schermuly C. (2021), S. 197\n\n[\\[7]](applewebdata://0AC45A0F-C249-4BF5-9E4A-B4EC31A5B169#_ftnref7) Schermuly C. (2021), S. 206\n\n[\\[8]](applewebdata://0AC45A0F-C249-4BF5-9E4A-B4EC31A5B169#_ftnref8) *C. Quarch, J. Teunen (2021), S. 45*\n\n[\\[9]](applewebdata://0AC45A0F-C249-4BF5-9E4A-B4EC31A5B169#_ftnref9) Ebner M. (2024), S. 57\n\n[\\[10]](applewebdata://0AC45A0F-C249-4BF5-9E4A-B4EC31A5B169#_ftnref10) Foelsing J, Schmitz A. (2021)\n\nBücher"
+footnotes = "\\[[1]]Vgl. Starker Vera, Thies David-Ruben, Frommelt Mona (2022), S. 148\n\n\\[[2]]Edmondson A. (2020), S. 14 und Janssen B. (2023) S. 171\n\n\\[[3]]Ebner M. (2024), S. 57\n\n\\[[4]]Ebner M. (2024)\n\n\\[[5]] Foelsing J., Schmitz A. (2021) S. 212\n\n\\[[6]]Schermuly C. (2021), S. 197\n\n\\[[7]]Schermuly C. (2021), S. 206\n\n\\[[8]]C. Quarch, J. Teunen (2021), S. 45\n\n\\[[9]]Ebner M. (2024), S. 57\n\n\\[[10]]Foelsing J, Schmitz A. (2021)\n\nBücher"
 +++
 ## Einleitung
 
@@ -11,19 +11,19 @@ Die Arbeitswelt befindet sich in einer stetigen Veränderung. Digitalisierung, b
 
 ## Meine Definition von New Leadership
 
-New Leadership ist für mich untrennbar mit meiner Definition von New Work verbunden. Diese definiere ich als Gestaltung guter Arbeit in der Arbeitswelt im Wandel verbunden. Dies bedeutet, organisationale Rahmenbedingungen zu schaffen, die es Menschen ermöglichen, ihre Arbeit kompetent und gesundheitserhaltend auszuüben. Dabei steht die Förderung persönlicher wie fachlicher Entwicklung im Zentrum. Eine ressorcen- und stärkenorientierte Führung führt nicht nur zu besseren Ergebinssen, sondern auch zu zufriedeneren Mitarbeitenden. [\[1]](applewebdata://0AC45A0F-C249-4BF5-9E4A-B4EC31A5B169#_ftn1)
+New Leadership ist für mich untrennbar mit meiner Definition von New Work verbunden. Diese definiere ich als Gestaltung guter Arbeit in der Arbeitswelt im Wandel verbunden. Dies bedeutet, organisationale Rahmenbedingungen zu schaffen, die es Menschen ermöglichen, ihre Arbeit kompetent und gesundheitserhaltend auszuüben. Dabei steht die Förderung persönlicher wie fachlicher Entwicklung im Zentrum. Eine ressorcen- und stärkenorientierte Führung führt nicht nur zu besseren Ergebinssen, sondern auch zu zufriedeneren Mitarbeitenden. \[[1]](applewebdata://0AC45A0F-C249-4BF5-9E4A-B4EC31A5B169#_ftn1)
 
-Dazu kommt, dass die Gestaltung einer guten Zusammenarbeit, also wirkungsvollen und verbundenen Teams in der aktuellen Zeit immer wichtiger wird.[\[2]](applewebdata://0AC45A0F-C249-4BF5-9E4A-B4EC31A5B169#_ftn2) Führungspersonen haben also eine wichtige und verantwortungsvolle Rolle in Organisationen. Nachfolgend wird beschrieben, wie der Weg hin zu New Leadership gestaltet werden kann. 
+Dazu kommt, dass die Gestaltung einer guten Zusammenarbeit, also wirkungsvollen und verbundenen Teams in der aktuellen Zeit immer wichtiger wird.\[[2]](applewebdata://0AC45A0F-C249-4BF5-9E4A-B4EC31A5B169#_ftn2) Führungspersonen haben also eine wichtige und verantwortungsvolle Rolle in Organisationen. Nachfolgend wird beschrieben, wie der Weg hin zu New Leadership gestaltet werden kann. 
 
 ## 3.0 Theoretische Basis
 
-Eine genaue oder einheitliche Definition von New Leadership gibt es nicht. In einer dynamischen und komplexen (Arbeits-)Welt gibt es auch nicht die eine richtige Führungsstrategie.[\[3]](applewebdata://0AC45A0F-C249-4BF5-9E4A-B4EC31A5B169#_ftn3) Zusammenfassend könnte man also sagen: New Leadership verbindet und integriert verschiedene moderne Führungsansätze. Dazu gehören für mich: 
+Eine genaue oder einheitliche Definition von New Leadership gibt es nicht. In einer dynamischen und komplexen (Arbeits-)Welt gibt es auch nicht die eine richtige Führungsstrategie.\[[3]](applewebdata://0AC45A0F-C249-4BF5-9E4A-B4EC31A5B169#_ftn3) Zusammenfassend könnte man also sagen: New Leadership verbindet und integriert verschiedene moderne Führungsansätze. Dazu gehören für mich: 
 
 ### 3.1 Positive Leadership 
 
 Diese Art der Führung setzt den Fokus auf Stärken und Potenziale der Menschen. Dieser Ansatz fokussiert auf die Bedeutung positiver Beziehungen und Emotionen in der Zusammenarbeit. Führungskräfte schaffen ein Umfeld, in dem Menschen ihre Stärken entfalten können und aktivieren vorhandene Ressourcen. Sie fördern durch konstruktiven Dialog und wertschätzende Kommunikation ein positives Arbeitsklima und stiften Sinn durch die Verbindung individueller Beiträge mit übergeordneten Zielen. 
 
-Dazu passt das PERMA-Lead-Modell[\[4]](applewebdata://0AC45A0F-C249-4BF5-9E4A-B4EC31A5B169#_ftn4) von Dr. Markus Ebner.\
+Dazu passt das PERMA-Lead-Modell\[[4]](applewebdata://0AC45A0F-C249-4BF5-9E4A-B4EC31A5B169#_ftn4) von Dr. Markus Ebner.\
 \
 **PERMA** steht für:
 
@@ -39,9 +39,9 @@ Dazu passt das PERMA-Lead-Modell[\[4]](applewebdata://0AC45A0F-C249-4BF5-9E4A-B4
 
 ### 3.2 Transformationale Führung 
 
-Die transformative Führung zielt auf die inspirierende Vermittlung von Visionen und Zielen sowie die individuelle Förderung von Mitarbeitenden. Führungskräfte wirken als Vorbilder und Impulsgeber. Sie motivieren durch Sinnstiftung und fördern innovatives Denken. Dieser Ansatz ist besonders wertvoll für die Gestaltung von Veränderungsprozessen, da er Orientierung gibt und gleichzeitig Entwicklung fördert. *«Transformationale Führung ist darauf ausgerichtet in Zeiten kontinuierlicher und disruptiver Veränderung Sinn und Orientierung zu vermitteln, Mitarbeitende für die gemeinsame Vision zu begeistern und sie auf emotionaler Ebene anzusprechen, um ihr Engagement zu fördern.» **[\[5]](applewebdata://0AC45A0F-C249-4BF5-9E4A-B4EC31A5B169#_ftn5)***
+Die transformative Führung zielt auf die inspirierende Vermittlung von Visionen und Zielen sowie die individuelle Förderung von Mitarbeitenden. Führungskräfte wirken als Vorbilder und Impulsgeber. Sie motivieren durch Sinnstiftung und fördern innovatives Denken. Dieser Ansatz ist besonders wertvoll für die Gestaltung von Veränderungsprozessen, da er Orientierung gibt und gleichzeitig Entwicklung fördert. *«Transformationale Führung ist darauf ausgerichtet in Zeiten kontinuierlicher und disruptiver Veränderung Sinn und Orientierung zu vermitteln, Mitarbeitende für die gemeinsame Vision zu begeistern und sie auf emotionaler Ebene anzusprechen, um ihr Engagement zu fördern.» **\[[5]](applewebdata://0AC45A0F-C249-4BF5-9E4A-B4EC31A5B169#_ftn5)***
 
-Die Rollen der transformativen Führung[\[6]](applewebdata://0AC45A0F-C249-4BF5-9E4A-B4EC31A5B169#_ftn6)
+Die Rollen der transformativen Führung\[[6]](applewebdata://0AC45A0F-C249-4BF5-9E4A-B4EC31A5B169#_ftn6)
 
 * Idealisierter Einfluss / Idealized Influence – Rolle Vorbild
 * Inspirierende Motivation / Inspirational Motivation  - Rolle Visionär 
@@ -59,7 +59,7 @@ Der empowermentorientierte Führungsstil zielt auf die vier Dimensionen des psyc
 
 Führungskräfte schaffen Rahmenbedingungen, in denen Menschen Selbstwirksamkeit erleben und Verantwortung übernehmen können. Sie fördern das Kompetenzerleben ihrer Mitarbeitenden und ermöglichen ihnen, Einfluss auf ihre Arbeit zu nehmen. Dieser Ansatz stärkt die intrinsische Motivation und das Engagement der Mitarbeitenden. 
 
-**Die Rollen der empowermentorientierten Führung[\[7]](applewebdata://0AC45A0F-C249-4BF5-9E4A-B4EC31A5B169#_ftn7)**
+**Die Rollen der empowermentorientierten Führung\[[7]](applewebdata://0AC45A0F-C249-4BF5-9E4A-B4EC31A5B169#_ftn7)**
 
 * Sinnstiftung: Rolle Sinnstifter
 * Individualisierte Berücksichtigung: Coach
@@ -84,9 +84,9 @@ Abbildung 1: Integriertes Führungsverständnis New Leadership, eigene Darstellu
 
 ## 4.0 Ganzheitliches Führungsverständnis
 
-> *«Orientieren Sie sich bei Führungsaufgaben an der Tätigkeit des Gärtners: Sorgen Sie dafür, dass Ihre Mitarbeiter:innen ein gutes Arbeitsklima vorfinden, dass sie mit den nötigen Nährstoffen versehen werden, dass sie Wurzeln schlagen und einander unterstützen können, um zur Schönheit zu erblühen und reiche Frucht zu tragen»**[\[8]](applewebdata://0AC45A0F-C249-4BF5-9E4A-B4EC31A5B169#_ftn8)***
+> \*«Orientieren Sie sich bei Führungsaufgaben an der Tätigkeit des Gärtners: Sorgen Sie dafür, dass Ihre Mitarbeiter:innen ein gutes Arbeitsklima vorfinden, dass sie mit den nötigen Nährstoffen versehen werden, dass sie Wurzeln schlagen und einander unterstützen können, um zur Schönheit zu erblühen und reiche Frucht zu tragen»**\[[8]](applewebdata://0AC45A0F-C249-4BF5-9E4A-B4EC31A5B169#_ftn8)***
 
-Im Kern von New Leadership steht für mich die Integration von vier wesentlichen Dimensionen, die in einem dynamischen (Arbeits-)Umfeld immer wieder ausbalanciert werden müssen. Martin Ebner beschreibt im Buch Positive Leadership die Führung von Menschen als das Führen von unterschiedlichen Individuen und dabei u. a. deren Wertesysteme, kulturelle Hintergründe und Bedürfnisse zu berücksichtigen.[\[9]](applewebdata://0AC45A0F-C249-4BF5-9E4A-B4EC31A5B169#_ftn9)
+Im Kern von New Leadership steht für mich die Integration von vier wesentlichen Dimensionen, die in einem dynamischen (Arbeits-)Umfeld immer wieder ausbalanciert werden müssen. Martin Ebner beschreibt im Buch Positive Leadership die Führung von Menschen als das Führen von unterschiedlichen Individuen und dabei u. a. deren Wertesysteme, kulturelle Hintergründe und Bedürfnisse zu berücksichtigen.\[[9]](applewebdata://0AC45A0F-C249-4BF5-9E4A-B4EC31A5B169#_ftn9)
 
 **Selbstführung:** Die bewusste Entwicklung der eigenen Führungspersönlichkeit bildet das Fundament. Das heisst, die eigenen Werte zu kennen und zu leben, authentisch zu handeln und lernen mit Veränderungen umzugehen. Dabei ist es wichtig, sich der eigenen Denk- und Verhaltensmuster bewusst zu werden und diese zu reflektieren. Der konstruktive Umgang mit persönlichen Hürden und das Lernen, Unsicherheiten als Teil des Entwicklungsprozesses zu akzeptieren, sind zentrale Elemente dieser Selbstführung.
 
@@ -118,7 +118,7 @@ Die bewusste Entwicklung von Führungskompetenzen erfordert persönliche Reflexi
 
 ### 5.2 Lernen im Alltag verankern
 
-Echte Führungsentwicklung findet vor allem in der täglichen Praxis statt. Dies erfordert eine Kultur des «kontinuierlichen, arbeitsplatzbezogenen Lernens»[\[10]](applewebdata://0AC45A0F-C249-4BF5-9E4A-B4EC31A5B169#_ftn10). Führungskräfte sollten ihre Alltagssituationen bewusst als Lernfelder gestalten und nutzen. Indem sie selbst eine lernende Haltung vorleben und ihre Entwicklungsschritte transparent machen, werden sie zum Vorbild für ihre Mitarbeitenden. So tragen sie aktiv zur Etablierung einer organisationsweiten Lernkultur bei, in der kontinuierliche Weiterentwicklung als selbstverständlich gilt.
+Echte Führungsentwicklung findet vor allem in der täglichen Praxis statt. Dies erfordert eine Kultur des «kontinuierlichen, arbeitsplatzbezogenen Lernens»\[[10]](applewebdata://0AC45A0F-C249-4BF5-9E4A-B4EC31A5B169#_ftn10). Führungskräfte sollten ihre Alltagssituationen bewusst als Lernfelder gestalten und nutzen. Indem sie selbst eine lernende Haltung vorleben und ihre Entwicklungsschritte transparent machen, werden sie zum Vorbild für ihre Mitarbeitenden. So tragen sie aktiv zur Etablierung einer organisationsweiten Lernkultur bei, in der kontinuierliche Weiterentwicklung als selbstverständlich gilt.
 
 * Bewusstes Gestalten von Führungssituationen
 * Integration von Lernen in den Arbeitsalltag
@@ -224,9 +224,7 @@ Als Beispiel für einen Change-Prozess könnte der Weg eines Teams dienen. Die F
 * Aktives Einbinden aller Teammitglieder
 * Bewusstes Entwickeln der eigenen Führungsrolle
 
-![Ein Bild, das Text, Screenshot, Schrift, Website enthält.
-
-Automatisch generierte Beschreibung](blob:https://www.bensblog.ch/a9a19553-4ea0-4e86-8d2d-e8076fac3efb)
+![](weg-zu-new-leadership.jpg)
 
 Abbildung 5: Entwicklungswege: New Leadership im Wandel, eigene Darstellung
 
