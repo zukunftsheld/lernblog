@@ -70,7 +70,7 @@ Führungskräfte schaffen Rahmenbedingungen, in denen Menschen Selbstwirksamkeit
 * Kompetenzentwicklung: Rolle Personalentwickler
 * Idealisierter Einfluss: Rolle Vorbild
 
-Diese drei Führungsansätze können ergänzt und verstärkt werden durch Prinzipien agiler Führung. **Agile Führung** mit ihren Elementen des Servant Leadership betont die Wichtigkeit von Selbstorganisation, schnellem Lernen und flexibler Anpassung. Führungskräfte verstehen sich dabei als Ermöglichende und Dienende, die den Rahmen für selbstorganisierte Teams schaffen. Sie fördern:
+Diese drei Führungsansätze können ergänzt und verstärkt werden durch Prinzipien agiler Führung. Agile Führung mit ihren Elementen des Servant Leadership betont die Wichtigkeit von Selbstorganisation, schnellem Lernen und flexibler Anpassung. Führungskräfte verstehen sich dabei als Ermöglichende und Dienende, die den Rahmen für selbstorganisierte Teams schaffen. Sie fördern:
 
 * Iteratives Vorgehen und kontinuierliches Lernen
 * Eine dienende Haltung zur Unterstützung der Teamentwicklung
@@ -80,7 +80,7 @@ Diese drei Führungsansätze können ergänzt und verstärkt werden durch Prinzi
 
 Die Integration dieser Führungsansätze ermöglicht es, situativ und flexibel zu führen und dabei sowohl den Menschen als auch den Anforderungen der Organisation gerecht zu werden. Die verschiedenen Ansätze ergänzen sich und bilden zusammen ein ganzheitliches Führungsverständnis für die moderne Arbeitswelt.
 
-![](integriertes-fu-hrungsversta-ndnis.jpg)
+![](bildschirmfoto-2024-12-20-um-11.43.49.png)
 
 Abbildung 1: Integriertes Führungsverständnis New Leadership, eigene Darstellung
 
@@ -100,9 +100,7 @@ Im Kern von New Leadership steht für mich die Integration von vier wesentlichen
 
 **Umfeld:** Die (Führungs-)Arbeit findet immer in einem Kontext statt, der von äusseren Faktoren wie Unternehmenskultur, Marktbedingungen, gesellschaftlichen Entwicklungen und Gesetzen etc. Diese Umfeldbedingungen haben einen Einfluss auf die (Führungs-)Arbeit. Eine Führungskraft sollte sich dieser bewusst sein und diese Einflüsse wahrnehmen, verstehen und bei ihren Entscheidungen berücksichtigen.
 
-![Ein Bild, das Diagramm, Kreis, Screenshot, Reihe enthält.
-
-Automatisch generierte Beschreibung](blob:https://www.bensblog.ch/f6012053-fbcf-41af-b2f0-bc6eda34317d)
+![](new-leadership.jpg)
 
 Abbildung 2: Ganzheitliches Führungsverständnis «New Leadership» - Navigieren im Wandel. Eigene Darstellung.
 
@@ -134,7 +132,7 @@ Der Weg zu New Leadership ist keine einsame Reise, sondern gedeiht am besten im 
 * Learning Communities
 * Peer-Learning und gegenseitige Unterstützung
 
-![]()
+![](weg-zu-new-leadership.jpg)
 
 Abbildung 3: Entwicklungswege zu New Leadership, eigene Darstellung
 
@@ -170,7 +168,7 @@ Eine etablierte Organisationskultur mit traditionellen Führungsverständnissen 
 
 Die Implementierung von New Leadership muss dem Reifegrad und der Kultur der Organisation entsprechen. Widerstände können auf allen Ebenen auftreten und sollten als wichtige Signale ernst genommen werden. Ein schrittweises Vorgehen mit offenem Dialog erhöht die Chancen für eine erfolgreiche Transformation.
 
-![]()
+![](bildschirmfoto-2024-12-20-um-11.44.54.png)
 
 Abbildung 4: Herausforderungen und Stolpersteine auf dem Weg zu New Leadership und passende Lösungsansätze. Eigene Darstellung. 
 
@@ -226,7 +224,7 @@ Als Beispiel für einen Change-Prozess könnte der Weg eines Teams dienen. Die F
 * Aktives Einbinden aller Teammitglieder
 * Bewusstes Entwickeln der eigenen Führungsrolle
 
-![](weg-zu-new-leadership.jpg)
+![](entwicklung-leadership-teambeispiel.jpg)
 
 Abbildung 5: Entwicklungswege: New Leadership im Wandel, eigene Darstellung
 
