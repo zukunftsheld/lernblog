@@ -5,7 +5,7 @@ draft = true
 pinned = false
 image = "compass-4891499_1280.jpg"
 description = "In einer von Wandel geprägten Arbeitswelt braucht es ein neues Verständnis von Führung, das Orientierung gibt und gleichzeitig Entwicklung ermöglicht. Dieser Beitrag zeigt, wie eine moderne Führungskultur durch die Integration verschiedener Führungsansätze gestaltet werden kann und dabei der Fokus auf der Entwicklung von Menschen und ihren Potenzialen liegt."
-footnotes = "\\[[1]]Vgl. Starker Vera, Thies David-Ruben, Frommelt Mona (2022), S. 148\n\n\\[[2]]Edmondson A. (2020), S. 14 und Janssen B. (2023) S. 171\n\n\\[[3]]Ebner M. (2024), S. 57\n\n\\[[4]]Ebner M. (2024)\n\n\\[[5]] Foelsing J., Schmitz A. (2021) S. 212\n\n\\[[6]]Schermuly C. (2021), S. 197\n\n\\[[7]]Schermuly C. (2021), S. 206\n\n\\[[8]]C. Quarch, J. Teunen (2021), S. 45\n\n\\[[9]]Ebner M. (2024), S. 57\n\n\\[[10]]Foelsing J, Schmitz A. (2021)\n\nBücher"
+footnotes = "\\[[1]]Vgl. Starker Vera, Thies David-Ruben, Frommelt Mona (2022), S. 148\n\n\\[[2]]Edmondson A. (2020), S. 14 und Janssen B. (2023) S. 171\n\n\\[[3]]Ebner M. (2024), S. 57\n\n\\[[4]]Ebner M. (2024)\n\n\\[[5]] Foelsing J., Schmitz A. (2021) S. 212\n\n\\[[6]]Schermuly C. (2021), S. 197\n\n\\[[7]]Schermuly C. (2021), S. 206\n\n\\[[8]]C. Quarch, J. Teunen (2021), S. 45\n\n\\[[9]]Ebner M. (2024), S. 57\n\n\\[[10]]Foelsing J, Schmitz A. (2021)"
 +++
 ## Einleitung
 
@@ -13,19 +13,19 @@ Die Arbeitswelt befindet sich in einer stetigen Veränderung. Digitalisierung, b
 
 ## Meine Definition von New Leadership
 
-New Leadership ist für mich untrennbar mit meiner Definition von New Work verbunden. Diese definiere ich als Gestaltung guter Arbeit in der Arbeitswelt im Wandel verbunden. Dies bedeutet, organisationale Rahmenbedingungen zu schaffen, die es Menschen ermöglichen, ihre Arbeit kompetent und gesundheitserhaltend auszuüben. Dabei steht die Förderung persönlicher wie fachlicher Entwicklung im Zentrum. Eine ressorcen- und stärkenorientierte Führung führt nicht nur zu besseren Ergebinssen, sondern auch zu zufriedeneren Mitarbeitenden. \[[1]](applewebdata://0AC45A0F-C249-4BF5-9E4A-B4EC31A5B169#_ftn1)
+New Leadership ist für mich untrennbar mit meiner Definition von New Work verbunden. Diese definiere ich als Gestaltung guter Arbeit in der Arbeitswelt im Wandel verbunden. Dies bedeutet, organisationale Rahmenbedingungen zu schaffen, die es Menschen ermöglichen, ihre Arbeit kompetent und gesundheitserhaltend auszuüben. Dabei steht die Förderung persönlicher wie fachlicher Entwicklung im Zentrum. Eine ressorcen- und stärkenorientierte Führung führt nicht nur zu besseren Ergebinssen, sondern auch zu zufriedeneren Mitarbeitenden. \[[1]]
 
-Dazu kommt, dass die Gestaltung einer guten Zusammenarbeit, also wirkungsvollen und verbundenen Teams in der aktuellen Zeit immer wichtiger wird.\[[2]](applewebdata://0AC45A0F-C249-4BF5-9E4A-B4EC31A5B169#_ftn2) Führungspersonen haben also eine wichtige und verantwortungsvolle Rolle in Organisationen. Nachfolgend wird beschrieben, wie der Weg hin zu New Leadership gestaltet werden kann. 
+Dazu kommt, dass die Gestaltung einer guten Zusammenarbeit, also wirkungsvollen und verbundenen Teams in der aktuellen Zeit immer wichtiger wird.\[[2]] Führungspersonen haben also eine wichtige und verantwortungsvolle Rolle in Organisationen. Nachfolgend wird beschrieben, wie der Weg hin zu New Leadership gestaltet werden kann. 
 
 ## 3.0 Theoretische Basis
 
-Eine genaue oder einheitliche Definition von New Leadership gibt es nicht. In einer dynamischen und komplexen (Arbeits-)Welt gibt es auch nicht die eine richtige Führungsstrategie.\[[3]](applewebdata://0AC45A0F-C249-4BF5-9E4A-B4EC31A5B169#_ftn3) Zusammenfassend könnte man also sagen: New Leadership verbindet und integriert verschiedene moderne Führungsansätze. Dazu gehören für mich: 
+Eine genaue oder einheitliche Definition von New Leadership gibt es nicht. In einer dynamischen und komplexen (Arbeits-)Welt gibt es auch nicht die eine richtige Führungsstrategie.\[[3]] Zusammenfassend könnte man also sagen: New Leadership verbindet und integriert verschiedene moderne Führungsansätze. Dazu gehören für mich: 
 
 ### 3.1 Positive Leadership 
 
 Diese Art der Führung setzt den Fokus auf Stärken und Potenziale der Menschen. Dieser Ansatz fokussiert auf die Bedeutung positiver Beziehungen und Emotionen in der Zusammenarbeit. Führungskräfte schaffen ein Umfeld, in dem Menschen ihre Stärken entfalten können und aktivieren vorhandene Ressourcen. Sie fördern durch konstruktiven Dialog und wertschätzende Kommunikation ein positives Arbeitsklima und stiften Sinn durch die Verbindung individueller Beiträge mit übergeordneten Zielen. 
 
-Dazu passt das PERMA-Lead-Modell\[[4]](applewebdata://0AC45A0F-C249-4BF5-9E4A-B4EC31A5B169#_ftn4) von Dr. Markus Ebner.\
+Dazu passt das PERMA-Lead-Modell\[[4]] von Dr. Markus Ebner.\
 \
 **PERMA** steht für:
 
