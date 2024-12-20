@@ -3,6 +3,8 @@ title = "new-leadership-m5"
 date = "2024-12-20"
 draft = true
 pinned = false
+image = "compass-4891499_1280.jpg"
+description = "In einer von Wandel geprägten Arbeitswelt braucht es ein neues Verständnis von Führung, das Orientierung gibt und gleichzeitig Entwicklung ermöglicht. Dieser Beitrag zeigt, wie eine moderne Führungskultur durch die Integration verschiedener Führungsansätze gestaltet werden kann und dabei der Fokus auf der Entwicklung von Menschen und ihren Potenzialen liegt."
 footnotes = "\\[[1]]Vgl. Starker Vera, Thies David-Ruben, Frommelt Mona (2022), S. 148\n\n\\[[2]]Edmondson A. (2020), S. 14 und Janssen B. (2023) S. 171\n\n\\[[3]]Ebner M. (2024), S. 57\n\n\\[[4]]Ebner M. (2024)\n\n\\[[5]] Foelsing J., Schmitz A. (2021) S. 212\n\n\\[[6]]Schermuly C. (2021), S. 197\n\n\\[[7]]Schermuly C. (2021), S. 206\n\n\\[[8]]C. Quarch, J. Teunen (2021), S. 45\n\n\\[[9]]Ebner M. (2024), S. 57\n\n\\[[10]]Foelsing J, Schmitz A. (2021)\n\nBücher"
 +++
 ## Einleitung
