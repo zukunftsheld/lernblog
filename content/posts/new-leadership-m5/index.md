@@ -14,7 +14,7 @@ Die Arbeitswelt befindet sich in einer stetigen Veränderung. Digitalisierung, b
 
 ## Meine Definition von New Leadership
 
-New Leadership ist für mich untrennbar mit meiner Definition von New Work verbunden. Diese definiere ich als Gestaltung guter Arbeit in der Arbeitswelt im Wandel verbunden. Dies bedeutet, organisationale Rahmenbedingungen zu schaffen, die es Menschen ermöglichen, ihre Arbeit kompetent und gesundheitserhaltend auszuüben. Dabei steht die Förderung persönlicher wie fachlicher Entwicklung im Zentrum. Eine ressorcen- und stärkenorientierte Führung führt nicht nur zu besseren Ergebinssen, sondern auch zu zufriedeneren Mitarbeitenden. \[[1]]
+New Leadership ist für mich untrennbar mit [meiner Definition von New Work](https://www.bensblog.ch/new-work_eine_definition/) verbunden. Diese definiere ich als Gestaltung guter Arbeit in der Arbeitswelt im Wandel verbunden. Dies bedeutet, organisationale Rahmenbedingungen zu schaffen, die es Menschen ermöglichen, ihre Arbeit kompetent und [gesundheitserhaltend](https://www.bensblog.ch/tags/gesundheit/) auszuüben. Dabei steht die Förderung persönlicher wie fachlicher Entwicklung im Zentrum. Eine ressorcen- und stärkenorientierte Führung führt nicht nur zu besseren Ergebinssen, sondern auch zu zufriedeneren Mitarbeitenden. \[[1]]
 
 Dazu kommt, dass die Gestaltung einer guten Zusammenarbeit, also wirkungsvollen und verbundenen Teams in der aktuellen Zeit immer wichtiger wird.\[[2]] Führungspersonen haben also eine wichtige und verantwortungsvolle Rolle in Organisationen. Nachfolgend wird beschrieben, wie der Weg hin zu New Leadership gestaltet werden kann. 
 
@@ -73,7 +73,7 @@ Führungskräfte schaffen Rahmenbedingungen, in denen Menschen Selbstwirksamkeit
 
 Diese drei Führungsansätze können ergänzt und verstärkt werden durch Prinzipien agiler Führung. Agile Führung mit ihren Elementen des Servant Leadership betont die Wichtigkeit von Selbstorganisation, schnellem Lernen und flexibler Anpassung. Führungskräfte verstehen sich dabei als Ermöglichende und Dienende, die den Rahmen für selbstorganisierte Teams schaffen. Sie fördern:
 
-* Iteratives Vorgehen und kontinuierliches Lernen
+* Iteratives Vorgehen und [kontinuierliches Lernen](https://www.bensblog.ch/tags/lernen/)
 * Eine dienende Haltung zur Unterstützung der Teamentwicklung
 * Experimentierfreude und Anpassungsfähigkeit
 * Empowerment durch Übertragung von Verantwortung
@@ -114,7 +114,7 @@ Die Entwicklung zur New Leadership ist ein kontinuierlicher und vielschichtiger 
 Die bewusste Entwicklung von Führungskompetenzen erfordert persönliche Reflexion. Dafür braucht es sowohl zeitliche Ressourcen als auch eine psychologisch sichere Umgebung, in der ehrliches Feedback möglich ist. Organisationen sollten entsprechende Gefässe etablieren, z. B. Coachings, Mentorings oder Peer-Learning-Formate. Diese geschützten Räume ermöglichen es Führungskräften, ihre Erfahrungen zu verarbeiten, blinde Flecken zu erkennen und neue Perspektiven zu entwickeln.
 
 * Regelmässige Reflexion der eigenen Führungspraxis
-* Coaching, Mentoring oder kollegiale Beratung
+* Coaching, [Mentoring](https://www.bensblog.ch/mentoring/) oder kollegiale Beratung
 * Geschützter Raum für ehrliches Feedback
 
 ### Lernen im Alltag verankern
