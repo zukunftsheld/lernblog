@@ -18,11 +18,11 @@ New Leadership ist für mich untrennbar mit meiner Definition von New Work verbu
 
 Dazu kommt, dass die Gestaltung einer guten Zusammenarbeit, also wirkungsvollen und verbundenen Teams in der aktuellen Zeit immer wichtiger wird.\[[2]] Führungspersonen haben also eine wichtige und verantwortungsvolle Rolle in Organisationen. Nachfolgend wird beschrieben, wie der Weg hin zu New Leadership gestaltet werden kann. 
 
-## 3.0 Theoretische Basis
+## Theoretische Basis
 
 Eine genaue oder einheitliche Definition von New Leadership gibt es nicht. In einer dynamischen und komplexen (Arbeits-)Welt gibt es auch nicht die eine richtige Führungsstrategie.\[[3]] Zusammenfassend könnte man also sagen: New Leadership verbindet und integriert verschiedene moderne Führungsansätze. Dazu gehören für mich: 
 
-### 3.1 Positive Leadership 
+### Positive Leadership 
 
 Diese Art der Führung setzt den Fokus auf Stärken und Potenziale der Menschen. Dieser Ansatz fokussiert auf die Bedeutung positiver Beziehungen und Emotionen in der Zusammenarbeit. Führungskräfte schaffen ein Umfeld, in dem Menschen ihre Stärken entfalten können und aktivieren vorhandene Ressourcen. Sie fördern durch konstruktiven Dialog und wertschätzende Kommunikation ein positives Arbeitsklima und stiften Sinn durch die Verbindung individueller Beiträge mit übergeordneten Zielen. 
 
@@ -40,7 +40,7 @@ Dazu passt das PERMA-Lead-Modell\[[4]] von Dr. Markus Ebner.\
 
 **A**ccomplishment
 
-### 3.2 Transformationale Führung 
+### [Transformationale](https://www.bensblog.ch/transformationale-fuhrung/) Führung 
 
 Die transformative Führung zielt auf die inspirierende Vermittlung von Visionen und Zielen sowie die individuelle Förderung von Mitarbeitenden. Führungskräfte wirken als Vorbilder und Impulsgeber. Sie motivieren durch Sinnstiftung und fördern innovatives Denken. Dieser Ansatz ist besonders wertvoll für die Gestaltung von Veränderungsprozessen, da er Orientierung gibt und gleichzeitig Entwicklung fördert. *«Transformationale Führung ist darauf ausgerichtet in Zeiten kontinuierlicher und disruptiver Veränderung Sinn und Orientierung zu vermitteln, Mitarbeitende für die gemeinsame Vision zu begeistern und sie auf emotionaler Ebene anzusprechen, um ihr Engagement zu fördern.» \[[5]]
 
@@ -51,9 +51,9 @@ Die Rollen der transformativen Führung\[[6]]
 * Intellektuelle Stimulation / Intellectual Stimulation – Rolle Problemlöser 
 * Individuelle Förderung / Individual Consideration – Rolle Coach 
 
-### **3.3 Empowermentorientierte Führung** 
+### **Empowermentorientierte Führung** 
 
-Der empowermentorientierte Führungsstil zielt auf die vier Dimensionen des psychologischen Empowerments ab. Diese sind:
+Der empowermentorientierte Führungsstil zielt auf die vier Dimensionen des [psychologischen Empowerments ](https://www.bensblog.ch/psychologisches_empowerment/)ab. Diese sind:
 
 * Kompetenz
 * Bedeutsamkeit
@@ -66,7 +66,7 @@ Führungskräfte schaffen Rahmenbedingungen, in denen Menschen Selbstwirksamkeit
 
 * Sinnstiftung: Rolle Sinnstifter
 * Individualisierte Berücksichtigung: Coach
-* Partizipation: Rolle Begleiter
+* [Partizipation](https://www.bensblog.ch/partizipation/): Rolle Begleiter
 * Verantwortung: Rolle Eermächtiger
 * Kompetenzentwicklung: Rolle Personalentwickler
 * Idealisierter Einfluss: Rolle Vorbild
@@ -85,7 +85,7 @@ Die Integration dieser Führungsansätze ermöglicht es, situativ und flexibel z
 
 Abbildung 1: Integriertes Führungsverständnis New Leadership, eigene Darstellung
 
-## 4.0 Ganzheitliches Führungsverständnis
+## Ganzheitliches Führungsverständnis
 
 > \*«Orientieren Sie sich bei Führungsaufgaben an der Tätigkeit des Gärtners: Sorgen Sie dafür, dass Ihre Mitarbeiter:innen ein gutes Arbeitsklima vorfinden, dass sie mit den nötigen Nährstoffen versehen werden, dass sie Wurzeln schlagen und einander unterstützen können, um zur Schönheit zu erblühen und reiche Frucht zu tragen»\[[8]]
 
@@ -105,11 +105,11 @@ Im Kern von New Leadership steht für mich die Integration von vier wesentlichen
 
 Abbildung 2: Ganzheitliches Führungsverständnis «New Leadership» - Navigieren im Wandel. Eigene Darstellung.
 
-## 5.0 Der Entwicklungsweg zu New Leadership
+## Der Entwicklungsweg zu New Leadership
 
 Die Entwicklung zur New Leadership ist ein kontinuierlicher und vielschichtiger Prozess. Dieser wird geprägt durch die bestehende Organisations- und Führungskultur, die individuellen Kompetenzen und Erfahrungen der Führungspersonen sowie des angestrebten Zielbildes und den Rahmenbedingungen in der Organisation. Je nach Ausgangslage und Kontext ergeben sich unterschiedliche Schwerpunkte und Entwicklungspfade. Wesentliche Elemente dabei sind:
 
-### 5.1 Reflexionsräume schaffen
+### Reflexionsräume schaffen
 
 Die bewusste Entwicklung von Führungskompetenzen erfordert persönliche Reflexion. Dafür braucht es sowohl zeitliche Ressourcen als auch eine psychologisch sichere Umgebung, in der ehrliches Feedback möglich ist. Organisationen sollten entsprechende Gefässe etablieren, z. B. Coachings, Mentorings oder Peer-Learning-Formate. Diese geschützten Räume ermöglichen es Führungskräften, ihre Erfahrungen zu verarbeiten, blinde Flecken zu erkennen und neue Perspektiven zu entwickeln.
 
@@ -117,7 +117,7 @@ Die bewusste Entwicklung von Führungskompetenzen erfordert persönliche Reflexi
 * Coaching, Mentoring oder kollegiale Beratung
 * Geschützter Raum für ehrliches Feedback
 
-### 5.2 Lernen im Alltag verankern
+### Lernen im Alltag verankern
 
 Echte Führungsentwicklung findet vor allem in der täglichen Praxis statt. Dies erfordert eine Kultur des «kontinuierlichen, arbeitsplatzbezogenen Lernens»\[[10]](applewebdata://0AC45A0F-C249-4BF5-9E4A-B4EC31A5B169#_ftn10). Führungskräfte sollten ihre Alltagssituationen bewusst als Lernfelder gestalten und nutzen. Indem sie selbst eine lernende Haltung vorleben und ihre Entwicklungsschritte transparent machen, werden sie zum Vorbild für ihre Mitarbeitenden. So tragen sie aktiv zur Etablierung einer organisationsweiten Lernkultur bei, in der kontinuierliche Weiterentwicklung als selbstverständlich gilt.
 
@@ -125,7 +125,7 @@ Echte Führungsentwicklung findet vor allem in der täglichen Praxis statt. Dies
 * Integration von Lernen in den Arbeitsalltag
 * Kontinuierliche Weiterentwicklung der Praxis
 
-### 5.3 Gemeinsam wachsen
+### Gemeinsam wachsen
 
 Der Weg zu New Leadership ist keine einsame Reise, sondern gedeiht am besten im Austausch mit anderen. In einer vertrauensvollen, psychologisch sicheren Umgebung können Führungskräfte voneinander lernen, sich gegenseitig unterstützen und gemeinsam neue Führungsansätze entwickeln. Formate wie Learning Communities oder regelmässige Peer-Austausche bieten wertvolle Plattformen für dieses kollektive Wachstum. Hier können Erfahrungen geteilt, Herausforderungen gemeinsam reflektiert und innovative Lösungsansätze erarbeitet werden.
 
@@ -137,7 +137,7 @@ Der Weg zu New Leadership ist keine einsame Reise, sondern gedeiht am besten im 
 
 Abbildung 3: Entwicklungswege zu New Leadership, eigene Darstellung
 
-### 5.4 Herausforderungen und Stolpersteine bei der Entwicklung von New Leadership
+### Herausforderungen und Stolpersteine bei der Entwicklung von New Leadership
 
 Der Weg zu einer neuen Art von Führung (Ermöglichen, Ressourcen- und Stärkenorientierung, Partizipation) kann auch verschiedene Herausforderungen mit sich bringen. 
 
@@ -151,7 +151,7 @@ Organisationsstrukturen und etablierte Prozesse können die Entwicklung zu New L
 
 **Persönliche Hürden**
 
-Der Weg zu New Leadership erfordert von Führungskräften teilweise eine tiefgreifende persönliche Transformation. Diese Veränderung kann sehr herausfordern sein und verunsichern und innere Widerstände aktivieren. Häufig zeigen sich folgende Herausforderungen:
+Der Weg zu New Leadership erfordert von Führungskräften teilweise eine tiefgreifende persönliche Transformation. Diese Veränderung kann sehr herausfordern sein und verunsichern und innere [Widerstände](https://www.bensblog.ch/umgang-mit-widerstand/)<https://www.bensblog.ch/tags/transformation/> aktivieren. Häufig zeigen sich folgende Herausforderungen:
 
 * Gewohnte Denk- und Verhaltensmuster
 * Angst vor Kontrollverlust
@@ -173,7 +173,7 @@ Die Implementierung von New Leadership muss dem Reifegrad und der Kultur der Org
 
 Abbildung 4: Herausforderungen und Stolpersteine auf dem Weg zu New Leadership und passende Lösungsansätze. Eigene Darstellung. 
 
-## [6.0 New Leadership in verschiedenen Kontexten](<>)
+## New Leadership in verschiedenen Kontexten
 
 Die erfolgreiche Implementierung von New Leadership hängt stark vom organisationalen Kontext ab. Jede Organisation bringt ihre eigene Geschichte, Kultur und Strukturen mit. Die Umsetzung von New Leadership sollte dem Reifegrad der Organisation angepasst werden:
 
@@ -204,19 +204,19 @@ In bereits modern aufgestellten Organisationen geht es vor allem um die Vertiefu
 * Fokus auf systemische Perspektive
 * Experimentieren mit innovativen Führungsformen
 
-## 7.0 Praxisbeispiel
+## Praxisbeispiel
 
 Als Beispiel für einen Change-Prozess könnte der Weg eines Teams dienen. Die Führungsperson entwickelte dabei bewusst ihre Rolle vom klassischen Vorgesetzten zur modernen Führungskraft. Ausgehend von einer traditionellen Struktur entwickelte sich das Team innerhalb eines Jahres in Richtung moderne Organisation:
 
-***Change-Prozess eines Teams***
+**[Change](https://www.bensblog.ch/tags/change/)-Prozess eines Teams**
 
-***Ausgangslage:*** Klassische Hierarchie mit klaren Führungslinien, wenig Eigenverantwortung der Mitarbeitenden → Führungsrolle: Direktiv und kontrollierend
+**Ausgangslage:** Klassische Hierarchie mit klaren Führungslinien, wenig Eigenverantwortung der Mitarbeitenden → Führungsrolle: Direktiv und kontrollierend
 
-***Erste Schritte:*** Einführung von wöchentlichen Team-Huddles → Wirkung: Verbesserte Kommunikation und erste Schritte zu mehr Eigenverantwortung → Führungsrolle: Moderierend und Raum gebend
+**Erste Schritte:** Einführung von wöchentlichen Team-Huddles → Wirkung: Verbesserte Kommunikation und erste Schritte zu mehr Eigenverantwortung → Führungsrolle: Moderierend und Raum gebend
 
-***Entwicklung:*** Schrittweise Übertragung von Verantwortung an das Team → Wirkung: Stärkeres Engagement und Initiative der Mitarbeitenden → Führungsrolle: Coachend und unterstützend
+**Entwicklung:** Schrittweise Übertragung von Verantwortung an das Team → Wirkung: Stärkeres Engagement und Initiative der Mitarbeitenden → Führungsrolle: Coachend und unterstützend
 
-***Erreichter Stand:*** Team mit höherer Eigenverantwortung → Wirkung: bietet die Basis für weitere Entwicklung → Führungsrolle: Ermöglichend und begleitend
+**Erreichter Stand:** Team mit höherer Eigenverantwortung → Wirkung: bietet die Basis für weitere Entwicklung → Führungsrolle: Ermöglichend und begleitend
 
 * Kritische Erfolgsfaktoren können sein:
 * Klare Kommunikation der Entwicklungsrichtung
@@ -229,7 +229,7 @@ Als Beispiel für einen Change-Prozess könnte der Weg eines Teams dienen. Die F
 
 Abbildung 5: Entwicklungswege: New Leadership im Wandel, eigene Darstellung
 
-## 8.0 Fazit
+## Fazit
 
 New Leadership entwickelt sich nicht über Nacht, sondern ist ein stetiger Prozess des Lernens und Wachsens - sowohl für die Organisation als Ganzes, für die Führungspersonen wie auch für die Mitarbeitenden. Der Fokus liegt dabei auf der Integration verschiedener Führungsdimensionen und der kontinuierlichen Entwicklung der eigenen Führungspraxis.
 
