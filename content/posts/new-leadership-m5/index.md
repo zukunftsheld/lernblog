@@ -1,7 +1,7 @@
 +++
 title = "New Leadership: Navigieren im Wandel "
 date = "2024-12-20"
-draft = true
+draft = false
 pinned = false
 tags = ["CAS-BI", "Personalentwicklung", "Organisationsentwicklung", "Leadership", "NewLeadership", "NewWork"]
 image = "compass-4891499_1280.jpg"
