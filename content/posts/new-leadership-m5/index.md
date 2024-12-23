@@ -119,7 +119,7 @@ Die bewusste Entwicklung von Führungskompetenzen erfordert persönliche Reflexi
 
 ### Lernen im Alltag verankern
 
-Echte Führungsentwicklung findet vor allem in der täglichen Praxis statt. Dies erfordert eine Kultur des «kontinuierlichen, arbeitsplatzbezogenen Lernens»\[[10]](applewebdata://0AC45A0F-C249-4BF5-9E4A-B4EC31A5B169#_ftn10). Führungskräfte sollten ihre Alltagssituationen bewusst als Lernfelder gestalten und nutzen. Indem sie selbst eine lernende Haltung vorleben und ihre Entwicklungsschritte transparent machen, werden sie zum Vorbild für ihre Mitarbeitenden. So tragen sie aktiv zur Etablierung einer organisationsweiten Lernkultur bei, in der kontinuierliche Weiterentwicklung als selbstverständlich gilt.
+Echte Führungsentwicklung findet vor allem in der täglichen Praxis statt. Dies erfordert eine Kultur des «kontinuierlichen, arbeitsplatzbezogenen Lernens»\[[10]]. Führungskräfte sollten ihre Alltagssituationen bewusst als Lernfelder gestalten und nutzen. Indem sie selbst eine lernende Haltung vorleben und ihre Entwicklungsschritte transparent machen, werden sie zum Vorbild für ihre Mitarbeitenden. So tragen sie aktiv zur Etablierung einer organisationsweiten Lernkultur bei, in der kontinuierliche Weiterentwicklung als selbstverständlich gilt.
 
 * Bewusstes Gestalten von Führungssituationen
 * Integration von Lernen in den Arbeitsalltag
