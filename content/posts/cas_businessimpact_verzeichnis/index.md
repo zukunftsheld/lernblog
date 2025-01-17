@@ -2,7 +2,7 @@
 title = "CAS Business Impact: Bücher und Blogposts"
 date = "2024-08-01"
 draft = false
-pinned = false
+pinned = true
 tags = ["CAS", "CAS-BI", "Personalentwicklung", "Organisationsentwicklung", "Lernen", "Bildung"]
 image = "bibliothek.png"
 description = "Überblick über Blogbeiträge zum CAS Organisationsentwicklung & Change Leadership und Bücherverzeichnis."
@@ -13,6 +13,8 @@ footnotes = "Titelbild: Hintergrundbild erstellt mit Bing Image Creator"
 Dieses Verzeichnis wächst in den nächsten Wochen und Monaten. 
 
 {{<box title="CAS-Blogposts">}}
+
+**\#10** [New Leadership - Navigieren im Wandel](https://www.bensblog.ch/new-leadership-m5/)
 
 **\#9** [Leitfaden: Einführung von generativer KI in Organisationen](https://www.bensblog.ch/leitfaden-einfuhrung-von-generativer-ki-in-organisationen/)
 
