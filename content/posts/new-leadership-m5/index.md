@@ -101,7 +101,7 @@ Im Kern von New Leadership steht für mich die Integration von vier wesentlichen
 
 **Umfeld:** Die (Führungs-)Arbeit findet immer in einem Kontext statt, der von äusseren Faktoren wie Unternehmenskultur, Marktbedingungen, gesellschaftlichen Entwicklungen und Gesetzen etc. Diese Umfeldbedingungen haben einen Einfluss auf die (Führungs-)Arbeit. Eine Führungskraft sollte sich dieser bewusst sein und diese Einflüsse wahrnehmen, verstehen und bei ihren Entscheidungen berücksichtigen.
 
-![](new-leadership.jpg)
+![](bildschirmfoto-2025-01-17-um-10.41.32.png)
 
 Abbildung 2: Ganzheitliches Führungsverständnis «New Leadership» - Navigieren im Wandel. Eigene Darstellung.
 
