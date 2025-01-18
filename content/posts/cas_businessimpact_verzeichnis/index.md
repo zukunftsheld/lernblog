@@ -14,6 +14,8 @@ Dieses Verzeichnis wächst in den nächsten Wochen und Monaten.
 
 {{<box title="CAS-Blogposts">}}
 
+**\#11** [Orientierung als Change Begleiter](https://www.bensblog.ch/orientierung-als-change-begleiter/)
+
 **\#10** [New Leadership - Navigieren im Wandel](https://www.bensblog.ch/new-leadership-m5/)
 
 **\#9** [Leitfaden: Einführung von generativer KI in Organisationen](https://www.bensblog.ch/leitfaden-einfuhrung-von-generativer-ki-in-organisationen/)
