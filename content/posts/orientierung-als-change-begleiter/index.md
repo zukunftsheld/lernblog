@@ -16,6 +16,8 @@ In den letzten Wochen habe ich mich erneut intensiv mit Change Leadership ausein
 
 Die Begleitungen von Menschen und insbesondere in [Change](https://www.bensblog.ch/tags/change/) Prozessen kann zuweilen die eigene Orientierung durcheinanderbringen. Ähnlich, als wäre man mit einem Schiff in einen Sturm geraten. Da hilft es als Navigator, die Karten und den Kompass zu kennen und auf etwas «Festes» zurückgreifen zu können. Also stellte ich mir gemeinsam mit meinem Modul Coach Fragen wie «Was treibt mich in meiner Arbeit wirklich an?» oder «Wie will ich arbeiten?». Ich bewege mich seit Jahren in Kontexten, in denen ich Menschen in Veränderungs- und Entwicklungskontexten begleite. Dabei nehme ich mir auch immer wieder die Zeit, über die eigenen Grundprinzipien nachzudenken. Dieses CAS-Modul in Kombination mit dem bevorstehenden Neubeginn, bot nun Anlass, dieses mit Fokus auf Change Leadership zu verschriftlichen. 
 
+![](img_0414.jpg)
+
 ## **Ein Leitfaden für die Zukunft**
 
 Der Kompass entstand aus der Idee heraus, Klarheit über meine Rolle und den Beitrag meiner Begleitungen zu gewinnen. Für mich selbst und vielleicht auch für die Menschen, mit denen ich arbeite. Es geht darum, eine Orientierung zu schaffen, die in der zunehmend komplexen und dynamischen Arbeitswelt (und vor allem in turbulenten Zeiten) Bestand hat. Dabei war mir wichtig, eine Balance zwischen der Förderung individueller sowie kollektiver  Stärken und dem Blick auf das grössere Ganze – das Zusammenspiel von Teams und Organisationen – zu finden.
