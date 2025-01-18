@@ -24,6 +24,8 @@ Der Kompass entstand aus der Idee heraus, Klarheit über meine Rolle und den Bei
 
 Aussensichten und aufmerksame Ohren helfen. So habe ich mit meinem Modulcoach Themenfelder identifiziert, die mir wichtig sind und die mich ausmachen. Da waren Fragen wie: Welche Werte leiten mich in meiner Arbeit? Was macht Veränderungsprozesse wirklich erfolgreich? Welche Rollen nehme ich dabei ein? Wie ergänzen sich diese? etc. 
 
+![](42603dad-d5ab-4792-b7e8-3b8eeee9fc14-2.jpg)
+
 ## **Warum ich hier «nur» über den Prozess schreibe**
 
 Auch wenn ich mit vielen persönlichen Themen hier offen umgehe, ist mir dieses Dokument (zumindest noch so frisch) zu persönlich, um es hier zu teilen. Warum ich «nur» über den Prozess schreibe? Ich glaube daran, dass die Reflexion über unsere eigenen Ansätze mindestens genauso wertvoll ist wie die Methoden, die wir anwenden. Indem ich diesen Weg hier teile, hoffe ich, andere zu inspirieren, ebenfalls innezuhalten und sich ihrer eigenen „Kompasspunkte“ bewusst zu werden.
