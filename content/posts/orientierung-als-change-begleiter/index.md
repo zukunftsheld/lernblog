@@ -4,7 +4,7 @@ date = "2025-01-18"
 draft = false
 pinned = false
 tags = ["CAS-BI", "Change", "Leadership", "Personalentwicklung", "Organisationsentwicklung"]
-image = "praxisorientierte-kompetenzentwicklung-2.jpg"
+image = "orientierung-change-begleiter.jpg"
 description = "Wie behalte ich als Begleiter in Change-Prozessen selbst die Orientierung? Diese Frage führte mich zur Entwicklung eines persönlichen Kompasses für meine Arbeit in der Personal- und Organisationsentwicklung. Ein Einblick in meinen Reflexionsprozess."
 footnotes = "Hintergrund Titelbild: Erstellt mit Bing Image Creator"
 +++
