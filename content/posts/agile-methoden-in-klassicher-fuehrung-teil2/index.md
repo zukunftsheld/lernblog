@@ -1,16 +1,17 @@
 +++
 title = "Integration agiler Methoden in klassische Führungskontexte - Teil 2"
 date = "2025-01-22"
-draft = true
+draft = false
 pinned = false
 tags = ["CAS-BI", "Agilität", "Leadership", "Personalentwicklung", "Organisationsentwicklung"]
 image = "agil-leadership-2.jpg"
+description = "Agilität kann Führung und Teamarbeit auch in klassische(re)n Organisationen bereichern – vorausgesetzt, sie wird sinnvoll eingesetzt. Teil 2: Praxisleitfaden für Führungspersonen"
 +++
 # Teil 2: Praxisleitfaden für Führungskräfte
 
 ## Über diesen Praxisleitfaden
 
-Dieser Leitfaden entstand im Rahmen des CAS Business Impact und bietet Ihnen als Führungskraft konkrete Hilfestellung bei der Integration agiler Methoden in Ihren Führungsalltag. Er basiert auf praktischen Erfahrungen und ist bewusst pragmatisch gestaltet. Nutzen Sie die Vorschläge und Werkzeuge als Inspiration und passen Sie sie an Ihren spezifischen Kontext an.
+Dieser Leitfaden entstand im Rahmen des [CAS Business Impact](https://www.bensblog.ch/tags/cas-bi/) und bietet Ihnen als Führungskraft konkrete Hilfestellung bei der Integration agiler Methoden in Ihren Führungsalltag. Er basiert auf praktischen Erfahrungen und ist bewusst pragmatisch gestaltet. Nutzen Sie die Vorschläge und Werkzeuge als Inspiration und passen Sie sie an Ihren spezifischen Kontext an.
 
 ## Typische Ausgangssituationen
 
@@ -60,19 +61,19 @@ Kanban bietet einen einfachen Einstieg in agiles Arbeiten durch die Visualisieru
 
 #### **Quick Wins**
 
-Einfaches Kanban-Board erstellen:
+**Einfaches Kanban-Board erstellen:**
 
 * Whiteboard oder Wand mit drei Spalten: «Aufgabe», «In Bearbeitung», «Erledigt» (siehe Abbildung 4)
 * Haftnotizen für Aufgaben
 * Wöchentliches 15-Minuten-Treffen am Board einführen oder täglicher Einstieg 5 – 10 Min. 
 
-Erste Schritte:
+**Erste Schritte:**
 
 * Aktuelle Hauptaufgaben auf Haftnotizen schreiben
 * Jedes Teammitglied pflegt seine Aufgaben selbst
 * Zu Beginn keine Limits für Anzahl Aufgaben setzen, nur beobachten
 
-Nach 2-3 Wochen:
+**Nach 2-3 Wochen:**
 
 * Erste WIP (Work in Progress)-Limits einführen
 * Prozess gemeinsam anpassen
@@ -88,13 +89,13 @@ Bei der Einführung von Kanban tauchen oft ähnliche Bedenken auf, für die es b
 
 **Praxistipps**
 
-Do:
+**Do:**
 
 * Klein anfangen, kontinuierlich verbessern und lernen
 * Team von Anfang an einbinden, allenfalls Infos/Schulungen zur Verfügung stellen
 * Regelmässige kurze Besprechungen am Board
 
-Don't:
+**Don't:**
 
 * Zu viele Regeln auf einmal
 * Perfektionismus bei der Umsetzung
@@ -106,19 +107,19 @@ Objectives and Key Results (OKR) bieten einen strukturierten Rahmen für die Zie
 
 #### **Quick Wins**
 
-Start mit einem Bereichs-Objective:
+**Start mit einem Bereichs-Objective:**
 
 * Inspirierendes Team-Ziel formulieren & Zeitraum festlegen
 * 2-3 messbare Key Results definieren
 * Team in Formulierung einbinden
 
-Einfaches Tracking:
+**Einfaches Tracking:**
 
 * Wöchentlicher Kurz-Check im Team
 * Fortschritt in Prozent schätzen
 * Hindernisse besprechen
 
-Nach definiertem Zeitraum:
+**Nach definiertem Zeitraum:**
 
 * Gemeinsam Erfolge feiern
 * Aus Erfahrungen lernen
@@ -136,19 +137,19 @@ Retrospektiven sind regelmässige Team-Meetings zur gezielten Reflexion und Verb
 
 #### **Quick Wins**
 
-Monatliche Retrospektive einführen:
+**Monatliche Retrospektive einführen:**
 
 * 60-90 Minuten einplanen
 * Alle Teammitglieder einladen
 * Einfaches Format wählen
 
-Struktur für den Start:
+**Struktur für den Start:**
 
 * Was lief gut?
 * Was können wir verbessern?
 * Welche konkreten Massnahmen nehmen wir uns vor?
 
-Folgeprozess:
+**Folgeprozess:**
 
 * Massnahmen dokumentieren
 * Verantwortliche benennen
@@ -160,19 +161,19 @@ Der Einstieg in agile Methoden erfordert eine sorgfältige Vorbereitung sowohl d
 
 ## 3.1 Vorbereitung
 
-□ Selbstreflexion:
+**□ Selbstreflexion:**
 
 * Bin ich bereit, mehr Verantwortung ans Team zu geben?
 * Kann ich gut mit Unsicherheit umgehen?
 * Bin ich offen für Feedback und neue Wege?
 
-□ Teamanalyse:
+**□ Teamanalyse:**
 
 * Wo steht das Team heute?
 * Welche Methode bietet den grössten Mehrwert?
 * Welche Widerstände könnte es geben?
 
-□ Rahmenbedingungen:
+**□ Rahmenbedingungen:**
 
 * Information an eigenen Vorgesetzten
 * Ressourcen klären (Zeit, Raum, Tools)
@@ -272,23 +273,17 @@ Abschluss (20 Min)
 
 Abbildung 4:Kanban-Board, diverse Quellen, eigene grafische Umsetzung
 
- 
-
 **OKR-Vorlage**
 
 ![](okr.jpg)
 
 Abbildung 5: OKR-Vorlage, diverse Quellen, eigene grafische Umsetzung
 
- 
-
 **Team-Retrospektive Ablauf**
 
 ![](retrospektive.jpg)
 
 Abbildung 6: Team-Retrospektive, diverse Quellen, eigene grafische Umsetzung
-
- 
 
 ## 5. Erfolgsfaktoren
 
