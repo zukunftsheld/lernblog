@@ -6,10 +6,11 @@ pinned = false
 tags = ["CAS-BI", "Agilität", "Leadership", "Personalentwicklung", "Organisationsentwicklung"]
 image = "agil-leadership.jpg"
 description = "Agilität kann Führung und Teamarbeit auch in klassische(re)n Organisationen bereichern – vorausgesetzt, sie wird sinnvoll eingesetzt. Teil 1: Grundlagen & Einstieg"
+footnotes = "📚**Passende** **Bücher**\n\n📘 [Das neue Führen, Führen und sich führen lassen in Zeiten der Unvorhersehbarkeit, Bodo Janssen](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/bodo-janssen/das-neue-fuehren/id/9783424202854/)\n\n💻**[\\--> Einblicke und Gedanken zum Buch in diesem Blogbeitrag](https://www.bensblog.ch/das-neue-fuehren/)**\n\n📕[Future Skills, 30 Zukunftsentscheidende Kompetenzen und wie wir sie lernen können](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/69-co-creators/future-skills/id/9783800666355/)\n\n📘[Organisationsdesign in einer komplexen und instabilen Welt, Einführung in Modelle und Konzepte sowie deren Anwendung](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/jens-o-meissner/organisationsdesign-in-einer-komplexen-und-instabilen-welt/id/9783658423384/?userLoggedOut=true)\n\n📕 [Zwischen Alt und Neu liegt gut, Wie wir mit Good Work eine zukunftsfähige Arbeitskultur gestalten können, ohne alles neu machen zu müssen, Jule Jankowski](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/jule-jankowski/zwischen-alt-und-neu-liegt-gut/id/9783800669332/)\n\n➡️[Hier gehts zu allen Beiträgen des CAS Business Impact und zu einer Bücherliste](https://www.bensblog.ch/cas_businessimpact_verzeichnis/)\n\nTitelbild Hintergrundbild: Erstellt mit Dall-E3"
 +++
 ## Über diesen Text
 
-Dieser zweiteilige Leitfaden entstand innerhalb des [CAS Business Impact](https://www.bensblog.ch/tags/cas-bi/). Der Text richtet sich an Führungskräfte in (klassische(re)n Organisationsstrukturen, die ihre Führungsarbeit sowie die Teamarbeit durch agile Methoden bereichern möchten. Teil 1 bietet die theoretischen Grundlagen und Hintergründe, während Teil 2 als praktischer Leitfaden für die konkrete Umsetzung dient. Die Teile können sowohl gemeinsam als auch unabhängig voneinander genutzt werden.
+Dieser zweiteilige Leitfaden entstand innerhalb des [CAS Business Impact](https://www.bensblog.ch/tags/cas-bi/). Der Text richtet sich an Führungskräfte in klassische(re)n Organisationsstrukturen, die ihre Führungsarbeit sowie die Teamarbeit durch agile Methoden bereichern möchten. Teil 1 bietet die theoretischen Grundlagen und Hintergründe, während Teil 2 als praktischer Leitfaden für die konkrete Umsetzung dient. Die Teile können sowohl gemeinsam als auch unabhängig voneinander genutzt werden.
 
 # Teil 1: Theoretische Grundlagen
 
@@ -17,16 +18,18 @@ Dieser zweiteilige Leitfaden entstand innerhalb des [CAS Business Impact](https:
 
 ## 1.0 Agilität - Ursprung und Definition
 
-Agilität hat seinen Ursprung in der Softwareentwicklung und basiert auf dem agilen Manifest von 2001. Die dort formulierten Werte und Prinzipien bilden bis heute die Grundlagen des agilen Arbeitens.
+[Agilität](https://www.bensblog.ch/tags/agilitat/) hat seinen Ursprung in der Softwareentwicklung und basiert auf dem agilen Manifest von 2001. Die dort formulierten Werte und Prinzipien bilden bis heute die Grundlagen des agilen Arbeitens.
 
 * Priorisierung von Menschen 
 * Interaktionen über Prozesse
 * funktionierende Ergebnisse über umfassende Dokumentation 
 * Reaktion auf Veränderung über das Befolgen eines Plans 
 
+weitere Infos und Original-Formulierungen auch hier:  <https://agilemanifesto.org/iso/de/manifesto.html>
+
 Diese Prinzipien haben sich über die Jahre als wertvoll für viele Bereiche auch ausserhalb der Softwareentwicklung erwiesen. Trotzdem sollte Agilität oder agiles Arbeiten sinnvoll und überlegt eingesetzt werden. 
 
-## 1.1 Sinnvoller Einsatz von Agilität
+## 1.1 [Sinnvoller Einsatz von Agilität](https://www.bensblog.ch/wann-agile-vorgehensweisen-sinnvoll-sind/)
 
 Agile Methoden sind kein Allheilmittel und sollten gezielt dort eingesetzt werden, wo sie einen echten Mehrwert bieten. Die Stacey-Matrix bietet hier eine hilfreiche Orientierung: Während in einfachen und komplizierten Kontexten klassische Methoden oft besser geeignet sind, entfalten agile Ansätze ihre Stärken besonders in komplexen Umgebungen. Der Einsatz agiler Methoden sollte daher stets vom spezifischen Kontext, der Unternehmenskultur und den vorhandenen Kompetenzen abhängig gemacht werden. 
 
@@ -36,7 +39,7 @@ Abbildung 1: Stacey-Matrix, diverse Quellen
 
 ## 1.2 Doing Agile vs. Being Agile
 
-Die Integration agiler Methoden in Organisationen erfolgt auf zwei Ebenen: Dem "Doing Agile" - der konkreten Anwendung agiler Werkzeuge und Methoden - und dem "Being Agile" - der Entwicklung einer agilen Denkweise und Kultur. Während die vollständige kulturelle Transformation zu «Being Agile» einen längeren Zeitraum benötigt, können agile Methoden schnell einen Mehrwert bieten. Der vorliegende Ansatz fokussiert sich bewusst auf das "Doing Agile" als ersten, pragmatischen Schritt zur Erhöhung der Agilität in der Führung und Zusammenarbeit im Team.
+Die Integration agiler Methoden in Organisationen erfolgt auf zwei Ebenen: Dem «Doing Agile» - der konkreten Anwendung agiler Werkzeuge und Methoden - und dem «Being Agile» - der Entwicklung einer agilen Denkweise und Kultur. Während die vollständige kulturelle Transformation zu «Being Agile» einen längeren Zeitraum benötigt, können agile Methoden schnell einen Mehrwert bieten. Der vorliegende Ansatz fokussiert sich bewusst auf das "Doing Agile" als ersten, pragmatischen Schritt zur Erhöhung der Agilität in der Führung und Zusammenarbeit im Team.
 
 ![](bildschirmfoto-2025-01-19-um-12.17.57.png)
 
@@ -60,7 +63,7 @@ Der Weg zur Integration agiler Methoden ist selbst ein agiler Prozess. Es ist An
 
 ## 3. Ausgewählte Methoden für den Führungsalltag
 
- Diese drei Methoden eigen sich, um die Führung und Teamarbeit mit agilen Arbeitsformen zu erweitern. Sie sind einfach einführbar, schaffen schnell sichtbare Mehrwerte und können flexibel an verschiedene Arbeits- und Führungskontexte angepasst werden.
+Diese drei Methoden eigen sich, um die Führung und Teamarbeit mit agilen Arbeitsformen zu erweitern. Sie sind einfach einführbar, schaffen schnell sichtbare Mehrwerte und können flexibel an verschiedene Arbeits- und Führungskontexte angepasst werden.
 
 ## 3.1 Kanban
 
