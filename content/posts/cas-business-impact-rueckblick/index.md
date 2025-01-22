@@ -70,6 +70,8 @@ Die Module strukturierten den Lernprozess. Daneben liess ich mich manchmal auch 
 
 Ich habe mit dem gearbeitet, was mir in die Finger kam. Klar, da waren Lerninhalte, welche durch das ikf kuratiert wurden. Aber da gab es auch viele und interessante Bücher, Videos, Blogs, Artikel, Gespräche, Linkedin-Posts, Podcasts und Hörbücher. Gerade bei den Videos auf Youtube gibt es aber auch ganz viel uninteressantes. 
 
+![](img_9390-2.jpg)
+
 **Spagat zwischen «Alter» und «Neuer» Arbeitswelt**
 
 Ich habe diese Weiterbildung mit dem Fokus «zukunftsorientierte Personal- und Organisationsentwicklung» gestaltet. Da gibt es natürlich ganz viel «New» und dieses «New» ist, wie sich in vielen Gesprächen (und meinen eigenen Erfahrungen) gezeigt hat, oft nicht oder nur in kleinen Teilen Realität. Auch wenn sich eine Organisation auf den ernsthaften Weg zum Neuem macht, braucht das viel Zeit. Also habe ich immer wieder versucht (und es ist mir hoffentlich gelungen), vor allem praxisorientierte und praxistaugliche Perspektiven einzunehmen. Ein Spagat der wohl immer ein Spagat bleibt. Vielleicht würde es mehr Sinn machen zu balancieren, da wäre ich wohl beweglicher als im Spagat 😉 aber huch, ich schweife ab. 
