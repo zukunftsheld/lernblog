@@ -9,7 +9,7 @@ description = "Agilität kann Führung und Teamarbeit auch in klassische(re)n Or
 +++
 ## Über diesen Text
 
-Dieser zweiteilige Leitfaden entstand innerhalb des CAS Business Impact. Der Text richtet sich an Führungskräfte in (klassische(re)n Organisationsstrukturen, die ihre Führungsarbeit sowie die Teamarbeit durch agile Methoden bereichern möchten. Teil 1 bietet die theoretischen Grundlagen und Hintergründe, während Teil 2 als praktischer Leitfaden für die konkrete Umsetzung dient. Die Teile können sowohl gemeinsam als auch unabhängig voneinander genutzt werden.
+Dieser zweiteilige Leitfaden entstand innerhalb des [CAS Business Impact](https://www.bensblog.ch/tags/cas-bi/). Der Text richtet sich an Führungskräfte in (klassische(re)n Organisationsstrukturen, die ihre Führungsarbeit sowie die Teamarbeit durch agile Methoden bereichern möchten. Teil 1 bietet die theoretischen Grundlagen und Hintergründe, während Teil 2 als praktischer Leitfaden für die konkrete Umsetzung dient. Die Teile können sowohl gemeinsam als auch unabhängig voneinander genutzt werden.
 
 # Teil 1: Theoretische Grundlagen
 
@@ -33,8 +33,6 @@ Agile Methoden sind kein Allheilmittel und sollten gezielt dort eingesetzt werde
 ![](stacy-matrix.png)
 
 Abbildung 1: Stacey-Matrix, diverse Quellen
-
- 
 
 ## 1.2 Doing Agile vs. Being Agile
 
