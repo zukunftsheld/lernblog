@@ -249,7 +249,7 @@ Abschluss (20 Min)
 
 □ Priorisierung verbessert werden soll
 
-**OKR bietet sich an, wen**n: 
+**OKR bietet sich an, wenn**: 
 
 □ Zielklarheit fehlt 
 
