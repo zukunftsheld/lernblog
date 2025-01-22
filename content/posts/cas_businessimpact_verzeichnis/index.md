@@ -14,6 +14,10 @@ Dieses Verzeichnis wächst in den nächsten Wochen und Monaten.
 
 {{<box title="CAS-Blogposts">}}
 
+**\#13** [Integration agiler Methoden in klassische Führungskontexte - Teil 2](https://www.bensblog.ch/agile-methoden-in-klassicher-fuehrung-teil2/)
+
+**\#12**[ Integration agiler Methoden in klassische Führungskontexte - Teil 1](https://www.bensblog.ch/agile-methoden-in-klassischer-fuehrung_teil1/)
+
 **\#11** [Orientierung als Change Begleiter](https://www.bensblog.ch/orientierung-als-change-begleiter/)
 
 **\#10** [New Leadership - Navigieren im Wandel](https://www.bensblog.ch/new-leadership-m5/)
@@ -111,6 +115,11 @@ Hier erscheinen laufend Bücher, mit denen ich mich in diesem CAS beschäftige. 
 📕[Entlehrt euch! Ausbruch aus dem Vollständigkeitswahn. ](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/rolf-arnold/entlehrt-euch/id/9783035504590/?srsltid=AfmBOooZp4YV_FJdBAzztYuJWXoWrS3sGdZ5DpzTMOherYdxVrh1TS9q)
 
 {{</box>}}
+
+**weitere Bücher siehe:**
+
+* CAS Organisationsentwicklung & Change Leadership
+* Einzelne Blogbeiträge & miro Board
 
 #### Miro Board CAS Business Impact
 
