@@ -3,14 +3,14 @@ title = "Widerstände anerkennen: Der Schlüssel zu nachhaltiger Veränderung"
 date = "2024-11-22"
 draft = false
 pinned = false
-tags = ["Change", "Change-Management", "Leadership", "Personalentwicklung", "Organisationsentwicklung"]
+tags = ["Change", "Change-Management", "Leadership", "Personalentwicklung", "Organisationsentwicklung", "Widerstände"]
 image = "img_0615-2.jpg"
 description = "Widerstände in Veränderungsprozessen sind keine Hindernisse, sondern wertvolle Signale, die auf Bedürfnisse und Potenziale hinweisen."
-footnotes = "Titelbild: Ben Zaugg\n\n📚**Passende Bücher**\n\n📕[Rogers Carl R. (1973), Entwicklung der Persönlichkeit: Psychotherapie aus der Sicht eines Therapeuten](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/carl-r-rogers/entwicklung-der-persoenlichkeit-konzepte-der-humanwissenschaften/id/9783608964172/)\n\n📘 [Das neue Führen, Führen und sich führen lassen in Zeiten der Unvorhersehbarkeit, Bodo Janssen](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/bodo-janssen/das-neue-fuehren/id/9783424202854/)\n\n[Blogbeitrag über das Buch](https://www.bensblog.ch/das-neue-fuehren/)\n\n📕 [TZI - Die Kunst sich selbst und eine Gruppe zu leiten](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/cornelia-loehmer/tzi-die-kunst-sich-selbst-und-eine-gruppe-zu-leiten/id/9783608961225/)\n\n📘[Kotter John P. (2011), Leading Change, Wie Sie Ihr Unternehmen in acht Schritten erfolgreich verändern](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/john-p-kotter/leading-change/id/9783800637898/)\n\n📕[Die angstfreie Organisation, Wie Sie psychologische Sicherheit am Arbeitsplatz für mehr Entwicklung, Lernen und Innovation schaffen](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/amy-c-edmondson/die-angstfreie-organisation/id/9783800660674/)\n\n📘 [Trust me, warum Vertrauen die Zukunft der Arbeit ist, Karin Lausch](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/karin-lausch/trust-me-warum-vertrauen-die-zukunft-der-arbeit-ist/id/9783648172353/)\n\n\\\n**Herkunft der Modelle:** \n\n* Circle of Influence: Stephen R. Covey\n* Störungen haben Vorrang: Ruth C. Cohn\n* 4-Zimmer der Veränderung: Claes D. Janssen"
+footnotes = "Titelbild: Ben Zaugg\n\n📚**Passende Bücher**\n\n📕[Rogers Carl R. (1973), Entwicklung der Persönlichkeit: Psychotherapie aus der Sicht eines Therapeuten](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/carl-r-rogers/entwicklung-der-persoenlichkeit-konzepte-der-humanwissenschaften/id/9783608964172/)\n\n📘 [Das neue Führen, Führen und sich führen lassen in Zeiten der Unvorhersehbarkeit, Bodo Janssen](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/bodo-janssen/das-neue-fuehren/id/9783424202854/)\n\n[Blogbeitrag über das Buch](https://www.bensblog.ch/das-neue-fuehren/)\n\n📕 [TZI - Die Kunst sich selbst und eine Gruppe zu leiten](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/cornelia-loehmer/tzi-die-kunst-sich-selbst-und-eine-gruppe-zu-leiten/id/9783608961225/)\n\n📘[Kotter John P. (2011), Leading Change, Wie Sie Ihr Unternehmen in acht Schritten erfolgreich verändern](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/john-p-kotter/leading-change/id/9783800637898/)\n\n📕[Die angstfreie Organisation, Wie Sie psychologische Sicherheit am Arbeitsplatz für mehr Entwicklung, Lernen und Innovation schaffen](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/amy-c-edmondson/die-angstfreie-organisation/id/9783800660674/)\n\n📘 [Trust me, warum Vertrauen die Zukunft der Arbeit ist, Karin Lausch](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/karin-lausch/trust-me-warum-vertrauen-die-zukunft-der-arbeit-ist/id/9783648172353/)\n\nweitere Bücher findest du in der Bibliothek zum [CAS Business Impact](https://www.bensblog.ch/cas_businessimpact_verzeichnis/) oder [CAS Organisationsentwicklung & Change Leadership](https://www.bensblog.ch/cas-organisationsentwicklung-change-leadership-buecher-und-blogposts/)\n\n\\\n**Herkunft der Modelle:** \n\n* Circle of Influence: Stephen R. Covey\n* Störungen haben Vorrang: Ruth C. Cohn\n* 4-Zimmer der Veränderung: Claes D. Janssen"
 +++
 ## Einführung
 
-In Veränderungsprozessen werden Widerstände oft als Hindernisse wahrgenommen, die überwunden werden müssen. Doch was, wenn Widerstände keine Blockaden, sondern wichtige Signale wären? In diesem Text schreibe ich darüber, wie man Widerstände in den Veränderungsprozess integriert und sie als Wegweiser nutzt.
+In [Veränderungsprozessen](https://www.bensblog.ch/tags/change/) werden Widerstände oft als Hindernisse wahrgenommen, die überwunden werden müssen. Doch was, wenn Widerstände keine Blockaden, sondern wichtige Signale wären? In diesem Text schreibe ich darüber, wie man Widerstände in den Veränderungsprozess integriert und sie als Wegweiser nutzt.
 
 ## Widerstände als Wegweiser verstehen
 
@@ -19,9 +19,9 @@ Widerstände treten in jedem Veränderungsprozess auf und sind total menschlich.
 Doch anstatt sie zu ignorieren oder zu bekämpfen, können (und sollten) wir sie nutzen, denn:
 
 * Widerstände signalisieren Bedürfnisse: Sie weisen darauf hin, dass wichtige Aspekte übersehen wurden.
-* Widerstände sind Schutzmechanismen: Sie bewahren vor Überforderung und Unklarheit und das in einer (Arbeits-)Welt, die sich ständig und in kurzen Zyklen verändert.
+* Widerstände sind Schutzmechanismen: Sie bewahren vor Überforderung und Unklarheit und das in einer (Arbeits-)Welt, die sich ständig und in kurzen Zyklen verändert. 
 
-Wenn wir Widerstände anerkennen und verstehen, gewinnen wir wertvolle Einblicke in die Dynamik von Veränderung. Dafür stelle ich hier vier Ansätze vor, die in [Change](https://www.bensblog.ch/tags/change/)- und Transformationsprozessen helfen. Sie beleuchten und beinhalten auch Kompetenzen, die für Change-Agents, Coaches, Facilitator:innen etc. in Change-Prozessen wichtig sind.  
+Wenn wir Widerstände anerkennen und verstehen, gewinnen wir wertvolle Einblicke in die Dynamik von Veränderung. Dafür stelle ich hier vier Ansätze vor, die in [Change](https://www.bensblog.ch/tags/change/)- und [Transformationsprozessen](https://www.bensblog.ch/tags/transformation/) helfen. Sie beleuchten und beinhalten auch Kompetenzen, die für Change-Agents, Coaches, Facilitator:innen etc. in Change-Prozessen wichtig sind.  
 
 * Der Circle of Influence 
 * die 4-Zimmer der Veränderung 
@@ -97,7 +97,7 @@ Folgende Fragen helfen Teams selbst (falls eine eigene Analyse überhaupt mögli
 
 ## Störungen haben Vorrang – Den Widerstand (an-)erkennen und ansprechen
 
-Nach Ruth C. Cohns Prinzip „Störungen haben Vorrang“ sind Störungen nicht zu ignorieren, sondern anzusprechen und ihnen Raum zu geben. 
+Nach [Ruth C. Cohns](https://de.wikipedia.org/wiki/Ruth_Cohn) Prinzip «Störungen haben Vorrang» sind Störungen nicht zu ignorieren, sondern anzusprechen und ihnen Raum zu geben. 
 
 Störungen zeigen uns, dass etwas nicht «nicht stimmt» und bieten eine Möglichkeit der Klärung und Verbesserung. Solange diese Störung da ist, wird ein Weiterkommen schwierig bis unmöglich sein. 
 
