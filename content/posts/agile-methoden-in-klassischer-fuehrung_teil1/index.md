@@ -38,9 +38,9 @@ Abbildung 1: Stacey-Matrix, diverse Quellen
 
 Die Integration agiler Methoden in Organisationen erfolgt auf zwei Ebenen: Dem "Doing Agile" - der konkreten Anwendung agiler Werkzeuge und Methoden - und dem "Being Agile" - der Entwicklung einer agilen Denkweise und Kultur. Während die vollständige kulturelle Transformation zu «Being Agile» einen längeren Zeitraum benötigt, können agile Methoden schnell einen Mehrwert bieten. Der vorliegende Ansatz fokussiert sich bewusst auf das "Doing Agile" als ersten, pragmatischen Schritt zur Erhöhung der Agilität in der Führung und Zusammenarbeit im Team.
 
-![Ein Bild, das Text, Screenshot, Visitenkarte, Schrift enthält.
+![](bildschirmfoto-2025-01-19-um-12.17.57.png)
 
-KI-generierte Inhalte können fehlerhaft sein.](blob:https://www.bensblog.ch/058e75dd-f3dc-4a62-9717-2ee9e1dafab4)Abbildung 2: Unterschied Doing Agile & Being Agile, eigene Darstellung 
+Abbildung 2: Unterschied Doing Agile & Being Agile, eigene Darstellung 
 
 ## 2. Neue Führungsrolle im agilen Kontext
 
@@ -165,4 +165,4 @@ Typische Herausforderungen:
 * Hybride Strukturen durch flexible Anpassung gestalten
 * erschiedene Geschwindigkeiten (Adaptierung, Mindshift etc.) und Arbeitsweisen berücksichtigen sowie Widersprüche zwischen Agile und Klassisch erkennen
 
-\--> Weiter mit Teil 2
+[\--> zu Teil 2](https://www.bensblog.ch/agile-methoden-in-klassicher-fuehrung-teil2/)
