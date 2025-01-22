@@ -6,7 +6,7 @@ pinned = false
 tags = ["CAS-BI", "Change", "Leadership", "Personalentwicklung", "Organisationsentwicklung"]
 image = "orientierung-change-begleiter.jpg"
 description = "Wie behalte ich als Begleiter in Change-Prozessen selbst die Orientierung? Diese Frage führte mich zur Entwicklung eines persönlichen Kompasses für meine Arbeit in der Personal- und Organisationsentwicklung. Ein Einblick in meinen Reflexionsprozess."
-footnotes = "Hintergrund Titelbild: Erstellt mit Bing Image Creator"
+footnotes = "➡️[Hier gehts zu allen Beiträgen des CAS Business Impact und zu einer Bücherliste](https://www.bensblog.ch/cas_businessimpact_verzeichnis/) \n\nHintergrund Titelbild: Erstellt mit Bing Image Creator"
 +++
 # **(M)Ein Kompass für die Rolle(n) als Personal- und Organisationsentwickler** 
 
