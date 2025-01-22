@@ -1,6 +1,6 @@
 +++
 title = "CAS Business Impact: Rückblick"
-date = "2025-01-22"
+date = "2025-01-29"
 draft = true
 pinned = false
 tags = ["CAS-BI", "CAS", "Lernen"]
