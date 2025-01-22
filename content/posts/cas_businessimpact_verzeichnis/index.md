@@ -14,6 +14,8 @@ Dieses Verzeichnis wächst in den nächsten Wochen und Monaten.
 
 {{<box title="CAS-Blogposts">}}
 
+\#14 letzter Beitrag CAS Buiness Impac6t (folgt)
+
 **\#13** [Integration agiler Methoden in klassische Führungskontexte - Teil 2](https://www.bensblog.ch/agile-methoden-in-klassicher-fuehrung-teil2/)
 
 **\#12**[ Integration agiler Methoden in klassische Führungskontexte - Teil 1](https://www.bensblog.ch/agile-methoden-in-klassischer-fuehrung_teil1/)
