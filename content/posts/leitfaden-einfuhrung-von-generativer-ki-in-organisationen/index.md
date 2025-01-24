@@ -3,7 +3,7 @@ title = "Leitfaden: Einführung von generativer KI in Organisationen"
 date = "2024-12-05"
 draft = false
 pinned = false
-tags = ["CAS-BI", "KI", "Organisationsentwicklung", "Personalentwicklung", "Kompetenzen"]
+tags = ["CAS-BI", "CAS", "KI", "Organisationsentwicklung", "Personalentwicklung", "Kompetenzen"]
 image = "ich-und-die-ki-2.jpg"
 description = "Ein Leitfaden zur Einführung generativer KI mit Fokus auf der Perspektive der Personal- und Organisationsentwicklung. "
 +++
