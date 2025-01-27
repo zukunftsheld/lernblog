@@ -8,7 +8,7 @@ image = "abschluss.jpg"
 description = "In meinem letzten Beitrag zum CAS Business Impact ziehe ich Bilanz, stelle die genutzten Lernmethoden vor und gebe Einblicke in meinen selbstorganisierten Lernprozess."
 footnotes = "[Zur allen Beiträgen CAS Business Impact](https://www.bensblog.ch/cas_businessimpact_verzeichnis/)\n\n[Zu allem Beiträgen CAS Organisationsentwicklung und Change Leadership](https://www.bensblog.ch/cas-organisationsentwicklung-change-leadership-buecher-und-blogposts/)\n\n[Zum ersten Beitrag CAS Business Impact und der Differenzierung beider CAS-Konzepte](https://www.bensblog.ch/cas_business_impact/)"
 +++
-Das wird der letzte Beitrag zum [CAS Business Impact am ikf](https://www.ikf.ch/de/kurse/cas-business-impact). Während rund sieben Monaten habe ich mich intensiv mit den Modulen beschäftigt. Diese habe ich frei ausgewählt und immer in den Kontext zu zukunftsorientierter Personal- und Organisationsentwicklung gestellt. Hier blicke ich zurück und fasse zusammen. [Mehr über meinen Einstieg und die damaligen Pläne liest du hier](https://www.bensblog.ch/cas_business_impact/). 
+Das wird der letzte Beitrag zum [CAS Business Impact am ikf](https://www.ikf.ch/de/kurse/cas-business-impact). Während rund sieben Monaten habe ich mich intensiv mit den einzelnen Modulen beschäftigt. Diese habe ich frei ausgewählt und immer in den Kontext zu zukunftsorientierter Personal- und Organisationsentwicklung gestellt. Hier blicke ich zurück und fasse zusammen. [Mehr über meinen Einstieg und die damaligen Pläne liest du hier](https://www.bensblog.ch/cas_business_impact/). 
 
 Am Ende sind folgende Module zusammengekommen:
 
@@ -22,9 +22,9 @@ Am Ende sind folgende Module zusammengekommen:
 
 **Lernprozesse abbilden, Kompetenzen sichtbar machen, Wissen teilen**
 
-Natürlich hätte ich diese Module «nur» mit den kuratierten Lerninhalten absolvieren können, da es am Ende bei Bestehen so oder so ein Zertifikat gibt. Nun ja, ich kann es halt nicht 😉. Es reizte mich, mein in vielerlei Hinsicht [selbstbestimmtes und selbstorganisiertes Lernen](https://www.bensblog.ch/selbstorganisiertes-lernen-gestalten/) abzubilden, um ein paar Möglichkeiten aufzuzeigen, wie man das eigene Lernen, die eigene [Kompetenzentwicklung](https://www.bensblog.ch/tags/kompetenzentwicklung/) gestalten und präsentieren kann. So habe ich ganz nebenbei auch meine Kompetenzen im Schreiben, im Kuratieren, Verknüpfen etc. entwickelt und verbessert. 
+Natürlich hätte ich diese Module «nur» mit den kuratierten Lerninhalten absolvieren können, da es am Ende bei Bestehen so oder so ein Zertifikat gibt. Nun ja, ich kann es halt nicht 😉. Es reizte mich, mein in vielerlei Hinsicht [selbstbestimmtes und selbstorganisiertes Lernen](https://www.bensblog.ch/selbstorganisiertes-lernen-gestalten/) abzubilden, um ein paar Möglichkeiten aufzuzeigen, wie man das eigene Lernen, die eigene [Kompetenzentwicklung](https://www.bensblog.ch/tags/kompetenzentwicklung/) gestalten und präsentieren kann.  So habe ich ganz nebenbei auch meine Kompetenzen im Schreiben, im Kuratieren, Verknüpfen etc. entwickelt und verbessert. 
 
-Während der beiden Weiterbildungen CAS Organisationsentwicklung & Change Leadership sowie Business Impact folgende Methoden zur Abbildung meines Lernens genutzt:
+Während der beiden Weiterbildungen [CAS Organisationsentwicklung & Change Leadership](https://www.bensblog.ch/cas-organisationsentwicklung-change-leadership-buecher-und-blogposts/) sowie [Business Impact ](https://www.bensblog.ch/cas_businessimpact_verzeichnis/)folgende Methoden zur Abbildung meines Lernens genutzt:
 
 * Blog
 * Podcast
@@ -38,7 +38,7 @@ Der [Blog](https://www.bensblog.ch/tags/blog/) ist für mich bis heute wohl das 
 
 **Podcast**
 
-Den [Podcast](https://www.bensblog.ch/tags/podcast/) zu diesen Lernprozessen habe ich bewusst kurz und einfach gestaltet, da dieser «nur» als Beispiel dienen sollte. Auch Podcasts sind ein tolles Medium, das ich jedoch lieber für Gespräche/Interviews nutze. 
+Den [Podcast](https://www.bensblog.ch/tags/podcast/) zu diesen Lernprozessen habe ich bewusst kurz und einfach gestaltet, da dieser «nur» als Umsetzungs-Beispiel dienen sollte. Auch Podcasts sind ein tolles Medium, das ich jedoch lieber für Gespräche/Interviews nutze. 
 
 **Miro-Board**
 
@@ -48,7 +48,7 @@ Ich habe Freude an meinem [Miro-Board](https://www.bensblog.ch/cas_businessimpac
 
 Wie cool wäre es, wenn ich meine Kompetenzen, die ich bisher formell und informell erworben habe, irgendwo sinnvoll und übersichtlich abgebildet hätte? Diese und noch einige andere Gedanken in die Richtung gingen mir durch den Kopf. In der Vergangenheit kann ich das nicht mehr tun, aber hier und heute dachte ich. Mit der mirroco Software habe ich das ideale Tool für mich gefunden, um meine «Lernmomente» abzubilden. Wie? Das liest du [hier](https://www.bensblog.ch/cas-business-impact-ki/).
 
-Ich werde wohl in Zukunft weitere berufsbezogene Kompetenzen ergänzen, auf diese hinarbeiten und mein Lernen dazu abbilden. 
+Ich werde die Software auch in Zukunft nutzen und weitere berufsbezogene Kompetenzen ergänzen, auf diese hinarbeiten und mein Lernen dazu abbilden. 
 
 **Padlet**
 
@@ -56,7 +56,7 @@ Ein Padlet habe ich nur während des ersten CAS genutzt. Das Miro-Board hat mich
 
 **Modul-Coaches und andere «Coaches»**
 
-In jedem Modul konnte ich (m)einen Modulcoach auswählen und wurde bei der Wahl vom Lehrgangsleiter unterstützt, wobei ich mich immer frei entscheiden konnte. Da ich Lernender in Vollzeit war 😉, haben mich die Termine resp. das Warten auf die Termine zuweilen etwas gebremst. Aber auch dafür habe ich einen Weg gefunden. Ich startete selbst und nutze das erste Coching um bereits bearbeitete Themen und Fragen zu besprechen. Je nach Thema machte ich mich danach gleich an die Entwicklung des Wirkungskonzepts. 
+In jedem Modul konnte ich (m)einen Modulcoach auswählen und wurde bei der Wahl vom Lehrgangsleiter unterstützt, wobei ich mich immer frei entscheiden konnte. Da ich Lernender in Vollzeit war 😉, haben mich die Termine resp. das Warten auf die Termine zuweilen etwas gebremst. Aber auch dafür habe ich einen Weg gefunden. Ich startete selbst in die Module und nutze das erste Coching um bereits bearbeitete Themen und Fragen zu besprechen. Je nach Thema machte ich mich danach gleich an die Entwicklung des Wirkungskonzepts. 
 
 Da ich mich für einen Coach zwei Mal entschieden hatte, wurde ich gesamthaft von sechs ganz unterschiedlichen Fachexpertinnen und -experten begleitet. Dazu kam die Begleitung durch den Lehrgangsleiter während der gesamten Zeit. 
 
@@ -64,11 +64,11 @@ Zusätzlich habe ich mich, vor allem über Linkedin, mit anderen für mich relev
 
 **[So habe ich mein Lernen gestaltet](https://www.bensblog.ch/cas-lernen-organisieren/)**
 
-Die Module strukturierten den Lernprozess. Daneben liess ich mich manchmal auch vom «Chaos» leiten. Ich wühlte mich durch Bücher, Videos, Artikel und wusste nicht immer ganz genau, wo ich hinwill, bis sich die Themen dann (fast von selbst) verdichteten, verknüpften und ein klares Bild entstand. Manchmal war auch alles klar und der Prozess fühlte sich linear und geschmeidig an. 
+Die Module strukturierten den Lernprozess. Daneben liess ich mich manchmal auch vom «Chaos» leiten. Ich wühlte mich durch Bücher, Videos, Artikel und wusste nicht immer ganz genau, wo ich im Detail hinwill, bis sich die Themen dann (fast von selbst) verdichteten, verknüpften und ein klares Bild entstand. Manchmal war auch alles klar und der Prozess fühlte sich linear und geschmeidig an. 
 
 **Materialien**
 
-Ich habe mit dem gearbeitet, was mir in die Finger kam. Klar, da waren Lerninhalte, welche durch das ikf kuratiert wurden. Aber da gab es auch viele und interessante Bücher, Videos, Blogs, Artikel, Gespräche, Linkedin-Posts, Podcasts und Hörbücher. Gerade bei den Videos auf Youtube gibt es aber auch ganz viel uninteressantes. 
+Ich habe mit dem gearbeitet, was mir in die Finger kam. Klar, da waren Lerninhalte, welche durch das ikf kuratiert wurden. Aber da gab es auch viele und interessante Bücher, Videos, Blogs, Artikel, Gespräche, Linkedin-Posts, Podcasts und Hörbücher. 
 
 ![](img_9390-2.jpg)
 
