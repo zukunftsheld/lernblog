@@ -80,7 +80,7 @@ Die Module strukturierten den Lernprozess. Daneben liess ich mich manchmal auch 
 
 Ich habe mit dem gearbeitet, was mir in die Finger kam. Klar, da waren Lerninhalte, welche durch das ikf kuratiert wurden. Aber da gab es auch viele und interessante Bücher (ich habe für über 300.- Bücher gekauft), Videos, Blogs, Artikel, Gespräche, Linkedin-Posts, Podcasts, KI-Tools und Hörbücher. 
 
-
+![](mirroco-4.jpg)
 
 **Spagat zwischen «Alter» und «Neuer» Arbeitswelt**
 
