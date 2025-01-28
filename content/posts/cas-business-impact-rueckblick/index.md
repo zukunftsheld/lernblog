@@ -6,7 +6,7 @@ pinned = false
 tags = ["CAS-BI", "CAS", "Lernen"]
 image = "abschluss.jpg"
 description = "In meinem letzten Beitrag zum CAS Business Impact blicke ich zurück auf die letzten Monate."
-footnotes = "[Zur allen Beiträgen CAS Business Impact](https://www.bensblog.ch/cas_businessimpact_verzeichnis/)\n\n[Zu allem Beiträgen CAS Organisationsentwicklung und Change Leadership](https://www.bensblog.ch/cas-organisationsentwicklung-change-leadership-buecher-und-blogposts/)\n\n[Zum ersten Beitrag CAS Business Impact und der Differenzierung beider CAS-Konzepte](https://www.bensblog.ch/cas_business_impact/)"
+footnotes = "[Zur allen Beiträgen CAS Business Impact](https://www.bensblog.ch/cas_businessimpact_verzeichnis/)\n\n[Zu allem Beiträgen CAS Organisationsentwicklung und Change Leadership](https://www.bensblog.ch/cas-organisationsentwicklung-change-leadership-buecher-und-blogposts/)\n\n[Zum ersten Beitrag CAS Business Impact und der Differenzierung beider CAS-Konzepte](https://www.bensblog.ch/cas_business_impact/)\n\n[Interview zu meinem ersten CAS (Organisationsentwicklung & Change Leadership: Lernen, wie ich es will](https://ikf.ch/de/kontakt-und-beratung/studierendeninterviews/benjamin-zaugg)"
 +++
 Das wird der letzte Beitrag zum [CAS Business Impact am ikf](https://www.ikf.ch/de/kurse/cas-business-impact). Während rund sieben Monaten habe ich mich intensiv mit den einzelnen Modulen beschäftigt. Diese habe ich frei ausgewählt und immer in den Kontext zu zukunftsorientierter Personal- und Organisationsentwicklung gestellt. Hier blicke ich zurück und fasse zusammen. [Mehr über meinen Einstieg und die damaligen Pläne liest du hier](https://www.bensblog.ch/cas_business_impact/). 
 
@@ -15,16 +15,16 @@ Am Ende sind folgende Module zusammengekommen:
 1. New Work
 2. Lernende Organisation
 3. Training für digitale & agile Zeiten
-4. Künstliche Intelligenz
+4. Künstliche Intelligenz (mit Fokus Einführung KI und Kompetenzentwicklung)
 5. New Leadership
 6. Change Leadership
-7. Agile Methoden & Frameworks 
+7. Agile Methoden & Frameworks (mit Fokus Leadership & Teamarbeit)
 
 **Lernprozesse abbilden, Kompetenzen sichtbar machen, Wissen teilen**
 
-Natürlich hätte ich diese Module «nur» mit den kuratierten Lerninhalten absolvieren können, da es am Ende bei Bestehen so oder so ein Zertifikat gibt. Nun ja, ich kann es halt nicht 😉. Es reizte mich, mein in vielerlei Hinsicht [selbstbestimmtes und selbstorganisiertes Lernen](https://www.bensblog.ch/selbstorganisiertes-lernen-gestalten/) abzubilden, um ein paar Möglichkeiten aufzuzeigen, wie man das eigene Lernen, die eigene [Kompetenzentwicklung](https://www.bensblog.ch/tags/kompetenzentwicklung/) gestalten und präsentieren kann.  So habe ich ganz nebenbei auch meine Kompetenzen im Schreiben, im Kuratieren, Verknüpfen etc. entwickelt und verbessert. 
+Natürlich hätte ich diese Module «nur» mit den zur Verfügung gestellten Lerninhalten absolvieren und still lernen können, da es am Ende bei Bestehen so oder so ein Zertifikat gibt. Nun ja, ich konnte es nicht 😉. Es reizte mich, mein in vielerlei Hinsicht [selbstbestimmtes und selbstorganisiertes Lernen](https://www.bensblog.ch/selbstorganisiertes-lernen-gestalten/) abzubilden, um ein paar Möglichkeiten aufzuzeigen, wie man das eigene Lernen, die eigene [Kompetenzentwicklung](https://www.bensblog.ch/tags/kompetenzentwicklung/) gestalten und präsentieren kann.  So habe ich ganz nebenbei auch meine Kompetenzen im Schreiben, im Zusammenfassen, Bereitstellen, Verknüpfen etc. entwickelt und verbessert. 
 
-Während der beiden Weiterbildungen [CAS Organisationsentwicklung & Change Leadership](https://www.bensblog.ch/cas-organisationsentwicklung-change-leadership-buecher-und-blogposts/) sowie [Business Impact ](https://www.bensblog.ch/cas_businessimpact_verzeichnis/)folgende Methoden zur Abbildung meines Lernens genutzt:
+Während der beiden Weiterbildungen [CAS Organisationsentwicklung & Change Leadership](https://www.bensblog.ch/cas-organisationsentwicklung-change-leadership-buecher-und-blogposts/) sowie [Business Impact](https://www.bensblog.ch/tags/cas-bi/) habe ichfolgende Methoden zur Abbildung meines Lernens genutzt:
 
 * Blog
 * Podcast
@@ -68,7 +68,7 @@ Die Module strukturierten den Lernprozess. Daneben liess ich mich manchmal auch 
 
 **Materialien**
 
-Ich habe mit dem gearbeitet, was mir in die Finger kam. Klar, da waren Lerninhalte, welche durch das ikf kuratiert wurden. Aber da gab es auch viele und interessante Bücher, Videos, Blogs, Artikel, Gespräche, Linkedin-Posts, Podcasts und Hörbücher. 
+Ich habe mit dem gearbeitet, was mir in die Finger kam. Klar, da waren Lerninhalte, welche durch das ikf kuratiert wurden. Aber da gab es auch viele und interessante Bücher (ich habe für über 300.- Bücher gekauft), Videos, Blogs, Artikel, Gespräche, Linkedin-Posts, Podcasts, KI-Tools und Hörbücher. 
 
 ![](img_9390-2.jpg)
 
