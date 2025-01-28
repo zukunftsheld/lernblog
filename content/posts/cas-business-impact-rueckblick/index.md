@@ -10,6 +10,8 @@ footnotes = "[Zur allen Beiträgen CAS Business Impact](https://www.bensblog.ch/
 +++
 Das wird der letzte Beitrag zum [CAS Business Impact am ikf](https://www.ikf.ch/de/kurse/cas-business-impact). Während rund sieben Monaten habe ich mich intensiv mit den einzelnen Modulen beschäftigt. Diese habe ich frei ausgewählt und immer in den Kontext zu zukunftsorientierter Personal- und Organisationsentwicklung gestellt. Hier blicke ich zurück und fasse zusammen. [Mehr über meinen Einstieg und die damaligen Pläne liest du hier](https://www.bensblog.ch/cas_business_impact/). 
 
+
+
 Am Ende sind folgende Module zusammengekommen:
 
 1. New Work
@@ -20,9 +22,15 @@ Am Ende sind folgende Module zusammengekommen:
 6. Change Leadership
 7. Agile Methoden & Frameworks (mit Fokus Leadership & Teamarbeit)
 
+![](img_1020-2.jpg)
+
 **Lernprozesse abbilden, Kompetenzen sichtbar machen, Wissen teilen**
 
 Natürlich hätte ich diese Module «nur» mit den zur Verfügung gestellten Lerninhalten absolvieren und still lernen können, da es am Ende bei Bestehen so oder so ein Zertifikat gibt. Nun ja, ich konnte es nicht 😉. Es reizte mich, mein in vielerlei Hinsicht [selbstbestimmtes und selbstorganisiertes Lernen](https://www.bensblog.ch/selbstorganisiertes-lernen-gestalten/) abzubilden, um ein paar Möglichkeiten aufzuzeigen, wie man das eigene Lernen, die eigene [Kompetenzentwicklung](https://www.bensblog.ch/tags/kompetenzentwicklung/) gestalten und präsentieren kann.  So habe ich ganz nebenbei auch meine Kompetenzen im Schreiben, im Zusammenfassen, Bereitstellen, Verknüpfen etc. entwickelt und verbessert. 
+
+> «Ziel muss es sein, dass jeder Einzelne selbst zum Gestalter seiner bzw. ihrer Weiterentwicklung wird.»
+>
+> *aus [Lernhacks](https://www.lernhacks.de)*
 
 Während der beiden Weiterbildungen [CAS Organisationsentwicklung & Change Leadership](https://www.bensblog.ch/cas-organisationsentwicklung-change-leadership-buecher-und-blogposts/) sowie [Business Impact](https://www.bensblog.ch/tags/cas-bi/) habe ichfolgende Methoden zur Abbildung meines Lernens genutzt:
 
@@ -66,15 +74,19 @@ Zusätzlich habe ich mich, vor allem über Linkedin, mit anderen für mich relev
 
 Die Module strukturierten den Lernprozess. Daneben liess ich mich manchmal auch vom «Chaos» leiten. Ich wühlte mich durch Bücher, Videos, Artikel und wusste nicht immer ganz genau, wo ich im Detail hinwill, bis sich die Themen dann (fast von selbst) verdichteten, verknüpften und ein klares Bild entstand. Manchmal war auch alles klar und der Prozess fühlte sich linear und geschmeidig an. 
 
+![](lernorte-2.jpg)
+
 **Materialien**
 
 Ich habe mit dem gearbeitet, was mir in die Finger kam. Klar, da waren Lerninhalte, welche durch das ikf kuratiert wurden. Aber da gab es auch viele und interessante Bücher (ich habe für über 300.- Bücher gekauft), Videos, Blogs, Artikel, Gespräche, Linkedin-Posts, Podcasts, KI-Tools und Hörbücher. 
 
-![](img_9390-2.jpg)
+
 
 **Spagat zwischen «Alter» und «Neuer» Arbeitswelt**
 
 Ich habe diese Weiterbildung mit dem Fokus «zukunftsorientierte Personal- und Organisationsentwicklung» gestaltet. Da gibt es natürlich ganz viel «New» und dieses «New» ist, wie sich in vielen Gesprächen (und meinen eigenen Erfahrungen) gezeigt hat, oft nicht oder nur in kleinen Teilen Realität. Auch wenn sich eine Organisation auf den ernsthaften Weg zum Neuem macht, braucht das viel Zeit. Also habe ich immer wieder versucht (und es ist mir hoffentlich gelungen), vor allem praxisorientierte und praxistaugliche Perspektiven einzunehmen. Ein Spagat der wohl immer ein Spagat bleibt. Vielleicht würde es mehr Sinn machen zu balancieren, da wäre ich wohl beweglicher als im Spagat 😉 aber huch, ich schweife ab. 
+
+![](bu-cher-7.jpg)
 
 **Geprägt durch Colearning**
 
