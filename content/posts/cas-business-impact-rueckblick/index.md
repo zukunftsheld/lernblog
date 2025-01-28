@@ -5,7 +5,7 @@ draft = true
 pinned = false
 tags = ["CAS-BI", "CAS", "Lernen"]
 image = "abschluss.jpg"
-description = "In meinem letzten Beitrag zum CAS Business Impact ziehe ich Bilanz, stelle die genutzten Lernmethoden vor und gebe Einblicke in meinen selbstorganisierten Lernprozess."
+description = "In meinem letzten Beitrag zum CAS Business Impact blicke ich zurück auf die letzten Monate."
 footnotes = "[Zur allen Beiträgen CAS Business Impact](https://www.bensblog.ch/cas_businessimpact_verzeichnis/)\n\n[Zu allem Beiträgen CAS Organisationsentwicklung und Change Leadership](https://www.bensblog.ch/cas-organisationsentwicklung-change-leadership-buecher-und-blogposts/)\n\n[Zum ersten Beitrag CAS Business Impact und der Differenzierung beider CAS-Konzepte](https://www.bensblog.ch/cas_business_impact/)"
 +++
 Das wird der letzte Beitrag zum [CAS Business Impact am ikf](https://www.ikf.ch/de/kurse/cas-business-impact). Während rund sieben Monaten habe ich mich intensiv mit den einzelnen Modulen beschäftigt. Diese habe ich frei ausgewählt und immer in den Kontext zu zukunftsorientierter Personal- und Organisationsentwicklung gestellt. Hier blicke ich zurück und fasse zusammen. [Mehr über meinen Einstieg und die damaligen Pläne liest du hier](https://www.bensblog.ch/cas_business_impact/). 
