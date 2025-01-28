@@ -64,7 +64,7 @@ Ein Padlet habe ich nur während des ersten CAS genutzt. Das Miro-Board hat mich
 
 **Modul-Coaches und andere «Coaches»**
 
-In jedem Modul konnte ich (m)einen Modulcoach auswählen und wurde bei der Wahl vom Lehrgangsleiter unterstützt, wobei ich mich immer frei entscheiden konnte. Da ich Lernender in Vollzeit war 😉, haben mich die Termine resp. das Warten auf die Termine zuweilen etwas gebremst. Aber auch dafür habe ich einen Weg gefunden. Ich startete selbst in die Module und nutze das erste Coching um bereits bearbeitete Themen und Fragen zu besprechen. Je nach Thema machte ich mich danach gleich an die Entwicklung des Wirkungskonzepts. 
+In jedem Modul konnte ich (m)einen Modulcoach auswählen und wurde bei der Wahl vom Lehrgangsleiter [Prof. Dr. Dietmar Treiche](https://ikf.ch/de/institut/prof-dr-dietmar-treichel)l unterstützt, wobei ich mich immer frei entscheiden konnte. Da ich Lernender in Vollzeit war 😉, haben mich die Termine resp. das Warten auf die Termine zuweilen etwas gebremst. Aber auch dafür habe ich einen Weg gefunden. Ich startete selbst in die Module und nutze das erste Coching um bereits bearbeitete Themen und Fragen zu besprechen. Je nach Thema machte ich mich danach gleich an die Entwicklung des Wirkungskonzepts. 
 
 Da ich mich für einen Coach zwei Mal entschieden hatte, wurde ich gesamthaft von sechs ganz unterschiedlichen Fachexpertinnen und -experten begleitet. Dazu kam die Begleitung durch den Lehrgangsleiter während der gesamten Zeit. 
 
