@@ -10,8 +10,6 @@ footnotes = "[Zur allen Beiträgen CAS Business Impact](https://www.bensblog.ch/
 +++
 Das wird der letzte Beitrag zum [CAS Business Impact am ikf](https://www.ikf.ch/de/kurse/cas-business-impact). Während rund sieben Monaten habe ich mich intensiv mit den einzelnen Modulen beschäftigt. Diese habe ich frei ausgewählt und immer in den Kontext zu zukunftsorientierter Personal- und Organisationsentwicklung gestellt. Hier blicke ich zurück und fasse zusammen. [Mehr über meinen Einstieg und die damaligen Pläne liest du hier](https://www.bensblog.ch/cas_business_impact/). 
 
-
-
 Am Ende sind folgende Module zusammengekommen:
 
 1. New Work
@@ -22,7 +20,7 @@ Am Ende sind folgende Module zusammengekommen:
 6. Change Leadership
 7. Agile Methoden & Frameworks (mit Fokus Leadership & Teamarbeit)
 
-![](img_1020-2.jpg)
+![](img_0414.jpg)
 
 **Lernprozesse abbilden, Kompetenzen sichtbar machen, Wissen teilen**
 
@@ -43,6 +41,8 @@ Während der beiden Weiterbildungen [CAS Organisationsentwicklung & Change Leade
 **Blog**
 
 Der [Blog](https://www.bensblog.ch/tags/blog/) ist für mich bis heute wohl das erfüllendste und wirkungsvollste aller Tools. Im Text (mit Video, Audio, Links, Grafiken etc.) lassen sich die Themen gut abbilden. Dafür ist (m)ein Blog zuweilen sehr aufwändig. Mittlerweile kann das Erstellen eines Beitrags einen halben Tag (oder länger) dauern. Die Konstanz im Blog (ich schreibe seit rund drei Jahren) und die zunehmenden Fachthemen scheinen ihre Wirkung langsam zu entfalten. Der Blog wird immer beliebter. Mittlerweile durfte ich zudem als Gastautor in zwei weiteren Blogs veröffentlichen. 
+
+![](blogbilder_fotos-a6.jpg)
 
 **Podcast**
 
