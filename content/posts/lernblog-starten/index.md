@@ -42,7 +42,7 @@ Lernblogs sind ein wichtiges Element von [Colearning](https://www.colearning.org
 
 Ein Lernblog kann ganz unterschiedlich aufgebaut sein und sich im Lauf der Zeit mit der schreibenden Person wandeln. Die Inhalte und Struktur können sich von Beitrag zu Beitrag ändern oder eine Konstanz (z. B. Wiedererkennung) aufweisen. Das Ziel des Lernblogs oder der einzelnen Artikel können dabei eine Rolle spielen. 
 
-{{<box title="Mein eigener Weg in Kürze">}}
+{{<box title="Mein eigener Weg">}}
 
 Mit meinem Start bei [Colearning Bern](https://www.colearningbern.ch) habe ich auch begonnen, einen Lernblog zu schreiben. Zu Beginn noch mit einiger Unsicherheit und ohne konkreten Plan. Ich schrieb erste Beiträge, sprach im [Colearning-Mentoring](https://www.bensblog.ch/tags/mentoring/) darüber und wurde ermutigt weiterzumachen. Die Beiträge waren eher lose und drehten sich um erste (Lern-)Erfahrungen rund um Colearning & [Coworking](https://www.bensblog.ch/tags/coworking/), um Themen, die mich beschäftigen und Einblicke in meine Gedanken. Der Blog hat sich gemeinsam mit mir gewandelt und sichtbar ist bis heute der gesamte Prozess. 
 
