@@ -24,6 +24,8 @@ Ein Lernblog ist ein Tool, mit dem du deine eigenen [Kompetenzen](https://www.be
 
 Wir lernen unser Leben lang. Das tun wir in formellen Aus- und Weiterbildungen (Schule, Berufslehre, Fachausweis, Studium, CAS usw.) und informell, also in unserem (Arbeits-)Alltag. Auch wenn diese Dinge oft künstlich getrennt werden, resp. Lernen auf die formellen Situationen reduziert wird, fliesst in Wahrheit beides zusammen. Aus all diesen Lernerlebnissen, der Anwendung, der Reflexion, der Neugier und unserer Motivation entstehen unsere Kompetenzen. Viele davon sind für andere unsichtbar und manchmal nicht einmal uns selbst bewusst. Ein Lernblog bildet nicht nur deine Entwicklungsprozesse ab, sondern auch deine erworbenen Kompetenzen. Gerade bei einer beruflichen Neuausrichtung kann das hilfreich sein. 
 
+![Mindmap: Erstellt aus diesem Blogbeitrag von claude.ai](mindmap.png)
+
 ### Lern-/Kompetenzportfolio
 
 Lern-/Kompetenzportfolios werden in einer sich schnell wandelnden Arbeitswelt immer wichtiger. Berufsbilder ändern sich schneller als früher und neue entstehen laufend.
