@@ -32,7 +32,7 @@ Dazu passt das [PERMA-Lead-Modell](https://www.perma-lead.com)\[[4]] von Dr. Mar
 
 **P**ositive Emotionen
 
-**E**ngegement
+**E**ngagement
 
 **R**elations
 
