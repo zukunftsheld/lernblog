@@ -1,12 +1,12 @@
 +++
 title = "Wie startet man einen Lernblog?"
 date = "2025-01-30"
-draft = true
+draft = false
 pinned = false
-tags = ["Lernblog", "Lernen", "Bildung"]
+tags = ["Lernblog", "Lernen", "Bildung", "Colearning", "Kompetenzentwicklung"]
 image = "img_0414-2.jpg"
 description = "Ein Lernblog ist so individuell wie du selbst. In diesem Beitrag teile ich meine Erfahrungen und zeige dir Möglichkeiten auf, wie du dein Lernen sichtbar machen kannst."
-footnotes = "**Hinweis:**\\\n\\\nEin Lernblog knüpft auch an die Ansätze von Life Design oder Working out Loud an. Wenn du dich (beruflich) neu ausrichten willst, könnten diese Ansätze spannend für dich sein. \n\n\\\nLife Design\n\nWorking out loud"
+footnotes = "**Hinweis**\\\nEin Lernblog passt aus meiner Sicht auch gut zu den Ansätzen von Life Design oder Working out Loud. Wenn du dich (beruflich) neu ausrichten willst, könnten diese Ansätze spannend für dich sein. \n\n* [Life Design](https://www.lifedesignlab.ch)\n* [Working out Loud](https://www.workingoutloud.com)\n\n**Begriffsdefinition**\\\nLernblog, lilo.blog und lilo.page\\\n\\\nDiese Begriffe haben sich im Laufe der Zeit gewandelt. Angefangen habe ich mit dem Begriff Lernblog und nenne meinen nun (Lern-)Blog. Das Produkt selbst hat sich von lilo.blog zu lilo.page gewandelt. Möchtest du selbst beginnen, dann schau am besten auf der Seite [lilo.page ](https://www.lilo.page)vorbei.\n\n➡️Hier gehts zum Beitrag **Blogs als wertvolle Ressource in der Personal- und Organisationsentwicklung**"
 +++
 Ein Lernblog ist so individuell wie die Person, die ihn schreibt. Es ist dein digitaler Raum, in dem du deine Lernerlebnisse, Gedanken und Entwicklungen teilen kannst. Aber wie startest du damit? Was sind die Möglichkeiten? In diesem Beitrag teile ich meine Erfahrungen und zeige dir verschiedene Wege auf, wie du deinen Lernblog gestalten kannst. 
 
@@ -16,7 +16,7 @@ Zu sagen, es gebe nur einen richtigen Weg für einen Lernblog, würde der Idee d
 
 Ein Lernblog ist ein Tool, mit dem du deine eigenen [Kompetenzen](https://www.bensblog.ch/tags/kompetenzentwicklung/) und deren Entwicklung über das gesamte Leben abbilden kannst. Dabei sind alltägliche Lernerlebnisse genauso wichtig wie das bewusste oder organisierte Lernen. In einem Lernblog verschmilzt beides und du kannst teilen, was du willst. Fachwissen, (unfertige) Gedanken, Ideen, Fragestellungen, Reflexionen, gescheiterte Projekte finden dort zusammen.  
 
-> «Ein [Lilo.blog](https://www.lilo.blog) ist eine persönliche Website, auf der eine Person laufend notiert, was sie entdeckt oder im Leben lernt. Bloggen ist Reflexion und Kommunikation. Es ist ein Platz für Projekte, unfertige Ideen, Dinge, die gelungen sind und auch solche, die nicht funktioniert haben. Ein Lilo.blog kann verwendet werden als Einzelperson oder als Plattform in einer Organisation.» 
+> «Ein Lilo.blog ist eine persönliche Website, auf der eine Person laufend notiert, was sie entdeckt oder im Leben lernt. Bloggen ist Reflexion und Kommunikation. Es ist ein Platz für Projekte, unfertige Ideen, Dinge, die gelungen sind und auch solche, die nicht funktioniert haben. Ein Lilo.blog kann verwendet werden als Einzelperson oder als Plattform in einer Organisation.» 
 >
 > *[Marco Jakob](https://www.marcojakob.blog) auf lilo.blog*
 
@@ -66,6 +66,6 @@ Wähle eine Sprache, die für dich stimmig ist. Es müssen keine komplexen Formu
 
 ### Umfang und Häufigkeit
 
-Wie lang oder wie kurz die Beiträge sind, entscheidest du selbst. Auch, wie oft du Beiträge veröffentlichen willst. Je nach Ziel und Kontext macht es Sinn, eine Regelmässigkeit und Einheitlichkeit in deinen Lernblog zu bringen. Zum Beispiel wenn du ein konkretes (berufliches) Ziel verfolgst und deine Kompetenzentwicklung einfach zugänglich und sichtbar machen willst.  \
+Wie lang oder wie kurz die Beiträge sind, entscheidest du selbst. Auch, wie oft du Beiträge veröffentlichen willst. Je nach Ziel und Kontext macht es Sinn, eine Regelmässigkeit und Einheitlichkeit in deinen Lernblog zu bringen. Zum Beispiel wenn du ein konkretes (berufliches) Ziel verfolgst und deine Kompetenzentwicklung für anderen (z.B. potenzielle Arbeitgeber) <https://www.bensblog.ch/blog-poe/>einfach zugänglich und sichtbar machen willst.  \
 \
 Egal, wie du deinen Lernblog gestaltest – das Wichtigste ist, dass du anfängst, deine Reise teilst und dokumentierst. Jetzt bist du dran!
