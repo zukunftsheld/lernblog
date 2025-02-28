@@ -22,7 +22,7 @@ Podcasts haben sich in der Welt etabliert. Es gibt zu wohl fast allem etwas. Sie
 
 ### Persönlichere Ansprache: Die Stimme verbindet
 
-Die Stimme einer Person aus der Personal- oder Organisationsentwicklung, dem HR oder von anderen Mitarbeitenden zu hören schafft eine persönliche Verbindung. Emotionen werden spürbarer. So schafft ein Podcast Nähe. Es ist eine Möglichkeit, Authentizität und Persönlichkeit zu vermitteln. Nicht nur Personal- und Organisationsentwickler:innen können ihre Botschaften direkt und persönlich an die Menschen richten, sondern auch Führungspersonen oder externe Expert:innen. Zum Beispiel in Interviews. 
+Die Stimme einer Person aus der Personal- oder Organisationsentwicklung, dem HR oder von anderen Mitarbeitenden zu hören, schafft eine persönliche Verbindung. Emotionen werden spürbarer. So schafft ein Podcast Nähe. Es ist eine Möglichkeit, Authentizität und Persönlichkeit zu vermitteln. Nicht nur Personal- und Organisationsentwickler:innen können ihre Botschaften direkt und persönlich an die Menschen richten, sondern auch Führungspersonen oder externe Expert:innen. Zum Beispiel in Interviews. 
 
 ### Mehr Emotionen für tiefere Wirkung
 
