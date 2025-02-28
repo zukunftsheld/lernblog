@@ -70,7 +70,7 @@ Ein Blog ist nicht nur ein Informationskanal, sondern auch eine Plattform für d
 
 ## Gedanken zum Schluss: Ein Blog als strategisches Instrument
 
-Ein Blog aus der Feder der Personal- und Organisationsentwicklung ist mehr als Medium um Inhalte zu teilen. Er verbindet  Fachthemen mit strategischer Kommunikation und Perspektiven aus dem Arbeitsalltag. Mit einer klaren Ausrichtung und einer interaktiven Gestaltung kann er nicht nur Wissen teilen, sondern auch Vertrauen und Vernetzung innerhalb der Organisation fördern. Ein schrittweises Herantasten in iterativen Prozessen hilft dabei, die idealen Inhalte und Formate zu entwickeln.
+Ein Blog aus der Feder (oder den Tasten) der Personal- und Organisationsentwicklung ist mehr als ein Medium um Inhalte zu teilen. Er verbindet Fachthemen mit strategischer Kommunikation und Perspektiven aus dem Arbeitsalltag. Mit einer klaren Ausrichtung und einer interaktiven Gestaltung kann er nicht nur Wissen teilen, sondern auch Vertrauen und Vernetzung innerhalb der Organisation fördern. Ein schrittweises Herantasten in iterativen Prozessen hilft dabei, die idealen Inhalte und Formate zu entwickeln.
 
 PS: Das ist mein hundertster (100!)🎉 Blogbeitrag!
 
