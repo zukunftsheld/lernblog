@@ -2,7 +2,7 @@
 title = "CAS Organisationsentwicklung & Change Leadership - Bücher und Blogposts"
 date = "2024-07-04"
 draft = false
-pinned = true
+pinned = false
 tags = ["CAS", "CAS-OECL", "Lernen", "Bildung", "Colearning", "Change", "Leadership", "Organisationsentwicklung"]
 image = "books-2596809_640.jpg"
 description = "Überblick über Blogbeiträge zum CAS Organisationsentwicklung & Change Leadership und Bücherverzeichnis."
