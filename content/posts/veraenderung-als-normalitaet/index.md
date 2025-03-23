@@ -12,7 +12,7 @@ In unserer (Arbeits-) Welt sind Veränderungen nicht mehr eine Ausnahme oder etw
 
 > «Allein die Idee, dass Change ein Projekt ist, leitet uns in die Irre. Change hat kein Ende. Veränderung ist etwas, das andauert. Es gehört zum Leben und zur Firma wie Atmen und Verkaufen. Veränderung ist ein Routinevorgang, der zum Alltag dazugehören sollte.» 
 >
-> Dr. Markus Ramming, Neuro Change, S. 35
+> *Dr. Markus Ramming, Neuro Change, S. 35*
 
 ## Die Dauerschleife der Veränderung
 
