@@ -42,11 +42,11 @@ Die grundsätzlichen Herausforderungen von Veränderungen sowie die persönliche
 
 Diese Dynamik untergräbt sowohl das Vertrauen als auch die Leistungsfähigkeit. Teammitglieder ziehen sich zurück, die Kommunikation wird defensiv und der Prozess wird blockiert oder zieht viele Ressourcen ab. Eine Herausforderung für Führungskräfte besteht darin, diesen Teufelskreis zu durchbrechen und die kollektive wie individuelle Handlungsfähigkeit wieder spürbar zu machen. Nur wie?
 
-## **Lösungsansätze für Leader:innen**
+## Lösungsansätze für Leader:innen
 
 Bei so vielen Herausforderungen benötigen Führungspersonen wirksame Strategien, um ihr Team durch den permanenten Wandel zu navigieren. Folgende Ansätze können dabei helfen:
 
-### (Radikal) Fokussieren
+#### (Radikal) Fokussieren
 
 In Zeiten ständiger Veränderung sollten Führungskräfte einen klaren inneren Kompass haben und noch klarer priorisieren können. Das bedeutet nicht nur, Wichtiges von Unwichtigem zu trennen, sondern auch, konsequent zu schützen, was für das Team essenziell ist. Konkret heisst das:
 
@@ -54,7 +54,7 @@ In Zeiten ständiger Veränderung sollten Führungskräfte einen klaren inneren 
 * Bewusst Räume (für Individuen oder das gesamte Team) schaffen, die von aktuellen Veränderungen unberührt bleiben. Das können auch nur kleine Rituale sein. 
 * Gemeinsam die Frage klären: «Was bleibt konstant, auch wenn sich alles andere ändert?»
 
-### Gemeinsame Bedeutung schaffen
+#### Gemeinsame Bedeutung schaffen
 
 Um in Veränderungsprozessen nicht den Überblick zu verlieren, brauchen Teams ein gemeinsames Verständnis davon, was geschieht. Führungskräfte können diesen Prozess unterstützen durch:
 
@@ -62,7 +62,7 @@ Um in Veränderungsprozessen nicht den Überblick zu verlieren, brauchen Teams e
 * Die Entwicklung einer gemeinsamen Erzählung, welche die Veränderungen in einer Perspektive des Grossen Ganzen zeigt.
 * Das aktive Einbeziehen verschiedener Perspektiven, um ein vollständigeres Bild zu erhalten.
 
-### Handlungsspielräume sichtbar machen
+#### Handlungsspielräume sichtbar machen
 
 Die Überwindung der Opferhaltung beginnt mit dem Erkennen von Gestaltungsmöglichkeiten. Führungskräfte können diesen Prozess fördern durch:
 
@@ -70,7 +70,7 @@ Die Überwindung der Opferhaltung beginnt mit dem Erkennen von Gestaltungsmögli
 * Kleine Erfolge feiern, die das Gefühl der Selbstwirksamkeit stärken.
 * Zu Experimenten ermutigen, in denen Teams eigene Lösungsansätze erproben können.
 
-### Vertrauen durch Verlässlichkeit schaffen
+#### Vertrauen durch Verlässlichkeit schaffen
 
 Je unsicherer das Umfeld, desto wichtiger wird Vertrauen als Basis der Zusammenarbeit. Führungskräfte können Vertrauen stärken durch:
 
@@ -78,7 +78,7 @@ Je unsicherer das Umfeld, desto wichtiger wird Vertrauen als Basis der Zusammena
 * Strukturen und Prozesse, auf die sich das Team verlassen kann.
 * Konsequentes Einhalten von Zusagen und klare Kommunikation, wenn dies nicht möglich ist.
 
-### Praktiken zu individueller und gemeinsamer Entwicklung
+#### Praktiken zu individueller und gemeinsamer Entwicklung
 
 Die Widerstandskraft des Teams wird zum entscheidenden Faktor für langfristige Leistungsfähigkeit. Hilfreiche Praktiken sind:
 
