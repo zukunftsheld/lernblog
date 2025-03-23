@@ -1,16 +1,18 @@
 +++
-title = "veraenderung-als-normalitaet"
+title = "Veränderung als neue Normalität: Wie Teams und Führungskräfte den ständigen Wandel meistern"
 date = "2025-03-23"
 draft = true
 pinned = false
 tags = ["Change", "Leadership", "Organisationsentwicklung"]
+image = "waterfall-4751586_640.jpg"
 description = "Veränderung ist keine Ausnahme mehr, sondern Alltag – doch wie können Teams und Führungskräfte in diesem ständigen Wandel erfolgreich bleiben? "
+footnotes = "**Bücher**\n\n[Neuro Change, Antworten der Hirnforschung auf den Wandel im Management, Dr. Markus Ramming](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/markus-ramming/neuro-change/id/9783648117095/?srsltid=AfmBOor4UWaLtl3sV3CpM2dpr4CxwFRDPgxTYfpkePTtSY6Losq1UF51)\n\n\n\nTitelbild: [Michael Bußmann](https://pixabay.com/de/users/michael_luenen-2998623/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4751586) auf [Pixabay](https://pixabay.com/de//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4751586)"
 +++
-**Veränderung als neue Normalität: Wie Teams und Führungskräfte den ständigen Wandel meistern**
-
 In unserer (Arbeits-) Welt sind Veränderungen nicht mehr eine Ausnahme oder etwas zeitlich begrenztes, sondern Alltag. Während früher Change-Prozesse klarer definierte Anfang- und Endpunkte hatten, verschwimmen diese Grenzen immer mehr. Für Teams und ihre Führungskräfte bedeutet dies eine doppelte Herausforderung: Sie müssen nicht nur mit konkreten Veränderungen umgehen, sondern auch mit der Unbeständigkeit als dauerhaftem Zustand. Das ist für viele anspruchsvoll, denn neben den Veränderungen ist da immer noch das Tagesgeschäft, das wie gewohnt weiterlaufen soll und viele haben nicht gelernt, mit (ständigen) Veränderungen umzugehen. Wie kann in diesem Umfeld Zusammenarbeit gelingen, Vertrauen wachsen und Leistungsfähigkeit erhalten bleiben?
 
-«Allein die Idee, dass Change ein Projekt ist, leitet uns in die Irre. Change hat kein Ende. Veränderung ist etwas, das andauert. Es gehört zum Leben und zur Firma wie Atmen und Verkaufen. Veränderung ist ein Routinevorgang, der zum Alltag dazugehören sollte.» S. 35
+> «Allein die Idee, dass Change ein Projekt ist, leitet uns in die Irre. Change hat kein Ende. Veränderung ist etwas, das andauert. Es gehört zum Leben und zur Firma wie Atmen und Verkaufen. Veränderung ist ein Routinevorgang, der zum Alltag dazugehören sollte.» 
+>
+> Dr. Markus Ramming, Neuro Change, S. 35
 
 **Die Dauerschleife der Veränderung**
 
@@ -24,15 +26,15 @@ Damit nicht genug. Diese Herausforderung wird noch komplexer durch die Tatsache,
 
 Die Kunst liegt darin, sowohl das Team als Ganzes zu stärken als auch individuellen Raum für persönliche Verarbeitungsprozesse zu schaffen. Führungskräfte müssen zwischen kollektiven und individuellen Interventionen balancieren – ein Spagat, der (sehr) hohe emotionale und kommunikative Kompetenzen erfordert.
 
-((Zitat Neuro Change – sollte bereits selbst Erfahrung haben))
-
 **Der eigene Umgang der Führungsperson mit Veränderung**
 
 In dieser anspruchsvollen Situation darf ein wichtiger Aspekt nicht vergessen werden: Führungspersonen sind selbst Teil des Veränderungsprozesses und müssen gleichzeitig andere durch diesen führen. Diese Doppelrolle kann erschöpfend sein und birgt die Gefahr, die eigenen Bewältigungsstrategien zu vernachlässigen, sofern sie denn überhaupt bekannt sind. Trotzdem: Führungskräfte müssen einen gesunden Umgang mit Veränderungen finden, um authentisch bleiben zu können.
 
 Hierbei stellt sich eine wichtige Frage: Wie können Führungskräfte ihre eigenen Unsicherheiten (an-)erkennen, annehmen, verarbeiten und gleichzeitig Sicherheit vermitteln? Ein falsches Verständnis von Führung suggeriert, dass Verwundbarkeit oder Unsicherheit Schwäche bedeutet. Tatsächlich kann ein offener Umgang mit den eigenen Gedanken, Emotionen und Unsicherheiten in Veränderungsprozessen das Vertrauen im Team stärken und als Modell dienen. Führungspersonen sind immer auch Vorbilder. 
 
-((Zitat selektiv authentisch))
+> «Takt und Timing gehören zur guten Kommunikation in zwischenmenschlichen Beziehungen. Echtheit und Vorsichtigkeit widersprechen sich nicht. Das bedeutet: selektiv authentisch sein.»  
+>
+> *Ruth C. Cohn* 
 
 **Das Gefühl der Machtlosigkeit überwinden**
 
@@ -89,7 +91,9 @@ Die Widerstandskraft des Teams wird zum entscheidenden Faktor für langfristige 
 
 Der Umgang mit ständigem Wandel bietet eine Chance für Teams, gemeinsam zu wachsen, ihre Zusammenarbeit zu beleuchten und besser zu machen. Wenn es gelingt, Veränderungsprozesse als gemeinsame Entwicklungsreise zu gestalten, entstehen tiefere Verbindungen zwischen Teammitgliedern und ein geteiltes Verständnis der gemeinsamen Ziele. Das wird ein nie endender Prozess bleiben. 
 
-((Zitat Bodeo Janssen))
+> «Wer sich seine Zukunftsfähigkeit bewahren will, wird um starke und sich tief verbundene Teams nicht herumkommen.»
+>
+> *Das neue Führen (2023), Janssen B., S. 171* 
 
 Führungskräfte, die ihr Team dabei unterstützen, Veränderung nicht als Bedrohung, sondern als Möglichkeit zur gemeinsamen Weiterentwicklung zu sehen, schaffen die Grundlage für eine nachhaltige Teamkultur. In einer solchen Kultur wird nicht trotz, sondern gerade wegen der ständigen Veränderungen eine tiefere Form der Zusammenarbeit möglich – eine, die auf gegenseitigem Verständnis, Vertrauen und gemeinsamen Zielen basiert.
 
