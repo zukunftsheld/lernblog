@@ -42,7 +42,7 @@ Die grundsätzlichen Herausforderungen von Veränderungen sowie die persönliche
 
 Diese Dynamik untergräbt sowohl das Vertrauen als auch die Leistungsfähigkeit. Teammitglieder ziehen sich zurück, die Kommunikation wird defensiv und der Prozess wird blockiert oder zieht viele Ressourcen ab. Eine Herausforderung für Führungskräfte besteht darin, diesen Teufelskreis zu durchbrechen und die kollektive wie individuelle Handlungsfähigkeit wieder spürbar zu machen. Nur wie?
 
-## Lösungsansätze für Leader:innen
+## **Lösungsansätze für Leader:innen**
 
 Bei so vielen Herausforderungen benötigen Führungspersonen wirksame Strategien, um ihr Team durch den permanenten Wandel zu navigieren. Folgende Ansätze können dabei helfen:
 
