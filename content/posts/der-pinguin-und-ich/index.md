@@ -103,7 +103,7 @@ Nach diesem Gespräch jedoch war erst einmal Funkstille. Ich arbeitete weiter an
 
 Also nahm aktivierte ich den Kontakt zu besagtem Pionier wieder und fand mich bald darauf in einem Coworking Space wieder, in dem auch Lernen einen hohen Stellenwert hatte.
 
-**Die Welt des Colearnings**
+### **Die Welt des Colearnings**
 
 Im Coworking Space lernte ich Menschen kennen, die eine andere Denkweise und Haltung hatten als die meisten, mit denen ich bisher zusammengearbeitet hatte. Und plötzlich fühlte ich mich mit meinen Ideen und Visionen genau am richtigen Platz. Ich wurde Teil des Projekts „Colearning“ und fand mich mitten in der Bildungsthematik wieder – und das, obwohl ich ja ursprünglich nie etwas mit dem Bildungsbereich zu tun haben wollte. Aus Sicht meines jüngeren Ichs unglaublich, dass ich plötzlich mit ehemaligen Lehrern zusammenarbeitete (und mich auch noch gut fühlte).
 
