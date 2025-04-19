@@ -43,7 +43,7 @@ Als Kind oder vielleicht eher als Jugendlicher hatte ich einen Traumberuf: Ich w
 
 ![](bildschirmfoto-2025-04-19-um-18.18.49.png)
 
-![Diese Fotos entstanden (vor ca. 20 Jahren) zu dieser Zeit. ](bildschirmfoto-2025-04-19-um-19.39.13.png)
+![Diese Fotos entstanden zu dieser Zeit  (vor ca. 20 Jahren) . ](bildschirmfoto-2025-04-19-um-19.39.13.png)
 
 Aufgrund der vielen Schwierigkeiten in der Schulzeit, meinem mittlerweile entwickelten Selbstbild und den negativen Äusserungen von Erwachsenen schien dieser Berufswunsch lange unerreichbar (Eigentlich handelte es sich dabei nur um ihre eigenen Begrenzungen). Eine total andere Perspektive war dann aber, als mir jemand (mit Expertise) sagte: «Klar kannst du das, warum denn nicht?» Diese Aussage (nur allein die Haltung) begleitet mich wohl bis heute. 
 
