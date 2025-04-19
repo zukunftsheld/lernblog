@@ -14,12 +14,12 @@ Vor ein paar Jahren hatte ich ein Gespräch mit jemandem, der meine Geschichte i
 
 {{</box>}}
 
-Im Buch «Glück kommt selten allein» bin ich der [Pinguin-Geschichte](https://www.youtube.com/watch?v=sY539oAsTb0) von Eckhart von Hirschhausen begegnet. Ich hatte mir zuvor nie viele Gedanken über die Tollpatschigkeit der Pinguine gemacht, sondern fand sie spannend und lustig. Die Geschichte vom Pinguin, erzählt von Eckart von Hirschhausen, hat sich in mir festgesetzt. Dieser tollpatschige Vogel an Land, der erst im Wasser seine volle Eleganz entfaltet – das ging mir nie ganz aus dem Kopf. Vielleicht, weil ich mich selbst oft so fühlte: bemüht, fehl am Platz, zu viel oder zu wenig für das, was gerade gefragt war. Ich beschreibe dieses Gefühl oft als Eisbär in der Wüste und konnte es mit dem Aufkommen der KI-Bildgenerierung visualisieren. 
+Im Buch «Glück kommt selten allein» bin ich der [Pinguin-Geschichte](https://www.youtube.com/watch?v=sY539oAsTb0) von Eckhart von Hirschhausen begegnet. Ich hatte mir zuvor nie viele Gedanken über die Tollpatschigkeit der Pinguine gemacht, sondern fand sie spannend und lustig. Die Geschichte vom Pinguin ist mir bis heute in Erinnerung geblieben. Dieser tollpatschige Vogel an Land, der erst im Wasser seine volle Eleganz entfaltet - toll. Vielleicht, weil ich mich selbst oft so fühlte: bemüht, fehl am Platz, zu viel oder zu wenig für das, was gerade gefragt war. Ich beschreibe dieses Gefühl oft als «Eisbär in der Wüste» und konnte es mit dem Aufkommen der KI-Bildgenerierung treffend visualisieren. 
 
 ![](dall-e-2023-09-11-10.39.31-polar-bear.png)
 
 Aber im richtigen Element? Da kommt plötzlich Leichtigkeit ins Spiel.\
-Nicht, weil alles einfacher wird – sondern weil es plötzlich Sinn ergibt. (Was einfach klingt, ist viel schwieriger, als man denken könnte und viele Life-, Sinn, Potenzial-Coaches einem weismachen wollen). 
+Nicht, weil alles einfacher wird – sondern weil es sich plötzlich passend anfühlt. (Was einfach klingt, ist viel schwieriger, als man denken könnte und viele Life-, Sinn, Potenzial-Coaches einem weismachen wollen). 
 
 ![](penguin-7542194_1280.jpg)
 
