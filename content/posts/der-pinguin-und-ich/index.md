@@ -43,6 +43,8 @@ Als Kind oder vielleicht eher als Jugendlicher hatte ich einen Traumberuf: Ich w
 
 ![](bildschirmfoto-2025-04-19-um-18.18.49.png "Diese Fotos entstanden (vor ca. 20 Jahren) zu dieser Zeit. ")
 
+![](bildschirmfoto-2025-04-19-um-19.39.13.png)
+
 Aufgrund der vielen Schwierigkeiten in der Schulzeit, meinem mittlerweile entwickelten Selbstbild und den negativen Äusserungen von Erwachsenen schien dieser Berufswunsch lange unerreichbar (Eigentlich handelte es sich dabei nur um ihre eigenen Begrenzungen). Eine total andere Perspektive war dann aber, als mir jemand (mit Expertise) sagte: «Klar kannst du das, warum denn nicht?» Diese Aussage (nur allein die Haltung) begleitet mich wohl bis heute. 
 
 Vor zwanzig Jahren begann ich meine Ausbildung zum Detailhandelsfachmann. Nach den schwierigen Jahren in der Schule fühlte sich dieser (Neu-)Beginn in einem Beruf wie eine Befreiung an. Ich war sehr froh, dass ich bis zum Lehrbeginn im Sommer überhaupt einen Ausbildungsplatz gefunden hatte. Die Angst, nichts zu finden, war allgegenwärtig – vor allem aus den ewigen Katastrophisierungen der Erwachsenen, die ich übernahm. Ich war sehr motiviert und engagiert, eine Lehrstelle zu finden, aber Schulnoten und Multichecks zählten mehr. Viel mehr.
