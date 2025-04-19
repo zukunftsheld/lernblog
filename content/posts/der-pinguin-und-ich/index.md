@@ -4,19 +4,21 @@ date = "2025-04-19"
 draft = true
 pinned = false
 tags = ["Biografie"]
+image = "leer-2.jpg"
+footnotes = "📚**Passende Bücher**\n\n📘[Das Glück kommt selten allein, Eckhart von Hirschhausen](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/eckart-von-hirschhausen/glueck-kommt-selten-allein-/id/9783499624841/)\n\n📘[Der Pinguin, der fliegen lernte, Eckhart von Hirschhausen](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/eckart-von-hirschhausen/der-pinguin-der-fliegen-lernte/id/9783423284523/)\n\n📘[Life Design](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/sebastian-kernbach/life-design/id/9783791049229/?srsltid=AfmBOoprt4y94S7htsQItRUjCSskt0FNYRNw_-dvmwhouBBdKT4qUDR4)\n\n📘[Das Leiden am sinnlosen Leben, Viktor E. Frankl](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/viktor-e-frankl/das-leiden-am-sinnlosen-leben/id/9783451033506/)\n\n📘[Wer ein Warum zum Leben hat, Viktor E. Frankl](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/viktor-e-frankl/wer-ein-warum-zu-leben-hat/id/9783407864925/)\n\n📘[...trotzdem Ja zum Leben sagen, Viktor E. Frankl](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/viktor-e-frankl/-trotzdem-ja-zum-leben-sagen/id/9783466373253/)\n\n📘[Der Mensch vor der Frage nach dem Sinn, Viktor E. Frankl](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/viktor-e-frankl/der-mensch-vor-der-frage-nach-dem-sinn/id/9783492202893/)\n\n📘[Arbeit, Sinn & Motivation, Harald Pichler](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/harald-pichler/arbeit-sinn-und-motivation/id/9783991002437/?utm_source=google&utm_medium=cpc&utm_campaign=Shopping+Catch+All+inkl.+LIA+(sh-CH-de)&utm_content=Catch+All+DE&utm_term=&gad_source=1&gbraid=0AAAAAD5hN-XCdNRiABapkg5-KWboSRHdT&gclid=CjwKCAjwk43ABhBIEiwAvvMEBx2ub8IUwsvWt-EeEOv7Aazksc7wLaCzSl-y7OheASgj-vuN_WJVcxoCh8oQAvD_BwE)\n\n📘[Wer dem Glück hinterherrennt, läuft daran vorbei, Russ Harris](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/russ-harris/wer-dem-glueck-hinterherrennt-laeuft-daran-vorbei/id/9783442179855/)\n\n📘[Der Weg zu echtem Selbstvertrauen - von der Angst zur Freiheit, Russ Harris](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/russ-harris/der-weg-zu-echtem-selbstvertrauen/id/9783867810951/)\n\n📘[Ikigai, Ken Mogi](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/ken-mogi/ikigai/id/9783832198992/?utm_source=google&utm_medium=cpc&utm_campaign=Performance+Max+CSS+B_2+hm_30+(pm-CH-de)&utm_content=&utm_term=&gad_source=1&gbraid=0AAAAAD5hN-XkbOf3eSThFLuGlSxOciyid&gclid=CjwKCAjwk43ABhBIEiwAvvMEB_Yti-URMI8UaZv-VhsP6SCNMRRPRn-WXtGrs_lnaw5dl3pqJg3pFRoCmw8QAvD_BwE)\n\n📘[Wabi Sabi, Beth Kempton](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/beth-kempton/wabi-sabi/id/9783431041194/)\n\n📘[Theorie U, C. Otto Scharmer](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/c-otto-scharmer/theorie-u-von-der-zukunft-her-fuehren/id/9783849703479/)"
 +++
 {{<box title="Weshalb dieser Text?">}}
 
-Vor ein paar Jahren hatte ich ein Gespräch mit jemandem, der meine Geschichte in einem Buch teilen wollte. Da ich nach dem Treffen und ersten Interviewfragen den Eindruck hatte, die Biografie würde vor allem für Verurteilungen gegenüber Institutionen und Menschen sowie negative Sichtweisen genutzt, habe ich später abgesagt. Die Idee, Einblicke in meine Biografie zu geben kommt jedoch immer wieder auf. Nicht weil ich den Eindruck habe, ich sei so wichtig, sondern weil ich Menschen Mut machen möchte. Ich selbst konnte viel aus biografischen Einblicken lernen. Nun experimentiere ich selbst mit dem Schreiben an (m)einer Biografie oder zumindest an Einblicken aus verschiedenen Perspektiven. Das neue Buch von Eckhart von Hirschhausen hat mich inspiriert, mich an einem konkreten Text aus der «Pinguinperspektive» zu versuchen. 
+Vor ein paar Jahren hatte ich ein Gespräch mit jemandem, der meine Geschichte in einem Buch teilen wollte. Da ich nach dem Treffen und ersten Interviewfragen den Eindruck hatte, die Biografie würde vor allem für Verurteilungen gegenüber Institutionen und Menschen sowie negative Sichtweisen genutzt, habe ich später abgesagt. Die Idee, Einblicke in meine Biografie zu geben kommt jedoch immer wieder auf. Nicht weil ich den Eindruck habe, ich sei so wichtig, sondern weil ich Menschen Mut machen möchte. Ich selbst konnte viel aus biografischen Einblicken lernen. Nun experimentiere ich selbst mit dem Schreiben an (m)einer Biografie oder zumindest an Einblicken aus verschiedenen Perspektiven. Das neue Buch von Eckhart von Hirschhausen hat mich inspiriert, mich an einem konkreten Text aus der «Pinguin-Perspektive» zu versuchen. 
 
 {{</box>}}
 
-Im Buch «Glück kommt selten allein» bin ich der Geschichte von Eckhart von Hirschhausen begegnet. Ich hatte mir zuvor nie viele Gedanken über die Tollpatschigkeit der Pinguine gemacht, sondern fand sie spannend und lustig. Die Geschichte vom Pinguin, erzählt von Eckart von Hirschhausen, hat sich in mir festgesetzt. Dieser tollpatschige Vogel an Land, der erst im Wasser seine volle Eleganz entfaltet – das ging mir nie ganz aus dem Kopf. Vielleicht, weil ich mich selbst oft so fühlte: bemüht, fehl am Platz, zu viel oder zu wenig für das, was gerade gefragt war. Ich beschreibe dieses Gefühl oft als Eisbär in der Wüste und konnte es mit dem Aufkommen der KI-Bildgenerierung visualisieren. 
+Im Buch «Glück kommt selten allein» bin ich der [Pinguin-Geschichte](https://www.youtube.com/watch?v=sY539oAsTb0) von Eckhart von Hirschhausen begegnet. Ich hatte mir zuvor nie viele Gedanken über die Tollpatschigkeit der Pinguine gemacht, sondern fand sie spannend und lustig. Die Geschichte vom Pinguin, erzählt von Eckart von Hirschhausen, hat sich in mir festgesetzt. Dieser tollpatschige Vogel an Land, der erst im Wasser seine volle Eleganz entfaltet – das ging mir nie ganz aus dem Kopf. Vielleicht, weil ich mich selbst oft so fühlte: bemüht, fehl am Platz, zu viel oder zu wenig für das, was gerade gefragt war. Ich beschreibe dieses Gefühl oft als Eisbär in der Wüste und konnte es mit dem Aufkommen der KI-Bildgenerierung visualisieren. 
 
 Aber im richtigen Element? Da kommt plötzlich Leichtigkeit ins Spiel.\
-Nicht, weil alles einfacher wird – sondern weil es plötzlich Sinn ergibt. (Was einfach klingt, ist viel schwieriger als man denken könnte und viele Life-, Sinn, Potenzial- etc. -Coaches einem weissmachen wollen). 
+Nicht, weil alles einfacher wird – sondern weil es plötzlich Sinn ergibt. (Was einfach klingt, ist viel schwieriger, als man denken könnte und viele Life-, Sinn, Potenzial-Coaches einem weismachen wollen). 
 
-Dieses Bild begleitet mich seit Jahren – mal leise im Hintergrund, mal ganz präsent. Es erinnert mich an etwas, das ich erst später in Worte fassen konnte: Stärke deine Stärken, statt vermeintliche Schwächen zu reparieren. Und vielleicht noch wichtiger: Finde dein eigenes Element. Das heisst: die eigenen Stärken überhaupt erkennen, anerkennen und darauf achten. Dann die Umgebungen finden, die passen. Auf die Arbeit bezogen könnte das heissen: 
+Dieses Bild begleitet mich seit Jahren – mal leise im Hintergrund, mal ganz präsent. Es erinnert mich an etwas, das ich erst später in Worte fassen konnte: Stärke deine Stärken und fokussiere nicht auf das Eliminieren von vermeintlichen Schwächen. Und vielleicht noch wichtiger: Finde dein eigenes Element. Das heisst: die eigenen Stärken überhaupt erkennen, anerkennen und darauf achten. Dann die Umgebungen finden, die passen. Auf die Arbeit bezogen könnte das heissen: 
 
 * Arbeitsort (Distanz zur Arbeit, Unternehmensgrösse, …)
 * Arbeitsumgebung (Einrichtung, Arbeitsthemen, die Menschen mit denen man arbeitet, …)
@@ -30,7 +32,7 @@ Nicht dem perfekten Plan folgen – sondern Wege gehen und sichtbar machen, die 
 Im Rückblick war es wohl genau dieses Prinzip, das mich weitergebracht hat.\
 Nicht *trotz* der Umwege. Sondern *wegen und mit* ihnen. (Aber eben, Umwege fühlen sich in dem Moment oft scheisse an).
 
-**Jugendträume und die harte Realität**
+### **Jugendträume und die harte Realität**
 
 Als Kind oder vielleicht eher als Jugendlicher hatte ich einen Traumberuf: Ich wollte Rettungssanitäter werden. Dieser Wunsch war keine allzu romantisierte Vorstellung, sondern basierte auf meiner (soweit möglich) realistischen Wahrnehmung des Gesundheitswesens, mit dem ich durch familiäre Erfahrungen früh in Kontakt kam. Zudem hatte ich mich irgendwann im Alter von ca. 15 Jahren vertiefter damit auseinandergesetzt. 
 
@@ -40,13 +42,13 @@ Aufgrund der vielen Schwierigkeiten in der Schulzeit, meinem mittlerweile entwic
 
 Vor zwanzig Jahren begann ich meine Ausbildung zum Detailhandelsfachmann. Nach den schwierigen Jahren in der Schule fühlte sich dieser (Neu-)Beginn in einem Beruf wie eine Befreiung an. Ich war sehr froh, dass ich bis zum Lehrbeginn im Sommer überhaupt einen Ausbildungsplatz gefunden hatte. Die Angst, nichts zu finden, war allgegenwärtig – vor allem aus den ewigen Katastrophisierungen der Erwachsenen, die ich übernahm. Ich war sehr motiviert und engagiert, eine Lehrstelle zu finden, aber Schulnoten und Multichecks zählten mehr. Viel mehr.
 
-Meine Ausbildungszeit war alles andere als schön. Ich identifizierte mich stark mit dem Beruf, mit meinen Tätigkeiten, und konnte mich auch gut einbringen. Das Umfeld war jedoch schwierig. Heute kann ich klar sagen, dass ich Mobbing erlebte – so, wie es im Buch oder in der Theorie steht. Das fiel mir lange schwer einzugestehen, auch wenn es von Fachpersonen bereits damals so benannt wurde. Um das wirklich anzuerkennen, musste ich über dreissig Jahre alt werden.
+Meine Ausbildungszeit war alles andere als schön. Ich identifizierte mich stark mit dem Beruf, mit meinen Tätigkeiten und konnte mich auch gut einbringen. Das Umfeld war jedoch schwierig. Heute kann ich klar sagen, dass ich Mobbing erlebte – so, wie es im Buch oder in der Theorie steht. Das fiel mir lange schwer einzugestehen, auch wenn es von Fachpersonen bereits damals so benannt wurde. Um das wirklich anzuerkennen, musste ich über dreissig Jahre alt werden.
 
 > «Das Schicksal gehört zum Menschen wie der Boden, an den ihn die Schwerkraft fesselt, ohne die aber das Gehen unmöglich wäre. Zu unserem Schicksal haben wir zu stehen wie zu dem Boden, auf dem wir stehen – ein Boden, der das Sprungbrett für unsere Freiheit ist.»
 >
 > *Viktor E. Frankl*
 
-**Die ersten Schritte ins Berufsleben**
+### **Die ersten Schritte ins Berufsleben**
 
 Bereits vor meiner Ausbildung wusste ich, dass ich meine berufliche Zukunft nicht im Detailhandel sah, auch wenn mir die Arbeit Freude machte. Warum sollte ich in einem Bereich arbeiten, in dem die Arbeitsbedingungen so schwierig waren? Zudem fragte ich mich immer wieder: Was soll dieses ständige Verkaufen, Verkaufen, Verkaufen? Zusatzverkäufe hier, Kundenbindung da.
 
@@ -56,7 +58,7 @@ Für die Zeit nach dem Praktikum hatte ich in diesen sechs Monaten über 90 Bewe
 
 Ich hatte das Glück, mich bei der Arbeit hervortun zu können. So, dass sogar eine neue Stelle geschaffen werden konnte. In dieser blieb ich dann sieben Jahre.
 
-**Der Wunsch nach Veränderung**
+### **Der Wunsch nach Veränderung**
 
 In dieser Lebens- und «Karriere»-Phase hatte ich nach wie vor immer wieder das Bedürfnis, anders mit Menschen zu arbeiten und mich von dem Fokus auf Verkaufen und Umsatz zu lösen. Also machte ich verschiedene Weiterbildungen und kam meinem Ziel, „irgendetwas mit Menschen“ zu tun, immer näher. In dieser Zeit war ich auch immer noch in der Genesungsphase meiner Angststörung, die mich natürlich immer wieder beschäftigte und manchmal zurückhielt. Doch zum Glück fand ich immer wieder Wege, mit dieser Angst umzugehen.
 
@@ -68,7 +70,7 @@ Ich suchte nach Möglichkeiten, in andere Berufsfelder im sozialen Bereich zu we
 >
 > *Aus dem Buch Wabi Sabi, S. 22*
 
-**Ein neuer Berufszweig tut sich auf**
+### **Ein neuer Berufszweig tut sich auf**
 
 Nach siebeneinhalb Jahren war es so weit: Ich fand eine Assistentenstelle in der beruflichen Integration. Endlich konnte ich Themen verbinden, die mir wichtig waren: Arbeit, Mensch, Kommunikation, Coaching. Es war ein spannendes und vielseitiges Arbeitsumfeld, in dem ich sehr viel lernen und meine Stärken einbringen konnte.
 
@@ -76,7 +78,7 @@ Um als Jobcoach und Kursleiter arbeiten zu können, war eine der Anforderungen e
 
 In dieser Rolle entdeckte ich unbekannte Stärken, aber auch Schwächen und Dinge, die mir wirklich nicht lagen oder meinen Werten stark widersprachen. Parallel zur Arbeit begann ich eine weitere Coachingausbildung und – entgegen meiner eigenen Überzeugung – fuhr ich aus irgendeinem Grund auch mit der Weiterbildung zum Ausbilder fort. Und obwohl ich mich zunächst mit den Worten anmeldete: „Ich mache das nur, weil ich muss, und ich habe wirklich keine Lust darauf“, wurde dieses Modul 2 – ein mehrtägiges externes Gruppendynamikmodul – zu einer der besten Erfahrungen, die ich bisher in Lagerkontexten gemacht habe.
 
-**Corona und der Aufbruch in die Selbstständigkeit**
+### **Corona und der Aufbruch in die Selbstständigkeit**
 
 So arbeitete ich also parallel an zwei Weiterbildungen und strebte gleichzeitig einen Jobwechsel weg von einem Zwangskontext wie der beruflichen Integration an. Ich begann eine neue Stelle, bei der es um die Entwicklung von Mitarbeitenden in einer Organisation ging. Fast zeitgleich mit meinem Stellenantritt erschienen die ersten Meldungen zu Corona. Angestellt in einer Abteilung, die gerade von einem Wandel durchgerüttelt wurde, war plötzlich alles anders als geplant.
 
@@ -86,7 +88,7 @@ Mein Plan? Mich selbstständig machen. Ich hatte eine Vision, und der Rest sollt
 
 Da mir klar war, dass ich einige Zeit brauchen würde, um genügend Geld zu verdienen, um davon zu leben, suchte ich mir flexible Nebenjobs. Einige davon habe ich intensiver ausgeführt, andere nur ein- oder zweimal. So arbeitete ich vor allem in einem Archiv, versuchte mich als Hilfskoch und Tellerwäscher oder half in der Hauswartung.
 
-**Begegnungen, die verändern**
+### **Begegnungen, die verändern**
 
 Schon bevor ich mich endgültig für die Selbstständigkeit entschied, begann ich, mich mit Menschen zu treffen, von denen ich dachte, dass ich viel von ihnen lernen könnte. Eine dieser Begegnungen wurde dann wirklich wegweisend. Ich traf einen Pionier der neuen Arbeit und Bildung – und dieses Treffen dauerte deutlich länger als geplant. Ich verpasste dadurch einen anschliessenden Termin, was mir normalerweise nie passiert!
 
@@ -102,7 +104,7 @@ Das Projekt drehte sich um freies, individuelles Lernen und darum, diesem Raum z
 
 Ich bekam die Gelegenheit zu beobachten, zu hospitieren, zuzuhören und an (bezahlten) Projekten zu arbeiten. So machte ich plötzlich Podcast-Interviews – und wurde dafür sogar bezahlt. In dieser Zeit lernte ich so einiges über mich selbst, meine Stärken, aber auch darüber, was mir weniger zusagt. Und vor allem entdeckte ich die Kraft des Ausprobierens und Entdeckens.
 
-**Der Pinguin findet sein Wasser**
+### **Der Pinguin findet sein Wasser**
 
 Es gibt nicht den einen geradlinigen Weg. Mein Berufsweg war alles andere als linear, und das ist für mich auch der Schlüssel. Statt einem festen Plan zu folgen, ging es viel mehr um das Ausprobieren, Erforschen und das Finden von Wegen, die oft im Nebel lagen. Immer wieder habe ich mich gefragt: Was ist mein Element – der Ort (oder die Orte), an dem ich wirklich aufblühen kann.
 
@@ -112,11 +114,11 @@ Ich habe viel über mich selbst gelernt – nicht durch eine methodische Anleitu
 
 Was mich immer an der Arbeit im Rettungswesen reizte, war die Fähigkeit, in schwierigen Momenten Klarheit zu schaffen und Menschen «Sicherheit» zu geben. Heute arbeite ich im Gesundheitswesen – nicht als Rettungssanitäter, aber als Personal- und Organisationsentwickler. Ich begleite Führungskräfte und Teams in herausfordernden Situationen und helfe ihnen, Orientierung zu finden. Manchmal kurz und schnell, ein anderes Mal ist es eher eine «Transportbegleitung». In gewisser Weise tue ich heute das, was mich ursprünglich an der Notfallarbeit faszinierte – nur auf eine andere Art.
 
-Wie der Pinguin im Wasser, so habe auch ich mein Element gefunden – nicht unbedingt dort, wo ich es ursprünglich gesucht habe. Doch durch ständiges Ausprobieren, Lernen und Anpassen fand ich meinen eigenen Platz. Life Design hat mir gezeigt, dass der Weg nicht immer gradlinig sein muss. Vielmehr geht es darum, sich immer wieder neu zu orientieren und den eigenen Kurs zu finden.
+Wie der Pinguin im Wasser, so habe auch ich mein Element gefunden – nicht unbedingt dort, wo ich es ursprünglich gesucht habe. Doch durch ständiges Ausprobieren, Lernen und Anpassen fand ich meinen eigenen Platz. Es geht es darum, sich immer wieder neu zu orientieren und den eigenen Kurs zu finden. Dazu gibt es übrigens einen passenden Ansatz, der sich «Life Design» nennt. 
 
-**Gedanken zum Schluss**
+### **Gedanken zum Schluss**
 
-Oft wird von der Berufung, dem Sinn, dem eigenen Ikigai, dem WHY gesprochen. Man müsse «es» nur finden und würde dabei glücklich und zufrieden. Es gab eine Zeit, da habe ich ähnlich gedacht. Heute würde ich es klar als Schwachsinn bezeichnen. So wenig, wie es den Traumjob oder die eine perfekte Partnerin gibt, so wenig gibt es den Sinn, das WHY oder das Ikigai (was ja sowieso von den meisten missverstanden wird). Es kann viele geben zu sich und zur Zufriedenheit geben. Manchmal sieht man den Weg ganz klar und manchmal findet man auf dem Weg das, was man eigentlich am Ziel gesucht hätte. Auf diesen Wegen muss man vielleicht Altes auf- oder abarbeiten, Dreck fressen, immer wieder aufstehen und durch alle Zweifel gehen, ohne ein wirkliches Licht am Ende des Tunnels zu sehen. Ob es sich lohnt? Das muss wohl jede und jeder für sich selbst entscheiden. 
+Oft wird von *der* Berufung, dem Sinn, *dem* eigenen Ikigai, *dem* WHY gesprochen. Man müsse «*es*» nur finden und würde dabei glücklich und zufrieden. Es gab eine Zeit, da habe ich ähnlich gedacht. Heute würde ich es klar als Schwachsinn bezeichnen. So wenig, wie es *den* Traumjob oder *die eine* perfekte Partnerin gibt, so wenig gibt es *den* Sinn, *das* WHY oder *das* Ikigai (was ja sowieso von den meisten missverstanden wird). Es kann viele geben zu sich und zur Zufriedenheit geben. Manchmal sieht man den Weg ganz klar und manchmal findet man auf dem Weg das, was man eigentlich am Ziel gesucht hätte. Auf diesen Wegen muss man vielleicht Altes auf- oder abarbeiten, Dreck fressen, immer wieder aufstehen und durch alle Zweifel gehen, ohne ein wirkliches Licht am Ende des Tunnels zu sehen. Ob es sich lohnt? Das muss wohl jede und jeder für sich selbst entscheiden. 
 
 > «Die Aufgabe wechselt nicht nur von Mensch zu Mensch – entsprechend der Einzigartigkeit jeder Person – sondern auch von Stunde zu Stunde, gemäss der Einmaligkeit jeder Situation.»
 >
