@@ -10,7 +10,7 @@ footnotes = "📚**Passende Bücher**\n\n📘[Das Glück kommt selten allein, Ec
 +++
 {{<box title="Weshalb dieser Text?">}}
 
-Vor ein paar Jahren hatte ich ein Gespräch mit jemandem, der meine Geschichte in einem Buch teilen wollte. Da ich nach dem Treffen und ersten Interviewfragen den Eindruck hatte, die Biografie würde vor allem für Verurteilungen gegenüber Institutionen und Menschen sowie negative Sichtweisen genutzt, habe ich später abgesagt. Die Idee, Einblicke in meine Biografie zu geben kommt jedoch immer wieder auf. Nicht weil ich den Eindruck habe, ich sei so wichtig, sondern weil ich Menschen Mut machen möchte. Ich selbst konnte viel aus biografischen Einblicken lernen. Nun experimentiere ich selbst mit dem Schreiben an (m)einer Biografie oder zumindest an Einblicken aus verschiedenen Perspektiven. Das neue Buch «Der Pinguin, der fliegen lernte» von Eckhart von Hirschhausen hat mich inspiriert, mich an einem konkreten Text aus der «Pinguin-Perspektive» zu versuchen. 
+Vor ein paar Jahren hatte ich ein Gespräch mit jemandem, der meine Geschichte in einem Buch teilen wollte. Da ich nach dem Treffen und ersten Interviewfragen den Eindruck hatte, die Biografie würde vor allem für Verurteilungen gegenüber Institutionen und Menschen sowie negative Sichtweisen genutzt, habe ich später abgesagt. Die Idee, Einblicke in meine Biografie zu geben, kommt jedoch immer wieder auf. Nicht weil ich den Eindruck habe, ich sei so wichtig, sondern weil ich Menschen Mut machen möchte. Ich selbst konnte viel aus biografischen Einblicken lernen. Nun experimentiere ich selbst mit dem Schreiben an (m)einer Biografie oder zumindest an Einblicken aus verschiedenen Perspektiven. Das neue Buch «Der Pinguin, der fliegen lernte» von Eckhart von Hirschhausen hat mich inspiriert, mich an einem konkreten Text aus der «Pinguin-Perspektive» im Bezug auf meinen bisherigen beruflichen Weg zu versuchen. 
 
 {{</box>}}
 
@@ -121,7 +121,7 @@ Ich habe viel über mich selbst gelernt – nicht durch eine methodische Anleitu
 
 Was mich immer an der Arbeit im Rettungswesen reizte, war die Fähigkeit, in schwierigen Momenten Klarheit zu schaffen und Menschen «Sicherheit» zu geben. Heute arbeite ich im Gesundheitswesen – nicht als Rettungssanitäter, aber als Personal- und Organisationsentwickler. Ich begleite Führungskräfte und Teams in herausfordernden Situationen und helfe ihnen, Orientierung zu finden. Manchmal kurz und schnell, ein anderes Mal ist es eher eine «Transportbegleitung». In gewisser Weise tue ich heute das, was mich ursprünglich an der Notfallarbeit faszinierte – nur auf eine andere Art.
 
-Wie der Pinguin im Wasser, so habe auch ich mein Element gefunden – nicht unbedingt dort, wo ich es ursprünglich gesucht habe. Doch durch ständiges Ausprobieren, Lernen und Anpassen fand ich meinen eigenen Platz. Es geht es darum, sich immer wieder neu zu orientieren und den eigenen Kurs zu finden. Dazu gibt es übrigens einen passenden Ansatz, der sich «Life Design» nennt. 
+Wie der Pinguin im Wasser, so habe auch ich mein Element gefunden – nicht unbedingt dort, wo ich es ursprünglich gesucht habe. Doch durch ständiges Ausprobieren, Lernen und Anpassen fand ich meinen eigenen Platz. Es geht es darum, sich immer wieder neu zu orientieren und den eigenen Kurs zu finden. Dazu gibt es übrigens einen passenden Ansatz, der sich «[Life Design](https://www.youtube.com/watch?v=x5ss2ITcefA)» nennt. 
 
 ### **Gedanken zum Schluss**
 
