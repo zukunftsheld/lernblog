@@ -64,7 +64,7 @@ Nach der Ausbildung arbeitete ich ein Jahr im Detailhandel, bevor ich einen Prak
 
 Für die Zeit nach dem Praktikum hatte ich in diesen sechs Monaten über 90 Bewerbungen für andere Stellen im Marketingbereich geschrieben (damals noch per Post verschickt) – und erhielt genauso viele Absagen. Die meisten dieser Antwortschreiben waren standardisiert, wenn es denn überhaupt eine Antwort gab. Ich erinnere mich aber an eine sehr persönliche Antwort, in der mir die Schreibende Mut machte, weiterzumachen und dran zu bleiben.
 
-Ich hatte das Glück, mich bei der Arbeit hervortun zu können. So, dass sogar eine neue Stelle geschaffen werden konnte. In dieser blieb ich dann sieben Jahre.
+Ich hatte das Glück, mich bei der Arbeit hervortun zu können. So, dass sogar eine neue Stelle geschaffen werden konnte. In dieser blieb ich sieben Jahre.
 
 ### **Der Wunsch nach Veränderung**
 
