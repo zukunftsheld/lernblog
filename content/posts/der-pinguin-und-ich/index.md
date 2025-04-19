@@ -1,8 +1,9 @@
 +++
-title = "Der Pinguin und ich"
+title = "Meine Pinguin-Geschichte"
 date = "2025-04-19"
 draft = true
 pinned = false
+tags = ["Biografie"]
 +++
 **Weshalb dieser Text?**
 
