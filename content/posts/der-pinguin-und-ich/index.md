@@ -94,6 +94,8 @@ Es schien, als sei jetzt wirklich der Moment gekommen, um entweder aufzubrechen 
 
 Mein Plan? Mich selbstständig machen. Ich hatte eine Vision, und der Rest sollte Schritt für Schritt kommen. Mit ZUKUNFTSHELDEN wollte ich Menschen bei ihren beruflichen (Neu-)Orientierungen begleiten, mit dem Fokus auf Menschen, die nicht den klassischen, linearen Berufs- und Bildungsweg gegangen sind. Die Zeit schien reif dafür.
 
+![](bildschirmfoto-2025-04-20-um-15.27.23.png "Bilder aus dem Coworking Space und der Selbst- sowie Gemeinsamständigkeit")
+
 Da mir klar war, dass ich einige Zeit brauchen würde, um genügend Geld zu verdienen, um davon zu leben, suchte ich mir flexible Nebenjobs. Einige davon habe ich intensiver ausgeführt, andere nur ein- oder zweimal. So arbeitete ich vor allem in einem Archiv, versuchte mich als Hilfskoch und Tellerwäscher oder half in der Hauswartung.
 
 ### **Begegnungen, die verändern**
@@ -103,6 +105,8 @@ Schon bevor ich mich endgültig für die Selbstständigkeit entschied, begann ic
 Nach diesem Gespräch jedoch war erst einmal Funkstille. Ich arbeitete weiter an meiner Selbstständigkeit und startete parallel einen Podcast, in dem ich mit Menschen über ihre Biografien mit dem Fokus auf Beruf und Schule sprach. Alles lief an, und ich hatte die ersten kleinen Aufträge – von denen ich natürlich nie und nimmer hätte leben können. Und trotzdem war ich oft alleine zuhause am Schreibtisch, was sich zunehmend nicht gut anfühlte.
 
 Also nahm aktivierte ich den Kontakt zu besagtem Pionier wieder und fand mich bald darauf in einem Coworking Space wieder, in dem auch Lernen einen hohen Stellenwert hatte.
+
+![](bildschirmfoto-2025-04-20-um-15.27.18.png "Bilder aus dem Coworking Space und der Selbstständigkeit")
 
 ### **Die Welt des Colearnings**
 
