@@ -12,6 +12,8 @@ footnotes = "📚**Passende Bücher**\n\n📘[Das Glück kommt selten allein, Ec
 
 Vor ein paar Jahren hatte ich ein Gespräch mit jemandem, der meine Geschichte in einem Buch teilen wollte. Da ich nach dem Treffen und ersten Interviewfragen den Eindruck hatte, die Biografie würde vor allem für Verurteilungen gegenüber Institutionen und Menschen sowie negative Sichtweisen genutzt, habe ich später abgesagt. Die Idee, Einblicke in meine Biografie zu geben, kommt jedoch immer wieder auf. Nicht weil ich den Eindruck habe, ich sei so wichtig, sondern weil ich Menschen Mut machen möchte. Ich selbst konnte viel aus biografischen Einblicken lernen. Nun experimentiere ich selbst mit dem Schreiben an (m)einer Biografie oder zumindest an Einblicken aus verschiedenen Perspektiven. Das neue Buch «Der Pinguin, der fliegen lernte» von Eckhart von Hirschhausen hat mich inspiriert, mich an einem konkreten Text aus der «Pinguin-Perspektive» im Bezug auf meinen bisherigen beruflichen Weg zu versuchen. 
 
+![](img_2256.jpg)
+
 {{</box>}}
 
 Im Buch «Glück kommt selten allein» bin ich der [Pinguin-Geschichte](https://www.youtube.com/watch?v=sY539oAsTb0) von Eckhart von Hirschhausen begegnet. Ich hatte mir zuvor nie viele Gedanken über die Tollpatschigkeit der Pinguine gemacht, sondern fand sie spannend und lustig. Die Geschichte vom Pinguin ist mir bis heute in Erinnerung geblieben. Dieser tollpatschige Vogel an Land, der erst im Wasser seine volle Eleganz entfaltet - toll. Vielleicht, weil ich mich selbst oft so fühlte: bemüht, fehl am Platz, zu viel oder zu wenig für das, was gerade gefragt war. Ich beschreibe dieses Gefühl oft als «Eisbär in der Wüste» und konnte es mit dem Aufkommen der KI-Bildgenerierung treffend visualisieren. 
