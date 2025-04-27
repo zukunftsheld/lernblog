@@ -93,7 +93,7 @@ Diese Haltung schafft Raum für die Vielschichtigkeit des Menschseins, der Welt 
 >
 > *Wolf Lotter, Zusammenhänge*
 
-#### **Fähigkeiten für den Umgang mit Komplexität fördern**
+#### Fähigkeiten für den Umgang mit Komplexität fördern
 
 Nicht nur Führungskräfte, sondern alle Mitarbeitenden brauchen Fähigkeiten, um mit (menschlicher) Komplexität umzugehen:
 
