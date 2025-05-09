@@ -104,11 +104,11 @@ Da mir klar war, dass ich einige Zeit brauchen würde, um genügend Geld zu verd
 
 ### **Begegnungen, die verändern**
 
-Schon bevor ich mich endgültig für die Selbstständigkeit entschied, begann ich, mich mit Menschen zu treffen, von denen ich dachte, dass ich viel von ihnen lernen könnte. Eine dieser Begegnungen wurde dann wirklich wegweisend. Ich traf einen Pionier der neuen Arbeit und Bildung – und dieses Treffen dauerte deutlich länger als geplant. Ich verpasste dadurch einen anschliessenden Termin, was mir normalerweise nie passiert!
+Schon bevor ich mich endgültig für die Selbstständigkeit entschied, begann ich, mich mit Menschen zu treffen, von denen ich dachte, dass ich viel von ihnen lernen könnte. Eine dieser Begegnungen wurde dann wirklich wegweisend. Ich traf einen Pionier der (wirklich) neuen Arbeit und Bildung – und dieses Treffen dauerte deutlich länger als geplant. Ich verpasste dadurch einen anschliessenden Termin, was mir normalerweise nie passiert!
 
-Nach diesem Gespräch jedoch war erst einmal Funkstille. Ich arbeitete weiter an meiner Selbstständigkeit und startete parallel einen Podcast, in dem ich mit Menschen über ihre Biografien mit dem Fokus auf Beruf und Schule sprach. Alles lief an, und ich hatte die ersten kleinen Aufträge – von denen ich natürlich nie und nimmer hätte leben können. Und trotzdem war ich oft alleine zuhause am Schreibtisch, was sich zunehmend nicht gut anfühlte.
+Nach diesem Gespräch jedoch war erst einmal Funkstille. Ich arbeitete weiter an meiner Selbstständigkeit und startete parallel einen ZUKUNFTSHELDEN-[Podcast,](https://benzaugg.ch) in dem ich mit Menschen über ihre Biografien mit dem Fokus auf Beruf und Schule sprach. Alles lief an, und ich hatte die ersten kleinen Aufträge – von denen ich natürlich nie und nimmer hätte leben können. Und trotzdem war ich oft alleine zuhause am Schreibtisch, was sich zunehmend nicht gut anfühlte.
 
-Also nahm aktivierte ich den Kontakt zu besagtem Pionier wieder und fand mich bald darauf in einem Coworking Space wieder, in dem auch Lernen einen hohen Stellenwert hatte.
+Also aktivierte ich den Kontakt zu besagtem Pionier wieder und fand mich bald darauf in einem Coworking Space wieder, in dem auch Lernen einen hohen Stellenwert hatte.
 
 ![Bilder aus dem Coworking Space und der Selbstständigkeit](bildschirmfoto-2025-04-20-um-15.27.18.png)
 
