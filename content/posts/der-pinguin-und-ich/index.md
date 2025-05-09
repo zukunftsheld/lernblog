@@ -74,7 +74,7 @@ In dieser Lebens- und «Karriere»-Phase hatte ich nach wie vor immer wieder das
 
 Mein Interesse und Ziel, mit Menschen zu arbeiten, behielt ich stets im Blick. Ich absolvierte eine erste Coaching-Weiterbildung sowie eine Ausbildung zum Genusstrainer, arbeitete aber weiterhin im Marketing. Das Thema Rettungssanität hatte ich dann einfach einmal gedanklich auf einen «Parkplatz» gestellt, um den inneren Druck wegzunehmen.
 
-Ich suchte nach Möglichkeiten, in andere Berufsfelder im sozialen Bereich zu wechseln, fand jedoch kaum passende Stellen. Ich versuchte es mit Spontanbewerbungen, aber nichts. Klar, ich hätte mich in einen konkreten sozialen Beruf entwickeln können. Aber ich wusste nicht genau, was es sein sollte – ein Studium wäre nötig gewesen, doch dieser Weg schien mir damals unrealistisch. Rettungssanität sah ich aufgrund der Belastungen durch die Angst (noch) nicht. Also hielt ich durch und suchte weiter nach Chancen.
+Ich suchte nach Möglichkeiten, in andere Berufsfelder im sozialen Bereich zu wechseln, fand jedoch kaum passende Stellen. Ich versuchte es mit Spontanbewerbungen, aber nichts. Klar, ich hätte mich in einen konkreten sozialen Beruf entwickeln können. Aber ich wusste nicht genau, was es sein sollte – ein Studium wäre nötig gewesen, doch dieser Weg schien mir damals unrealistisch. Rettungssanität sah ich aufgrund der Belastungen durch meine Angststörung (noch) nicht. Also hielt ich durch und suchte weiter nach Chancen.
 
 >  «Es geht weniger darum was wir sehen, als darum, wie wir die Dinge sehen.» 
 >
@@ -84,9 +84,9 @@ Ich suchte nach Möglichkeiten, in andere Berufsfelder im sozialen Bereich zu we
 
 Nach siebeneinhalb Jahren war es so weit: Ich fand eine Assistentenstelle in der beruflichen Integration. Endlich konnte ich Themen verbinden, die mir wichtig waren: Arbeit, Mensch, Kommunikation, Coaching. Es war ein spannendes und vielseitiges Arbeitsumfeld, in dem ich sehr viel lernen und meine Stärken einbringen konnte.
 
-Um als Jobcoach und Kursleiter arbeiten zu können, war eine der Anforderungen ein SVEB1-Zertifikat. Also begann ich bald nach der Anstellung mit dem Kurs. Zunächst hatte ich wenig Bezug zu Bildung und auch wenig Motivation, mich in diesem Bereich weiterzuentwickeln. Doch das Papier in der Tasche eröffnete mir bald die Möglichkeit, nicht mehr als Assistent der Kursleitung, sondern als Kursleiter zu arbeiten.
+Um als Jobcoach und Kursleiter arbeiten zu können, war eine der Anforderungen ein SVEB1-Zertifikat. Also begann ich bald nach der Anstellung mit dem Kurs. Zunächst hatte ich aufrund meiner schlechten Schulerfahrungen wenig Bezug zu Bildung und auch wenig Motivation, mich in diesem Bereich weiterzuentwickeln. Doch das Papier in der Tasche eröffnete mir bald die Möglichkeit, nicht mehr als Assistent der Kursleitung, sondern als Jobcoach und Kursleiter zu arbeiten.
 
-In dieser Rolle entdeckte ich unbekannte Stärken, aber auch Schwächen und Dinge, die mir wirklich nicht lagen oder meinen Werten stark widersprachen. Parallel zur Arbeit begann ich eine weitere Coachingausbildung und – entgegen meiner eigenen Überzeugung – fuhr ich aus irgendeinem Grund auch mit der Weiterbildung zum Ausbilder fort. Und obwohl ich mich zunächst mit den Worten anmeldete: «Ich mache das nur, weil ich muss, und ich habe wirklich keine Lust darauf», wurde dieses Modul 2 – ein mehrtägiges externes Gruppendynamikmodul – zu einer der besten Erfahrungen, die ich bisher in Lagerkontexten gemacht habe.
+In dieser Rolle entdeckte ich unbekannte Stärken, aber auch Schwächen und Dinge, die mir wirklich nicht lagen oder meinen Werten stark widersprachen. Parallel zur Arbeit begann ich eine weitere Coachingausbildung und – entgegen meiner eigenen Überzeugung – fuhr ich aus irgendeinem Grund auch mit der Weiterbildung zum Ausbilder fort. Und obwohl ich mich zunächst mit den Worten anmeldete: «Ich mache das nur, weil ich muss, und ich habe wirklich keine Lust darauf», wurde dieses Modul 2 – ein mehrtägiges externes Gruppendynamikmodul – zu einer der besten (oder der einzig guten) Erfahrungen, die ich bisher in Lagerkontexten gemacht habe.
 
 ### **Corona und der Aufbruch in die Selbstständigkeit**
 
