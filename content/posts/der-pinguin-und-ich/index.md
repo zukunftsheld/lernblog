@@ -70,7 +70,7 @@ Ich hatte das Glück, mich bei der Arbeit hervortun zu können. So, dass sogar e
 
 ### **Der Wunsch nach Veränderung**
 
-In dieser Lebens- und «Karriere»-Phase hatte ich nach wie vor immer wieder das Bedürfnis, anders mit Menschen zu arbeiten und mich von dem Fokus auf Verkaufen und Umsatz zu lösen. Also machte ich verschiedene Weiterbildungen und kam meinem Ziel, „irgendetwas mit Menschen“ zu tun, immer näher. In dieser Zeit war ich auch immer noch in der Genesungsphase meiner Angststörung, die mich natürlich immer wieder beschäftigte und manchmal zurückhielt. Doch zum Glück fand ich immer wieder Wege, mit dieser Angst umzugehen.
+In dieser Lebens- und «Karriere»-Phase hatte ich nach wie vor immer wieder das Bedürfnis, anders mit Menschen zu arbeiten und mich von dem Fokus auf Verkaufen und Umsatz zu lösen. Also machte ich verschiedene Weiterbildungen und kam meinem Ziel, «irgendetwas mit Menschen» zu tun, immer näher. In dieser Zeit war ich auch immer noch in der Genesungsphase meiner Angststörung, die mich natürlich immer wieder beschäftigte und manchmal zurückhielt. Doch zum Glück fand ich immer wieder Wege, mit dieser Angst umzugehen.
 
 Mein Interesse und Ziel, mit Menschen zu arbeiten, behielt ich immer im Blick. Ich absolvierte eine erste Coaching-Weiterbildung sowie eine Ausbildung zum Genusstrainer, arbeitete aber weiterhin im Marketing. Das Thema Rettungssanität hatte ich dann einfach einmal gedanklich auf einen «Parkplatz» gestellt, um den inneren Druck wegzunehmen.
 
