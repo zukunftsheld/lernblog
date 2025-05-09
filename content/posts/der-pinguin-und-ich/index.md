@@ -25,10 +25,10 @@ Nicht, weil alles einfacher wird – sondern weil es sich plötzlich passend anf
 
 ![](penguin-7542194_1280.jpg)
 
-Dieses Bild des Pinguins begleitet mich seit Jahren. Einmal leise im Hintergrund, ein anderes mal ganz präsent. Es erinnert mich an etwas, das ich erst später in Worte fassen konnte: Stärke deine Stärken und fokussiere dich nicht auf das Eliminieren von (vermeintlichen) Schwächen. Und vielleicht noch wichtiger: Finde dein eigenes Element. Das heisst, die eigenen Stärken überhaupt zu erkennen, anerkennen und darauf achten. Dann die Umgebungen finden, die passen. Auf die Arbeit bezogen könnte das heissen: 
+Dieses Bild des Pinguins begleitet mich seit Jahren. Einmal leise im Hintergrund, ein anderes mal ganz präsent. Es erinnert mich an etwas, das ich erst später in Worte fassen konnte: Stärke deine Stärken und fokussiere dich nicht auf das Eliminieren von (vermeintlichen) Schwächen. Und vielleicht noch wichtiger: Finde dein eigenes Element. Das heisst, die eigenen Stärken überhaupt zu erkennen, anerkennen und darauf zu achten. Dann die Umgebungen finden, die passen. Auf die Arbeit bezogen könnte das heissen: 
 
 * Arbeitsinhalt/Arbeitstätigkeiten (was kann und tue ich wirklich wirklich gerne und gut?)
-* Arbeitsort (Distanz zur Arbeit, Unternehmensgrösse, …)
+* Arbeitsort (Distanz zur Arbeit, Unternehmensgrösse, Branche, …)
 * Arbeitsumgebung (Einrichtung, Arbeitsthemen, die Menschen mit denen man arbeitet, …)
 * Klima (Kultur, …)
 
