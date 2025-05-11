@@ -6,6 +6,7 @@ pinned = false
 tags = ["Lernen", "Bildung", "Change", "Personalentwicklung"]
 image = "cl_elearning-2.jpg"
 description = "In diesem Erlebnisbericht teile ich meine Erfahrungen bei der Entwicklung eines Blended-Learning-Kurses zu Change Leadership."
+footnotes = "Titelbild: Erstellt mit Bing Image Creator"
 +++
 Bildung ist für mich seit jeher viel mehr als Inhalte vermitteln – sie ist ein lebendiger Prozess. Ein Entdecken, Ausprobieren und die Begegnung zwischen Menschen. Ich bin es gewohnt, Lern- und Begegnungsräume zu gestalten. Räume, in denen Menschen miteinander sprechen, sich austauschen, gemeinsam entdecken und nachdenken. 
 
