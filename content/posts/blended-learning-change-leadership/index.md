@@ -14,7 +14,7 @@ Bildung ist für mich seit jeher viel mehr als Inhalte vermitteln – sie ist ei
 
 Der Kurs, den ich gerade entwickle, trägt den Titel «Change Leadership» – ein Blended-Learning-Format. Ein Teil E-Learning, ein Teil Präsenzworkshop, später ergänzt durch einen Erfahrungsaustausch. Die Idee: Grundlagen selbstständig online erarbeiten, dann gemeinsam vertiefen, verknüpfen und in die eigene Praxis übertragen.
 
-Das Konzept sieht vor, dass der Kurs in drei aufeinander abgestimmte Phasen unterteilt wird:
+### **Das Konzept sieht vor, dass der Kurs in drei aufeinander abgestimmte Phasen unterteilt wird:**
 
 #### **E-Learning-Module:**
 
