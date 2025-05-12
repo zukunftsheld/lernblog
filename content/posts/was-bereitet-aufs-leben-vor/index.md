@@ -18,7 +18,7 @@ Was ich sehe, ist ein System, das «abfüllt», prüft und selektiert. Aber bere
 
 ## **Der Übergang zur Berufsbildung – ein Lichtblick mit Schatten**
 
-Gerade in der Schweiz haben wir ein Bildungssystem, das mit der Berufsbildung ein wertvolles Fundament bietet. Es ist grundsätzlich möglich, über verschiedene Wege – sei es eine Lehre oder ein Studium – seinen eigenen Platz zu finden. Doch auch hier stellen sich Fragen: Wie sollen junge Menschen herausfinden, was sie wollen, wenn sie einen grossen Teil ihrer Zeit in Schulzimmern verbringen? Wenn sie die Welt der Arbeit oft nur von aussen, aus der Ferne kennen – wenn sie Glück haben, aus ein paar Schnuppertagen? Wenn ihnen oft (sorry!) Arbeitswelt- und Arbeitsmarktfremde Menschen sagen, was sie später «werden» können und was nicht. 
+Gerade in der Schweiz haben wir ein Bildungssystem, das mit der Berufsbildung ein wertvolles Fundament bietet. Es ist grundsätzlich möglich, über verschiedene Wege – sei es eine Lehre oder ein Studium – seinen eigenen Platz zu finden. Doch auch hier stellen sich Fragen: Wie sollen junge Menschen herausfinden, was sie wollen, wenn sie einen grossen Teil ihrer Zeit in Schulzimmern verbringen? Wenn sie die Welt der Arbeit oft nur von aussen, aus der Ferne kennen – wenn sie Glück haben, aus ein paar Schnuppertagen? Wenn ihnen oft (sorry!) arbeitswelt- und arbeitsmarktfremde Menschen sagen, was sie später «werden» können und was nicht. 
 
 Die Berufsbildung beginnt also bereits mit einem grossen Fragezeichen. Denn viele Jugendliche wissen schlicht nicht, was sie interessiert – nicht, weil sie desinteressiert wären, sondern weil ihnen der Kontakt zur «realen» Welt fehlt. Und gleichzeitig beginnt genau hier eine Selektion, die Folgen hat.
 
