@@ -64,7 +64,7 @@ Ich spreche gern von den «unsichtbaren Heldinnen und Helden». Gleichzeitig mer
 
 Ich glaube: Ein Bildungssystem und die Arbeitswelt der Zukunft (noch besser heute) - sollten mehr Raum geben für Stärken, für Talente, für individuelle Wege. Nicht im Sinne einer Wohlfühloase, wie sich nun etliche Kritiker denken. Sondern als echte, ernst gemeinte Orientierung an dem, was Menschen gut können und gerne tun. Wer sich in seinen Stärken entfalten kann, hat eher die Kapazität und Lust, auch mit seinen «Entwicklungsfeldern» zu arbeiten. 
 
-Das heisst nicht, dass alles leicht wird und sein soll. Aber es heisst, dass wir aufhören sollten, an einem Ideal zu messen, das längst vielen Lebensrealitäten widerspricht und vor sich hin bröckelt. Wir sollten Menschen begleiten – nicht bewerten. Entwicklung ist keine abzuarbeitende Checkliste.
+Das heisst nicht, dass alles leicht wird und sein soll. Aber es heisst, dass wir aufhören sollten, an einem Ideal zu messen, das längst vielen Lebensrealitäten widerspricht und vor sich hin bröckelt. Wir sollten Menschen begleiten - nicht bewerten. Entwicklung ist keine abzuarbeitende Checkliste.
 
 >  «Die Würde in der Arbeit kommt ja nicht nur über das Gehalt zustande: In der Arbeit erkenne ich mich in dem, was ich mache, die Arbeit wird zu einem stützenden Teil meiner Idendität, die Arbeit baut eine Beziehung zwischen mir und der Welt auf, die mir das Gefühl gibt, nicht grundlos zu existieren.» 
 >
@@ -72,4 +72,4 @@ Das heisst nicht, dass alles leicht wird und sein soll. Aber es heisst, dass wir
 
 ## **Etwas wie ein Abschluss**
 
-Ich habe keine abschliessende Lösung. Aber ich sehe viele kleine Möglichkeiten. In der Art, wie wir Kinder begleiten. Wie wir Jugendliche unterstützen, ihren Weg zu finden. Wie wir Berufe und Menschen in der Arbeit wahrnehmen – nicht nur dort, wo es glänzt, sondern auch dort, wo es schmutzig, laut oder körperlich anstrengend wird. Vielleicht beginnt Veränderung genau dort: im Hinsehen. Im Anerkennen. Und im Fragen, wie es anders gehen könnte. Nicht morgen, sondern heute.
+Ich habe keine abschliessende Lösung. Aber ich sehe viele kleine Möglichkeiten. In der Art, wie wir Kinder begleiten. Wie wir Jugendliche unterstützen, ihren Weg zu finden. Wie wir Berufe und Menschen in der Arbeit wahrnehmen - nicht nur dort, wo es glänzt, sondern auch dort, wo es schmutzig, laut oder körperlich anstrengend wird. Vielleicht beginnt Veränderung genau dort: im Hinsehen. Im Anerkennen. Und im Fragen, wie es anders gehen könnte. Nicht morgen, sondern heute.
