@@ -22,9 +22,9 @@ Gerade in der Schweiz haben wir ein Bildungssystem, das mit der Berufsbildung ei
 
 Die Berufsbildung beginnt also bereits mit einem grossen Fragezeichen. Denn viele Jugendliche wissen schlicht nicht, was sie interessiert – nicht, weil sie desinteressiert wären, sondern weil ihnen der Kontakt zur «realen» Welt fehlt. Und gleichzeitig beginnt genau hier eine Selektion, die Folgen hat.
 
-## **Selektion nach System – aber wonach eigentlich?**
+## **Selektion – aber wonach eigentlich?**
 
-Die Schule selektiert. Sie tut es über Noten, über Prüfungen, über scheinbare «Intelligenz» An dieser Stelle möchte ich das [Buch Kopf, Hand, Herz Das neue Ringen um Status, Warum Handwerks- und Pflegeberufe mehr Gewicht brauchen von David Goodhart](https://www.exlibris.ch/de/buecher-buch/e-books-deutsch/david-goodhart/kopf-hand-herz-das-neue-ringen-um-status/id/9783641258771/) empfehlen. Doch was bedeutet das eigentlich? Ist Intelligenz wirklich das, was wir im aktuellen System messen? Oder geht es vielmehr darum, wer sich gut anpassen kann, wer sich gut präsentieren kann, wer es schafft, den Erwartungen zu entsprechen – und wer auch ideale familiäre Voraussetzungen hat. 
+Die Schule selektiert. Sie tut es über Noten, über Prüfungen, über scheinbare «Intelligenz» An dieser Stelle möchte ich das [Buch Kopf, Hand, Herz Das neue Ringen um Status, Warum Handwerks- und Pflegeberufe mehr Gewicht brauchen von David Goodhart](https://www.exlibris.ch/de/buecher-buch/e-books-deutsch/david-goodhart/kopf-hand-herz-das-neue-ringen-um-status/id/9783641258771/) empfehlen, denn da wird mit dem Intelligenz-Begriff aufgeräumt. Doch was bedeutet das eigentlich? Ist Intelligenz wirklich das, was wir im aktuellen System messen? Oder geht es vielmehr darum, wer sich gut anpassen kann, wer sich gut präsentieren kann, wer es schafft, den Erwartungen zu entsprechen – und wer auch ideale familiäre Voraussetzungen hat. 
 
 ![](david-goodhart.jpg)
 
@@ -38,13 +38,13 @@ Hans Rusinek spricht davon, dass wir längst nicht mehr von einer Arbeitswelt sp
 >
 > *Hans Rusinek, Work Survive Balance, S. 125*
 
-Diese Anerkennung zeigt sich nicht nur in Worten, sondern in konkreten Arbeitsbedingungen. Während Wissensarbeitende von Homeoffice, flexiblen Arbeitszeiten, Sabbaticals oder Gesundheitsprogrammen meistens mehr profitieren, bleibt all das für viele andere schwer- oder unerreichbar. Menschen in der Pflege, in der Produktion, in der Reinigung – sie können ihre Arbeit nicht einfach nach Hause verlagern. Sie tragen Verantwortung im Hier und Jetzt, körperlich präsent, oft mit hoher Belastung – und gleichzeitig mit wenig gesellschaftlicher Sichtbarkeit. Dabei braucht es beides – und zwar gleichermassen.
+Diese Anerkennung zeigt sich nicht nur in Worten, sondern in konkreten Arbeitsbedingungen. Während Wissensarbeitende von Homeoffice, flexiblen Arbeitszeiten, Sabbaticals oder Gesundheitsprogrammen (meistens mehr) profitieren, bleibt all das für viele andere schwer- oder unerreichbar. Menschen in der Pflege, in der Produktion, in der Reinigung, im Strassenbau – sie können ihre Arbeit nicht einfach nach Hause verlagern. Sie tragen Verantwortung im Hier und Jetzt, körperlich präsent, oft mit hoher Belastung – und gleichzeitig mit wenig gesellschaftlicher Sichtbarkeit. Dabei braucht es beides – und zwar gleichermassen.
 
 >  «Die Arbeitsbereiche der abstrakten Kopf-Arbeit haben sich in den letzten Jahrzehnten immer weiter von der restlichen Arbeitswelt isoliert – Akademisierung, Pandemie, Digitalisierung sind, wie wir sehen werden, die massgeblichen Triebkräfte dieser Entwicklung. Im Ergebnis kann gar nicht nicht mehr von einer Arbeitswelt gesprochen werden, und bald vielleicht auch nicht mehr von einer Gesellschaft.» 
 >
 > *Hans Rusinek, Work Survive Balance, S. 123*
 
- Was mich besonders beschäftigt: Wir sprechen gern von der Berufslehre als «Königsweg». Und ja, sie kann ein Königsweg sein. Doch gleichzeitig erleben viele Jugendliche, dass gewisse Lehrstellen kaum zu haben sind – oder dass ihre schulischen Leistungen (wieder) zum Nadelöhr werden. Firmen wiederum geben an, auf Noten verzichten zu wollen, weil sie «den Menschen sehen» möchten. Klingt gut. Ist aber oft nur eine Reaktion auf die Tatsache, dass Noten längst nicht mehr halten, was sie versprechen und der «Nachschub» in gewissen Lehrberufen zunehmend austrocknet. Noten habe immer weniger Aussagekraft und man muss oder will trotzdem damit selektieren. 
+ Was mich besonders beschäftigt: Wir sprechen gern von der Berufslehre als «Königsweg». Und ja, sie kann ein Königsweg sein. Doch gleichzeitig erleben viele Jugendliche, dass gewisse Lehrstellen kaum zu haben sind – oder dass ihre schulischen Leistungen (wieder) zum Hindernis werden. Firmen wiederum geben an, auf Noten verzichten zu wollen, weil sie «den Menschen sehen» möchten. Klingt gut. Ist aber oft nur eine Reaktion auf die Tatsache, dass Noten längst nicht mehr halten, was sie versprechen und der «Nachschub» in gewissen Lehrberufen zunehmend austrocknet. Noten habe immer weniger Aussagekraft. Auch wenn einige von der Selektion durch Noten wegkommen, machen viele munter weiter oder beziehen sich auf irgendwelche Tests. 
 
 ## **Wer kommt in den «Genuss» von Weiterbildung?**
 
