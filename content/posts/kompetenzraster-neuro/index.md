@@ -6,6 +6,7 @@ pinned = false
 tags = ["Lernen", "Neuro"]
 image = "brain.jpg"
 description = "Lernen lässt sich nicht aufhalten – erst recht nicht, wenn der Impuls von innen kommt. Wie ich ohne formales Programm, aber mit Struktur und Tiefe, ein neues Kompetenzprofil entwickle."
+footnotes = "Grafiken: Ben Zaugg\n\nTitelbild: Erstellt mit ChatGPT"
 +++
 ## Warum ich mich gegen ein CAS entschieden habe – aber nicht gegen das Lernen
 
