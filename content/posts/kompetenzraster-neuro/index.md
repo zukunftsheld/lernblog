@@ -7,11 +7,11 @@ tags = ["Lernen", "Neuro"]
 image = "brain.jpg"
 description = "Lernen lässt sich nicht aufhalten – erst recht nicht, wenn der Impuls von innen kommt. Wie ich ohne formales Programm, aber mit Struktur und Tiefe, ein neues Kompetenzprofil entwickle."
 +++
-## **Warum ich mich gegen ein CAS entschieden habe – aber nicht gegen das Lernen**
+## Warum ich mich gegen ein CAS entschieden habe – aber nicht gegen das Lernen
 
 Eigentlich hatte ich geplant, in diesem Jahr ein CAS zu neurowissenschaftlichen Themen zu absolvieren – passend zu meiner Arbeit und meinem Interesse an Lernen und Veränderung. Doch nach einem intensiven Weiterbildungsjahr 2024, auch finanziell, habe ich mich bewusst dagegen entschieden. Gegen das formale Bildungsprogramm – nicht gegen das Lernen. Denn wenn das Interesse da ist, wenn ein innerer Impuls spürbar wird, dann ist Lernen nicht aufzuhalten.
 
-## **Struktur für selbstorganisiertes Lernen – Bücher, Tools, KI**
+## Struktur für selbstorganisiertes Lernen – Bücher, Tools, KI
 
 Also habe ich mir selbst einen Rahmen geschaffen. Ich habe Bücher ausgewählt, die mir als roter Faden dienen. Gestartet bin ich bereits vor einigen Monaten – mit ersten Reflexionen, Leseprozessen und Praxistransfers. Dokumentiert habe ich mein Lernen von Beginn an in der mirroco-Software (zunächst noch ohne Kompetenzraster). Um die dabei erworbenen Kompetenzen sichtbarer zu machen, hinterlege ich nun ein Raster zu Neuro Change und Neuroleadership.
 
