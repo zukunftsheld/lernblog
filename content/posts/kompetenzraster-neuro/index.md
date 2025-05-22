@@ -1,5 +1,5 @@
 +++
-title = "Lernen lässt sich nicht aufhalten – wie ich ein neues Kompetenzprofil jenseits formaler Bildung gestalten"
+title = "Lernen lässt sich nicht aufhalten – wie ich ein neues Kompetenzprofil jenseits formaler Bildung gestalte"
 date = "2025-05-21"
 draft = false
 pinned = false
