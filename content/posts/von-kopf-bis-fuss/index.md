@@ -44,9 +44,13 @@ Anders als wir das vielleicht annehmen würden, kommuniziert dieser Nerv sehr st
 
 Hier finde ich auch Themen, die ich erst seit kurzem wirklich verstehen kann und lerne, noch mehr über diese «Connection» zwischen Darm und Hirn. 
 
->  «Frühe und wiederholte Traumatisierungen können aber zu schweren psychischen Störungen führen \[…]. In diesen Fällen ist der Sympathikus in der Regel langfristig übererregt, was zu Angst, dem Gefühl der Bedrohung, übermässiger Schreckhaftigkeit, erhöhter Wachsamkeit, \[…] führt.» Hasler (2020), S. 51
+>  «Frühe und wiederholte Traumatisierungen können aber zu schweren psychischen Störungen führen \[…]. In diesen Fällen ist der Sympathikus in der Regel langfristig übererregt, was zu Angst, dem Gefühl der Bedrohung, übermässiger Schreckhaftigkeit, erhöhter Wachsamkeit, \[…] führt.» 
 >
-> «Anhaltender Stress ist der häufigste Grund für eine Störung der Interozeption. Die Aktivierung des Sympathikus führt zu einer Orientierung nach aussen und dadurch zu einer übermässigen Wahrnehmung äusserer Gefahren.» Hasler (2020), S. 65
+> *Hasler (2020), S. 51*
+>
+> «Anhaltender Stress ist der häufigste Grund für eine Störung der Interozeption. Die Aktivierung des Sympathikus führt zu einer Orientierung nach aussen und dadurch zu einer übermässigen Wahrnehmung äusserer Gefahren.» 
+>
+> *Hasler (2020), S. 65*
 
 Sonderlich sportlich war ich nie und entsprach kaum dem Bild eines klassichen Jungen (oder zumindest nicht dem, wie es zu meiner Zeit auf dem Land vorherrschte). So entwickelte ich nie ein gutes Gespür für meinen Körper und Sport. Passend dazu ein SRF-Beitrag:
 
