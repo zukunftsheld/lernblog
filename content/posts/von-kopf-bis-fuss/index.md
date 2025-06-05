@@ -5,7 +5,7 @@ draft = true
 pinned = false
 tags = ["Neuro", "Biografie"]
 description = "Was bringt unser Nervensystem in Balance? Wie hängen Gehen, Spüren, Denken und unser soziales Miteinander zusammen? In diesem Beitrag verbinde ich persönliche Erfahrungen mit neurowissenschaftlichen Perspektiven – und gehe der Frage nach, was es heisst, ganz Mensch zu sein: von Kopf bis Fuss, innen wie aussen, in Bewegung."
-footnotes = "Interozeption: \n\n«Die Interozeption umfasst die bewusste sowie die unbewusste Wahrnehmung des psychischen und körperlichen Innenlebens. Der überwiegende Teil der Interozeption erfolgt dabei unbewusst. Ausnahmen sind Essen und Stuhlgang, die fast immer bewusst ablaufen.» S. 63\n\n\n\nhttps://www.bern-ost.ch/Brenzikofen---Bruecken-schlagen-und-sie-auch-ueberqueren-25386\n\nLink Blog Fredi\n\nMarco Pilgern"
+footnotes = "**Interozeption:** \n\n*«Die Interozeption umfasst die bewusste sowie die unbewusste Wahrnehmung des psychischen und körperlichen Innenlebens. Der überwiegende Teil der Interozeption erfolgt dabei unbewusst. Ausnahmen sind Essen und Stuhlgang, die fast immer bewusst ablaufen.»* Hasler (2020), S. 63\n\n**Weitere inspirierende Einblicke in die Welt des Gehens:**\n\n[Hanspeter Tschanz - von Brenzikofen nach Tschechien](https://www.bern-ost.ch/Brenzikofen---Bruecken-schlagen-und-sie-auch-ueberqueren-25386)\\\n[Fredi Zumbrunn: Meerwärts](https://www.fredizumbrunn.ch/tags/meerwarts/)\n\n[Marco Jakob: Auszeit: Gedanken eines Gründers auf Wanderschaft](https://www.marcojakob.blog/auszeit-gedanken-eines-gruenders-auf-wanderschaft/)\n\n**Weitere passende Bücher**\n\n**Esch**\n\n**Darm mit Charme**"
 +++
 ## Einleitung
 
@@ -81,7 +81,7 @@ Meetings oder Mentorings im Gehen – «Gedankengänge» – damit bin ich vor a
 
 > «Sich durch die Welt zu bewegen, ist ein wesentlicher Teil menschlicher Erfahrung. Bewegung, insbesondere viele regelmässige Spaziergänge und Wanderungen sind gut – sogar hervorragend – für Körper und Geist.» 
 >
-> *S. 141*
+> *O'Mara (2021), S. 141*
 
 *Regelmässiges Gehen in vernünftigem Tempo verheisst eine allgemeine Verbesserung der Hirnfunktionen in kurzer Zeit.* 
 
@@ -115,11 +115,11 @@ Dieser Perspektivenwechsel wirft für mich auch ein neues oder anderes Licht auf
 
 > Dass der mächtige Beruhigungsnerv des Körpers und der Seele strikte Logik, Ordnung und Regeln nicht gern hat, ist eine wichtige Lektion der menschlichen Anatomie. 
 >
-> *S. 41*
+> *Hasler (2020), S. 41*
 >
 > Wenn sich die Natur bei so extrem wichtigen Funktionen wie der Stimme, dem Sprechen und Schlucken einen unlogisch langen Weg erlaubt, warum sollten wir dann erwarten, bei den wichtisten Dingen im Leben auf dem kürzesten Weg ans Ziel zu gelangen? 
 >
-> *S. 42*
+> *Hasler (2020), S. 42*
 
 ## Gedanken zum Schluss
 
@@ -131,6 +131,4 @@ In diesem Beitrag versuche ich, anhand meiner eigenen Themen (die einzigen, die 
 
 Hippokrates werden folgende passenden Zitate zugeschrieben: 
 
-> «Alle Krankheiten beginnen im Darm» und «Gehen ist die beste Medizin». 
-
-Jetzt, wo ich hier auf der Terrasse sitze, spüre ich, wie es sich anfühlt, Kopf und Körper im Einklang zu wissen – sei es beim Gehen am Strand oder beim bewussten Kochen. Vielleicht ist gerade im Urlaub die Chance, neu zu entdecken, wie eng all diese Themen miteinander verwoben sind.
+> «Alle Krankheiten beginnen im Darm» und «Gehen ist die beste Medizin».
