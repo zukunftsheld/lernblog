@@ -47,7 +47,9 @@ Hier finde ich auch Themen, die ich erst seit kurzem wirklich verstehen kann und
 >  «Frühe und wiederholte Traumatisierungen können aber zu schweren psychischen Störungen führen \[…]. In diesen Fällen ist der Sympathikus in der Regel langfristig übererregt, was zu Angst, dem Gefühl der Bedrohung, übermässiger Schreckhaftigkeit, erhöhter Wachsamkeit, \[…] führt.» 
 >
 > *Hasler (2020), S. 51*
->
+
+
+
 > «Anhaltender Stress ist der häufigste Grund für eine Störung der Interozeption. Die Aktivierung des Sympathikus führt zu einer Orientierung nach aussen und dadurch zu einer übermässigen Wahrnehmung äusserer Gefahren.» 
 >
 > *Hasler (2020), S. 65*
