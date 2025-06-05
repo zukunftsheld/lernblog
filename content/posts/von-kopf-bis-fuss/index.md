@@ -24,7 +24,7 @@ Sie biete Perspektiven und machen das Wunder des Körpers aus ihrer eigenen sich
 
 ### Weshalb gerade diese beiden Themen?
 
-In einem aktuellen Selbstlernprojekt beschäftige ich mich mit der Neurowissenschaft im Zusammenhang mit Change und Leadership. Bücher dazu mitzunehmen, wäre mir tatsächlich zu nah an der Arbeit gewesen. Die gewählten Bücher nehmen sehr wenig konkrete Perspektiven zur Arbeit ein, beleuchten dafür wichtige, ganzheitliche Aspekte. Beide Autoren schlagen die Brücke zwischen ihrem Thema und dem Gehirn, sowie vielen anderen Zusammenhängen. 
+In einem [aktuellen Selbstlernprojekt ](https://www.bensblog.ch/kompetenzraster-neuro/)beschäftige ich mich mit der [Neurowissenschaft](https://www.bensblog.ch/tags/neuro/) im Zusammenhang mit [Change](https://www.bensblog.ch/tags/change/) und [Leadership](https://www.bensblog.ch/tags/leadership/). Bücher dazu mitzunehmen, wäre mir tatsächlich zu nah an der Arbeit gewesen. Die gewählten Bücher nehmen sehr wenig konkrete Perspektiven zur Arbeit ein, beleuchten dafür wichtige, ganzheitliche Aspekte. Beide Autoren schlagen die Brücke zwischen ihrem Thema und dem Gehirn, sowie vielen anderen Zusammenhängen. 
 
 > «Ein simpler Nebeneffekt des Aufstehens und Gehens besteht darin, dass sich die Aktivität über weit auseinan-derliegende Gehirnregionen ausbreitet - was die Wahrscheinlichkeit erhöht, dass Halb-Gedanken und Viertel-Ideen unterhalb der Bewusstseinsebene sich zu neuen Kombinationen zusammenschließen können.» 
 >
@@ -32,7 +32,7 @@ In einem aktuellen Selbstlernprojekt beschäftige ich mich mit der Neurowissensc
 
 ### Persönlicher und biografischer Hintergrund
 
-Wie bereits im Text «Meine Pinguin-Geschichte» näher beschrieben, hatte ich eine schwierige Schulzeit (die vollen neun resp. zehn Jahre!) und erlebte während meiner Ausbildung Mobbing. Schon damals – oder kurz danach – entwickelte ich eine Sozialangst. Ein Symptom davon waren Essprobleme, und ein gutes Sozialleben war in vielfacher Hinsicht sehr schwer. Das alles führte zu einem Dauerstress in meinem Nervensystem, der auch Jahre danach anhielt, obwohl ich immer wieder und intensiv daran gearbeitet habe.
+Wie bereits im Text [«Meine Pinguin-Geschichte»](https://www.bensblog.ch/der-pinguin-und-ich/) näher beschrieben, hatte ich eine schwierige Schulzeit (die vollen neun resp. zehn Jahre!) und erlebte während meiner Ausbildung Mobbing. Schon damals – oder kurz danach – entwickelte ich eine Sozialangst. Ein Symptom davon waren Essprobleme, und ein gutes Sozialleben war in vielfacher Hinsicht sehr schwer. Das alles führte zu einem Dauerstress in meinem Nervensystem, der auch Jahre danach anhielt, obwohl ich immer wieder und intensiv daran gearbeitet habe.
 
 Seit einigen Jahren begleitet mich eine Histaminintoleranz beziehungsweise eine Histaminstoffwechselstörung, die man weder genau diagnostizieren noch konkret behandeln kann. Die Verbindung zwischen dem Dauerstress in meinem System und den gesundheitlichen Problemen scheint mir bereits länger klar. Aber wo beginnen und wer hilft oder sieht «das Ganze»? Schwierig. In den letzten anderthalb Jahren habe ich viel darüber (und über mich) gelernt – vor allem aus Sicht der Psyche in Verbindung mit dem Körper und dem Nervensystem. Dabei spielte auch Bewegung, konkret Gehen, eine wichtige Rolle. Seit Kurzem widme ich mich meinem Darmmikrobiom.
 
