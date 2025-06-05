@@ -91,7 +91,9 @@ Gehen bringt gem. O'Mara viele Vorteile für unser Leben ganz allgemein und für
 > «Gehen ist ausserordnetlich vorteilhaft für unseren Geist, unseren Körper uns unser Zusammenleben. Gehen ist ganzheitlich: Jeder Aspekt des Gehens fördert jeden Aspekt des Seins.» 
 >
 > *O'Mara (2021), S. 10* 
->
+
+
+
 > «Gehen verschafft mir die Freiheit, die Dinge zu durchdenken; in einem stummen Dialog mit mir selbst zu klären, wie sich ein Problem lösen lässt.» 
 >
 > *O'Mara (2021), S. 165*
@@ -135,7 +137,9 @@ Schaue ich auf meine Biografie, dann sind genau die zwei Themen als Schulkind (v
 > «Sicherheit und das Empfinden von Verbundenheit sind die Voraussetzungen für die Integration des vegetativen und des sozialen Vagus­-Nervs im Hirnstamm. Das ist ein wichtiger Teil der Darm-Hirn-Connection. Eine gelungene Integration ist die Grundlage für authentische soziale Beziehungen und das Bewusstsein für eine gesunde Ernährung.» 
 >
 > *Hasler (2020), S. 69*
->
+
+
+
 > «Gemeinsames Essen und Trinken kittet Bindungen und entscheidet über Weltpolitik.»
 >
 > *Halser (2020), S. 46*
