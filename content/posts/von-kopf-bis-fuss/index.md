@@ -81,9 +81,13 @@ Meetings oder Mentorings im Gehen – «Gedankengänge» – damit bin ich vor a
 
 *O'Mara (2021), S. 160*
 
-*«Regelmässiges Gehen ist eine einfache Form des Herztrainings, und das wiederum bringt grosse Vorteile für die Herz-Hirn-Achse, denn rund 20 % des Herz-Outputs wird dem Gehirn zugeleitet, das viel Sauerstoff und Energie verbraucht. Zu ähnlichen Effekten kommt es im Darm, der ebenfalls viel Energie und Sauerstoff benötigt.»*
-
-*O'Mara (2021), S. 143*
+> «Regelmässiges Gehen ist eine einfache Form des Herztrainings, und das wiederum bringt grosse Vorteile für die Herz-Hirn-Achse, denn rund 20 % des Herz-Outputs wird dem Gehirn zugeleitet, das viel Sauerstoff und Energie verbraucht. Zu ähnlichen Effekten kommt es im Darm, der ebenfalls viel Energie und Sauerstoff benötigt.»
+>
+> *O'Mara (2021), S. 143*
+>
+> Regelmässige Bewegung verstärkt die Blutzirkulation im Gehirn und wirkt sich nachhaltig auf dessen Struktur und Funktion aus. Sie hilft dem Gehirn, in einer bestimmten Region, die für Lernen und Gedächtnis von grosser Bedeutung ist, neue Gehirnzellen zu bilden. 
+>
+> *O'Mara (2021), S. 159*
 
 ### Die Darm-Hirn-Connection - Revolutionäres Wissen für unsere psychische und körperliche Gesundheit
 
