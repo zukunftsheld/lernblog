@@ -14,7 +14,7 @@ Ich sitze auf der Terrasse eines Ferien-Apartments in Las Palmas. Da ich in den 
 
 ![](blog-schreiben.jpg)
 
-Sie biete Perspektiven und machen das Wunder des Körpers aus ihrer eigenen sichtbar. So, wie zum Beispiel Shane O'Mara:
+Sie biete Perspektiven und machen das Wunder des Körpers aus ihrer eigenen Sicht sichtbar. So, wie zum Beispiel Shane O'Mara:
 
 > «Unsere Aufrechte Haltung verändert unsere Beziehung zur Welt, auch, wie wir sehen werden, zur sozialen Welt. Gehen vermittelt unserem Denken Beweglichkeit, die anderen Tieren verwehrt ist.»
 >
