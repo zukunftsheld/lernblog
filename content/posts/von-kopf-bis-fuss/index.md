@@ -4,12 +4,15 @@ date = "2025-06-05"
 draft = true
 pinned = false
 tags = ["Neuro", "Biografie"]
+image = "ben-gehen.jpg"
 description = "Was bringt unser Nervensystem in Balance? Wie hängen Gehen, Spüren, Denken und unser soziales Miteinander zusammen? In diesem Beitrag verbinde ich persönliche Erfahrungen mit neurowissenschaftlichen Perspektiven – und gehe der Frage nach, was es heisst, ganz Mensch zu sein: von Kopf bis Fuss, innen wie aussen, in Bewegung."
 footnotes = "**Interozeption:** \n\n*«Die Interozeption umfasst die bewusste sowie die unbewusste Wahrnehmung des psychischen und körperlichen Innenlebens. Der überwiegende Teil der Interozeption erfolgt dabei unbewusst. Ausnahmen sind Essen und Stuhlgang, die fast immer bewusst ablaufen.»* Hasler (2020), S. 63\n\n**Weitere inspirierende Einblicke in die Welt des Gehens:**\n\n[Hanspeter Tschanz - von Brenzikofen nach Tschechien](https://www.bern-ost.ch/Brenzikofen---Bruecken-schlagen-und-sie-auch-ueberqueren-25386)\\\n[Fredi Zumbrunn: Meerwärts](https://www.fredizumbrunn.ch/tags/meerwarts/)\n\n[Marco Jakob: Auszeit: Gedanken eines Gründers auf Wanderschaft](https://www.marcojakob.blog/auszeit-gedanken-eines-gruenders-auf-wanderschaft/)\n\n**Weitere passende Bücher**\n\n**Esch**\n\n**Darm mit Charme**"
 +++
 ## Einleitung
 
 Ich sitze auf der Terrasse eines Ferien-Apartments in Las Palmas. Da ich in den Ferien dazu neige, zu arbeiten oder Dinge zu tun, die dem nahekommen, wusste ich lange nicht, welche Bücher ich mitnehmen soll – denn ich dachte (wieder einmal), es müsste etwas «Entspannendes» und Arbeitsfreies sein. Irgendwie hätte das meinem Naturell und meinen Interessen widersprochen. Ich liess es daher auf mich zukommen, und tadaaa – plötzlich tauchten zwei Bücher auf, die ich vorher nicht auf dem Schirm hatte. Zwei Bücher, deren Inhalt mich sehr interessierte und die gut in die Ferienzeit passen würden. So sind Darm-Hirn-Connection von Prof. Dr. Gregor Hasler sowie «Das Glück des Gehens» von Prof. Shane O'Mara mir auf die Reise gekommen. Beide Autoren verweisen immer wieder auf (aktuelle) Forschungen, ohne abschliessende Allheil-Lösungen anzubieten. 
+
+![](blog-schreiben.jpg)
 
 Sie biete Perspektiven und machen das Wunder des Körpers aus ihrer eigenen sichtbar. So, wie zum Beispiel Shane O'Mara:
 
@@ -69,6 +72,8 @@ Die Ganzheit der Menschen in der Arbeitswelt (auch in der Schule/Bildung) ist mi
 
 Im Buch Das Glück des Gehens habe ich viel Inspiration gefunden, selbst noch öfter zu gehen. Gehen beeinflusst unsere Gesundheit (das ist eigentlich nichts Neues), fördert die Kreativität und ist etwas Soziales. All das habe ich in den letzten Jahren intensiver und bewusster erlebt. Die Wichtigkeit der Bewegung für Kreativität wird im Buch deutlich – und wirft damit auch ein anderes Licht auf die sogenannten Wissens­arbeiter:innen, die bei ihrer Arbeit meistens sitzen.
 
+![](img_2833-3.jpg)
+
 > «Gehen ist ausserordnetlich vorteilhaft für unseren Geist, unseren Körper uns unser Zusammenleben. Gehen ist ganzheitlich: Jeder Aspekt des Gehens fördert jeden Aspekt des Seins.» 
 >
 > *S. 10* 
@@ -77,16 +82,18 @@ Im Buch Das Glück des Gehens habe ich viel Inspiration gefunden, selbst noch ö
 >
 > *S. 165*
 
-Meetings oder Mentorings im Gehen – «Gedankengänge» – damit bin ich vor allem im Zusammenhang mit Co­learning und Co­working in Kontakt gekommen. So verwundert es nicht, dass Colearning.org da­mit auch im Gehen gegründet wurde. Damit «Gehen» passieren kann, braucht es so viele Dinge im Körper, die zusammenspielen. So erlebe ich gerade in einer Umgebung, die ich teilweise schon kenne und doch immer wieder neu erkunden muss, das Wunder des Gehens. Ich habe Zeit, mich dem bewusst zu widmen.
+![](ben-gehen.jpg)
+
+Meetings oder Mentorings im Gehen – «Gedankengänge» – damit bin ich vor allem im Zusammenhang mit Co­learning und Co­working in Kontakt gekommen. So verwundert es nicht, dass Colearning.org auch teilweise im Gehen gegründet wurde. Damit «Gehen» passieren kann, braucht es so viele Dinge im Körper, die zusammenspielen. So erlebe ich gerade in einer Umgebung, die ich teilweise schon kenne und doch immer wieder neu erkunden muss, das Wunder des Gehens. Ich habe Zeit, mich dem bewusst zu widmen.
 
 > «Sich durch die Welt zu bewegen, ist ein wesentlicher Teil menschlicher Erfahrung. Bewegung, insbesondere viele regelmässige Spaziergänge und Wanderungen sind gut – sogar hervorragend – für Körper und Geist.» 
 >
 > *O'Mara (2021), S. 141*
-
-*Regelmässiges Gehen in vernünftigem Tempo verheisst eine allgemeine Verbesserung der Hirnfunktionen in kurzer Zeit.* 
-
-*O'Mara (2021), S. 160*
-
+>
+> Regelmässiges Gehen in vernünftigem Tempo verheisst eine allgemeine Verbesserung der Hirnfunktionen in kurzer Zeit. 
+>
+> *O'Mara (2021), S. 160*
+>
 > «Regelmässiges Gehen ist eine einfache Form des Herztrainings, und das wiederum bringt grosse Vorteile für die Herz-Hirn-Achse, denn rund 20 % des Herz-Outputs wird dem Gehirn zugeleitet, das viel Sauerstoff und Energie verbraucht. Zu ähnlichen Effekten kommt es im Darm, der ebenfalls viel Energie und Sauerstoff benötigt.»
 >
 > *O'Mara (2021), S. 143*
@@ -99,20 +106,24 @@ Meetings oder Mentorings im Gehen – «Gedankengänge» – damit bin ich vor a
 
 Wer spricht oder schreibt schon gerne von seinem Darm? Zum Glück haben verschiedene Autor:innen zur zunehmenden Enttabuisierung beigetragen. Denn wüssten wir mehr darüber, könnten wir vielleicht (noch) mehr für unsere Gesundheit tun – und damit meine ich auch die psychische Gesundheit. Prof. Dr. Hasler schreibt aus Sicht eines Professors für Psychiatrie und Psychotherpaie; was ich lese, unterstützt mich in meinem eigenen Prozess, erklärt Vergangenes und öffnet, wie all die anderen Neuro-Themen, eine weitere und wichtige Perspektive auf uns Menschen, unser Zusammenleben und unsere Arbeit. Neben dem Darm spielt in seinem Buch auch das Nervensystem, insbesondere der Vagus-Nerv eine wichtige Rolle. 
 
+![](buch-hasler.jpg)
+
 > «Sicherheit und das Empfinden von Verbundenheit sind die Voraussetzungen für die Integration des vegetativen und des sozialen Vagus­-Nervs im Hirnstamm. Das ist ein wichtiger Teil der Darm-Hirn-Connection. Eine gelungene Integration ist die Grundlage für authentische soziale Beziehungen und das Bewusstsein für eine gesunde Ernährung.» 
 >
 > *Hasler (2020), S. 69*
+
+![](bild-essen_gc.jpg)
 
 Dieser Perspektivenwechsel wirft für mich auch ein neues oder anderes Licht auf Meditation, körperorientierte Verfahren, Ernährung, gemeinsames Kochen und Essen. Er verleiht dem Genusstraining für mich nochmals eine tiefere Bedeutung.
 
 > «Gemeinsames Essen und Trinken kittet Bindungen und entscheidet über Weltpolitik.»
 >
 > *Halser (2020), S. 46*
-
-*Es ist klar, dass Gehen neben verbesserter kognitiver Fähigkeiten viele andere Vorteile bietet. \[...] Gehen schützt und heilt Organe, die grossen Belastungen ausgesetzt sind. Es ist gut für den Darm, weil es für eine bessere Verdauung sorgt.* 
-
-*O'Mara (2021), S. 18*
-
+>
+> *Es ist klar, dass Gehen neben verbesserter kognitiver Fähigkeiten viele andere Vorteile bietet. \[...] Gehen schützt und heilt Organe, die grossen Belastungen ausgesetzt sind. Es ist gut für den Darm, weil es für eine bessere Verdauung sorgt.* 
+>
+> *O'Mara (2021), S. 18*
+>
 > Dass der mächtige Beruhigungsnerv des Körpers und der Seele strikte Logik, Ordnung und Regeln nicht gern hat, ist eine wichtige Lektion der menschlichen Anatomie. 
 >
 > *Hasler (2020), S. 41*
