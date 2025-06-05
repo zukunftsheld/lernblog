@@ -5,6 +5,7 @@ draft = true
 pinned = false
 tags = ["Neuro", "Biografie"]
 description = "Was bringt unser Nervensystem in Balance? Wie hängen Gehen, Spüren, Denken und unser soziales Miteinander zusammen? In diesem Beitrag verbinde ich persönliche Erfahrungen mit neurowissenschaftlichen Perspektiven – und gehe der Frage nach, was es heisst, ganz Mensch zu sein: von Kopf bis Fuss, innen wie aussen, in Bewegung."
+footnotes = "Interozeption: \n\n«Die Interozeption umfasst die bewusste sowie die unbewusste Wahrnehmung des psychischen und körperlichen Innenlebens. Der überwiegende Teil der Interozeption erfolgt dabei unbewusst. Ausnahmen sind Essen und Stuhlgang, die fast immer bewusst ablaufen.» S. 63"
 +++
 ## Einleitung
 
@@ -18,76 +19,49 @@ In einem aktuellen Selbstlernprojekt beschäftige ich mich mit der Neurowissensc
 
 ### Persönlicher und biografischer Hintergrund
 
-Wie bereits im Text «Meine Pinguin-Geschichte» näher beschrieben, hatte ich eine schwierige Schulzeit (die vollen neun resp. zehn Jahre!) und erlebte während meiner Ausbildung Mobbing. Schon damals – oder kurz danach – entwickelte ich Sozialangst. Ein Symptom davon waren Essprobleme, und ein gutes Sozialleben war in vielfacher Hinsicht sehr schwer. Das führte zu einem Dauerstress in meinem Nervensystem, der auch Jahre danach anhielt, obwohl ich immer wieder und intensiv daran gearbeitet habe.
+Wie bereits im Text «Meine Pinguin-Geschichte» näher beschrieben, hatte ich eine schwierige Schulzeit (die vollen neun resp. zehn Jahre!) und erlebte während meiner Ausbildung Mobbing. Schon damals – oder kurz danach – entwickelte ich eine Sozialangst. Ein Symptom davon waren Essprobleme, und ein gutes Sozialleben war in vielfacher Hinsicht sehr schwer. Das alles führte zu einem Dauerstress in meinem Nervensystem, der auch Jahre danach anhielt, obwohl ich immer wieder und intensiv daran gearbeitet habe.
+
+Seit einigen Jahren begleitet mich eine Histaminintoleranz beziehungsweise eine Histaminstoffwechselstörung, die man weder genau diagnostizieren noch konkret behandeln kann. Die Verbindung zwischen dem Dauerstress in meinem System und den gesundheitlichen Problemen scheint mir bereits länger klar. Aber wo beginnen und wer hilft oder sieht «das Ganze»? Schwierig. In den letzten anderthalb Jahren habe ich viel darüber (und über mich) gelernt – vor allem aus Sicht der Psyche in Verbindung mit dem Körper und dem Nervensystem. Dabei spielte auch Bewegung, konkret Gehen, eine wichtige Rolle. Seit Kurzem widme ich mich meinem Darmmikrobiom.
 
 >  «Frühe und wiederholte Traumatisierungen können aber zu schweren psychischen Störungen führen \[…]. In diesen Fällen ist der Sympathikus in der Regel langfristig übererregt, was zu Angst, dem Gefühl der Bedrohung, übermässiger Schreckhaftigkeit, erhöhter Wachsamkeit, \[…] führt.» Hasler (2020), S. 51
 >
 > «Anhaltender Stress ist der häufigste Grund für eine Störung der Interozeption. Die Aktivierung des Sympathikus führt zu einer Orientierung nach aussen und dadurch zu einer übermässigen Wahrnehmung äusserer Gefahren.» Hasler (2020), S. 65
 
-Sonderlich sportlich war ich nie und entsprach kaum dem Bild eines Jungen (oder zumindest nicht dem, wie es zu meiner Zeit auf dem Land vorherrschte). So entwickelte ich nie ein gutes Gespür für meinen Körper und Sport. Auch dazu passt dieser SRF-Beitrag:
+Sonderlich sportlich war ich nie und entsprach kaum dem Bild eines Jungen (oder zumindest nicht dem, wie es zu meiner Zeit auf dem Land vorherrschte). So entwickelte ich nie ein gutes Gespür für meinen Körper und Sport. Passend dazu ein SRF-Beitrag:
 
+«Immer als Letzte gewählt – Wie ich mein Sporttrauma überwand»
 
+https://www.srf.ch/audio/input/immer-als-letzte-gewaehlt-wie-ich-mein-sporttrauma-ueberwand?id=a9490a50-f499-4a9a-8a05-6919aa718585
 
-SRF-Beitrag Link
+Da ist Gehen eine einfache Form der Bewegung. Es geht nicht um Leistung. Zudem haben mich Geschichten und Erlebnisberichte übers Gehen immer wieder interessiert. Da sind zum Beispiel:
 
-Da ist Gehen eine einfache Form der Bewegung. Es geht nicht um Leistung. Zudem haben mich Geschichten und Erlebnisberichte übers Gehen immer wieder interessiert.
+[Ich bin dann mal weg von Hape Kerkeling](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/hape-kerkeling/ich-bin-dann-mal-weg/id/9783492251754/?srsltid=AfmBOor9bj3I-6M1-bJHjpRDfMjbMFiZz6XzmkoVKslh5mLdtOZUG3VR)
 
-Beispiele, die mich inspiriert haben und die ich in Betracht ziehe:
+[Die unwahrscheinliche Pilgerreise des Harold Fry](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/rachel-joyce/die-unwahrscheinliche-pilgerreise-des-harold-fry/id/9783596513154/?srsltid=AfmBOoo6PXOr7KJHhcoLYrRREWI2c8umhgvaTSeAT3ExFzkrmn_5u1nG)
 
-Ich bin dann mal weg https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/hape-kerkeling/ich-bin-dann-mal-weg/id/9783492251754/?srsltid=AfmBOor9bj3I-6M1-bJHjpRDfMjbMFiZz6XzmkoVKslh5mLdtOZUG3VR
+[Soweit die Knie tragen tragen, das Buch finde ich nicht mehr](https://www.welt.de/print-wams/article144229/Soweit-die-Knie-tragen.html).
 
-Die unwahrscheinliche Pilgerreise des Harold Fry
+[Wanderexpertin Christine Thürmer – Wie wird man so glücklich wie du?](https://www.youtube.com/watch?v=1rbzIZq9sc0&pp=0gcJCdgAo7VqN5tD)
 
-https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/rachel-joyce/die-unwahrscheinliche-pilgerreise-des-harold-fry/id/9783596513154/?srsltid=AfmBOoo6PXOr7KJHhcoLYrRREWI2c8umhgvaTSeAT3ExFzkrmn_5u1nG
-    …
-
-«Darm-Hirn-Connection»?
-Seit einigen Jahren begleitet mich eine Histaminintoleranz beziehungsweise eine Histaminstoffwechselstörung, die man weder genau diagnostizieren noch konkret behandeln kann. Die Verbindung zwischen dem Dauerstress in meinem System und den gesundheitlichen Problemen scheint mir bereits länger klar. Aber wo beginnen und wer hilft oder sieht «das Ganze»? Schwierig. In den letzten anderthalb Jahren habe ich viel darüber (und über mich) gelernt – vor allem aus Sicht der Psyche in Verbindung mit dem Körper und dem Nervensystem. Dabei spielte auch Bewegung, konkret Gehen, eine wichtige Rolle. Seit Kurzem widme ich mich meinem Darmmikrobiom.
-
-```
-
-```
-
-Buchwahl aus beruflicher Sicht
+### Buchwahl aus beruflicher Sicht
 
 Die Ganzheit der Menschen in der Arbeitswelt (auch in der Schule/Bildung) ist mir schon lange – vielleicht schon immer – wichtig. Im Kern beider Bücher geht es um unser Gehirn und das Zusammenspiel mit unserem Körper. Sie ergänzen Neuroleadership und Neuro-Change perfekt, weil sie weniger konkrete Arbeitsbeispiele liefern, dafür aber wichtige, ganzheitliche Perspektiven aufzeigen.
 
-```
-
-```
-
-Das Glück des Gehens
+### Das Glück des Gehens
 
 Im Buch Das Glück des Gehens habe ich viel Inspiration gefunden, selbst noch öfter zu gehen. Gehen beeinflusst unsere Gesundheit (das ist eigentlich nichts Neues), fördert die Kreativität und ist etwas Soziales. All das habe ich in den letzten Jahren intensiver und bewusster erlebt. Die Wichtigkeit der Bewegung für Kreativität wird im Buch deutlich – und wirft damit auch ein anderes Licht auf die sogenannten Wissens­arbeiter:innen, die bei ihrer Arbeit meistens sitzen.
 
-```
-
-```
-
 Sicherheit und das Empfinden von Verbundenheit sind die Voraussetzungen für die Integration des vegetativen und des sozialen Vagus­Nervs im Hirnstamm. Das ist ein wichtiger Teil der Darm-Hirn-Connection. Eine gelungene Integration ist die Grundlage für authentische soziale Beziehungen und das Bewusstsein für eine gesunde Ernährung. (S. 69)
 
-Meetings oder Mentorings im Gehen – «Gedankengänge» – damit bin ich vor allem im Zusammenhang mit Co­learning und Co­
-working in Kontakt gekommen. So verwundert es nicht, dass Colearning.org da­mit auch im Gehen gegründet wurde. Damit «Gehen» passieren kann, braucht es so viele Dinge im Körper, die zusammenspielen. So erlebe ich gerade in einer Umgebung, die ich teilweise schon kenne und doch immer wieder neu erkunden muss, das Wunder des Gehens. Ich habe Zeit, mich dem bewusst zu widmen.
+Meetings oder Mentorings im Gehen – «Gedankengänge» – damit bin ich vor allem im Zusammenhang mit Co­learning und Co­working in Kontakt gekommen. So verwundert es nicht, dass Colearning.org da­mit auch im Gehen gegründet wurde. Damit «Gehen» passieren kann, braucht es so viele Dinge im Körper, die zusammenspielen. So erlebe ich gerade in einer Umgebung, die ich teilweise schon kenne und doch immer wieder neu erkunden muss, das Wunder des Gehens. Ich habe Zeit, mich dem bewusst zu widmen.
 
-```
-
-```
-
-Die Darm-Hirn-Connection
+### Die Darm-Hirn-Connection
 
 Wer spricht oder schreibt schon gerne von seinem Darm? Zum Glück haben verschiedene Autor:innen zur zunehmenden Enttabuisierung beigetragen. Denn wüssten wir mehr darüber, könnten wir vielleicht (noch) mehr für unsere Gesundheit tun – und damit meine ich auch die psychische Gesundheit. Dr. … schreibt aus Sicht eines Psychiaters; was ich lese, unterstützt mich in meinem eigenen Prozess und öffnet, wie all die anderen Neuro-Themen, eine weitere und wichtige Perspektive auf uns Menschen, unser Zusammenleben und unsere Reaktionen.
 
-```
-
-```
-
 Dieser Perspektivenwechsel wirft für mich auch ein neues oder anderes Licht auf Meditation, körperorientierte Verfahren, Ernährung, gemeinsames Kochen und Essen. Er verleiht dem Genusstraining für mich nochmals eine tiefere Bedeutung.
 
-Gedanken zum Schluss
-
-```
-
-```
+## Gedanken zum Schluss
 
 In diesem Beitrag versuche ich, anhand meiner eigenen Themen (die einzigen, die ich wirklich gut kenne) Zusammenhänge und die Komplexität von uns Menschen und unserem System – alles, was in unserem Körper drin ist und eigentlich auch drum herum – aufzuzeigen. Wenn wir an Change oder an Leadership denken, wenn wir an physische und psychische Heilung denken, dann tun wir gut daran, das grosse Ganze zu betrachten, Altes in Frage zu stellen und Neues zu entdecken.
 
