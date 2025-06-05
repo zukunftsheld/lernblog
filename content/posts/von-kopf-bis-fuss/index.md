@@ -9,17 +9,23 @@ footnotes = "Interozeption: \n\n«Die Interozeption umfasst die bewusste sowie d
 +++
 ## Einleitung
 
-Ich sitze auf der Terrasse unseres Apartments in Las Palmas. Da ich in den Ferien dazu neige, zu arbeiten oder Dinge zu tun, die dem nahekommen, wusste ich lange nicht, welche Bücher ich mitnehmen soll – denn ich dachte (wieder einmal), es müsste etwas «Entspannendes» und Arbeitsfreies sein. Irgendwie hätte das meinem Naturell und meinen Interessen widersprochen. Ich liess es daher auf mich zukommen, und tadaaa – plötzlich tauchten zwei Bücher auf, die ich vorher nicht auf dem Schirm hatte. Zwei Bücher, deren Inhalt mich sehr interessierte und die gut in die Ferienzeit passen würden. So sind Darm-Hirn-Connection von Prof. Dr. Gregor Hasler sowie «Das Glück des Gehens» von Prof. Shane O'Mara mir auf die Reise gekommen.
+Ich sitze auf der Terrasse eines Ferien-Apartments in Las Palmas. Da ich in den Ferien dazu neige, zu arbeiten oder Dinge zu tun, die dem nahekommen, wusste ich lange nicht, welche Bücher ich mitnehmen soll – denn ich dachte (wieder einmal), es müsste etwas «Entspannendes» und Arbeitsfreies sein. Irgendwie hätte das meinem Naturell und meinen Interessen widersprochen. Ich liess es daher auf mich zukommen, und tadaaa – plötzlich tauchten zwei Bücher auf, die ich vorher nicht auf dem Schirm hatte. Zwei Bücher, deren Inhalt mich sehr interessierte und die gut in die Ferienzeit passen würden. So sind Darm-Hirn-Connection von Prof. Dr. Gregor Hasler sowie «Das Glück des Gehens» von Prof. Shane O'Mara mir auf die Reise gekommen. Beide Autoren verweisen immer wieder auf (aktuelle) Forschungen, ohne abschliessende Allheil-Lösungen anzubieten. 
+
+Sie biete Perspektiven und machen das Wunder des Körpers aus ihrer eigenen sichtbar. So, wie zum Beispiel Shane O'Mara:
 
 > «Unsere Aufrechte Haltung verändert unsere Beziehung zur Welt, auch, wie wir sehen werden, zur sozialen Welt. Gehen vermittelt unserem Denken Beweglichkeit, die anderen Tieren verwehrt ist.»
 >
-> *O'Mara (S. 8*
+> *O'Mara (2021), S. 8*
 
 ## Buchwahl aus persönlicher Sicht
 
 ### Weshalb gerade diese beiden Themen?
 
-In einem aktuellen Selbstlernprojekt beschäftige ich mich mit der Neurowissenschaft im Zusammenhang mit Change und Leadership. Bücher dazu mitzunehmen, wäre mir tatsächlich zu nah an der Arbeit gewesen. Die gewählten Bücher nehmen sehr wenig konkrete Perspektiven zur Arbeit ein, beleuchten dafür wichtige, ganzheitliche Aspekte.
+In einem aktuellen Selbstlernprojekt beschäftige ich mich mit der Neurowissenschaft im Zusammenhang mit Change und Leadership. Bücher dazu mitzunehmen, wäre mir tatsächlich zu nah an der Arbeit gewesen. Die gewählten Bücher nehmen sehr wenig konkrete Perspektiven zur Arbeit ein, beleuchten dafür wichtige, ganzheitliche Aspekte. Beide Autoren schlagen die Brücke zwischen ihrem Thema und dem Gehirn, sowie vielen anderen Zusammenhängen. 
+
+> «Ein simpler Nebeneffekt des Aufstehens und Gehens besteht darin, dass sich die Aktivität über weit auseinan-derliegende Gehirnregionen ausbreitet - was die Wahrscheinlichkeit erhöht, dass Halb-Gedanken und Viertel-Ideen unterhalb der Bewusstseinsebene sich zu neuen Kombinationen zusammenschließen können.» 
+>
+> *O'Mara (2021), S. 176*
 
 ### Persönlicher und biografischer Hintergrund
 
@@ -118,6 +124,10 @@ Dieser Perspektivenwechsel wirft für mich auch ein neues oder anderes Licht auf
 ## Gedanken zum Schluss
 
 In diesem Beitrag versuche ich, anhand meiner eigenen Themen (die einzigen, die ich wirklich gut kenne) Zusammenhänge und die Komplexität von uns Menschen und unserem System – alles, was in unserem Körper drin ist und eigentlich auch drum herum – aufzuzeigen. Wenn wir an Change oder an Leadership denken, wenn wir an physische und psychische Heilung denken, dann tun wir gut daran, das grosse Ganze zu betrachten, Altes in Frage zu stellen und Neues zu entdecken.
+
+> «Wollen wir freiere Formen kreativer kognition fördern, müssen wir die Menschen von ihren Schreibtischen und Bildschirmen wegholen und sie dazu bringen, sich mehr zu bewegen. Die positive Auswirkung der Bewegung auf Kreativität ist eine ergiebige und weitgehend unerschlossene Quelle, neue Ideen zu erzeugen.» 
+>
+> *O'Mara (2021), S. 179*
 
 Hippokrates werden folgende passenden Zitate zugeschrieben: 
 
