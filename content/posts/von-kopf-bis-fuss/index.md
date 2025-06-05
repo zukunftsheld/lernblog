@@ -97,7 +97,7 @@ Meetings oder Mentorings im Gehen – «Gedankengänge» – damit bin ich vor a
 
 ### Die Darm-Hirn-Connection - Revolutionäres Wissen für unsere psychische und körperliche Gesundheit
 
-Wer spricht oder schreibt schon gerne von seinem Darm? Zum Glück haben verschiedene Autor:innen zur zunehmenden Enttabuisierung beigetragen. Denn wüssten wir mehr darüber, könnten wir vielleicht (noch) mehr für unsere Gesundheit tun – und damit meine ich auch die psychische Gesundheit. Prof. Dr. Hasler schreibt aus Sicht eines Psychiaters; was ich lese, unterstützt mich in meinem eigenen Prozess und öffnet, wie all die anderen Neuro-Themen, eine weitere und wichtige Perspektive auf uns Menschen, unser Zusammenleben und unsere Reaktionen.
+Wer spricht oder schreibt schon gerne von seinem Darm? Zum Glück haben verschiedene Autor:innen zur zunehmenden Enttabuisierung beigetragen. Denn wüssten wir mehr darüber, könnten wir vielleicht (noch) mehr für unsere Gesundheit tun – und damit meine ich auch die psychische Gesundheit. Prof. Dr. Hasler schreibt aus Sicht eines Professors für Psychiatrie und Psychotherpaie; was ich lese, unterstützt mich in meinem eigenen Prozess und öffnet, wie all die anderen Neuro-Themen, eine weitere und wichtige Perspektive auf uns Menschen, unser Zusammenleben und unsere Reaktionen.
 
 > «Sicherheit und das Empfinden von Verbundenheit sind die Voraussetzungen für die Integration des vegetativen und des sozialen Vagus­-Nervs im Hirnstamm. Das ist ein wichtiger Teil der Darm-Hirn-Connection. Eine gelungene Integration ist die Grundlage für authentische soziale Beziehungen und das Bewusstsein für eine gesunde Ernährung.» 
 >
