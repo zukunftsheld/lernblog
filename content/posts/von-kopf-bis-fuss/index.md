@@ -34,17 +34,21 @@ In einem [aktuellen Selbstlernprojekt ](https://www.bensblog.ch/kompetenzraster-
 
 Wie bereits im Text [«Meine Pinguin-Geschichte»](https://www.bensblog.ch/der-pinguin-und-ich/) näher beschrieben, hatte ich eine schwierige Schulzeit (die vollen neun resp. zehn Jahre!) und erlebte während meiner Ausbildung Mobbing. Schon damals – oder kurz danach – entwickelte ich eine Sozialangst. Ein Symptom davon waren Essprobleme, und ein gutes Sozialleben war in vielfacher Hinsicht sehr schwer (Heilung schien oft hoffnungslos). Das alles führte zu einem Dauerstress in meinem Nervensystem, der auch Jahre danach anhielt, obwohl ich immer wieder und intensiv damit und daran gearbeitet habe.
 
-Seit einigen Jahren begleitet mich eine Histaminintoleranz beziehungsweise eine Histaminstoffwechselstörung, die man weder genau diagnostizieren noch konkret behandeln kann. Die Verbindung zwischen dem Dauerstress in meinem System und den gesundheitlichen Problemen scheint mir bereits länger klar. Aber wo beginnen und wer hilft oder sieht «das Ganze»? Schwierig. In den letzten anderthalb Jahren habe ich viel darüber (und über mich) gelernt – vor allem aus Sicht der Psyche in Verbindung mit dem Körper und dem Nervensystem. Dabei spielte auch Bewegung, konkret Gehen, eine wichtige Rolle. Seit Kurzem widme ich mich meinem Darmmikrobiom.
+Seit einigen Jahren begleitet mich eine Histaminintoleranz beziehungsweise eine Histaminstoffwechselstörung, die man weder genau diagnostizieren noch konkret behandeln kann. Die Verbindung zwischen dem Dauerstress in meinem System und den gesundheitlichen Problemen scheint mir bereits länger klar. Aber wo beginnen und wer hilft oder sieht «das Ganze»? Schwierig. In den letzten anderthalb Jahren habe ich viel darüber (und über mich) gelernt – vor allem aus Sicht der Psyche in Verbindung mit dem Körper und dem Nervensystem. Dabei spielte auch Bewegung, konkret Gehen, eine wichtige Rolle. Seit Kurzem widme ich mich meinem Darmmikrobiom. Die Wichtigkeit und Vielfältigkeit des Darms ist mir spätestens seit dem Buch «Darm mir Charme» bekannt. Mit einem tieferen Verständnis für das Nervensystem und insbesonere den Vagus-Nerv bin ich dann auf das Buch von Gregor Hasler gekommen. 
+
+Anders als wir das vielleicht annehmen würden, kommuniziert dieser Nerv sehr stark von «unten nach oben», also aus dem Körper hin zum Gehirn. 
 
 > Der grosse Zuhörer unter den vegetativen Nerven ist der Vagus-Nerv. Nur 20 Prozent seiner Fasern geben Befehle von oben nach unten weiter, die restlichen 80 Prozent hören den Organen zu, um das Hirn über unseren inneren Zustand zu informieren. 
 >
 > *Hasler (2020), S. 40*
->
+
+Hier finde ich auch Themen, die ich erst seit kurzem wirklich verstehen kann und lerne, noch mehr über diese «Connection» zwischen Darm und Hirn. 
+
 >  «Frühe und wiederholte Traumatisierungen können aber zu schweren psychischen Störungen führen \[…]. In diesen Fällen ist der Sympathikus in der Regel langfristig übererregt, was zu Angst, dem Gefühl der Bedrohung, übermässiger Schreckhaftigkeit, erhöhter Wachsamkeit, \[…] führt.» Hasler (2020), S. 51
 >
 > «Anhaltender Stress ist der häufigste Grund für eine Störung der Interozeption. Die Aktivierung des Sympathikus führt zu einer Orientierung nach aussen und dadurch zu einer übermässigen Wahrnehmung äusserer Gefahren.» Hasler (2020), S. 65
 
-Sonderlich sportlich war ich nie und entsprach kaum dem Bild eines Jungen (oder zumindest nicht dem, wie es zu meiner Zeit auf dem Land vorherrschte). So entwickelte ich nie ein gutes Gespür für meinen Körper und Sport. Passend dazu ein SRF-Beitrag:
+Sonderlich sportlich war ich nie und entsprach kaum dem Bild eines klassichen Jungen (oder zumindest nicht dem, wie es zu meiner Zeit auf dem Land vorherrschte). So entwickelte ich nie ein gutes Gespür für meinen Körper und Sport. Passend dazu ein SRF-Beitrag:
 
 «Immer als Letzte gewählt – Wie ich mein Sporttrauma überwand»
 
