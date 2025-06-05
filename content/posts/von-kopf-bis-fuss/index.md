@@ -24,15 +24,15 @@ Sie biete Perspektiven und machen das Wunder des Körpers aus ihrer eigenen sich
 
 ### Weshalb gerade diese beiden Themen?
 
-In einem [aktuellen Selbstlernprojekt ](https://www.bensblog.ch/kompetenzraster-neuro/)beschäftige ich mich mit der [Neurowissenschaft](https://www.bensblog.ch/tags/neuro/) im Zusammenhang mit [Change](https://www.bensblog.ch/tags/change/) und [Leadership](https://www.bensblog.ch/tags/leadership/). Bücher dazu mitzunehmen, wäre mir tatsächlich zu nah an der Arbeit gewesen. Die gewählten Bücher nehmen sehr wenig konkrete Perspektiven zur Arbeit ein, beleuchten dafür wichtige, ganzheitliche Aspekte. Beide Autoren schlagen die Brücke zwischen ihrem Thema und dem Gehirn, sowie vielen anderen Zusammenhängen. 
+In einem [aktuellen Selbstlernprojekt ](https://www.bensblog.ch/kompetenzraster-neuro/)beschäftige ich mich mit der [Neurowissenschaft](https://www.bensblog.ch/tags/neuro/) im Zusammenhang mit [Change](https://www.bensblog.ch/tags/change/) und [Leadership](https://www.bensblog.ch/tags/leadership/). Bücher dazu mitzunehmen, wäre mir tatsächlich zu nah an der Arbeit gewesen. Die gewählten Bücher nehmen sehr wenig konkrete Perspektiven zur Arbeit ein, beleuchten dafür wichtige, ganzheitliche Aspekte. Beide Autoren schlagen die Brücke zwischen dem Buchtthema und dem Gehirn, sowie vielen anderen Zusammenhängen. 
 
-> «Ein simpler Nebeneffekt des Aufstehens und Gehens besteht darin, dass sich die Aktivität über weit auseinan-derliegende Gehirnregionen ausbreitet - was die Wahrscheinlichkeit erhöht, dass Halb-Gedanken und Viertel-Ideen unterhalb der Bewusstseinsebene sich zu neuen Kombinationen zusammenschließen können.» 
+> «Ein simpler Nebeneffekt des Aufstehens und Gehens besteht darin, dass sich die Aktivität über weit auseinanderliegende Gehirnregionen ausbreitet – was die Wahrscheinlichkeit erhöht, dass Halb-Gedanken und Viertel-Ideen unterhalb der Bewusstseinsebene sich zu neuen Kombinationen zusammenschliessen können.» 
 >
 > *O'Mara (2021), S. 176*
 
 ### Persönlicher und biografischer Hintergrund
 
-Wie bereits im Text [«Meine Pinguin-Geschichte»](https://www.bensblog.ch/der-pinguin-und-ich/) näher beschrieben, hatte ich eine schwierige Schulzeit (die vollen neun resp. zehn Jahre!) und erlebte während meiner Ausbildung Mobbing. Schon damals – oder kurz danach – entwickelte ich eine Sozialangst. Ein Symptom davon waren Essprobleme, und ein gutes Sozialleben war in vielfacher Hinsicht sehr schwer. Das alles führte zu einem Dauerstress in meinem Nervensystem, der auch Jahre danach anhielt, obwohl ich immer wieder und intensiv daran gearbeitet habe.
+Wie bereits im Text [«Meine Pinguin-Geschichte»](https://www.bensblog.ch/der-pinguin-und-ich/) näher beschrieben, hatte ich eine schwierige Schulzeit (die vollen neun resp. zehn Jahre!) und erlebte während meiner Ausbildung Mobbing. Schon damals – oder kurz danach – entwickelte ich eine Sozialangst. Ein Symptom davon waren Essprobleme, und ein gutes Sozialleben war in vielfacher Hinsicht sehr schwer (Heilung schien oft hoffnungslos). Das alles führte zu einem Dauerstress in meinem Nervensystem, der auch Jahre danach anhielt, obwohl ich immer wieder und intensiv damit und daran gearbeitet habe.
 
 Seit einigen Jahren begleitet mich eine Histaminintoleranz beziehungsweise eine Histaminstoffwechselstörung, die man weder genau diagnostizieren noch konkret behandeln kann. Die Verbindung zwischen dem Dauerstress in meinem System und den gesundheitlichen Problemen scheint mir bereits länger klar. Aber wo beginnen und wer hilft oder sieht «das Ganze»? Schwierig. In den letzten anderthalb Jahren habe ich viel darüber (und über mich) gelernt – vor allem aus Sicht der Psyche in Verbindung mit dem Körper und dem Nervensystem. Dabei spielte auch Bewegung, konkret Gehen, eine wichtige Rolle. Seit Kurzem widme ich mich meinem Darmmikrobiom.
 
@@ -134,12 +134,14 @@ Dieser Perspektivenwechsel wirft für mich auch ein neues oder anderes Licht auf
 
 ## Gedanken zum Schluss
 
-In diesem Beitrag versuche ich, anhand meiner eigenen Themen (die einzigen, die ich wirklich gut kenne) Zusammenhänge und die Komplexität von uns Menschen und unserem System – alles, was in unserem Körper drin ist und eigentlich auch drum herum – aufzuzeigen. Wenn wir an Change oder an Leadership denken, wenn wir an physische und psychische Heilung denken, dann tun wir gut daran, das grosse Ganze zu betrachten, Altes in Frage zu stellen und Neues zu entdecken.
+In diesem Beitrag versuche ich, gemeinsam mit den Buchinhalten anhand meiner eigenen Themen (die einzigen, die ich wirklich gut kenne) Zusammenhänge und die Komplexität von uns Menschen und unserem System – alles, was in unserem Körper drin ist und eigentlich auch drum herum – aufzuzeigen. Wenn wir an Change oder an Leadership denken, wenn wir an physische und psychische Heilung denken, dann tun wir gut daran, das grosse Ganze zu betrachten, Altes in Frage zu stellen und Neues zu entdecken.
+
+So tut es uns allen gut, uns von den Schreibtischen wegzubewegen (oder zumindest immer wieder aufzustehen) und so nicht nur körperliche Vorgänge zu ermöglichen, sondern auch die Perspektive zu wechseln. 
 
 > «Wollen wir freiere Formen kreativer kognition fördern, müssen wir die Menschen von ihren Schreibtischen und Bildschirmen wegholen und sie dazu bringen, sich mehr zu bewegen. Die positive Auswirkung der Bewegung auf Kreativität ist eine ergiebige und weitgehend unerschlossene Quelle, neue Ideen zu erzeugen.» 
 >
 > *O'Mara (2021), S. 179*
 
-Hippokrates werden folgende passenden Zitate zugeschrieben: 
+Dass Darm und Gehen wichtig sind, sollte eigentlich nicht neues sein. Hippokrates werden folgende passenden Zitate zugeschrieben: 
 
 > «Alle Krankheiten beginnen im Darm» und «Gehen ist die beste Medizin».
