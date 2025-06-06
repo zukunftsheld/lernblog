@@ -47,9 +47,7 @@ Hier finde ich auch Themen, die ich erst seit kurzem wirklich verstehen kann und
 >  «Frühe und wiederholte Traumatisierungen können aber zu schweren psychischen Störungen führen \[…]. In diesen Fällen ist der Sympathikus in der Regel langfristig übererregt, was zu Angst, dem Gefühl der Bedrohung, übermässiger Schreckhaftigkeit, erhöhter Wachsamkeit, \[…] führt.» 
 >
 > *Hasler (2020), S. 51*
-
-
-
+>
 > «Anhaltender Stress ist der häufigste Grund für eine Störung der Interozeption. Die Aktivierung des Sympathikus führt zu einer Orientierung nach aussen und dadurch zu einer übermässigen Wahrnehmung äusserer Gefahren.» 
 >
 > *Hasler (2020), S. 65*
@@ -91,9 +89,7 @@ Gehen bringt gem. O'Mara viele Vorteile für unser Leben ganz allgemein und für
 > «Gehen ist ausserordnetlich vorteilhaft für unseren Geist, unseren Körper uns unser Zusammenleben. Gehen ist ganzheitlich: Jeder Aspekt des Gehens fördert jeden Aspekt des Seins.» 
 >
 > *O'Mara (2021), S. 10* 
-
-
-
+>
 > «Gehen verschafft mir die Freiheit, die Dinge zu durchdenken; in einem stummen Dialog mit mir selbst zu klären, wie sich ein Problem lösen lässt.» 
 >
 > *O'Mara (2021), S. 165*
@@ -137,9 +133,7 @@ Schaue ich auf meine Biografie, dann sind genau die zwei Themen als Schulkind (v
 > «Sicherheit und das Empfinden von Verbundenheit sind die Voraussetzungen für die Integration des vegetativen und des sozialen Vagus­-Nervs im Hirnstamm. Das ist ein wichtiger Teil der Darm-Hirn-Connection. Eine gelungene Integration ist die Grundlage für authentische soziale Beziehungen und das Bewusstsein für eine gesunde Ernährung.» 
 >
 > *Hasler (2020), S. 69*
-
-
-
+>
 > «Gemeinsames Essen und Trinken kittet Bindungen und entscheidet über Weltpolitik.»
 >
 > *Halser (2020), S. 46*
@@ -159,7 +153,9 @@ Auch wenn es einfach und auch irgendwie schön wäre, diese Verbindungen alle er
 > Dass der mächtige Beruhigungsnerv des Körpers und der Seele strikte Logik, Ordnung und Regeln nicht gern hat, ist eine wichtige Lektion der menschlichen Anatomie. 
 >
 > *Hasler (2020), S. 41*
->
+
+
+
 > Wenn sich die Natur bei so extrem wichtigen Funktionen wie der Stimme, dem Sprechen und Schlucken einen unlogisch langen Weg erlaubt, warum sollten wir dann erwarten, bei den wichtisten Dingen im Leben auf dem kürzesten Weg ans Ziel zu gelangen? 
 >
 > *Hasler (2020), S. 42*
