@@ -1,9 +1,10 @@
 +++
 title = "Was, wenn wir Wandel nicht machen, sondern ermöglichen?"
 date = "2025-06-08"
-draft = true
+draft = false
 pinned = false
 tags = ["Neuro", "Change", "Leadership", "Gedanken"]
+description = "Was, wenn Wandel nicht gemacht, sondern ermöglicht wird? Veränderung beginnt nicht im Kopf allein, sondern entfaltet sich im Körper, im ganzen System und in echter Beziehung. Durch Resonanz statt Druck."
 +++
 ## Gedanken über Entwicklung, die im Innern beginnt und Beziehung braucht.
 
@@ -21,20 +22,19 @@ Unser Nervensystem spielt dabei eine zentrale Rolle. Und dieses System beginnt o
 Wir sollten uns davon lösen, das Gehirn (oder den Kopf) als die Zentrale für alles zu betrachten. Unser Gehirn steht in direkter Verbindung mit dem autonomen (vegetativen) Nervensystem, das unbewusst unsere Reaktionen auf Stress, Sicherheit und Beziehung steuert.
 
 Der **Sympathikus** aktiviert uns – für Leistung, Reaktion, Fokus. Gut beschreiben lässt er sich mit Fight-Flight (& Freeze) Er ist wichtig, aber im Dauerbetrieb führt er zu (viel) Anspannung. 
+
 Der **Parasympathikus**, besonders der über den Vagusnerv vermittelte Anteil, ist zuständig für Entspannung, soziale Verbundenheit und innere Ruhe.
 
 Wenn der Sympathikus dominiert, sind wir in Alarmbereitschaft – aber nicht wirklich lernbereit. Das Gehirn hat in solchen Zuständen keinen guten Zugriff auf Selbststeuerung, Empathie oder kreatives Denken.  Es geht dabei ums «Überleben».
 
 ![Eine erste Grafik aus meinem Lernprojekt, angelehnt an Inhalte aus dem Video von Dr. Janis](nervensystem.jpg)
 
-Mehr dazu auch hier:
+**Mehr dazu auch hier:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ihqaARY-Va4?si=qzVbMvlYgTUuhSK7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 Und dann ist da noch die **Neuroplastizität**, also die Fähigkeit des Gehirns, sich durch Erfahrung zu verändern, braucht Sicherheit – auf körperlicher, emotionaler und sozialer Ebene. Erst wenn das Nervensystem reguliert ist, können neue Verbindungen entstehen, die über den Moment hinaus Bestand haben. Veränderung geschieht also nicht gegen den Körper, sondern mit ihm. 
-
-
 {{</box>}}
 
 ## 
