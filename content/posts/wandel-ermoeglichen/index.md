@@ -1,7 +1,7 @@
 +++
 title = "Was, wenn wir Wandel nicht machen, sondern ermöglichen?"
 date = "2025-06-08"
-draft = false
+draft = true
 pinned = false
 tags = ["Neuro", "Change", "Leadership", "Gedanken"]
 description = "Was, wenn Wandel nicht gemacht, sondern ermöglicht wird? Veränderung beginnt nicht im Kopf allein, sondern entfaltet sich im Körper, im ganzen System und in echter Beziehung. Durch Resonanz statt Druck."
