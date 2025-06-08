@@ -43,8 +43,7 @@ Und dann ist da noch die **Neuroplastizität**, also die Fähigkeit des Gehirns,
 
 {{</box>}}
 
-## 
-Gehen als Praxis der Selbstverbindung
+## Gehen als Praxis der Selbstverbindung
 
 Bewegung ist mehr als Mobilität. Sie kann zu einer inneren Haltung werden. Das muss und soll nichts Schnelles sein. Schritt für Schritt, immer wieder in Bewegung, das reicht. Wer geht, bringt nicht nur seine Muskeln in Schwung, sondern auch vegetative, emotionale und kognitive Prozesse. Gehen kann regulierend wirken, klärend, verbindend – mit sich selbst und mit anderen. Vielleicht bewirkt ein Gang ums Bürogebäude mehr als ein weiterer Workshop. Vielleicht, weil der Schritt nach draussen auch ein Schritt nach innen ist. Bewegung braucht Regelmässigkeit und Bewegung ist Rhythmus. 
 
