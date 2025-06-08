@@ -36,7 +36,11 @@ Wenn der Sympathikus dominiert, sind wir in Alarmbereitschaft – aber nicht wir
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ihqaARY-Va4?si=qzVbMvlYgTUuhSK7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
+
+
 Und dann ist da noch die **Neuroplastizität**, also die Fähigkeit des Gehirns, sich durch Erfahrung zu verändern, braucht Sicherheit – auf körperlicher, emotionaler und sozialer Ebene. Erst wenn das Nervensystem reguliert ist, können neue Verbindungen entstehen, die über den Moment hinaus Bestand haben. Veränderung geschieht also nicht gegen den Körper, sondern mit ihm. 
+
+
 {{</box>}}
 
 ## 
