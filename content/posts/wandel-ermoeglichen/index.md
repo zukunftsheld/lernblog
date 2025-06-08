@@ -50,7 +50,6 @@ Bewegung ist mehr als Mobilität. Sie kann zu einer inneren Haltung werden. Das 
 
 ## Rhythmen statt Rezepte
 
-
 Veränderung verläuft selten (wohl nie) linear. Sie kommt in Wellen und folgt inneren Rhythmen. Während ich diese Zeilen schreibe, schaue ich aufs Meer. Wellen, Ebbe und Flut. Sichtbares und Unsichtbares. Das Meer wird zur Metapher für das, was auch in uns geschieht: Regulation ist kein Zustand, sondern ein steter Vorgang. Ein immer wieder neues Austarieren zwischen Anspannung und Loslassen, zwischen Aktion und Ruhe. Gerade der Vagusnerv, ein zentraler Akteur in unserem vegetativen Nervensystem, könnte einen weiteren Hinweis geben: Entwicklung braucht Resonanz, nicht Druck. Er braucht Beziehung, nicht Kontrolle und manchmal braucht er vor allem Zeit. 
 
 ## 
