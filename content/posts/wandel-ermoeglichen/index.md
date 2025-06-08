@@ -6,6 +6,7 @@ pinned = false
 tags = ["Neuro", "Change", "Leadership", "Gedanken"]
 image = "img_1390.jpg"
 description = "Was, wenn Wandel nicht gemacht, sondern ermöglicht wird? Veränderung beginnt nicht im Kopf allein, sondern entfaltet sich im Körper, im ganzen System und in echter Beziehung. Durch Resonanz statt Druck."
+footnotes = "[Die Darm-Hirn-Connection, Prof. Dr. Gregor Hasler](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/gregor-hasler/die-darm-hirn-connection-wissen-amp-leben/id/9783608983845/?srsltid=AfmBOoo_fZo8SJ6LSwpWlPvps7-4lOpZccsyBe6Xa2iN3lI032FHwlrG)\n\n[Das Glück des Gehens, was die Wissenschaft darüber weiss und warum es uns so guttut, Shane O'Mara](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/shane-omara/das-glueck-des-gehens/id/9783499606656/)"
 +++
 ## Gedanken über Entwicklung, die im Innern beginnt und Beziehung braucht.
 
