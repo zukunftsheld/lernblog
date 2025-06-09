@@ -30,9 +30,16 @@ Ein kleiner Einblick in meine physischen und digitalen ([mirroco](https://www.mi
 
 ![](notizen_oxytocin.jpg)
 
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ikdq64kk1q0?si=i8eEXCOTkjjCHvWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+  <iframe src="https://www.youtube.com/embed/Ikdq64kk1q0?si=i8eEXCOTkjjCHvWT" 
+          title="YouTube video player"
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          referrerpolicy="strict-origin-when-cross-origin"
+          allowfullscreen>
+  </iframe>
+</div>
 
 ### Gehirn: Stress & Stresskreislauf
 
