@@ -3,6 +3,7 @@ title = "Vertrauen, Veränderung und das lernende Gehirn"
 date = "2025-06-09"
 draft = true
 pinned = false
+tags = ["Neuro", "Leadership", "Change", "Lernen"]
 +++
 Ein (weiterer) Versuch, das Zusammenspiel von innerer Sicherheit und organisationalem Wandel zu verstehen.
 
@@ -41,7 +42,8 @@ Einblicke in meine physischen und digitalen (mirroco) Notizen und Skizzen.
 
 {{</box>}}
 
-Und genau da kommt Führung ins Spiel. Nicht im Sinne von «alles im Griff haben» oder «steuern», sondern im Sinne von Orientierung geben, Beziehungen aufbauen, pflegen, gestalten. Dazu gehört es auch, Nicht-Wissen aushalten zu können und auch zuzugeben. 
+Und genau da kommt Führung ins Spiel. Nicht im Sinne von «alles im Griff haben» oder «steuern», sondern im Sinne von Orientierung geben, Beziehungen aufbauen, pflegen, gestalten. Dazu gehört es auch, Nicht-Wissen aushalten zu können und auch zuzugeben. Das ist eine Form von Ambiguitätstoleranz, also der Fähigkeit, Mehrdeutigkeit, Unsicherheit und vorläufige Antworten nicht als Bedrohung, sondern als Teil des gemeinsamen Suchens zu betrachten. 
+
 Menschen und ihr System reagieren auf so vieles und auch auf das, was nicht gesagt wird. Auf die stillen Unsicherheiten, auf die eigenen Widerstände der Führungsperson. In diesem Prozess geht es neben der Führung auch um Resonanz und Stimmigkeit. Es geht auch um Beziehungsgestaltung.
 
 Unsere Spiegelneuronen sorgen dafür, dass wir spüren, wie es anderen geht. Und das beeinflusst, ob wir uns öffnen oder schützen.
