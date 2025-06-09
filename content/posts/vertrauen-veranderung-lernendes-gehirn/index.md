@@ -1,10 +1,12 @@
 +++
 title = "Vertrauen, Veränderung und das lernende Gehirn"
 date = "2025-06-09"
-draft = true
+draft = false
 pinned = false
 tags = ["Neuro", "Leadership", "Change", "Lernen"]
+image = "img_3006.jpg"
 description = "Wie reagieren unser Gehirn und Nervensystem auf Veränderung? Und welche Rolle spielt Vertrauen dabei? Ein paar Gedanken dazu. "
+footnotes = ""
 +++
 Ein (weiterer) Versuch, das Zusammenspiel von innerer Sicherheit und organisationalem Wandel zu verstehen.
 
