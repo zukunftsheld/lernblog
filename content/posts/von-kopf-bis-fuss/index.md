@@ -200,7 +200,9 @@ Auch wenn es einfach und auch irgendwie schön wäre, diese Verbindungen alle er
 > Dass der mächtige Beruhigungsnerv des Körpers und der Seele strikte Logik, Ordnung und Regeln nicht gern hat, ist eine wichtige Lektion der menschlichen Anatomie. 
 >
 > *Hasler (2020), S. 41*
->
+
+
+
 > Wenn sich die Natur bei so extrem wichtigen Funktionen wie der Stimme, dem Sprechen und Schlucken einen unlogisch langen Weg erlaubt, warum sollten wir dann erwarten, bei den wichtisten Dingen im Leben auf dem kürzesten Weg ans Ziel zu gelangen? 
 >
 > *Hasler (2020), S. 42*
