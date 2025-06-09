@@ -116,7 +116,7 @@ Ob und was in und mit meinem Gehirn genau passiert, weiss und spüre ich nicht. 
 
 {{<box title="Einblicke in meinen Lernprozess.">}} 
 
-Viele meiner Lernprozesse blide ich in der Software von [mirroco](https://www.mirroco.ch) ab. Damit sie auch hier sichtbar(er) werden ein paar Notizen zu: So koordiniert das Kleinhirn unsere Bewegungen
+Viele meiner Lernprozesse blide ich in der Software von [mirroco](https://www.mirroco.ch) ab. Damit sie auch hier sichtbar(er) werden, teile ich ein paar Notizen zum Video: So koordiniert das Kleinhirn unsere Bewegungen.
 
 Bewegung beginnt nicht im Körper – sie beginnt im Gehirn. Genauer: im limbischen System, dort, wo auch Emotionen entstehen. Von dort wird der motorische Assoziationskortex informiert. Hier entstehen erste, wilde Bewegungsentwürfe.
 
