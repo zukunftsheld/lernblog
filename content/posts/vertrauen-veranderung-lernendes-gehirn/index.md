@@ -68,7 +68,16 @@ Ich frage mich manchmal, ob wir in Organisationen nicht zu oft davon ausgehen, d
 
 ### So ein Raum könnte psychologische Sicherheit sein: 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eP6guvRt0U0?si=BlNm-Q4C6CwrangL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+  <iframe src="https://www.youtube.com/embed/eP6guvRt0U0?si=BlNm-Q4C6CwrangL" 
+          title="YouTube video player"
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          referrerpolicy="strict-origin-when-cross-origin"
+          allowfullscreen>
+  </iframe>
+</div>
 
 ## Ein paar Fragen, die für mich bleiben:
 
