@@ -47,9 +47,7 @@ Hier finde ich auch Themen, die ich erst seit kurzem wirklich verstehen kann und
 >  «Frühe und wiederholte Traumatisierungen können aber zu schweren psychischen Störungen führen \[…]. In diesen Fällen ist der Sympathikus in der Regel langfristig übererregt, was zu Angst, dem Gefühl der Bedrohung, übermässiger Schreckhaftigkeit, erhöhter Wachsamkeit, \[…] führt.» 
 >
 > *Hasler (2020), S. 51*
-
-
-
+>
 > «Anhaltender Stress ist der häufigste Grund für eine Störung der Interozeption. Die Aktivierung des Sympathikus führt zu einer Orientierung nach aussen und dadurch zu einer übermässigen Wahrnehmung äusserer Gefahren.» 
 >
 > *Hasler (2020), S. 65*
@@ -91,9 +89,7 @@ Gehen bringt gem. O'Mara viele Vorteile für unser Leben ganz allgemein und für
 > «Gehen ist ausserordnetlich vorteilhaft für unseren Geist, unseren Körper uns unser Zusammenleben. Gehen ist ganzheitlich: Jeder Aspekt des Gehens fördert jeden Aspekt des Seins.» 
 >
 > *O'Mara (2021), S. 10* 
-
-
-
+>
 > «Gehen verschafft mir die Freiheit, die Dinge zu durchdenken; in einem stummen Dialog mit mir selbst zu klären, wie sich ein Problem lösen lässt.» 
 >
 > *O'Mara (2021), S. 165*
@@ -113,6 +109,41 @@ Ob und was in und mit meinem Gehirn genau passiert, weiss und spüre ich nicht. 
 > Regelmässiges Gehen in vernünftigem Tempo verheisst eine allgemeine Verbesserung der Hirnfunktionen in kurzer Zeit. 
 >
 > *O'Mara (2021), S. 160*
+
+{{<box title="Notizen zu: So koordiniert das Kleinhirn unsere Bewegungen">}} 
+
+Bewegung beginnt nicht im Körper – sie beginnt im Gehirn. Genauer: im limbischen System, dort, wo auch Emotionen entstehen. Von dort wird der motorische Assoziationskortex informiert. Hier entstehen erste, wilde Bewegungsentwürfe.
+
+Diese rohen Impulse werden gleichzeitig von zwei Instanzen überprüft und überarbeitet:
+
+* Basalganglien: Sie entscheiden, ob eine Bewegung überhaupt stattfinden soll.
+* Kleinhirn: Es optimiert die Entwürfe, integriert Gleichgewichtsinformationen und Lageempfinden (Propriozeption). Wie genau das Kleinhirn dabei vorgeht, ist bis heute nicht vollständig verstanden – die Forschung tastet sich voran.
+
+Das Kleinhirn erhält dabei eine riesige Menge an Information:
+
+* Bewegungsentwürfe,
+* sensible Rückmeldungen aus dem Körper,
+* insbesondere Gleichgewichts- und Lageinformationen.
+
+Rund 200 Millionen Axone (Nervenverbindungen) führen ins Kleinhirn, wo die Daten nach zwei Prinzipien verarbeitet werden:
+
+* **Vorwärts immer, rückwärts nimmer** – Informationen werden nur nach vorne weitergeschaltet.
+* **Divergenz & Konvergenz** – Informationen werden aufgesplittert, durchdifferenziert, dann wieder zusammengeführt.
+
+Schliesslich werden die überarbeiteten Bewegungsbefehle im Thalamus gebündelt und an den primär motorischen Kortex weitergeleitet. Von dort geht das Signal ins Rückenmark – und dann zu den Muskeln.
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+  <iframe src="https://www.youtube.com/embed/fbdgSR_aPWw?si=0afjX963Gk3ZmeFC" 
+          title="YouTube video player"
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          referrerpolicy="strict-origin-when-cross-origin"
+          allowfullscreen>
+  </iframe>
+</div>
+
+{{</box>}}
 
 Der Nutzen des Gehens ist nicht nur gut für unser Gehirn, sondern für unseren gesamten Körper und wer hätte es gedacht, für unseren Darm. 
 
@@ -137,9 +168,7 @@ Schaue ich auf meine Biografie, dann sind genau die zwei Themen als Schulkind (v
 > «Sicherheit und das Empfinden von Verbundenheit sind die Voraussetzungen für die Integration des vegetativen und des sozialen Vagus­-Nervs im Hirnstamm. Das ist ein wichtiger Teil der Darm-Hirn-Connection. Eine gelungene Integration ist die Grundlage für authentische soziale Beziehungen und das Bewusstsein für eine gesunde Ernährung.» 
 >
 > *Hasler (2020), S. 69*
-
-
-
+>
 > «Gemeinsames Essen und Trinken kittet Bindungen und entscheidet über Weltpolitik.»
 >
 > *Halser (2020), S. 46*
@@ -159,9 +188,7 @@ Auch wenn es einfach und auch irgendwie schön wäre, diese Verbindungen alle er
 > Dass der mächtige Beruhigungsnerv des Körpers und der Seele strikte Logik, Ordnung und Regeln nicht gern hat, ist eine wichtige Lektion der menschlichen Anatomie. 
 >
 > *Hasler (2020), S. 41*
-
-
-
+>
 > Wenn sich die Natur bei so extrem wichtigen Funktionen wie der Stimme, dem Sprechen und Schlucken einen unlogisch langen Weg erlaubt, warum sollten wir dann erwarten, bei den wichtisten Dingen im Leben auf dem kürzesten Weg ans Ziel zu gelangen? 
 >
 > *Hasler (2020), S. 42*
