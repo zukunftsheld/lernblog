@@ -1,0 +1,43 @@
++++
+title = "vertrauen-veränderung-lernendes-gehirn"
+date = "2025-06-09"
+draft = true
+pinned = false
++++
+Vertrauen, Veränderung und das lernende Gehirn
+
+Ein (weiterer) Versuch, das Zusammenspiel von innerer Sicherheit und organisationalem Wandel zu verstehen.
+
+Veränderung braucht Vertrauen. Das sage ich oft und denke es noch öfter. Gleichzeitig weiss ich, es ist schnell gesagt. Aber was genau heisst das eigentlich und wie kann man Vertrauen herstellen? 
+
+In einem Gespräch mit ChatGPT bin ich dieser Frage etwas näher gekommen. Dabei habe ich nicht nach einer Antwort gesucht, sondern ein Dialog mit einer Kollegin, die mir hilft, meine Gedanken zu sortieren. Ich merke auch hier, wenn ich das Thema aus einer neurobiologischen Perspektive betrachte, wird einiges klarer und gleichzeitig komplexer. Ja, wenn ich die üblichen Arbeits- und Bildungskontexte betrachte, wirkt die Idee von nachhaltigem Wandel (Change und so) auch irgendwie hoffnungslos. 
+
+Unser Gehirn ist nicht neutral gegenüber Veränderung.
+
+Viele denken, dass Veränderung einfach ein Schritt oder Weg von A nach B ist. Vielleicht, weil sie selbst (auch persönlich) noch nie durch eine wirkliche (grosse, umfassende, krisenbehaftete) Veränderung sind. Von A nach B? Yes! So sieht es in unserem Gehirn definitiv nicht aus. Dort ist Veränderung erstmal ein Risiko. Das Alte ist vertraut, das Neue nicht. Das Alte ist energieeffizient (weil gewohnt und somit sicher), das Neue fordert Aufmerksamkeit und Energie (viel Unbekanntes und Unsicherheit). Im besten Fall fragt das Gehirn: «Bist du sicher, dass wir das jetzt wirklich brauchen?», wahrscheinlicher scheint mir jedoch eine (unbewusste) Abwehrhaltung. «Nein, das will ich nicht.»
+
+Diese Reaktion ist kein Fehler unseres Gehirns, sondern ein Schutz (deshalb sind auch Widerstände in Change normal und okay). Es ist ein eingebautes Warnsystem – man könnte sagen eine Art Immunsystem «ich lasse nicht alles mit mir machen». Und genau deshalb reicht es oft nicht, wenn wir Menschen erklären, warum eine Veränderung sinnvoll ist. Ihr Nervensystem «muss» einbezogen werden, es «muss» die Möglichkeit haben, mitzukommen. Vertrauen kann dabei wie ein Puffer oder eine Schwimmhilfe wirken. Nur lässt sich dieses Vertrauen nicht von heute auf morgen herstellen. 
+
+Wenn ich mich sicher fühle, kann ich mich auf Neues einlassen. Dann ist da Raum für Neugier, für Fragen, für das Zulassen von Nicht-Wissen. Neurobiologisch betrachtet: Weniger Cortisol (Stresshormon), mehr Oxytocin (auch Kuschelhormon genannt, spielt eine wichtige Rolle bei der Förderung von Bindung, von positiven Emotionen). 
+
+Und genau da kommt Führung ins Spiel. Nicht im Sinne von «alles im Griff haben» oder «steuern», sondern im Sinne von Orientierung geben, Beziehungen aufbauen, pflegen, gestalten. Dazu gehört es auch, Nicht-Wissen aushalten zu können und auch zuzugeben. 
+Menschen und ihr System reagieren auf so vieles und auch auf das, was nicht gesagt wird. Auf die stillen Unsicherheiten, auf die eigenen Widerstände der Führungsperson. In diesem Prozess geht es neben der Führung auch um Resonanz und Stimmigkeit. Es geht auch um Beziehungsgestaltung.
+
+Unsere Spiegelneuronen sorgen dafür, dass wir spüren, wie es anderen geht. Und das beeinflusst, ob wir uns öffnen oder schützen.
+
+Lernen ist möglich – aber nicht immer
+
+Ja, unser Gehirn kann sich ein Leben lang verändern (Neuroplastizität). Neue Verbindungen knüpfen, alte Muster hinterfragen. Aber das passiert nicht auf Knopfdruck. Lernen braucht bestimmte Bedingungen: Sicherheit, Relevanz, Beziehung. Und auch ein gewisses Mass an Wiederholung. Ohne diese Voraussetzungen bleibt nachhaltige Veränderung Theorie und fördert nur Stress und Konflikte. 
+
+Ich frage mich manchmal, ob wir in Organisationen nicht zu oft davon ausgehen, dass Lernen einfach passiert, sobald ein Changeprozess angestossen wird. Aber vielleicht müssten wir zuerst Räume schaffen, in denen Menschen sich sicher genug fühlen, um überhaupt anders zu denken und zu handeln.
+
+Ein paar Fragen, die für mich bleiben:
+
+Wie gestalten wir Führung so, dass sie Sicherheit gibt – ohne Kontrolle? Und vor allem, wie kommen Führungspersonen gemeinsam mit den Mitarbeitenden dorthin? Denn es geht nur zusammen. Zudem stellt das grosse persönliche Anforderungen an Führungspersonen. 
+
+Wie können wir Veränderung als etwas Verstehbares und Gestaltbares gestalten, nicht als etwas, das «über uns kommt»? Dazu habe ich etliche Ideen und Gedanken, nur wie bringen wir das in die Praxis? 
+
+Und wie können wir als Lernbegleiterinnen und Lernbegleiter mithelfen, dass Vertrauen nicht eingefordert, sondern aufgebaut wird? Auch hier braucht es Beziehung und gegenseitige Offenheit.  
+
+Ich glaube nicht, dass es dafür ein Rezept gibt. Aber vielleicht reicht es, wenn wir anfangen, genauer hinzuspüren: Was passiert hier gerade – nicht nur auf der Oberfläche, sondern im Innern?
+Bei mir. Im Team. Im System.
