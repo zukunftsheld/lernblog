@@ -56,7 +56,13 @@ Sonderlich sportlich war ich nie und entsprach kaum dem Bild eines klassichen Ju
 
 {{<box title="«Immer als Letzte gewählt – Wie ich mein Sporttrauma überwand»">}}
 
-<iframe width="560" height="315" src="https://www.srf.ch/play/embed?urn=urn:srf:audio:a9490a50-f499-4a9a-8a05-6919aa718585&subdivisions=false" allowfullscreen allow="geolocation *; autoplay; encrypted-media"></iframe>
+<div style="max-width: 100%; height: 150px; position: relative; overflow: hidden;">
+  <iframe src="https://www.srf.ch/play/embed?urn=urn:srf:audio:a9490a50-f499-4a9a-8a05-6919aa718585&subdivisions=false" 
+          style="width: 100%; height: 100%; border: 0;" 
+          allowfullscreen 
+          allow="geolocation *; autoplay; encrypted-media">
+  </iframe>
+</div>
 
 {{</box>}}
 
