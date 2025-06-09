@@ -20,11 +20,24 @@ Wenn ich mich sicher fühle, kann ich mich auf Neues einlassen. Dann ist da Raum
 
 {{<box title="Aus meinem «Neuro» Lernprojekt">}}
 
+Einblicke in meine physischen und digitalen (mirroco) Notizen und Skizzen.
+
 ![](notizen_oxytocin.jpg)
 
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ikdq64kk1q0?si=i8eEXCOTkjjCHvWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Gehirn: Stress & Stresskreislauf
+
+* Wir lernen durch **Noradrenalin**, wie wir mit stressigen Situationen umgehen sollten. 
+* **Kortisol** dagegen verhindert in grossen Konzentrationen den Aufbau und die Ausschüttung von **Nervenwachstumsfaktoren** im Gehirn. 
+* Kommt es also zu längeren Stressepisoden mit intensiven Kortisolausschüttungen, fängt das Gehirn an, Netzwerke abzubauen. 
+* Die **Amygdala** arbeitet im Wesentlichen so autonom, wie der **Sympathikus.**
+
+
+
+![](gehirn-stresskreislauf_skizze.jpg)
 
 {{</box>}}
 
