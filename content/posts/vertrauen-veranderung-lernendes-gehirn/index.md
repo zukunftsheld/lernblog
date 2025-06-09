@@ -15,13 +15,15 @@ In einem Gespräch mit ChatGPT bin ich dieser Frage etwas näher gekommen. Dabei
 
 Viele denken, dass Veränderung einfach ein Schritt oder Weg von A nach B ist. Vielleicht, weil sie selbst (auch persönlich) noch nie durch eine wirkliche (grosse, umfassende, krisenbehaftete) Veränderung sind. Von A nach B? Yes! So sieht es in unserem Gehirn definitiv nicht aus. Dort ist Veränderung erstmal ein Risiko. Das Alte ist vertraut, das Neue nicht. Das Alte ist energieeffizient (weil gewohnt und somit sicher), das Neue fordert Aufmerksamkeit und Energie (viel Unbekanntes und Unsicherheit). Im besten Fall fragt das Gehirn: «Bist du sicher, dass wir das jetzt wirklich brauchen?», wahrscheinlicher scheint mir jedoch eine (unbewusste) Abwehrhaltung. «Nein, das will ich nicht.»
 
-Diese Reaktion ist kein Fehler unseres Gehirns, sondern ein Schutz (deshalb sind auch Widerstände in Change normal und okay). Es ist ein eingebautes Warnsystem – man könnte sagen eine Art Immunsystem «ich lasse nicht alles mit mir machen». Und genau deshalb reicht es oft nicht, wenn wir Menschen erklären, warum eine Veränderung sinnvoll ist. Ihr Nervensystem «muss» einbezogen werden, es «muss» die Möglichkeit haben, mitzukommen. Vertrauen kann dabei wie ein Puffer oder eine Schwimmhilfe wirken. Nur lässt sich dieses Vertrauen nicht von heute auf morgen herstellen. 
+Diese Reaktion ist kein Fehler unseres Gehirns, sondern ein Schutz (deshalb sind auch Widerstände in Change normal und okay). Das zeigt sich zum Beispiel in der sogenannten [Change-Kurve](https://www.bensblog.ch/change-management/). Das ist ein Modell, das beschreibt, wie Menschen typischerweise emotional auf Veränderung reagieren: erst Schock, dann Ablehnung, Verwirrung, bevor allmählich Akzeptanz und Integration möglich werden. Ein Prozess, der Zeit braucht und Räume, in denen Emotionen Platz haben dürfen.
+
+Es ist ein eingebautes Warnsystem – man könnte sagen eine Art Immunsystem «ich lasse nicht alles mit mir machen» (Danke [Daniela Ogi ](https://www.3punkt-ogi.ch/)für dieses Bild!). Und genau deshalb reicht es oft nicht, wenn wir Menschen erklären, warum eine Veränderung sinnvoll ist. Ihr Nervensystem «muss» einbezogen werden, es «muss» die Möglichkeit haben, mitzukommen. Vertrauen kann dabei wie ein Puffer oder eine Schwimmhilfe wirken. Nur lässt sich dieses Vertrauen nicht von heute auf morgen herstellen. 
 
 Wenn ich mich sicher fühle, kann ich mich auf Neues einlassen. Dann ist da Raum für Neugier, für Fragen, für das Zulassen von Nicht-Wissen. Neurobiologisch betrachtet: Weniger Cortisol (Stresshormon), mehr Oxytocin (auch Kuschelhormon genannt, spielt eine wichtige Rolle bei der Förderung von Bindung, von positiven Emotionen). 
 
 {{<box title="Aus meinem «Neuro» Lernprojekt">}}
 
-Einblicke in meine physischen und digitalen (mirroco) Notizen und Skizzen.
+Ein kleiner Einblick in meine physischen und digitalen ([mirroco](https://www.mirroco.ch)) Notizen und Skizzen.
 
 ![](notizen_oxytocin.jpg)
 
@@ -58,9 +60,8 @@ Ich frage mich manchmal, ob wir in Organisationen nicht zu oft davon ausgehen, d
 
 Wie gestalten wir Führung so, dass sie Sicherheit gibt – ohne Kontrolle? Und vor allem, wie kommen Führungspersonen gemeinsam mit den Mitarbeitenden dorthin? Denn es geht nur zusammen. Zudem stellt das grosse persönliche Anforderungen an Führungspersonen. 
 
-Wie können wir Veränderung als etwas Verstehbares und Gestaltbares gestalten, nicht als etwas, das «über uns kommt»? Dazu habe ich etliche Ideen und Gedanken, nur wie bringen wir das in die Praxis? 
+Wie können wir Veränderung als etwas Verstehbares und Gestaltbares gestalten, nicht als etwas, das (wie Wellen) «über uns kommt»? Dazu habe ich etliche Ideen und Gedanken, nur wie bringen wir das in die Praxis? 
 
-Und wie können wir als Lernbegleiterinnen und Lernbegleiter mithelfen, dass Vertrauen nicht eingefordert, sondern aufgebaut wird? Auch hier braucht es Beziehung und gegenseitige Offenheit.  
+Und wie können wir als Organisationsbegleiter:innen, Lernbegleiterinnen und Lernbegleiter mithelfen, dass Vertrauen nicht eingefordert, sondern aufgebaut wird? Auch hier braucht es Beziehung und gegenseitige Offenheit.  
 
-Ich glaube nicht, dass es dafür ein Rezept gibt. Aber vielleicht reicht es, wenn wir anfangen, genauer hinzuspüren: Was passiert hier gerade – nicht nur auf der Oberfläche, sondern im Innern?
-Bei mir. Im Team. Im System.
+Ich glaube nicht, dass es dafür ein Rezept gibt. Aber vielleicht reicht es, wenn wir anfangen, genauer hinzuspüren: Was passiert hier gerade – nicht nur auf der Oberfläche, sondern im Innern oder in der Tiefe? Bei mir selbst und um mich herum im Team und im System.
