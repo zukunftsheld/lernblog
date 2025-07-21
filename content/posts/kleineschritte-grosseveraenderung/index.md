@@ -12,7 +12,7 @@ footnotes = "📚**Passende Bücher:**\n\n[**Ikigai**, Die japanische Lebenskuns
 
 Es ist Sonntagmorgen und ich sehe beim Blättern in einem Magazin irgendwelche Selbstoptimierungsideen zum Erreichen der eigenen Ziele. Diese oft einfachen Ratschläge halten sich hartnäckig und lassen sich auch gut verkaufen. Was mich dabei stört, ist, dass selten bis nie geschrieben wird, wie wert- und wirkungsvoll es sein kann, dem Leben nur eine minimal andere Richtung zu geben. Dazu gehört auch, dranzubleiben, zu vertrauen und auszuhalten. Es gehört dazu, eine Vision, ein Zielbild, etwas, das zieht, zu haben – das darf sich auf dem Weg auch ändern. Das kann verdammt anstrengend und mühsam sein, aber auch genauso schön. 
 
-Ich glaube es war Hape Kerkeling der einmal gesagt hat, dass er seinem Leben nur eine minimal andere Richtung geben hat und deshalb Jahre später an einem (ganz) anderen Ort steht. In meinem Kopf ergab das etwa dieses Bild:
+Ich glaube, es war Hape Kerkeling, der einmal gesagt hat, dass er seinem Leben nur eine minimal andere Richtung geben hat und deshalb Jahre später an einem (ganz) anderen Ort steht. In meinem Kopf ergab das etwa dieses Bild:
 
 ![](vera-nderung_kleiner-wechsel-grosse-wirkung-2.jpg)
 
