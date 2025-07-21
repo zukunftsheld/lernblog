@@ -14,7 +14,7 @@ Es ist Sonntagmorgen und ich sehe beim Blättern in einem Magazin irgendwelche S
 
 Ich glaube es war Hape Kerkeling der einmal gesagt hat, dass er seinem Leben nur eine minimal andere Richtung geben hat und deshalb Jahre später an einem (ganz) anderen Ort steht. In meinem Kopf ergab das etwa dieses Bild:
 
-![](vera-nderung_kleiner-wechsel-grosse-wirkung.jpg)
+![](vera-nderung_kleiner-wechsel-grosse-wirkung-2.jpg)
 
 In den letzten 20 Jahren habe ich vieles ausprobiert, um zu genesen und meinen Weg zu gehen. Über diesen Weg habe ich in [«Meine Pinguingeschichte geschrieben»](https://www.bensblog.ch/der-pinguin-und-ich/). Alles, was ich getan habe, hat irgendwie dazu beigetragen. Heute kann ich ein paar Dinge benennen, die ich als universell wirkungsvoll betrachte. Einiges habe ich einfach so ausprobiert und später in Büchern und Modellen bestätigt erhalten, anderes ist von Menschen oder aus Büchern inspiriert. 
 
