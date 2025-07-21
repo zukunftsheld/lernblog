@@ -18,7 +18,7 @@ Ich glaube es war Hape Kerkeling der einmal gesagt hat, dass er seinem Leben nur
 
 In den letzten 20 Jahren habe ich vieles ausprobiert, um zu genesen und meinen Weg zu gehen. Über diesen Weg habe ich in [«Meine Pinguingeschichte geschrieben»](https://www.bensblog.ch/der-pinguin-und-ich/). Alles, was ich getan habe, hat irgendwie dazu beigetragen. Heute kann ich ein paar Dinge benennen, die ich als universell wirkungsvoll betrachte. Einiges habe ich einfach so ausprobiert und später in Büchern und Modellen bestätigt erhalten, anderes ist von Menschen oder aus Büchern inspiriert. 
 
-## Klein anfangen
+## **Klein anfangen**
 
 ### ➡️ Ein kleiner, konkreter Schritt zählt mehr als die perfekte Idee.
 
@@ -38,9 +38,9 @@ Der japanische Neurowissenschaftler und Autor [Ken Mogi ](https://www.bensblog.c
 
 Für mich ist das eine schöne Erinnerung: Es geht nicht darum, «die eine grosse Berufung» zu finden. Es geht vielmehr darum, die eigene Lebensweise mit Sinn und Stimmigkeit zu füllen. Sichtbar werden, ja, aber in einer Weise, die zu mir passt.
 
-## Experimentieren – etwas mit kalkulierbarem Risiko ausprobieren.
+## **Experimentieren – etwas mit kalkulierbarem Risiko ausprobieren.**
 
-### ➡️ **Nicht alles muss gleich «der grosse Wurf» sein.**
+### ➡️ Nicht alles muss gleich «der grosse Wurf» sein.
 
 Genauso wirkungsvoll wie klein anzufangen kann das Experimentieren sein. Ideen, Träume und Visionen stellen sich in der Realität manchmal als weniger interessant, motivierend oder attraktiv heraus. Deshalb lohnt es sich, (kleine) Experimente zu starten und zu erkunden, wie sich das Neue anfühlt. 
 
@@ -50,9 +50,9 @@ In der Innovationswelt spricht man oft von Design Thinking. Das ist ein Ansatz,
 
 Auch persönliche Veränderung kann so gedacht werden: als ein iterativer Prozess, in dem du unterwegs lernst, was wirklich zu dir passt. Dafür gibt es extra einen Ansatz, der sich [Life Design](https://www.youtube.com/watch?v=x5ss2ITcefA) nennt. 
 
-## Eine positive Haltung zum «Scheitern» entwickeln – «Ich lerne noch»
+## **Eine positive Haltung zum «Scheitern» entwickeln – «Ich lerne noch»**
 
-### ➡️ **Veränderung braucht den Mut zum Unvollkommenen.**
+### ➡️ Veränderung braucht den Mut zum Unvollkommenen.
 
 «Wer etwas anfängt, soll es auch zu Ende bringen». So oder so ähnlich sind wohl viele von uns geprägt. Deshalb fällt es uns vermutlich schwer, klein anzufangen oder zu experimentieren. Nicht nur das, wir haben auch Angst vor dem Scheitern, wobei Scheitern ja ein Teil von Experimentieren ist und sein soll. Wie viele gute Dinge wurden bei fehlgeschlagenen Experimenten entdeckt? Um gewünschte Veränderungen im eigenen Leben voranzubringen, lohnt es sich also eine positive Haltung zum Scheitern zu entwickeln. Wie wäre es, Scheitern nicht als etwas Negatives, als eine Niederlage anzusehen, sondern als Teil der Erfahrung – als Lernprozess. Ganz im Sinne von «Ich lerne noch». 
 
@@ -67,7 +67,7 @@ In Japan gibt es dafür ein schönes Bild: **[Kintsugi](https://finde-zukunft.d
 
 ![](kintsugi_espresso.jpg)
 
-##  Die «richtigen» Menschen finden
+## **Die «richtigen» Menschen finden**
 
 ### ➡️ Mit Unterstützung geht vieles besser.
 
@@ -82,9 +82,9 @@ Das sind nur ein paar einfache und oft schmerzhafte Aussagen. Gerade dann, wenn 
 
 Deshalb ist es gut, sich Unterstützung ausserhalb des gewohnten Umfelds zu suchen. Menschen, die einen ähnlichen Weg gegangen sind, wie du gehen möchtest. Menschen, die bereits eine Expertise in dem Gebiet haben, wo du hinmöchtest oder Menschen, die selbst auf dem Weg sind. Oder Menschen, die andere professionell begleiten. 
 
-## Sich zeigen
+## **Sich zeigen**
 
-### ➡️ **Wer gesehen werden möchte, darf sichtbar werden.**
+### ➡️ Wer gesehen werden möchte, darf sichtbar werden.
 
 Ob innere oder äussere Veränderung – gerade wer sich beruflich in eine andere Richtung verändern möchte, braucht Sichtbarkeit. Dabei spielt es keine Rolle, ob du das innerhalb deiner Organisation machst, als Selbstständige oder auf der Suche nach einer neuen Stelle. «Wer in seiner Qualität gesehen werden möchte, muss sich auch zeigen.» Das oder etwas ähnliches hat mir einmal jemand gesagt. 
 
@@ -92,7 +92,7 @@ Du möchtest dich fachlich positionieren oder Kompetenzen zeigen, die noch nicht
 
 Eine bekannter Ansatz dazu ist [WOL (Working out Loud)](https://www.youtube.com/watch?v=XpjNl3Z10uc)
 
-## Erlaube dir, die Richtung auf dem Weg zu ändern.
+## **Erlaube dir, die Richtung auf dem Weg zu ändern.**
 
 ### ➡️ Visionen und Ziele sind Leitsterne, keine Einbahnstrasse.
 
@@ -100,13 +100,13 @@ Ziele, Ideen, Visionen – das sind alles Richtungen und keine fixen Wege. Im Pr
 
 ![](einbahnstrasse.jpg)
 
-## Gelegenheiten nutzen und mutig ablehnen
+## **Gelegenheiten nutzen und mutig ablehnen**
 
 ### ➡️ Nicht jede Möglichkeit ist ein Geschenk. Und das ist okay.
 
 Sich auf den Weg zu machen, mit anderen zu vernetzen und sich zu zeigen kann dazu führen, dass sich Gelegenheiten für Austausch, für Projekte und Jobs bieten. Sei mutig und nutze Gelegenheiten. Hab aber auch den Mut, Gelegenheiten abzulehnen, die zwar schön und interessant sind, für dich jedoch nicht passen. Das Bauchgefühl kann hier ein guter Ratgeber sein. 
 
-## Dranbleiben
+## **Dranbleiben**
 
 ### ➡️ Veränderung ist ein langfristiger Prozess.
 
@@ -120,7 +120,7 @@ Es geht nicht darum, alles zu optimieren. Sondern darum, jeden Tag einen kleinen
 
 ![](baum.jpg)
 
-## An vermeintlich uninteressante Orte gehen und dem Unerwarteten Raum geben
+## **An vermeintlich uninteressante Orte gehen und dem Unerwarteten Raum geben**
 
 ### ➡️ Was sich «uninteressant» anfühlt, kann entscheidend sein.
 
@@ -132,6 +132,4 @@ All das sind keine Tipps, die man abhaken kann. Es sind Haltungen. Denkbewegunge
 
 Persönliche Veränderung beginnt selten mit einem grossen Knall. Meist beginnt sie mit einem stillen Impuls. Einer Idee. Einem inneren Ziehen. Und mit dem Mut, diesem Impuls Raum zu geben, ohne gleich zu wissen, wohin er führt.
 
-## **Veränderung ist kein Projekt, sondern ein Weg.**
-
-### Und manchmal genügt eine minimal andere Richtung, um an einen ganz neuen Ort zu gelangen.
+> Veränderung ist kein Projekt, sondern ein Weg. Und manchmal genügt eine minimal andere Richtung, um an einen ganz neuen Ort zu gelangen.
