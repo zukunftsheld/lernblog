@@ -1,7 +1,7 @@
 +++
 title = "Kleine Schritte, grosse Veränderung"
 date = "2025-07-21"
-draft = true
+draft = false
 pinned = false
 tags = ["Persönlichkeitsentwicklung", "Ikigai", "Kaizen", "DesignThinking", "LifeDesign", "Lernen", "Biografie"]
 image = "blog_titelbilder.jpg"
