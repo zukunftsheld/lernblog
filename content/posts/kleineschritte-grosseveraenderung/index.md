@@ -113,9 +113,11 @@ Veränderung braucht Zeit, viel Zeit. Dabei kannst du dir die Natur als Vorbild 
 
 Lass dich von Erfolgen und «Scheitern» nicht zu stark beeinflussen. Beides ist ein Teil des Weges.
 
-In Japan gibt es das Konzept **Kaizen** – es meint kontinuierliche Verbesserung in kleinen Schritten.
+In Japan gibt es das Konzept **[Kaizen](https://www.youtube.com/watch?v=GSzm7HlB-Ho)** – es meint kontinuierliche Verbesserung in kleinen Schritten.
 
 Es geht nicht darum, alles zu optimieren. Sondern darum, jeden Tag einen kleinen Schritt in Richtung Entwicklung zu gehen. Genau das macht Veränderung nachhaltig.
+
+![](baum.jpg)
 
 ## An vermeintlich uninteressante Orte gehen und dem Unerwarteten Raum geben
 
@@ -127,7 +129,8 @@ Manchmal sind es die Gespräche am Rande, die zufälligen Begegnungen beim Warte
 
 All das sind keine Tipps, die man abhaken kann. Es sind Haltungen. Denkbewegungen. Einladungen.
 
-Persönliche Veränderung beginnt selten mit einem grossen Knall. Meist beginnt sie mit einem stillen Impuls. Einer Idee. Einem inneren Ziehen. Und mit dem Mut, diesem Impuls Raum zu geben – ohne gleich zu wissen, wohin er führt.
+Persönliche Veränderung beginnt selten mit einem grossen Knall. Meist beginnt sie mit einem stillen Impuls. Einer Idee. Einem inneren Ziehen. Und mit dem Mut, diesem Impuls Raum zu geben, ohne gleich zu wissen, wohin er führt.
 
-**Veränderung ist kein Projekt, sondern ein Weg.**\
-Und manchmal genügt eine minimal andere Richtung, um an einen ganz neuen Ort zu gelangen.
+## **Veränderung ist kein Projekt, sondern ein Weg.**
+
+### Und manchmal genügt eine minimal andere Richtung, um an einen ganz neuen Ort zu gelangen.
