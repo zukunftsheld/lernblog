@@ -74,8 +74,8 @@ In Japan gibt es dafür ein schönes Bild: **[Kintsugi](https://finde-zukunft.d
 Wer sich auf den Weg zu seinen Ideen, Träumen oder Visionen macht, kennt die kritischen Stimmen. 
 
 * «Du?»
-* «Das ist aber schwierig»
-* «Ich könnte das nicht»
+* «Das ist aber schwierig.»
+* «Ich könnte das nicht.»
 * «Bist du dir sicher?» 
 
 Das sind nur ein paar einfache und oft schmerzhafte Aussagen. Gerade dann, wenn wir Unterstützung und Zuspruch benötigen. Oft sind es genau die Menschen, die uns nahestehen. Es geht dabei jedoch weniger um dich, sondern um sie selbst, ihre eigenen Begrenzungen oder ihre Unsicherheiten.
