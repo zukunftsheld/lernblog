@@ -1,10 +1,11 @@
 +++
-title = "kleineschritte-grosseveraenderung"
+title = "Kleine Schritte, grosse Veränderung"
 date = "2025-07-21"
 draft = true
 pinned = false
 tags = ["Persönlichkeitsentwicklung", "Ikigai", "Kaizen", "DesignThinking", "LifeDesign", "Lernen", "Biografie"]
 image = "blog_titelbilder.jpg"
+description = "Wie gestalte ich Veränderung, ohne mich selbst zu verlieren? In diesem Beitrag teile ich persönliche Prinzipien, die helfen können, dranzubleiben, neu zu denken – und dem eigenen Weg zu vertrauen.\n \n"
 +++
 # Kleine Schritte, grosse Veränderung: Ein Wegweiser für nachhaltige persönliche Entwicklung
 
@@ -36,17 +37,17 @@ Der japanische Neurowissenschaftler und Autor Ken Mogi bietet einen anderen Zuga
 
 Für mich ist das eine schöne Erinnerung: Es geht nicht darum, «die eine grosse Berufung» zu finden. Es geht vielmehr darum, die eigene Lebensweise mit Sinn und Stimmigkeit zu füllen. Sichtbar werden, ja – aber in einer Weise, die zu mir passt.
 
-## Experimentieren – Etwas mit kalkulierbarem Risiko ausprobieren.
+## Experimentieren – etwas mit kalkulierbarem Risiko ausprobieren.
 
-## ➡️ **Nicht alles muss gleich «der grosse Wurf» sein.**
+### ➡️ **Nicht alles muss gleich «der grosse Wurf» sein.**
 
 Genauso wirkungsvoll wie klein anzufangen kann das Experimentieren sein. Ideen, Träume und Visionen stellen sich in der Realität manchmal als weniger interessant, motivierend oder attraktiv heraus. Deshalb lohnt es sich, (kleine) Experimente zu starten und zu erkunden, wie sich das Neue anfühlt. 
 
 Du möchtest dich selbstständig machen? Dann könntest du dein Arbeitspensum um 20 oder 40 % reduzieren. Wie fühlt sich die Lohneinbusse an? Was macht die finanzielle Unsicherheit mit dir? Ist das, was sich als Freiheit anfühlt wirklich so oder war es eher die Vorstellung davon? 
 
-In der Innovationswelt spricht man oft von *Design Thinking* – einem Ansatz, der hilft, Neues nicht perfekt zu planen, sondern Schritt für Schritt zu entwickeln: beobachten, ausprobieren, reflektieren, anpassen.
+In der Innovationswelt spricht man oft von Design Thinking. Das ist ein Ansatz, der hilft, Neues nicht perfekt zu planen, sondern Schritt für Schritt zu entwickeln: beobachten, ausprobieren, reflektieren, anpassen. 
 
-Auch persönliche Veränderung kann so gedacht werden: als ein iterativer Prozess, in dem du unterwegs lernst, was wirklich zu dir passt.
+Auch persönliche Veränderung kann so gedacht werden: als ein iterativer Prozess, in dem du unterwegs lernst, was wirklich zu dir passt. Dafür gibt es extra einen Ansatz, der sich Life Design nennt. 
 
 ## Eine positive Haltung zum «Scheitern» entwickeln – «Ich lerne noch»
 
@@ -66,93 +67,57 @@ In Japan gibt es dafür ein schönes Bild: Kintsugi – die Kunst, Zerbrochene
 
 ##  Die «richtigen» Menschen finden
 
+### ➡️ Mit Unterstützung geht vieles besser.
+
 Wer sich auf den Weg zu seinen Ideen, Träumen oder Visionen macht, kennt die kritischen Stimmen. «Du?», «Das ist aber schwierig», «Ich könnte das nicht», «Bist du dir sicher?» - das sind nur ein paar einfache und oft schmerzhafte Aussagen. Gerade dann, wenn wir Unterstützung und Zuspruch benötigen. Oft sind es genau die Menschen, die uns nahestehen. Es geht dabei jedoch weniger um dich, sondern um sie selbst, ihre eigenen Begrenzungen oder ihre Unsicherheiten.
 
 Deshalb ist es gut, sich Unterstützung ausserhalb des gewohnten Umfelds zu suchen. Menschen, die einen ähnlichen Weg gegangen sind, wie du gehen möchtest, Menschen, die bereits eine Expertise in dem Gebiet haben, wo du hinmöchtest oder selbst auf dem Weg sind. Menschen, die andere professionell begleiten. 
 
- 
+##  Sich zeigen
 
-Sich zeigen
-
- 
-
-➡️ **Wer gesehen werden möchte, darf sichtbar werden.**
-
- 
-
- 
+### ➡️ **Wer gesehen werden möchte, darf sichtbar werden.**
 
 Ob innere oder äussere Veränderung – gerade wer sich beruflich in eine andere Richtung verändern möchte, braucht Sichtbarkeit. Dabei spielt es keine Rolle, ob du das innerhalb deiner Organisation machst, als Selbstständige oder auf der Suche nach einer neuen Stelle. «Wer in seiner Qualität gesehen werden möchte, muss sich auch zeigen.» Das oder etwas ähnliches hat mir einmal jemand gesagt. 
-
- 
 
 Du möchtest dich fachlich positionieren oder Kompetenzen zeigen, die noch nicht sichtbar sind? Dann könntest du dich auf Social Media zeigen, Blogbeiträge schreiben, einen Podcast beginnen, dein physisches Produkt ausstellen oder auf einer Webseite präsentieren. 
 
  
 
-Erlaube dir, die Richtung auf dem Weg zu ändern.
+## Erlaube dir, die Richtung auf dem Weg zu ändern.
 
- 
+### ➡️ Visionen und Ziele sind Leitsterne, keine Einbahnstrasse.
 
 Ziele, Ideen, Visionen – das sind alles Richtungen und keine fixen Wege. Im Prozess merkst du vielleicht, dass das, was dich einmal reizte, sich verändert hat. Das ist völlig in Ordnung, auch wenn gerade wieder Gedanken und Aussagen «was man anfängt macht man auch fertig», «du weisst nicht, was du willst» o. Ä. auftauchen. Erlaube dir die Abzweigungen zu nehmen, die für dich richtig sind. Genau dafür sind auch die oben genannten Punkte «Experimentieren» und «eine positive Haltung zum Scheitern entwickeln» gedacht. 
 
- 
+## Gelegenheiten nutzen und mutig ablehnen
 
- 
-
-Gelegenheiten nutzen und mutig ablehnen
-
- 
-
-➡️ **Nicht jede Möglichkeit ist ein Geschenk. Und das ist okay.**
-
- 
-
- 
+### ➡️ Nicht jede Möglichkeit ist ein Geschenk. Und das ist okay.
 
 Sich auf den Weg zu machen, mit anderen zu vernetzen und sich zu zeigen kann dazu führen, dass sich Gelegenheiten für Austausch, für Projekte und Jobs bieten. Sei mutig und nutze Gelegenheiten. Hab aber auch den Mut, Gelegenheiten abzulehnen, die zwar schön und interessant sind, für dich jedoch nicht passen. Das Bauchgefühl kann hier ein guter Hinweis sein.
 
- 
+## Dranbleiben
 
-Dranbleiben
-
- 
-
-➡️ **Veränderung ist ein langfristiger Prozess.**
-
- 
-
- 
+### ➡️ Veränderung ist ein langfristiger Prozess.
 
 Veränderung braucht Zeit, viel Zeit. Dabei kannst du dir die Natur als Vorbild nehmen. Ein Baum, der fest verwurzelt ist und blüht wächst langsam. Er wächst, schlägt mehr Wurzeln, blüht, trägt Früchte, lässt die Blätter fallen, macht Pause und beginnt wieder von vorne. Vieles passiert kaum sichtbar und trotzdem wächst der Baum immer weiter und trägt immer wieder Früchte. 
 
- 
-
 Lass dich von Erfolgen und «Scheitern» nicht zu stark beeinflussen. Beides ist ein Teil des Weges.
 
- 
-
-Im Japanischen gibt es das Prinzip *Kaizen* – es meint kontinuierliche Verbesserung in kleinen Schritten.
+In Japan gibt es das Konzept **Kaizen** – es meint kontinuierliche Verbesserung in kleinen Schritten.
 
 Es geht nicht darum, alles zu optimieren. Sondern darum, jeden Tag einen kleinen Schritt in Richtung Entwicklung zu gehen. Genau das macht Veränderung nachhaltig.
 
- 
+## An vermeintlich uninteressante Orte gehen und dem Unerwarteten Raum geben
 
-An vermeintlich uninteressante Orte gehen und dem Unerwarteten Raum geben
-
-➡️ **Was sich „uninteressant“ anfühlt, kann entscheidend sein.**
+### ➡️ Was sich «uninteressant» anfühlt, kann entscheidend sein.
 
 Eigentlich ist Fokus wichtig. Was jedoch genau so wichtig sein kann sind verschiedene Perspektiven. Manchmal eröffnen sich (vermeintlich) uninteressante Kontakte oder Gelegenheiten. Diese erweisen sich manchmal viel wertvoller als angenommen. Nutze also auch vermeintlich uninteressante Möglichkeiten – vielleicht sind sie genau das, was dir noch fehlt. 
 
- 
-
 Manchmal sind es die Gespräche am Rande, die zufälligen Begegnungen beim Warten auf den Bus oder das Buch, das du nur widerwillig aufgeschlagen hast, die dir den entscheidenden Impuls geben. Der Kurs, der «nicht dein Ding» war, zeigt dir plötzlich eine Lücke in deinem Denken auf.
-
- 
 
 All das sind keine Tipps, die man abhaken kann. Es sind Haltungen. Denkbewegungen. Einladungen.
 
 Persönliche Veränderung beginnt selten mit einem grossen Knall. Meist beginnt sie mit einem stillen Impuls. Einer Idee. Einem inneren Ziehen. Und mit dem Mut, diesem Impuls Raum zu geben – ohne gleich zu wissen, wohin er führt.
 
 **Veränderung ist kein Projekt, sondern ein Weg.**\
-Und manchmal genügt eine *minim andere Richtung*, um an einen ganz neuen Ort zu gelangen.
+Und manchmal genügt eine minimal andere Richtung, um an einen ganz neuen Ort zu gelangen.
