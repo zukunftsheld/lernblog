@@ -38,7 +38,7 @@ Wenn wir aus eigener Erfahrung wissen, dass man Krisen nicht nur überlebt, sond
 
 Dabei geht es nicht darum, alles von sich zu teilen, sondern sich dort zu zeigen, wo es stimmig ist und die eigene Erfahrung anderen helfen könnte, ihren Weg zu finden. Ganz wichtig ist hier jedoch, die eigene Erfahrung nicht zu der der anderen zu machen. Trotz aller Erfahrung und Ähnlichkeiten dieser Prozesse ist jedes Empfinden individuell. 
 
-##  Kleine Schritte, grosse Wirkung: Das Herunterbrechen in Mach- und Sichtbares
+## Kleine Schritte, grosse Wirkung: Das Herunterbrechen in Mach- und Sichtbares
 
 Grosse Visionen und Pläne sind wichtig, sie geben Richtung und Sinn. Aber sie können auch überfordern. Durch das Zerlegen in kleine Schritte, sicht- und spürbare (positive) Veränderungen bauen wir eine Brücke zwischen dem Zielbild und der Gegenwart.
 
