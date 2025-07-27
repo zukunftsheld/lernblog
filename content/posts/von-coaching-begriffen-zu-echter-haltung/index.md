@@ -1,7 +1,7 @@
 +++
 title = "Warum ich nicht (mehr) Coach oder Facilitator sein will "
 date = "2025-08-10"
-draft = true
+draft = false
 pinned = false
 tags = ["Gedanken", "Coaching"]
 image = "coaching_1.jpg"
