@@ -1,10 +1,11 @@
 +++
-title = "stabilitaet-in-bewegten-zeiten_teil2"
+title = "Stabilität in bewegten Zeiten - Teil 2"
 date = "2025-08-03"
 draft = true
 pinned = false
 tags = ["Gedanken", "Organisationsentwicklung", "VUCA", "Agilität", "Coaching", "Personalentwicklung", "Change"]
 image = "balancieren_1.jpg"
+description = "Als Personal- und Organisationsentwickler sind wir Vermittler zwischen Welten. Dabei hilft die eigene Krisenerfahrung für authentische Begleitung. "
 footnotes = "Titelbild: [Loic Leray, Unsplash](https://unsplash.com/de/@loicleray)"
 +++
 # Stabilität in bewegten Zeiten – Warum wir lernen sollten, mit Instabilität zu leben.
