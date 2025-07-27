@@ -1,5 +1,5 @@
 +++
-title = "Stabilität in bewegten Zeiten: Warum wir lernen sollten, mit Instabilität zu leben. Teil 1"
+title = "Stabilität in bewegten Zeiten: Zwischen Wunsch und Wirklichkeit"
 date = "2025-07-27"
 draft = false
 pinned = false
@@ -8,7 +8,7 @@ image = "balancieren_2.jpg"
 description = "Menschen sehnen sich nach Stabilität und Ordnung in der Arbeitswelt. Doch was ist, wenn es diese gewünschte Stabilität nicht mehr gibt? (M)ein Plädoyer für neue Haltungen im Umgang mit Dynamik, Unsicherheit und Veränderung."
 footnotes = "Titelbild: [Loic Leray, Unsplash](https://unsplash.com/de/@loicleray)"
 +++
-#### Teil 1: Zwischen Wunsch und Wirklichkeit
+# Stabilität in bewegten Zeiten: Warum wir lernen sollten, mit Instabilität zu leben - Teil 1
 
 ## Einleitende Gedanken: Zwischen Wunsch und Wirklichkeit
 
