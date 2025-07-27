@@ -1,7 +1,7 @@
 +++
 title = "Stabilität in bewegten Zeiten - Teil 2"
 date = "2025-08-03"
-draft = true
+draft = false
 pinned = false
 tags = ["Gedanken", "Organisationsentwicklung", "VUCA", "Agilität", "Coaching", "Personalentwicklung", "Change"]
 image = "balancieren_1.jpg"
