@@ -22,7 +22,7 @@ Ich denke dabei auch an die Zeit vor der Lehre. Wie soll man sich für einen Ber
 
 Entwicklung braucht Zeit und Räume, in denen etwas entstehen darf. Ich habe mehr als einmal erlebt, wie sich junge Menschen ganz anders verhalten, wenn man Ihnen Raum und Vertrauen gibt. Wer vorher als «nicht motiviert» oder «leistungsschwach» (ein Ausdruck zum Kotzen) galt, zeigt plötzlich Potenzial und blüht auf. Nicht, weil sich der Mensch so sehr verändert hätte, sondern weil sich der Rahmen verändert hat.
 
-Diese Erfahrung deckt sich mit dem, was ich [in meinen Gedanken zum Bildungssystems](https://www.bensblog.ch/was-bereitet-aufs-leben-vor/) beschrieben habe: Zu oft messen wir an einem Ideal, das längst vielen Lebensrealitäten widerspricht. Und wie ich in [meiner eigenen Pinguin-Geschichte](https://www.bensblog.ch/der-pinguin-und-ich/)erzählt habe, braucht es manchmal Zeit und die richtigen Umstände, um das eigene Element zu finden.
+Diese Erfahrung deckt sich mit dem, was ich [in meinen Gedanken zum Bildungssystems](https://www.bensblog.ch/was-bereitet-aufs-leben-vor/) beschrieben habe: Zu oft messen wir an einem Ideal, das längst vielen Lebensrealitäten widerspricht. Und wie ich in [meiner eigenen Pinguin-Geschichte ](https://www.bensblog.ch/der-pinguin-und-ich/)erzählt habe, braucht es manchmal Zeit und die richtigen Umstände, um das eigene Element zu finden.
 
 ## Was müsste sich also ändern?
 
@@ -32,7 +32,7 @@ Vielleicht geht es weniger darum, an einzelnen Stellschrauben zu drehen und mehr
 
 **Zuhören und Raum geben**: Entwicklung braucht Beziehung, und Beziehung braucht Zeit. Wer sich sicher fühlt, kann wachsen. Aber Sicherheit entsteht nicht durch Kontrolle, sondern durch echtes Interesse und Vertrauen.
 
-**Lernen neu denken (und gestlaten!):** Nicht als das Vermitteln von Stoff oder Unterricht, sondern als etwas Lebendiges. Etwas, das mit Identität, Sinn und Erfahrung zu tun hat. Das manchmal laut ist, oft aber leise. Beobachten, Zuhören, selbst ausprobieren und «scheitern», adaptieren und weitermachen.
+**Lernen neu denken (und gestalten!):** Nicht als das Vermitteln von Stoff oder Unterricht, sondern als etwas Lebendiges. Etwas, das mit Identität, Sinn und Erfahrung zu tun hat. Das manchmal laut ist, oft aber leise. Beobachten, Zuhören, selbst ausprobieren und «scheitern», adaptieren und weitermachen.
 
 **Zutrauen und Zumuten**: Vertrauen zu schenken heisst auch, etwas auszuhalten: Unsicherheit, Umwege, Suchbewegungen. Entwicklung ist kein linearer Prozess und auch kein Produkt.
 
