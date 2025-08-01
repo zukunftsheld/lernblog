@@ -10,12 +10,12 @@ footnotes = "Titelbild:  [Artūrs Ķipsts](https://unsplash.com/de/@skvaad?utm_
 +++
 Vor genau 20 Jahren begann ich meine Lehre. Damals fühlte es sich an wie ein Schritt in die Freiheit (vor allem Raus aus der Schule). Und doch war es auch ein erster, ungefilterter Einblick in die unschönen Seiten der Arbeitswelt.
 
-Die Arbeitswelt war mir nicht fremd. bei uns zuhause war Arbeit immer präsent. Vieles habe ich nicht verstanden, manches hat mich irritiert. Vor allem die Frage: Warum kann Arbeit nicht menschenfreundlicher sein?
+Die Arbeitswelt war mir nicht fremd. Bei uns zuhause war Arbeit immer präsent. Vieles habe ich nicht verstanden, manches hat mich irritiert. Vor allem die Frage: Warum kann Arbeit nicht menschenfreundlicher sein?
 
 ## Heute dachte ich beim Spaziergang über ein paar Paradoxien nach:
 
 * Akademische Berufe werden oft glorifiziert, während sogenannte „einfache" Berufe gesellschaftlich wenig Anerkennung erfahren – obwohl gerade dort dringend Fachkräfte fehlen.
-* Lernende mit »Talent» werden gefördert. Andere, oft mit schwierigeren Startbedingungen, werden gefordert, oft mit (subtilem) Druck, Zielvereinbarungen oder Androhungen. Und wir wundern uns, wenn sie nicht aufblühen, abhängen oder sogar krank werden. Wobei auch «Talente» schwierige Startbedingungen haben können. Dazu lohnt es sich, hier reinzuhören:
+* Lernende mit »Talent» werden gefördert. Andere, oft mit schwierigeren Startbedingungen, werden gefordert, oft mit (subtilem) Druck, Zielvereinbarungen oder Androhungen. Und wir wundern uns, wenn sie nicht aufblühen, abhängen oder sogar krank werden. Wobei auch «Talente» schwierige Startbedingungen haben können. Dazu lohnt es sich, [hier reinzuhören](https://zukunftshelden.podigee.io/29-erika).
 * Und dann sind da noch all die, die weder auffallen noch glänzen. Die stillen Lernenden, die weder stören noch begeistern. Sie gehen oft unter. Dabei wäre gerade auch dort Beziehung wichtig.
 
 Ich denke dabei auch an die Zeit vor der Lehre. Wie soll man sich für einen Beruf entscheiden, wenn man kaum Einblick bekommt? Schnupperlehren werden seltener, vieles läuft über Schulnoten (bereits bei der Schnupperlehre) aber sagt das wirklich etwas darüber aus, was junge Menschen gut können oder gerne tun? Darüber, wie sie sich entwickeln? Nein, definitiv nicht. Im [ZUKUNFTSHELDEN Podcast](https://zukunftshelden.podigee.io) haben einige Menschen ihre Erfahrungen und Wege geteilt.
