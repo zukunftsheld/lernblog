@@ -6,6 +6,7 @@ pinned = false
 tags = ["Gedanken", "Leadership", "Lernen"]
 image = "paradoxie.jpg"
 description = "Beim Spaziergang dachte ich über die Widersprüche unserer Berufsbildungs- und Arbeitswelt nach und was sich ändern müsste."
+footnotes = "Titelbild:  [Artūrs Ķipsts](https://unsplash.com/de/@skvaad?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) auf [Unsplash](https://unsplash.com/de/fotos/person-in-schwarzer-hose-auf-grauem-betonboden-stehend-vHoUJpMWIpY?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)"
 +++
 Vor genau 20 Jahren begann ich meine Lehre. Damals fühlte es sich an wie ein Schritt in die Freiheit (vor allem Raus aus der Schule). Und doch war es auch ein erster, ungefilterter Einblick in die unschönen Seiten der Arbeitswelt.
 
