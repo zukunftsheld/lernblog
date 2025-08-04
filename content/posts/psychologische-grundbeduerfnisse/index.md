@@ -28,7 +28,7 @@ Die Selbstbestimmungstheorie nach Deci und Ryan beschreibt, welche Bedürfnisse 
 
 ![Abbildung 1: Psychologische Grundbedürfnisse nach Epstein und Grawe, eigene Darstellung](psychologische-grundbedu-rfnisse.jpg)
 
-Der Ansatz von Epstein und Grawe[\[2]](applewebdata://D7452094-28CC-43BE-A6E7-742E160081BE#_ftn2) nennt ähnliche Grundbedürfnisse, wobei hier das Bedürfnis nach Konsistenz über den anderen stehe:
+Der Ansatz von Epstein und Grawe\[2] nennt ähnliche Grundbedürfnisse, wobei hier das Bedürfnis nach Konsistenz über den anderen stehe:
 
 ![Abbildung 2: Psychologische Grundbedürfnisse, Selbstbestimmungstheorie nach Decy und Ryan, eigene Darstellung](bedu-rfnisorientierte-mitarbeitermotivation-3.jpg)
 
