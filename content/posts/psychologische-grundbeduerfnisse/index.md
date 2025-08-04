@@ -54,11 +54,11 @@ Was wir vermutlich am besten kennen und am häufigsten wahrnehmen können, ist d
 >
 > *Dr. Markus Ramming*
 
-Verschiedene Bedürfnisbefriedigungen und Erfahrungen können wir in einer einzigen Situation erleben. So kann das Bedürfnis nach Bindung in einem Team, in dem ich mich zugehörig fühle, genauso befriedigt werden, wie das Bedürfnis nach Spass oder Freude, wenn wir lustige Momente haben. Ramming beschreibt Lust als etwas Kurzfristiges, das nicht lange anhält – was aber nicht heisst, dass es etwas weniger Wichtiges ist.[\[6]](applewebdata://D7452094-28CC-43BE-A6E7-742E160081BE#_ftn6)
+Verschiedene Bedürfnisbefriedigungen und Erfahrungen können wir in einer einzigen Situation erleben. So kann das Bedürfnis nach Bindung in einem Team, in dem ich mich zugehörig fühle, genauso befriedigt werden, wie das Bedürfnis nach Spass oder Freude, wenn wir lustige Momente haben. Ramming beschreibt Lust als etwas Kurzfristiges, das nicht lange anhält – was aber nicht heisst, dass es etwas weniger Wichtiges ist.\[6]
 
 ## Bindung
 
-Bindung und das Bindungsbedürfnis scheinen mir etwas komplexer zu sein, insbesondere wenn wir im Arbeitskontext darauf achten wollen. Denn dieses «Bedürfnis und die darauf aufbauenden Verhaltensweisen entwickeln sich gleich nach der Geburt und in den folgenden Jahren».[\[7]](applewebdata://D7452094-28CC-43BE-A6E7-742E160081BE#_ftn7) Je nachdem, wie wir geprägt sind, ist unser Bindungsverhalten als Erwachsene. Ramming schreibt von J. Bowlby, der das Bindungsverhalten von Personen in folgende drei Gruppen eingeteilt hat[\[8]](applewebdata://D7452094-28CC-43BE-A6E7-742E160081BE#_ftn8):
+Bindung und das Bindungsbedürfnis scheinen mir etwas komplexer zu sein, insbesondere wenn wir im Arbeitskontext darauf achten wollen. Denn dieses «Bedürfnis und die darauf aufbauenden Verhaltensweisen entwickeln sich gleich nach der Geburt und in den folgenden Jahren».\[7] Je nachdem, wie wir geprägt sind, ist unser Bindungsverhalten als Erwachsene. Ramming schreibt von J. Bowlby, der das Bindungsverhalten von Personen in folgende drei Gruppen eingeteilt hat\[8]:
 
 * Sicheres Bindungsverhalten
 * Unsichere Bindung und vermeidendes Beziehungsverhalten
