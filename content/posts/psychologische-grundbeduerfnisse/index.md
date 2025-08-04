@@ -20,7 +20,7 @@ Dieser Text ist eine Momentaufnahme in meinem Lernprozess «Neuro im Arbeitskont
 
 Bedürfnisse spielen in unserem (Arbeits-)Leben eine wichtige Rolle. Nur ist das mit den Bedürfnissen so eine Sache. Wir müssen wissen, welche (Grund-)Bedürfnisse wir haben und wie wir ihnen gerecht werden könn(t)en. Hier steht «könnten», weil in einer Gruppe von Menschen (beispielsweise in einem Team) die unterschiedlichen Bedürfnisse gleichzeitig vorhanden sind. Diese Bedürfnisse, auch wenn sie bei jeder Person in unterschiedlicher Ausprägung vorhanden sind, haben wir gemeinsam. 
 
-«Viele Führungspersonen sind der Überzeugung, dass ihre Mitarbeiter andere Dinge anstreben, als sie es selbst tun. Das ist jedoch ein Irrtum. Denn das würde bedeuten, dass es entweder zwei Arten von Menschen geben müsste, solche, die führen und solche, die geführt werden, oder dass es eine weitere Entwicklungsstufe gibt, nämlich die vom Menschen zur Führungskraft.» \[1]
+«Viele Führungspersonen sind der Überzeugung, dass ihre Mitarbeiter andere Dinge anstreben, als sie es selbst tun. Das ist jedoch ein Irrtum. Denn das würde bedeuten, dass es entweder zwei Arten von Menschen geben müsste, solche, die führen und solche, die geführt werden, oder dass es eine weitere Entwicklungsstufe gibt, nämlich die vom Menschen zur Führungskraft.» *\[1]*
 
 Was die psychologischen Grundbedürfnisse sind, das ist (noch) nicht ganz klar. Die Ansätze unterscheiden sich jedoch nicht so sehr (vgl. Ramming, S. 74). Hier stelle ich einmal zwei vor, wobei ich detaillierter auf den Ansatz von Epstein/Grawe eingehen werden. 
 
