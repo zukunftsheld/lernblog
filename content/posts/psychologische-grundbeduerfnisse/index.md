@@ -34,7 +34,7 @@ Der Ansatz von Epstein und Grawe\[2] nennt ähnliche Grundbedürfnisse, wobei h
 
 **Hinweis:** Die psychologischen Grundbedürfnisse sind nicht mit den biologischen Grundbedürfnissen zu verwechseln. Die biologischen Grundbedürfnisse sind für uns immer noch wichtiger und solange diese nicht erfüllt sind, spielen die psychologischen Grundbedürfnisse keine Rolle. Beide gehen jedoch m. E. Hand in Hand und oft vernachlässigen wir die biologischen Grundbedürfnisse, resp. tun gerade das Gegenteil von dem, was uns guttun würde. Ich denke da z. B. an (zu wenig) Bewegung oder (ungesunde) Ernährung. Beide haben auch einen wesentlichen Einfluss auf unser Gehirn. Mehr dazu ebenfalls im Beitrag Von Kopf bis Fuss in Bewegung: [Eine persönliche Annäherung an die Neurowissenschaft ](https://www.bensblog.ch/von-kopf-bis-fuss/)
 
->  «Was unser ganzes Handeln bestimmt und uns motiviert, ist die Befriedigung unserer Bedürfnisse»[\[3]](applewebdata://D7452094-28CC-43BE-A6E7-742E160081BE#_ftn3)
+>  «Was unser ganzes Handeln bestimmt und uns motiviert, ist die Befriedigung unserer Bedürfnisse»\[3]
 >
 >  *Dr. Markus Ramming*
 
