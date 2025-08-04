@@ -26,11 +26,11 @@ Was die psychologischen Grundbedürfnisse sind, das ist (noch) nicht ganz klar. 
 
 Die Selbstbestimmungstheorie nach Deci und Ryan beschreibt, welche Bedürfnisse befriedigt sein müssen, damit Menschen besonders motiviert (intrinsische Motivation) sind.
 
-![](psychologische-grundbedu-rfnisse.jpg)
+![Abbildung 1: Psychologische Grundbedürfnisse nach Epstein und Grawe, eigene Darstellung](psychologische-grundbedu-rfnisse.jpg)
 
 Der Ansatz von Epstein und Grawe[\[2]](applewebdata://D7452094-28CC-43BE-A6E7-742E160081BE#_ftn2) nennt ähnliche Grundbedürfnisse, wobei hier das Bedürfnis nach Konsistenz über den anderen stehe:
 
-![](bedu-rfnisorientierte-mitarbeitermotivation-3.jpg)
+![Abbildung 2: Psychologische Grundbedürfnisse, Selbstbestimmungstheorie nach Decy und Ryan, eigene Darstellung](bedu-rfnisorientierte-mitarbeitermotivation-3.jpg)
 
 **Hinweis:** Die psychologischen Grundbedürfnisse sind nicht mit den biologischen Grundbedürfnissen zu verwechseln. Die biologischen Grundbedürfnisse sind für uns immer noch wichtiger und solange diese nicht erfüllt sind, spielen die psychologischen Grundbedürfnisse keine Rolle. Beide gehen jedoch m. E. Hand in Hand und oft vernachlässigen wir die biologischen Grundbedürfnisse, resp. tun gerade das Gegenteil von dem, was uns guttun würde. Ich denke da z. B. an (zu wenig) Bewegung oder (ungesunde) Ernährung. Beide haben auch einen wesentlichen Einfluss auf unser Gehirn. Mehr dazu ebenfalls im Beitrag Von Kopf bis Fuss in Bewegung: Eine persönliche Annäherung an die Neurowissenschaft https://www.bensblog.ch/von-kopf-bis-fuss/
 
@@ -95,7 +95,7 @@ Das ist m. E. bereits für eine Person allein eine (grosse) Herausforderung und 
 
 Aktiv motivieren ist schwierig und von der Idee, andere zu motivieren, sollten wir wegkommen. Vielmehr sollten wir Umgebungen schaffen, in denen sich (individuelle) Motivation entwickeln und entfalten kann. Dabei sind Organisationen und Führungspersonen gleichermassen gefragt. Ramming spricht in diesem Fall von «Firmenwerkzeugen und «Führungskräftewerkzeugen». 
 
-![](bedu-rfnisorientierte-mitarbeitermotivation-4.jpg)
+![Abbildung 3: Bedürfnisorientierte Mitarbeitermotivation, Quelle: Ramming M. (2019), S. 85](bedu-rfnisorientierte-mitarbeitermotivation-4.jpg)
 
 > «Generelle Motivationswerkzeuge und die Motivation der Führungskräfte müssen Hand in Hand gehen.»\[15]
 >
