@@ -14,23 +14,23 @@ footnotes = "Elger E. (2013), Neuroleadership, Erkenntisse aus der Hirnforschung
 
 Im Gegensatz zu Management ist Leadership für mich menschenorientiert und hat auch viel mit der persönlichen Entwicklung der Person die «führt» zu tun. 
 
-Dieser Text ist eine Momentaufnahme in meinem Lernprozess «Neuro im Arbeitskontext» (einen besseren Namen habe ich noch nicht) und wirft einen Blick auf unser Gehirn im Zusammenhang mit Führung, Change und unseren Bedürfnissen. Wobei ich auf Prozesse im Gehirn nicht weiter eingehen werde. Ich verstehe diese zwar zunehmend besser, denke jedoch, dass die detaillierten Abläufe, was wann wo passiert, für meinen (Arbeits-)Alltag wenig relevant sind. Das heisst, im Gehirn laufen ständig Prozesse ab, die einen Einfluss auf das hier Beschriebene haben. Diese laufen jedoch nicht nur im Gehirn ab, sondern in unserem gesamten Körper, der ebenfalls Emotionen und Reaktionen abgespeichert hat. Darüber habe ich u. a. hier geschrieben: Von Kopf bis Fuss in Bewegung: [Eine persönliche Annäherung an die Neurowissenschaft ](https://www.bensblog.ch/von-kopf-bis-fuss/)
+Dieser Text ist eine Momentaufnahme in meinem Lernprozess «Neuro im Arbeitskontext» (einen besseren Namen habe ich noch nicht) und **wirft einen Blick auf unser Gehirn im Zusammenhang mit Führung, Change und unseren Bedürfnissen**. Wobei ich auf Prozesse im Gehirn nicht weiter eingehen werde. Ich verstehe diese zwar zunehmend besser, denke jedoch, dass die detaillierten Abläufe, was wann wo passiert, für meinen (Arbeits-)Alltag wenig relevant sind. Das heisst, im Gehirn laufen ständig Prozesse ab, die einen Einfluss auf das hier Beschriebene haben. Diese laufen jedoch nicht nur im Gehirn ab, sondern in unserem gesamten Körper, der ebenfalls Emotionen und Reaktionen abgespeichert hat. Darüber habe ich u. a. hier geschrieben: Von Kopf bis Fuss in Bewegung: [Eine persönliche Annäherung an die Neurowissenschaft ](https://www.bensblog.ch/von-kopf-bis-fuss/)
 
-## Bedürfnisse
+## Unsere Bedürfnisse im (Arbeits-)Leben
 
-Bedürfnisse spielen in unserem (Arbeits-)Leben eine wichtige Rolle. Nur ist das mit den Bedürfnissen so eine Sache. Wir müssen wissen, welche (Grund-)Bedürfnisse wir haben und wie wir ihnen gerecht werden könn(t)en. Hier steht «könnten», weil in einer Gruppe von Menschen (beispielsweise in einem Team) die unterschiedlichen Bedürfnisse gleichzeitig vorhanden sind. Diese Bedürfnisse, auch wenn sie bei jeder Person in unterschiedlicher Ausprägung vorhanden sind, haben wir gemeinsam. 
+Bedürfnisse spielen in unserem (Arbeits-)Leben eine wichtige Rolle. Nur ist das mit den Bedürfnissen so eine Sache. Wir müssen wissen, welche (Grund-)Bedürfnisse wir haben und wie wir ihnen gerecht werden könn(t)en. Hier steht «könnten», weil in einer Gruppe von Menschen (beispielsweise in einem Team) die unterschiedlichen Bedürfnisse gleichzeitig vorhanden sind. Diese Bedürfnisse, auch wenn sie bei jeder Person in unterschiedlicher Ausprägung vorhanden sind, haben wir gemeinsam. Dazu Markus Ramming:
 
-«Viele Führungspersonen sind der Überzeugung, dass ihre Mitarbeiter andere Dinge anstreben, als sie es selbst tun. Das ist jedoch ein Irrtum. Denn das würde bedeuten, dass es entweder zwei Arten von Menschen geben müsste, solche, die führen und solche, die geführt werden, oder dass es eine weitere Entwicklungsstufe gibt, nämlich die vom Menschen zur Führungskraft.» \[1]
+> «Viele Führungspersonen sind der Überzeugung, dass ihre Mitarbeiter andere Dinge anstreben, als sie es selbst tun. Das ist jedoch ein Irrtum. Denn das würde bedeuten, dass es entweder zwei Arten von Menschen geben müsste, solche, die führen und solche, die geführt werden, oder dass es eine weitere Entwicklungsstufe gibt, nämlich die vom Menschen zur Führungskraft.» \[1]
 
-Was die psychologischen Grundbedürfnisse sind, das ist (noch) nicht ganz klar. Die Ansätze unterscheiden sich jedoch nicht so sehr (vgl. Ramming, S. 74). Hier stelle ich einmal zwei vor, wobei ich detaillierter auf den Ansatz von Epstein/Grawe eingehen werden. 
+Was die psychologischen Grundbedürfnisse sind, darüber ist man sich (noch) nicht ganz einig. Die Ansätze unterscheiden sich jedoch nicht so sehr (vgl. Ramming, S. 74). Hier stelle ich einmal zwei vor, wobei ich später detaillierter auf den Ansatz von Epstein und Grawe eingehen werden. 
 
-Die Selbstbestimmungstheorie nach Deci und Ryan beschreibt, welche Bedürfnisse befriedigt sein müssen, damit Menschen besonders motiviert (intrinsische Motivation) sind.
+**Die Selbstbestimmungstheorie nach Deci und Ryan** beschreibt, welche Bedürfnisse befriedigt sein müssen, damit Menschen besonders motiviert (intrinsische Motivation) sind.
 
-![Abbildung 1: Psychologische Grundbedürfnisse nach Epstein und Grawe, eigene Darstellung](psychologische-grundbedu-rfnisse.jpg)
+![Abbildung 1: Psychologische Grundbedürfnisse, Selbstbestimmungstheorie nach Decy und Ryan, eigene Darstellung](bedu-rfnisorientierte-mitarbeitermotivation-5.jpg)
 
-Der Ansatz von Epstein und Grawe\[2] nennt ähnliche Grundbedürfnisse, wobei hier das Bedürfnis nach Konsistenz über den anderen stehe:
+Der **Ansatz der psychologischen Grundbedürfnisse von Epstein und Grawe**\[2] nennt ähnliche Grundbedürfnisse, wobei hier das Bedürfnis nach Konsistenz über den anderen stehe:
 
-![Abbildung 2: Psychologische Grundbedürfnisse, Selbstbestimmungstheorie nach Decy und Ryan, eigene Darstellung](bedu-rfnisorientierte-mitarbeitermotivation-3.jpg)
+![Abbildung 2: Psychologische Grundbedürfnisse nach Epstein und Grawe, eigene Darstellung](psychologische-grundbedu-rfnisse.jpg)
 
 **Hinweis:** Die psychologischen Grundbedürfnisse sind nicht mit den biologischen Grundbedürfnissen zu verwechseln. Die biologischen Grundbedürfnisse sind für uns immer noch wichtiger und solange diese nicht erfüllt sind, spielen die psychologischen Grundbedürfnisse keine Rolle. Beide gehen jedoch m. E. Hand in Hand und oft vernachlässigen wir die biologischen Grundbedürfnisse, resp. tun gerade das Gegenteil von dem, was uns guttun würde. Ich denke da z. B. an (zu wenig) Bewegung oder (ungesunde) Ernährung. Beide haben auch einen wesentlichen Einfluss auf unser Gehirn. Mehr dazu ebenfalls im Beitrag Von Kopf bis Fuss in Bewegung: [Eine persönliche Annäherung an die Neurowissenschaft ](https://www.bensblog.ch/von-kopf-bis-fuss/)
 
@@ -40,13 +40,15 @@ Der Ansatz von Epstein und Grawe\[2] nennt ähnliche Grundbedürfnisse, wobei h
 
 ![](neurochange.jpg)
 
-## Orientierung und Kontrolle
+## Die psychologischen Grundbedürfnisse nach Epstein und Grawe
+
+### Orientierung und Kontrolle
 
 Wir Menschen möchten unsere (Arbeits-)Situationen kontrollieren können. Das heisst auch, dass wir selbst (durch unsere Kompetenzen und Stärken) angestrebte Ziele erreichen oder Situationen bewältigen können. Damit verbunden sei auch das Bedürfnis nach Orientierung, schreibt Ramming. Dazu gehöre, die Welt zum uns herum zu verstehen, damit wir einschätzen können, in welcher Situation wir uns befinden. Nur so könnten wir auch entscheiden, wie wir mit einer Situation umgehen sollen und können.\[4]
 
 **Handlungsfelder für Führungspersonen:** Stärkung der Selbstwirksamkeit der Mitarbeitenden sowie aktives Einbinden und Informieren über das, was läuft. Das heisst auch, dass ihnen etwas zugemutet (z. B. schwierige Informationen) und etwas zugetraut (neues Lernen, herausfordernde Situationen bewältigen sollen und können) werden. 
 
-## Lustgewinn und Unlustvermeidung
+### Lustgewinn und Unlustvermeidung
 
 Was wir vermutlich am besten kennen und am häufigsten wahrnehmen können, ist das Bedürfnis nach Lust und Unlustvermeidung. 
 
@@ -56,7 +58,7 @@ Was wir vermutlich am besten kennen und am häufigsten wahrnehmen können, ist d
 
 Verschiedene Bedürfnisbefriedigungen und Erfahrungen können wir in einer einzigen Situation erleben. So kann das Bedürfnis nach Bindung in einem Team, in dem ich mich zugehörig fühle, genauso befriedigt werden, wie das Bedürfnis nach Spass oder Freude, wenn wir lustige Momente haben. Ramming beschreibt Lust als etwas Kurzfristiges, das nicht lange anhält – was aber nicht heisst, dass es etwas weniger Wichtiges ist.\[6]
 
-## Bindung
+### Bindung
 
 Bindung und das Bindungsbedürfnis scheinen mir etwas komplexer zu sein, insbesondere wenn wir im Arbeitskontext darauf achten wollen. Denn dieses «Bedürfnis und die darauf aufbauenden Verhaltensweisen entwickeln sich gleich nach der Geburt und in den folgenden Jahren».\[7] Je nachdem, wie wir geprägt sind, ist unser Bindungsverhalten als Erwachsene. Ramming schreibt von J. Bowlby, der das Bindungsverhalten von Personen in folgende drei Gruppen eingeteilt hat\[8]:
 
@@ -71,7 +73,7 @@ Wichtig ist, dass man lernen kann, mit diesen Mustern umzugehen oder daraus ausz
 
 Hier lohnt es sich auch, das Konzept der Schematherapie genauer anzusehen. Dafür eignet sich der Podcast [Beziehungskosmos](https://www.beziehungskosmos.com) oder das Buch *[Raus aus Schema F von Gitta Jacob](https://www.beltz.de/sachbuch_ratgeber/produkte/details/42913-raus-aus-schema-f.html)*.
 
-## Selbstwerterhöhung und Selbstwertschutz
+### Selbstwerterhöhung und Selbstwertschutz
 
 Um überhaupt das Bedürfnis nach Selbstwerterhöhung oder Selbstschutz zu haben, braucht es zuerst überhaupt das «Selbst», wobei diese Entwicklung einige Jahre dauert und sich erst nach der Ausbildung der anderen Bedürfnisse entwickelt, schreibt Ramming.\[10]  Weiter führt er aus, dass es dafür Regeln und Prinzipien der anderen Bedürfnisse nutzt. 
 
@@ -81,7 +83,7 @@ Je nachdem, welchen Bezug wir also zum Beispiel zu Sicherheit haben, bilden wir 
 
 Es ist also wichtig, sich als Führungsperson den eigenen Bedürfnissen und denen der Mitarbeitenden bewusst zu werden. Vieles davon läuft automatisch im Gehirn ab und ist durch Prägung entstanden. Da fehlt noch das Bedürfnis nach Konsistenz. 
 
-## Konsistenz
+### Konsistenz
 
 Ramming schreibt, dieses Bedürfnis stehe über allen anderen Bedürfnissen. Es bezeichne «die Vereinbarkeit gleichzeitig ablaufender neuronaler und psychischer Prozesse.»\[12] Es geht also um eine Balance, um eine Stimmigkeit, bei der «alle Wünsche, Erfahrungen, Ziele und Bedürfnisse in die gleiche Richtung gehen und der positiven Bedürfnisbefriedigung dienen.»\[13]
 
