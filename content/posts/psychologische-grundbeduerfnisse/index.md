@@ -71,7 +71,7 @@ Wichtig ist, dass man lernen kann, mit diesen Mustern umzugehen oder daraus ausz
 
 > «Wir können aus unvorteilhaften Bindungsverhaltensmustern aussteigen. Veränderung ist auch in sozialen Beziehungen möglich.»\[9]
 
-Hier lohnt es sich auch, das Konzept der Schematherapie genauer anzusehen. Dafür eignet sich der Podcast Beziehungskosmos oder das Buch «Schema F».
+Hier lohnt es sich auch, das Konzept der Schematherapie genauer anzusehen. Dafür eignet sich der Podcast [Beziehungskosmos](https://www.beziehungskosmos.com) oder das Buch *[Raus aus Schema F von Gitta Jacob](https://www.beltz.de/sachbuch_ratgeber/produkte/details/42913-raus-aus-schema-f.html)*.
 
 ## Selbstwerterhöhung und Selbstwertschutz
 
