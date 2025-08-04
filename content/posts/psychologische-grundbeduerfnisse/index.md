@@ -38,6 +38,8 @@ Der Ansatz von Epstein und Grawe[\[2]](applewebdata://D7452094-28CC-43BE-A6E7-74
 >
 >  *Dr. Markus Ramming*
 
+![](neurochange.jpg)
+
 ## Orientierung und Kontrolle
 
 Wir Menschen möchten unsere (Arbeits-)Situationen kontrollieren können. Das heisst auch, dass wir selbst (durch unsere Kompetenzen und Stärken) angestrebte Ziele erreichen oder Situationen bewältigen können. Damit verbunden sei auch das Bedürfnis nach Orientierung, schreibt Ramming. Dazu gehöre, die Welt zum uns herum zu verstehen, damit wir einschätzen können, in welcher Situation wir uns befinden. Nur so könnten wir auch entscheiden, wie wir mit einer Situation umgehen sollen und können.\[4]
@@ -89,8 +91,6 @@ Das ist m. E. bereits für eine Person allein eine (grosse) Herausforderung und 
 >
 > *Dr. Markus Ramming*
 
- 
-
 ## Wie motiviert man denn nun Mitarbeitende?
 
 Aktiv motivieren ist schwierig und von der Idee, andere zu motivieren, sollten wir wegkommen. Vielmehr sollten wir Umgebungen schaffen, in denen sich (individuelle) Motivation entwickeln und entfalten kann. Dabei sind Organisationen und Führungspersonen gleichermassen gefragt. Ramming spricht in diesem Fall von «Firmenwerkzeugen und «Führungskräftewerkzeugen». 
@@ -111,6 +111,8 @@ Wobei bei ihm die vier Grundbedürfnisse folgende sind:
 * Die Welt zu verstehen, also lernen
 * Bestehendes zu erhalten und Verluste zu vermeiden
 * Sich zu entwickeln und zu wachsen
+
+![](neuroleadership.jpg)
 
 Sie sind wieder sehr ähnlich oder je nach Auslegung fast identisch. 
 
