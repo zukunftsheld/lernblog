@@ -32,13 +32,13 @@ Mein aktuelles und bereits länger laufendes Lernprojekt hat einen Namen erhalte
 
 **Jebelli J. (2025), the brain at rest**, Wie wir durch Nichtstun unser Leben verbessern können | Tipps eines Neurowissenschaftlers gegen Überarbeitung und Burnout, Pieper Verlag
 
-**Ramming M. (2019), Neuro Change**, Antworten der Hirnforschung auf den Wandel im Management, Haufe Verlag
+**Ramming Markus, (2019), Neuro Change**, Antworten der Hirnforschung auf den Wandel im Management, Haufe Verlag
 
-**Elger C. (2013), Neuroleadership**, Erkenntnisse der Hirnforschung für die Führung von Mitarbeitern, 2. Auflage, Haufe Verlag
+**Elger Christian E., (2013), Neuroleadership**, Erkenntnisse der Hirnforschung für die Führung von Mitarbeitern, 2. Auflage, Haufe Verlag
 
-**Hasler G. (2025), Die Darm-Hirn-Connection**, Revolutionäres Wissen für unsere psychische und körperliche Gesundheit, Klett-Cotta Verlag
+**Hasler Gregor, (2025), Die Darm-Hirn-Connection**, Revolutionäres Wissen für unsere psychische und körperliche Gesundheit, Klett-Cotta Verlag
 
-**O'Mara S. (2021), Das Glück des Gehens**, Was die Wissenschaft darüber weiß und warum es uns so guttut, Rowohlt Verlag
+**O'Mara Shane, (2021), Das Glück des Gehens**, Was die Wissenschaft darüber weiß und warum es uns so guttut, Rowohlt Verlag
 
 {{</box>}}
 
