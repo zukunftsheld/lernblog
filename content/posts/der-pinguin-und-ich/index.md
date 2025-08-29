@@ -21,7 +21,7 @@ Im Buch «Glück kommt selten allein» bin ich der [Pinguin-Geschichte](https://
 ![](dall-e-2023-09-11-10.39.31-polar-bear.png)
 
 Aber im richtigen Element? Da kommt plötzlich Leichtigkeit ins Spiel.\
-Nicht, weil alles einfacher wird – sondern weil es sich plötzlich passend anfühlt. (Was einfach klingt, ist viel schwieriger, als man denken könnte und viele Life-, Sinn, Potenzial-Coaches einem weismachen wollen). 
+Nicht, weil alles einfacher wird, sondern weil es sich plötzlich passend anfühlt. (Was einfach klingt, ist viel schwieriger, als man denken könnte und viele Life-, Sinn, Potenzial-Coaches einem weismachen wollen). 
 
 ![](penguin-7542194_1280.jpg)
 
@@ -32,10 +32,10 @@ Dieses Bild des Pinguins begleitet mich seit Jahren. Einmal leise im Hintergrund
 * Arbeitsumgebung (Einrichtung, Arbeitsthemen, die Menschen mit denen man arbeitet, …)
 * Klima (Kultur, …)
 
-Genau das habe ich im Laufe der Zeit immer wieder versucht. Nicht geradlinig, nicht geplant – aber mit Neugier, mit Mut (auch wenn es sich oft nicht mutig, sondern absolut nötig anfühlt) zum Ausprobieren und einer gewissen Hartnäckigkeit. 
+Das habe ich im Laufe der Zeit immer wieder versucht. Nicht geradlinig und nicht geplant, aber mit Neugier, mit Mut (auch wenn es sich oft nicht mutig, sondern absolut nötig anfühlt) zum Ausprobieren und einer gewissen Hartnäckigkeit. 
 
 Erleben statt nur überlegen. Tun, scheitern, lernen, wieder tun.\
-Nicht dem perfekten Plan folgen – sondern Wege gehen und sichtbar machen, die vorher im Nebel lagen (und vielleicht noch vorher unmöglich schienen).
+Nicht dem perfekten Plan folgen, sondern Wege gehen und sichtbar machen, die vorher im Nebel lagen (und vielleicht noch vorher unmöglich schienen).
 
 Im Rückblick war es wohl genau dieses Prinzip, das mich weitergebracht hat.\
 Nicht *trotz* der Umwege. Sondern *wegen und mit* ihnen. (Aber eben, Umwege fühlen sich in dem Moment oft scheisse an).
@@ -86,7 +86,7 @@ Nach siebeneinhalb Jahren war es so weit: Ich fand eine Assistentenstelle in der
 
 Um als Jobcoach und Kursleiter arbeiten zu können, war eine der Anforderungen ein SVEB1-Zertifikat. Also begann ich bald nach der Anstellung mit dem Kurs. Zunächst hatte ich aufrund meiner schlechten Schulerfahrungen wenig Bezug zu Bildung und auch wenig Motivation, mich in diesem Bereich weiterzuentwickeln. Doch das Papier in der Tasche eröffnete mir bald die Möglichkeit, nicht mehr als Assistent der Kursleitung, sondern als Jobcoach und Kursleiter zu arbeiten.
 
-In dieser Rolle entdeckte ich unbekannte Stärken, aber auch Schwächen und Dinge, die mir wirklich nicht lagen oder meinen Werten stark widersprachen. Parallel zur Arbeit begann ich eine weitere Coachingausbildung und – entgegen meiner eigenen Überzeugung – fuhr ich aus irgendeinem Grund auch mit der Weiterbildung zum Ausbilder fort. Und obwohl ich mich zunächst mit den Worten anmeldete: «Ich mache das nur, weil ich muss, und ich habe wirklich keine Lust darauf», wurde dieses Modul 2 – ein mehrtägiges externes Gruppendynamikmodul – zu einer der besten (oder der einzig guten) Erfahrungen, die ich bisher in Lagerkontexten gemacht habe.
+In dieser Rolle entdeckte ich unbekannte Stärken, aber auch Schwächen und Dinge, die mir wirklich nicht lagen oder meinen Werten stark widersprachen. Parallel zur Arbeit begann ich eine weitere Coachingausbildung und – entgegen meiner eigenen Überzeugung – fuhr ich aus irgendeinem Grund auch mit der Weiterbildung zum Ausbilder fort. Und obwohl ich mich zunächst mit den Worten anmeldete: «Ich mache das nur, weil ich muss, und ich habe wirklich keine Lust darauf», wurde dieses Modul 2, ein mehrtägiges externes Gruppendynamikmodul, zu einer der besten (oder der einzig guten) Erfahrungen, die ich bisher in Lagerkontexten gemacht habe.
 
 ### **Corona und der Aufbruch in die Selbstständigkeit**
 
@@ -118,7 +118,7 @@ Im Coworking Space lernte ich Menschen kennen, die eine andere Denkweise und Hal
 
 Das Projekt drehte sich um freies, individuelles Lernen und darum, diesem Raum zu geben. Es ging nicht  darum, Wissen zu vermitteln, sondern vor allem darum, den Lernenden den Raum zu schaffen, den sie brauchten, um sich selbst zu entdecken und zu entwickeln. Ich erhielt auch dort viel Unterstützung für meine eigenen Ideen und Projekte und wurde immer wieder bestärkt, einfach weiterzumachen und mich auszuprobieren.
 
-Ich bekam die Gelegenheit zu beobachten, zu hospitieren, zuzuhören und an (bezahlten) Projekten zu arbeiten. So machte ich plötzlich Podcast-Interviews – und wurde dafür sogar bezahlt. In dieser Zeit lernte ich so einiges über mich selbst, meine Stärken, aber auch darüber, was mir weniger zusagt. Und vor allem entdeckte ich die Kraft des Ausprobierens und Entdeckens.
+Ich bekam die Gelegenheit zu beobachten, zu hospitieren, zuzuhören und an (bezahlten) Projekten zu arbeiten. So machte ich plötzlich Podcast-Interviews und wurde dafür sogar bezahlt. In dieser Zeit lernte ich so einiges über mich selbst, meine Stärken, aber auch darüber, was mir weniger zusagt. Und vor allem entdeckte ich die Kraft des Ausprobierens und Entdeckens.
 
 ### **Der Pinguin findet sein Wasser**
 
@@ -138,6 +138,6 @@ Wie der Pinguin im Wasser, so habe auch ich mein Element gefunden – nicht unbe
 
 Oft wird von *der* Berufung, dem Sinn, *dem* eigenen Ikigai, *dem* WHY gesprochen. Man müsse «*es*» nur finden und würde dabei glücklich und zufrieden. Es gab eine Zeit, da habe ich ähnlich gedacht. Heute würde ich es klar als Schwachsinn bezeichnen. So wenig, wie es *den* Traumjob oder *die eine* perfekte Partnerin gibt, so wenig gibt es *den* Sinn, *das* WHY oder *das* Ikigai (was ja sowieso von den meisten missverstanden wird). Es kann viele Wege zu sich und zur Zufriedenheit geben. Manchmal sieht man den Weg ganz klar und manchmal findet man auf dem Weg das, was man eigentlich am Ziel gesucht hätte. Auf diesen Wegen muss man vielleicht Altes auf- oder abarbeiten, Dreck fressen, immer wieder aufstehen und durch alle Zweifel gehen, ohne ein wirkliches Licht am Ende des Tunnels zu sehen. Ob es sich lohnt? Das muss wohl jede und jeder für sich selbst entscheiden. 
 
-> «Die Aufgabe wechselt nicht nur von Mensch zu Mensch – entsprechend der Einzigartigkeit jeder Person – sondern auch von Stunde zu Stunde, gemäss der Einmaligkeit jeder Situation.»
+> «Die Aufgabe wechselt nicht nur von Mensch zu Mensch,entsprechend der Einzigartigkeit jeder Person, sondern auch von Stunde zu Stunde, gemäss der Einmaligkeit jeder Situation.»
 >
 > *Viktor E. Frankl*
