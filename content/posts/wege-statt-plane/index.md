@@ -8,7 +8,7 @@ image = "declan-sun-8cgwtyo6uxc-unsplash.jpg"
 description = "Dieser Beitrag zeigt, wie Menschen ihre eigenen Stärken entdecken und Wege finden können, die wirklich zu ihnen passen. "
 footnotes = "Titelbild: [Declan Sun](https://unsplash.com/de/@declansun?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) auf [Unsplash](https://unsplash.com/de/fotos/nahaufnahme-einer-weissen-wand-mit-orangefarbenen-linien-darauf-8CGwTYo6uxc?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)"
 +++
-# **Warum starre Karrieren ausgedient haben und wir Räume brauchen, um Potenziale sichtbar zu machen**
+# **Wir brauchen mehr Räume, um Potenziale sichtbar zu machen**
 
 {{<box title="Darum geht es in diesem Beitrag">}}
 
