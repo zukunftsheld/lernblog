@@ -10,16 +10,21 @@ footnotes = "Titelbild: [Declan Sun](https://unsplash.com/de/@declansun?utm_con
 +++
 # **Warum starre Karrieren ausgedient haben und wir Räume brauchen, um Potenziale sichtbar zu machen**
 
-{{<box title="Darum geht es in diesem Beitrag">}}\
+{{<box title="Darum geht es in diesem Beitrag">}}
+
 Der klassische Karriereweg passt längst nicht mehr zu den Möglichkeiten und Potenzialen von Menschen. In diesem Text geht es darum, wie Kinder, Jugendliche und Erwachsene ihre eigenen Stärken entdecken und Wege finden können – jenseits von Noten, Schulnoten oder starren Plänen. Es geht um Räume zum Ausprobieren, um Begegnungen, Einblicke und kleine Experimente, die zeigen, was wirklich möglich ist. So entstehen individuelle Wege, die sich verändern dürfen und Potenziale sichtbar machen, die sonst unentdeckt bleiben.
 
 {{</box>}}
+
+![](blog_titelbilder-3.jpg)
 
 ## «Was willst du einmal werden?» 
 
 Diese Frage wird Kindern gerne gestellt und sie wird mit der Zeit immer ernster. Während wir bei jüngeren Kindern Prinzessin, Astronaut oder Feuerwehrfrau noch «herzig» finden, werden wir später kritischer. Bald werden die Wunschberufe in Zusammenhang mit den Schulnoten oder mit dem beobachteten (vielleicht eher interpretierten) Verhalten gesetzt. Nicht selten ist beides eine Projektion der eigenen Sicht auf die Person und die Welt.
 
 Man könnte hier noch anfügen, dass es beim «Werden» immer um den Beruf (und da ist meistens immer noch einer gemeint) handelt. Die Frage richtet sich selten (wohl nie) nach dem, was ein Mensch als Mensch werden möchte. Ein «guter», «liebevoller», «innovativer» oder was auch immer. Wobei auch diese Frage auf der Suche nach einer fixen Antwort, also etwas Statischem, einem Endzustand wäre. Das wird uns Menschen nicht gerecht. Trotzdem. Dieser Text beleuchtet das berufliche «Werden».
+
+![]()
 
 ## Woher soll man denn wissen, was man «werden» will?
 
