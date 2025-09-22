@@ -26,7 +26,7 @@ Das Gehirn liebt Routinen und schützt sich vor Veränderung. Deshalb ist Wieder
 
 Und immer wieder zeigt sich: wir wissen zwar einiges über das Gehirn, aber eigentlich noch sehr vieles nicht. Auch der ganze Körper ist beteiligt, nicht nur das Gehirn. Zum Beispiel über die Darm-Hirn-Connection. Darm und Gehirn kommunizieren miteinander, beeinflussen Stress, Emotionen und Wohlbefinden. Veränderung betrifft also immer auch den ganzen Körper. Schauen wir also in den Körper und in das Gehirn:
 
- {{<box title="**Nervensystem**">}}
+## Nervensystem
 
 Das Nervensystem ist die Basis für alles Erleben und Handeln. 
 
@@ -47,8 +47,6 @@ Verbindet das ZNS mit dem Körper, überträgt Signale in beide Richtungen.
 Das Nervensystem reagiert individuell, und gerade in Teams zeigt sich, dass unterschiedliche Reizverarbeitungen, Wahrnehmungen und Stressreaktionen zusammenkommen. Dies macht Veränderungen komplex, aber auch spannend.
 
 ![](nervensystem-2.jpg)
-
-{{</box>}}
 
 ## Neuroplastizität und Verlernen
 
