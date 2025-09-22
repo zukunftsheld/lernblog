@@ -46,7 +46,7 @@ Verbindet das ZNS mit dem Körper, überträgt Signale in beide Richtungen.
 
 Das Nervensystem reagiert individuell, und gerade in Teams zeigt sich, dass unterschiedliche Reizverarbeitungen, Wahrnehmungen und Stressreaktionen zusammenkommen. Dies macht Veränderungen komplex, aber auch spannend.
 
-![](nervensystem-2.jpg)
+![](nervensystem.png)
 
 ## Neuroplastizität und Verlernen
 
