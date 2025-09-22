@@ -16,6 +16,8 @@ Mein aktuelles und bereits länger laufendes Lernprojekt hat einen Namen erhalte
 
 {{<box title="Blogposts">}}
 
+[Veränderung, Lernen und das Nervensystem](https://www.bensblog.ch/veraenderung-lernen-nervensystem/)
+
 [Bedürfnisse verstehen, Führung gestalten und was unser Gehirn damit zu tun hat](https://www.bensblog.ch/psychologische-grundbeduerfnisse/)
 
 [](https://www.bensblog.ch/psychologische-grundbeduerfnisse/)[Vertrauen, Veränderung und das lernende Gehirn](https://www.bensblog.ch/vertrauen-veranderung-lernendes-gehirn/)
