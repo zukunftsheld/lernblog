@@ -1,9 +1,12 @@
 +++
-title = "echte-begegnung"
+title = "Die Kunst, Räume zu schaffen, in denen Menschen echt sein dürfen"
 date = "2025-10-06"
-draft = true
+draft = false
 pinned = false
 tags = ["Arbeit", "Gedanken", "Leadership", "Organisationsentwicklung", "Transformation", "Begegnung", "Team"]
+image = "blog_titelbilder-8.jpg"
+description = "Echtheit in der Arbeit ist keine Komfortzone. Manchmal braucht es Mut, Räume zu öffnen. Für Begegnung, für Tiefe, für uns selbst. Gedanken und Impulse in diesem Text. "
+footnotes = "Titelbild: Erstellt mit Bing Image Creator, ChatGPT 4o"
 +++
 ## Mein persönlicher Bezug
 
