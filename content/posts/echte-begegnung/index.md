@@ -6,7 +6,7 @@ pinned = false
 tags = ["Arbeit", "Gedanken", "Leadership", "Organisationsentwicklung", "Transformation", "Begegnung", "Team"]
 image = "blog_titelbilder-8.jpg"
 description = "Echtheit in der Arbeit ist keine Komfortzone. Manchmal braucht es Mut, Räume zu öffnen. Für Begegnung, für Tiefe, für uns selbst. Gedanken und Impulse in diesem Text. "
-footnotes = "Titelbild: Erstellt mit Bing Image Creator, ChatGPT 4o"
+footnotes = "📚Passende Bücher:\\\n\\\nTheorie U, Von der Zukunft her führen, Presencing als soziale Technik von Otto C. Scharmer\n\nTZI, Die Kunst sich selbst und eine Gruppe zu leiten - Einführung in die Themenzentrierte Interaktion von Ruth C. Cohn\n\nWork Survive Balance von Hans Rusinek, in diesem Kontext insbesondere die Kapitel: **5** Sinn, **6** Zusammenhalt, **9** Körper\n\nTitelbild: Erstellt mit Bing Image Creator, ChatGPT 4o"
 +++
 ## Mein persönlicher Bezug
 
@@ -82,6 +82,8 @@ Da gibt es etliche Möglichkeiten. Ein paar davon sind:
 ## Zukunft beginnt mit Begegnung
 
 Zukunft beginnt nicht mit Strategien, auch wenn sie wichtig sind. Sie beginnt im Moment der Begegnung – mit mir selbst, mit anderen, in Teams, in Organisationen. Dabei spielen auch spielerische Elemente eine Rolle: Sie öffnen Raeume, bringen Menschen in Bewegung, schaffen Resonanz. Ja, manchmal führt das zu weniger sichtbar messbarem Output, manchmal zu längeren Prozessen. Aber genau darin liegt die Kraft: In der Tiefe, in der Verbindung, in der Möglichkeit, dass Menschen wirklich wachsen, sich entfalten und gemeinsam Neues gestalten. Arbeit kann ein solcher Ort sein, wenn wir diese Räume bewusst zulassen und gestalten.
+
+Und Begegnung ist nicht nur im Arbeitskontext wichtig. Sie kann aber vielleicht dort eine
 
 Ich beschäftige mich nun noch stärker damit, wie genau Spiel, Experimente und Bewegung genutzt werden können, um Begegnung zu fördern und Prozesse zu vertiefen. In Teams, in Organisationen, zwischen Individuum und Gruppe (und das alles im Arbeitsalltag, der einfach weiterlaufen muss). 
 
