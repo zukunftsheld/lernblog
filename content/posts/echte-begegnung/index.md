@@ -44,7 +44,7 @@ Echtheit lebt auf mehreren Ebenen gleichzeitig. Und es ist ein Wechselspiel, das
 >
 > *Ruth C. Cohn* 
 
-## **Räume gestalten – Praxisideen**
+## Räume gestalten – Praxisideen
 
 Wie können solche Räume im Alltag aussehen? Hier ein paar Impulse:
 
@@ -63,13 +63,13 @@ Diese Punkte sind keine To-do-Liste, sondern eher Einladung, bewusst über Räum
 >
 > *Rogers Carl (1973), S. 37*
 
-## **Begegnung beginnt bei mir selbst**
+## Begegnung beginnt bei mir selbst
 
 Bevor ich anderen begegnen kann, muss ich mich selbst wahrnehmen. Wer bin ich gerade? Welche Impulse habe ich? Welche Reaktionen trage ich in mir? Erst wenn ich mir selbst begegne, kann ich authentisch in die Begegnung mit anderen treten. Und diese Begegnung ist die Basis für echte Zusammenarbeit. (Manchmal reicht schon eine Minute bewusster Präsenz, um spürbar etwas zu verändern.) 
 
 Die Begegnung mit sich selbst kann im Stillen (beim Spazieren, in der Meditation) oder im Kontakt mit anderen stattfinden. Vor längerer Zeit habe ich über eine Möglichkeit und eine eigene Erfahrung geschrieben <https://www.bensblog.ch/case-clinic/>.
 
-##  **Zukunft gestalten durch Experimente**
+##  Zukunft gestalten durch Experimente
 
 Die Zukunft entsteht nicht nur durch abstrakte Strategien oder Konzepte (sie sind auch irgendwie wichtig, aber halt auf einer anderen Ebene). Sie entsteht durch Experimente – durch Ausprobieren, Scheitern, Lernen. Individuen, Teams und Organisationen entwickeln sich durch diese kleinen Experimente, durch das bewusste Gestalten von Räumen, in denen Menschen sich einbringen dürfen (und sollen). Wir sprechen bei der Zukunft eigentlich immer von möglichen Zukünften, die wir noch nicht kennen (können). Also eine Mögliche Zukunft, die wir hier in der Gegenwart gestalten können, dürfen (uns sollten!).
 
@@ -79,7 +79,7 @@ Da gibt es etliche Möglichkeiten. Ein paar davon sind:
 * Storytelling, Visualisierungen, spielerische Elemente, die Routinen aufbrechen
 * Reflexion auf allen Ebenen: Wo entstehen Räume für Begegnung, wo werden sie blockiert?
 
-## **Zukunft beginnt mit Begegnung**
+## Zukunft beginnt mit Begegnung
 
 Zukunft beginnt nicht mit Strategien, auch wenn sie wichtig sind. Sie beginnt im Moment der Begegnung – mit mir selbst, mit anderen, in Teams, in Organisationen. Dabei spielen auch spielerische Elemente eine Rolle: Sie öffnen Raeume, bringen Menschen in Bewegung, schaffen Resonanz. Ja, manchmal führt das zu weniger sichtbar messbarem Output, manchmal zu längeren Prozessen. Aber genau darin liegt die Kraft: In der Tiefe, in der Verbindung, in der Möglichkeit, dass Menschen wirklich wachsen, sich entfalten und gemeinsam Neues gestalten. Arbeit kann ein solcher Ort sein, wenn wir diese Räume bewusst zulassen und gestalten.
 
