@@ -85,8 +85,6 @@ Da gibt es etliche Möglichkeiten. Ein paar davon sind:
 
 Zukunft beginnt nicht mit Strategien, auch wenn sie wichtig sind. Sie beginnt im Moment der Begegnung – mit mir selbst, mit anderen, in Teams, in Organisationen. Dabei spielen auch spielerische Elemente eine Rolle: Sie öffnen Raeume, bringen Menschen in Bewegung, schaffen Resonanz. Ja, manchmal führt das zu weniger sichtbar messbarem Output, manchmal zu längeren Prozessen. Aber genau darin liegt die Kraft: In der Tiefe, in der Verbindung, in der Möglichkeit, dass Menschen wirklich wachsen, sich entfalten und gemeinsam Neues gestalten. Arbeit kann ein solcher Ort sein, wenn wir diese Räume bewusst zulassen und gestalten.
 
-Und Begegnung ist nicht nur im Arbeitskontext wichtig. Sie kann aber vielleicht dort eine
-
 Ich beschäftige mich nun noch stärker damit, wie genau Spiel, Experimente und Bewegung genutzt werden können, um Begegnung zu fördern und Prozesse zu vertiefen. In Teams, in Organisationen, zwischen Individuum und Gruppe (und das alles im Arbeitsalltag, der einfach weiterlaufen muss). 
 
 Die Frage, die für mich bleibt und sich immer wieder stellt nehme ich aus dem Buch von Otto Scharmer mit. Wobei ich sie hier etwas umformulieren würde im Sinne «wie können Gruppen», da ich meistens Begleiter dieser Gruppen bin. Wobei ich gleichzeitig sagen muss, dass ich mich auch immer als Teil dieser Gruppe, der Begegnungen, des Prozesses sehe. Du siehst es ist gar nicht so einfach. Aber die Frage bleibt:\
