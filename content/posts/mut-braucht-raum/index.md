@@ -1,11 +1,12 @@
 +++
-title = "Mut braucht Raum"
+title = "Die Kunst, Räume zu gestalten, in denen Mut entstehen kann"
 date = "2025-10-11"
-draft = true
+draft = false
 pinned = false
 tags = ["Gedanken", "Lernen", "Mut", "Organisationsentwicklung"]
+image = "pilz_waldboden.jpg"
 description = "Alle reden vom Mut, doch vielleicht ist er gar keine Eigenschaft, sondern etwas, das zwischen Menschen wächst."
-footnotes = "Passende Bücher\n\nLife Design\n\nLife Design Actionbook\n\nAmy Edmondson\n\nTrust me Katrin Lausch\n\nReinventing Organizations, Frederic Laloux\n\nCorporate Rebels, Wie Pioniere die Arbeitswelt revolutionieren\n\nBücher von Carl Rogers und Viktor Frankl\n\nWorking out Loud, John Stepper\n\nTheorie U, ....\n\n\n\nTitelbild: [Axel van der Donk](https://unsplash.com/de/@axelvdd?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) auf [Unsplash](https://unsplash.com/de/fotos/selektives-fotografieren-von-weissen-pilzen-in-der-nahe-von-grunem-gras-1TmhaEufq9g?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)\n\nFluss im Wald: [Vladimir Zuhovitsky](https://unsplash.com/de/@vladzoco?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) auf [Unsplash](https://unsplash.com/de/fotos/ein-fluss-der-durch-einen-uppigen-grunen-wald-fliesst-CURn8ev-Xrs?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)\n\nWald im Nebel: [Vadim Sherbakov](https://unsplash.com/de/@madebyvadim?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) auf [Unsplash](https://unsplash.com/de/fotos/grune-baume-die-tagsuber-mit-nebel-bedeckt-sind-NQSWvyVRIJk?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)\n\nWald, Sonne, Berge:  [Sergei A](https://unsplash.com/de/@sakulich?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) auf [Unsplash](https://unsplash.com/de/fotos/pine-trees-field-near-mountain-under-sunset--heLWtuAN3c?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
+footnotes = "📚**Passende Bücher**\n\n**Life Design**, Mit Design Thinking, Positiver Psychologie und Life Loops mehr von sich in das eigene Leben bringen, Martin J. Eppler, Sebastian Kernbach\n\n**Life Design Actionbook**, Kreativität, Neugierde und Initiative kultivieren. Vom Denken ins Handeln kommen, um die Zukunft proaktiv zu gestalten, Martin J. Eppler, Sebastian Kernbach\n\n**Die angstfreie Organisation**, Wie Sie psychologische Sicherheit am Arbeitsplatz für mehr Entwicklung, Lernen und Innovation schaffen, Amy Edmondson\n\n**Trust me. Warum Vertrauen die Zukunft der Arbeit ist**, Wie wir eine vertrauensvolle Zusammenarbeit im Unternehmen fördern, Mitarbeiter stärken und New Leadership umsetzen, Karin Lausch\n\n**Reinventing Organizations**, Ein Leitfaden zur Gestaltung sinnstiftender Formen der Zusammenarbeit, Frederic Laloux\n\n**Corporate Rebels**, Wie Pioniere die Arbeitswelt revolutionieren, Joost Minnaar, Pim de Morree\n\n**Bücher von Carl Rogers und Viktor Frankl**\n\n**Working Out Loud**, Wie Sie Ihre Selbstwirksamkeit stärken und Ihre Karriere und Ihr Leben nach eigenen Vorstellungen gestalten, John Stepper\n\n**Theorie U** - Von der Zukunft her führen, Presencing als soziale Technik, Otto C. Scharmer\n\n📷Bilder: \n\nTitelbild: [Axel van der Donk](https://unsplash.com/de/@axelvdd?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) auf [Unsplash](https://unsplash.com/de/fotos/selektives-fotografieren-von-weissen-pilzen-in-der-nahe-von-grunem-gras-1TmhaEufq9g?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)\n\nFluss im Wald: [Vladimir Zuhovitsky](https://unsplash.com/de/@vladzoco?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) auf [Unsplash](https://unsplash.com/de/fotos/ein-fluss-der-durch-einen-uppigen-grunen-wald-fliesst-CURn8ev-Xrs?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)\n\nWald im Nebel: [Vadim Sherbakov](https://unsplash.com/de/@madebyvadim?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) auf [Unsplash](https://unsplash.com/de/fotos/grune-baume-die-tagsuber-mit-nebel-bedeckt-sind-NQSWvyVRIJk?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)\n\nWald, Sonne, Berge:  [Sergei A](https://unsplash.com/de/@sakulich?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) auf [Unsplash](https://unsplash.com/de/fotos/pine-trees-field-near-mountain-under-sunset--heLWtuAN3c?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
 +++
 ## Die stille Erwartung, mutig zu sein
 
@@ -22,6 +23,8 @@ Doch je länger ich darüber nachdenke, desto mehr Irritationen habe ich. Fragen
 Ist Mut eine heroische Tat von Held:innen, die unter riskanten Bedingungen etwas tun, dass ihnen selbst schaden könnte? So ist es doch in vielen Köpfen drin, nicht? Aber wie viele sind bereit (und mit ihnen ihre ganzen Systeme Gehirn/Körper, Nervensystem), sich diesen Risiken zu stellen? Welchen Sinn würde das überhaupt machen? 
 
 Vielleicht macht es Sinn, die Perspektive zu wechseln: Wie oft sind es die Rahmenbedingungen, die fehlen, in denen Mut überhaupt entstehen kann? Und eben nicht dieser heroische ritterliche Mut, sondern der, etwas zu denken, zu sagen, zu tun, das ausserhalb unserer Komfortzone oder ausserhalb des Gewohnten ist. Etwas, das anders oder besser sein könnte, aber noch im Nebel liegt. 
+
+![](wald_nebel.jpg)
 
 ## Rahmen, in denen Mut wachsen kann
 
@@ -57,8 +60,6 @@ Wichtig ist: psychologische Sicherheit heisst nicht, Verantwortung aufzugeben od
 >
 > *Viktor E. Frankl*
 
-
-
 ## Mut gestalten – mit Life Design
 
 Doch psychologische Sicherheit allein reicht nicht. Räume müssen gestaltet werden. Sie sind nicht einfach da. Für mich passt dazu der Gedanke des Life Design. Ein Praxisansatz, mit dem man experimentierend die Zukunft gestaltet. Life Design lädt dazu ein, sich selbst als Gestaltende:r zu sehen, kleine Probewege zu gehen, Hypothesen zu testen, Elemente zu verschieben. In diesem Ansatz geht es nicht um grandiose Ideen, sondern um den nächsten kleinen Versuch: was könnte ich heute anders denken, anders fragen, anders anfangen?\
@@ -71,6 +72,8 @@ Ein paar Kernelemente aus dem Life Design, die für mich gut hierhin passen.
 * Perfektion: Möglich machen, dass etwas nicht perfekt ist, sondern sich entwickelt.  
 * Varianten denken: Nicht nur Plan A, sondern Alternativen ausprobieren, Wege offenhalten. 
 * Eigenverantwortung und Co-Design: Menschen werden eingeladen, nicht gesteuert. Sie tragen ihren Teil bei. 
+
+![](fluss-wald.jpg)
 
 ## Entfaltung braucht Beziehung
 
@@ -100,3 +103,5 @@ Und vielleicht beginnt Förderung von Mut immer mit einer einfachen Geste: einem
 ## Wenn Mut selbstverständlich wird
 
 Und dann ist die Frage, ob wir noch von Mut sprechen müssen oder sollten. Vielleicht ist Mut dann nicht mehr wichtig, weil das gemeinsame Gestalten, Leben und Arbeiten normal geworden ist. Dann sind wir vielleicht nicht mehr «mutig» sondern einfach «nur noch» Gestalter:innen.
+
+![](wald-berge-sonne.jpg)
