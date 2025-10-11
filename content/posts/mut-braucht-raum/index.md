@@ -37,8 +37,7 @@ Weil das Risiko spürbar ist, weil niemand weiss, wie die Reaktion ausfallen wir
 Gerade daran wird für mich sichtbar, wie sehr Mut und System miteinander verwoben sind.\
 Wie sehr Strukturen, Abläufe und das Klima in Teams bestimmen, ob etwas wachsen kann oder ob es leise (oder unter Druck) wieder verschwindet.
 
-Es ist leicht, Mut zu fordern, aber schwer, ihn zu ermöglichen.\
-Vielleicht braucht es weniger Appelle an Einzelne als vielmehr Aufmerksamkeit für das, was sie umgibt – für den Raum, der die DInge, die mit dem, was unter Mut verstanden wird, erst möglich macht.
+Es ist leicht, Mut zu fordern, aber schwer, ihn zu ermöglichen. Vielleicht braucht es weniger Appelle an Einzelne als vielmehr Aufmerksamkeit für das, was sie umgibt – für den Raum, der das, was unter Mut verstanden wird, erst möglich macht. 
 
 ## Frühes Zügeln des Denkens
 
@@ -65,7 +64,7 @@ Wichtig ist: psychologische Sicherheit heisst nicht, Verantwortung aufzugeben od
 Doch psychologische Sicherheit allein reicht nicht. Räume müssen gestaltet werden. Sie sind nicht einfach da. Für mich passt dazu der Gedanke des Life Design. Ein Praxisansatz, mit dem man experimentierend die Zukunft gestaltet. Life Design lädt dazu ein, sich selbst als Gestaltende:r zu sehen, kleine Probewege zu gehen, Hypothesen zu testen, Elemente zu verschieben. In diesem Ansatz geht es nicht um grandiose Ideen, sondern um den nächsten kleinen Versuch: was könnte ich heute anders denken, anders fragen, anders anfangen?\
 Ein solcher Ansatz ist kein Rezept, sondern eine Haltung – eine Einladung, mit den Mitteln des Alltags Gestaltungsspielräume auszuloten. Auch wenn es dabei eher um Einzelpersonen geht, so liegt dort für mich sehr viel Haltung drin, die gerade in Teams genutzt werden kann.
 
-Ein paar Kernelemente aus dem Life Design, die für mich gut hierhin passen. 
+**Ein paar Kernelemente aus dem Life Design, die für mich gut hierhin passen.** 
 
 * Kleine Experimente: Nicht alles auf einmal verändern, sondern mit überschaubaren Schritten arbeiten
 * Reflexion & Iteration: Beobachten, wie etwas wirkt, nachjustieren, lernen aus dem Unfertigen.  Neugier statt
