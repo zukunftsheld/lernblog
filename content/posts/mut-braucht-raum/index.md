@@ -5,7 +5,7 @@ draft = true
 pinned = false
 tags = ["Gedanken", "Lernen", "Mut", "Organisationsentwicklung"]
 description = "Alle reden vom Mut, doch vielleicht ist er gar keine Eigenschaft, sondern etwas, das zwischen Menschen wächst."
-footnotes = "Passende Bücher\n\nLife Design\n\nLife Design Actionbook\n\nAmy Edmondson\n\nTrust me Katrin Lausch\n\nReinventing Organizations, Frederic Laloux\n\nCorporate Rebels, Wie Pioniere die Arbeitswelt revolutionieren\n\nBücher von Carl Rogers und Viktor Frankl\n\nWorking out Loud, John Stepper\n\nTheorie U, ...."
+footnotes = "Passende Bücher\n\nLife Design\n\nLife Design Actionbook\n\nAmy Edmondson\n\nTrust me Katrin Lausch\n\nReinventing Organizations, Frederic Laloux\n\nCorporate Rebels, Wie Pioniere die Arbeitswelt revolutionieren\n\nBücher von Carl Rogers und Viktor Frankl\n\nWorking out Loud, John Stepper\n\nTheorie U, .... \n\nTitelbild: \n\nWald im Nebel: \n\nFluss im Wald:  [Vladimir Zuhovitsky](https://unsplash.com/de/@vladzoco?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) auf [Unsplash](https://unsplash.com/de/fotos/ein-fluss-der-durch-einen-uppigen-grunen-wald-fliesst-CURn8ev-Xrs?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
 +++
 ## Die stille Erwartung, mutig zu sein
 
