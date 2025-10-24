@@ -1,12 +1,10 @@
 +++
-title = "von-teams-zu-zusammenarbeit"
+title = "Zusammenarbeiten: Zwischen Menschen, Systemen und Möglichkeiten"
 date = "2025-10-24"
 draft = true
 pinned = false
 tags = ["Organisationsentwicklung", "Teamarbeit"]
 +++
-**Zusammenarbeiten: Zwischen Menschen, Systemen und Möglichkeiten**
-
 Teamarbeit ist ein Schlagwort unserer Zeit. In Stelleninseraten wird Teamfähigkeit gewünscht und so manche Person bezeichnet sich selbst als Teamplayer. Wenn also Organisationen teamfähige Personen anstellen und so viele Teamplayer sind, weshalb funktionieren viele Teams dann nicht oder nur oberflächlich? Brauchen wir vielleicht einen anderen Blick auf Teams oder auf Zusammenarbeit?
 
 Sich als Team zu finden und ein Team zu sein und zu bleiben ist Arbeit. Arbeit, die manchmal bewusst und oft unbewusst stattfindet. Aber braucht es wirklich ein Team, oder reicht eine Gruppe von Menschen, die zusammenarbeitet und wenn ja, ist das dann bereits ein Team?
@@ -17,17 +15,17 @@ Vielleicht haben sie einfach vergessen, was dieser Strang überhaupt ist. Verges
 
 Und trotzdem passiert etwas. Menschen kommen zusammen, tauschen sich aus, lösen Probleme, bringen sich ein, manchmal halb, manchmal ganz. Ob das Teamarbeit heisst oder Zusammenarbeit oder einfach «miteinander funktionieren», spielt fast keine Rolle. Es geht um das Gleiche: um Menschen, die in einem System gemeinsam etwas erreichen wollen (oder sollen).
 
-In Organisationen, in denen alles in Bewegung ist. Menschen, Aufgaben, Strukturen, Erwartungen. Kann man da überhaupt noch von «Team» sprechen, oder ist es eher ein ständiges «Zusammenfinden auf Zeit»? (Und wäre das überhaupt schlimm?)
+In Organisationen, in denen alles in Bewegung ist (Menschen, Aufgaben, Strukturen, Erwartungen). Kann man da überhaupt noch von «Team» sprechen, oder ist es eher ein ständiges «Zusammenfinden auf Zeit»? (Und wäre das überhaupt schlimm?)
 
-**Unterschiedlichkeit und Dynamik: Die Spannung halten**
+## Unterschiedlichkeit und Dynamik: Die Spannung halten
 
-Zusammenarbeit ist selten stabil. Menschen kommen, gehen, sind (teilzeit-, ferien- oder krankheitsbedingt) abwesend, vertreten einander, springen ein, fallen (länger) aus. Und gleichzeitig muss etwas entstehen, das trägt oder tragen soll. Unterschiedlichkeit ist dabei die grösste Ressource und eine der grössten Herausforderungen.
+Zusammenarbeit ist selten stabil. Menschen kommen, gehen, sind (teilzeit-, ferien- oder krankheitsbedingt) abwesend, vertreten einander, springen (spontan) ein, fallen (länger) aus. Und gleichzeitig muss etwas entstehen, das trägt oder tragen soll. Unterschiedlichkeit und die Dynamik sind dabei die grössten Ressourcen und die grössten Herausforderungen. 
 
-Teams oder Arbeitsgemeinschaften, wenn man es neutraler sagen will, bewegen sich in Zyklen: Sie finden sich, reiben sich, sortieren sich, wachsen und beginnen wieder von vorn. Konflikte gehören dazu, sie sind Teil der Entwicklung. Bruce Tuckman beschreibt diesen Moment als «Storming», aber das klingt harmloser, als es ist. Denn das «Reiben» tut weh, kostet Energie, macht müde. Und doch: Ohne das keine Entwicklung.
+Teams (oder Arbeitsgemeinschaften, wenn man es neutraler sagen will) bewegen sich in Zyklen: Sie finden sich, reiben sich, sortieren sich, wachsen und beginnen wieder von vorn (und meistens chaotischer als hier beschrieben). Konflikte gehören dazu, sie sind Teil der Entwicklung. Bruce Tuckman beschreibt diesen Moment als «Storming», aber das klingt harmloser, als es ist. Denn das «Reiben» tut weh, kostet Energie, macht müde. Und doch braucht es das für die Entwicklung.
 
-Das Schwierige ist, dass in einem dynamischen Umfeld mit Schichten, wechselnden Besetzungen und kurzfristigen Veränderungen kaum Zeit bleibt, diese Prozesse bewusst zu durchlaufen. Oft landet man direkt im Tun. Und merkt irgendwann, dass das Vertrauen nie richtig entstanden ist. Was dann folgt, sind Spannungen, Unzufriedenheit, kleine Grüppchenbildungen. Die Kommunikation wird knapper, der Ton vorsichtiger, und irgendwo zwischen Routine und Zeitdruck geht das Miteinander (ganz) verloren.
+Das Schwierige ist, dass in einem dynamischen Umfeld mit Schichten, wechselnden Besetzungen und kurzfristigen Veränderungen kaum Zeit bleibt, diese Prozesse bewusst zu durchlaufen geschweihe denn ein Auge darauf zu haben. Oft landet man direkt im Tun. Irgendwann merkt man dann, dass das Vertrauen nie richtig entstanden ist (im Gegenteil). Was dann folgt, sind Spannungen, Unzufriedenheit und kleine Grüppchenbildungen. Die Kommunikation wird knapper, der Ton vorsichtiger oder unfreundlicher, und irgendwo zwischen Routine und Zeitdruck geht das Miteinander (ganz) verloren.
 
-**Konflikte, Kommunikation und Vertrauen**
+## Konflikte, Kommunikation und Vertrauen
 
 Friedrich Glasl beschreibt, wie Konflikte sich langsam ausbreiten. Fast unmerklich. Eine nicht beantwortete Frage. Eine Mail, die man zweimal liest, weil sie irgendwie anders klingt. Ein Blick, der hängen bleibt. Und plötzlich entsteht eine Irritation, vielleicht zunehmend Distanz und möglicherweise Interpretation die sich hochschaukelt (denken wir dabei doch an Paul Watzlawick). Für solche Situationen schlägt das Harvard-Konzept vor, zwischen Person und Sache zu unterscheiden. Klingt einfach, ist aber schwer, wenn die Beziehungsebene brüchig ist. Wenn man sich nur flüchtig begegnet, bleibt wenig Raum, um Irritationen anzusprechen und erst Recht die Themen so aufzudröseln, damit (wieder) zwischen Person(en) und Sache(n) unterschieden werden kann.
 
