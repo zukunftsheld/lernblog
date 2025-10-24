@@ -5,6 +5,7 @@ draft = true
 pinned = false
 tags = ["Organisationsentwicklung", "Teamarbeit"]
 description = "Alle reden von teamfähigen Personen, doch viele Teams funktionieren trotzdem nur oberflächlich. Vielleicht braucht es einen anderen Blick auf Zusammenarbeit. Einen, der Unterschiedlichkeit, Konflikte und das Unterwegs-Sein als Teil des Prozesses versteht."
+footnotes = "*Organisationskultur und Leadership,* Edgar H. Schein\n\n*Die fünf Dysfunktionen eines Teams: Eine Leadership-Fabel,* Patrick Lencioni\n\n*Das Harvard-Konzept: Der Klassiker der Verhandlungstechnik,* Roger Fisher, William Ury & Bruce Patton"
 +++
 Teamarbeit ist ein Schlagwort unserer Zeit. In Stelleninseraten wird Teamfähigkeit gewünscht und so manche Person bezeichnet sich selbst als Teamplayer. Wenn also Organisationen teamfähige Personen anstellen und so viele Teamplayer sind, weshalb funktionieren viele Teams dann nicht oder nur oberflächlich? Brauchen wir vielleicht einen anderen Blick auf Teams oder auf Zusammenarbeit?
 
