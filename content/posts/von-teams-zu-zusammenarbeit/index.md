@@ -1,11 +1,12 @@
 +++
 title = "Zusammenarbeiten: Zwischen Menschen, Systemen und Möglichkeiten"
 date = "2025-10-24"
-draft = true
+draft = false
 pinned = false
-tags = ["Organisationsentwicklung", "Teamarbeit"]
+tags = ["Organisationsentwicklung", "Teamarbeit", "Zusammenarbeit"]
+image = "team.jpg"
 description = "Alle reden von teamfähigen Personen, doch viele Teams funktionieren trotzdem nur oberflächlich. Vielleicht braucht es einen anderen Blick auf Zusammenarbeit. Einen, der Unterschiedlichkeit, Konflikte und das Unterwegs-Sein als Teil des Prozesses versteht."
-footnotes = "*Organisationskultur und Leadership,* Edgar H. Schein\n\n*Die fünf Dysfunktionen eines Teams: Eine Leadership-Fabel,* Patrick Lencioni\n\n*Das Harvard-Konzept: Der Klassiker der Verhandlungstechnik,* Roger Fisher, William Ury & Bruce Patton"
+footnotes = "📚**Passende Bücher** \n\n**Organisationskultur und Leadership**, Edgar H. Schein\n\n**Die fünf Dysfunktionen eines Teams,** Patrick Lencioni\n\n**Das Harvard-Konzept**, Die unschlagbare Methode für beste Verhandlungsergebnisse, Roger Fisher, William Ury & Bruce Patton\n\n**TZI, Die Kunst sich selbst und eine Gruppe zu leiten**, Einführung in die Themenzentrierte Interaktion von Ruth C. Cohn\n\n**Dynamik in Gruppen**, Handbuch der Gruppenleitung, Eberhard Stahl\n\n📷Titelbild: Erstellt mit ChatGPT"
 +++
 Teamarbeit ist ein Schlagwort unserer Zeit. In Stelleninseraten wird Teamfähigkeit gewünscht und so manche Person bezeichnet sich selbst als Teamplayer. Wenn also Organisationen teamfähige Personen anstellen und so viele Teamplayer sind, weshalb funktionieren viele Teams dann nicht oder nur oberflächlich? Brauchen wir vielleicht einen anderen Blick auf Teams oder auf Zusammenarbeit?
 
@@ -41,7 +42,9 @@ Friedrich Glasl beschreibt neun Eskalationsstufen, die sich in drei Phasen einte
 
 In der zweiten Phase (Stufen 4-6) kippt es: Hier geht es um Win-Lose. Jemand muss gewinnen, jemand verlieren. Koalitionen entstehen, Gesichtsverlust droht, Drohungen werden ausgesprochen. Die Beziehungsebene ist bereits beschädigt, und es braucht oft externe Unterstützung (Mediation, Führung, Moderation), um wieder herauszufinden.
 
-Ab der dritten Phase (Stufen 7-9) wird es destruktiv: Lose-Lose. Hier geht es nicht mehr ums Gewinnen, sondern nur noch darum, dass der andere auch verliert. Selbst wenn es einem selbst schadet. Das ist der Punkt, an dem Zusammenarbeit nicht mehr möglich ist (und an dem oft nur noch strukturelle Trennungen helfen). (Glasl unterscheidet dabei neun Eskalationsstufen von Verhärtung bis zur gemeinsamen Selbstzerstörung.)
+Ab der dritten Phase (Stufen 7-9) wird es destruktiv: Lose-Lose. Hier geht es nicht mehr ums Gewinnen, sondern nur noch darum, dass der andere auch verliert. Selbst wenn es einem selbst schadet. Das ist der Punkt, an dem Zusammenarbeit nicht mehr möglich ist (und an dem oft nur noch strukturelle Trennungen helfen). 
+
+Glasl unterscheidet dabei neun Eskalationsstufen von Verhärtung bis zur gemeinsamen Selbstzerstörung.
 
 ## Führung und Kultur: Das System prägt die Beziehung
 
