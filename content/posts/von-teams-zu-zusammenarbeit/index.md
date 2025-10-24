@@ -4,6 +4,7 @@ date = "2025-10-24"
 draft = true
 pinned = false
 tags = ["Organisationsentwicklung", "Teamarbeit"]
+description = "Alle reden von teamfähigen Personen, doch viele Teams funktionieren trotzdem nur oberflächlich. Vielleicht braucht es einen anderen Blick auf Zusammenarbeit. Einen, der Unterschiedlichkeit, Konflikte und das Unterwegs-Sein als Teil des Prozesses versteht."
 +++
 Teamarbeit ist ein Schlagwort unserer Zeit. In Stelleninseraten wird Teamfähigkeit gewünscht und so manche Person bezeichnet sich selbst als Teamplayer. Wenn also Organisationen teamfähige Personen anstellen und so viele Teamplayer sind, weshalb funktionieren viele Teams dann nicht oder nur oberflächlich? Brauchen wir vielleicht einen anderen Blick auf Teams oder auf Zusammenarbeit?
 
@@ -27,11 +28,13 @@ Das Schwierige ist, dass in einem dynamischen Umfeld mit Schichten, wechselnden 
 
 ## Konflikte, Kommunikation und Vertrauen
 
-Friedrich Glasl beschreibt, wie Konflikte sich langsam ausbreiten. Fast unmerklich. Eine nicht beantwortete Frage. Eine Mail, die man zweimal liest, weil sie irgendwie anders klingt. Ein Blick, der hängen bleibt. Und plötzlich entsteht eine Irritation, vielleicht zunehmend Distanz und möglicherweise Interpretation die sich hochschaukelt (denken wir dabei doch an Paul Watzlawick). Für solche Situationen schlägt das Harvard-Konzept vor, zwischen Person und Sache zu unterscheiden. Klingt einfach, ist aber schwer, wenn die Beziehungsebene brüchig ist. Wenn man sich nur flüchtig begegnet, bleibt wenig Raum, um Irritationen anzusprechen und erst Recht die Themen so aufzudröseln, damit (wieder) zwischen Person(en) und Sache(n) unterschieden werden kann.
+Schauen wir dabei einmal auf ein paar Ansätze zur Zusammenarbeit und Führung von Gruppen. 
 
-Ruth Cohn hat gesagt: «Störungen haben Vorrang.» (was für mich bis heute einer meiner wichtigsten Begleitsätze in Begleitungen von Gruppen und auch für mich selbst ist) Ich finde, das gilt besonders für Teams, die im ständigen Wechsel sind. Wenn etwas nicht stimmt, wenn sich etwas verschiebt – das wahrzunehmen (oder zumindest die vielleicht vage Irritation anzusprechen) und kurz innezuhalten, bevor man weitermacht, ist vielleicht die wichtigste Führungsaufgabe. (Und eine der schwersten.)
+Friedrich Glasl beschreibt, wie Konflikte sich langsam ausbreiten. Fast unmerklich. Eine nicht beantwortete Frage. Eine Mail, die man zweimal liest, weil sie irgendwie einen Unterton hat (oder haben könnte). Ein Blick, der hängen bleibt. Und plötzlich entsteht eine Irritation, vielleicht zunehmend Distanz und möglicherweise eine Interpretation die sich hochschaukelt (denken wir dabei doch an Paul Watzlawick). Für solche Situationen schlägt das Harvard-Konzept vor, zwischen Person und Sache zu unterscheiden. Klingt einfach, ist aber schwer, wenn die Beziehungsebene brüchig ist. Wenn man sich nur flüchtig begegnet, bleibt wenig Raum, um Irritationen anzusprechen und erst Recht die Themen so aufzudröseln, damit (wieder) zwischen Person(en) und Sache(n) unterschieden werden kann.
 
-Manchmal (oder vielleicht ganz grundsätzlich) zeigt sich Vertrauen nicht darin, dass alles gut ist, sondern darin, dass man etwas Unangenehmes ansprechen darf.
+Ruth Cohn hat gesagt: «Störungen haben Vorrang.» (Was für mich bis heute einer meiner wichtigsten Begleitsätze in Begleitungen von Gruppen und auch für mich selbst ist). Ich finde, das gilt besonders für Teams, die im ständigen Wechsel sind (und das sind so viele). Wenn etwas nicht stimmt, wenn sich etwas verschiebt – das wahrzunehmen (oder zumindest die vielleicht vage Irritation anzusprechen) und kurz innezuhalten, bevor man weitermacht, ist vielleicht die wichtigste Führungsaufgabe. (Und eine der schwersten.)
+
+Manchmal (oder vielleicht ganz grundsätzlich) zeigt sich Vertrauen nicht darin, dass alles gut ist, sondern darin, dass man etwas Unangenehmes ansprechen kann. (Da würde die psychologische Sicherheit eine wichtige Rolle spielen.)
 
 Friedrich Glasl beschreibt neun Eskalationsstufen, die sich in drei Phasen einteilen lassen. In der ersten Phase (Stufen 1-3) gibt es noch Win-Win-Möglichkeiten – beide Seiten können gewinnen, wenn man miteinander spricht, wenn man die Irritationen anspricht und klärt. Es ist die Phase, in der Konflikte produktiv sein können (wenn man sie denn zulässt und nicht unter den Teppich kehrt).
 
@@ -39,38 +42,42 @@ In der zweiten Phase (Stufen 4-6) kippt es: Hier geht es um Win-Lose. Jemand mus
 
 Ab der dritten Phase (Stufen 7-9) wird es destruktiv: Lose-Lose. Hier geht es nicht mehr ums Gewinnen, sondern nur noch darum, dass der andere auch verliert. Selbst wenn es einem selbst schadet. Das ist der Punkt, an dem Zusammenarbeit nicht mehr möglich ist (und an dem oft nur noch strukturelle Trennungen helfen). (Glasl unterscheidet dabei neun Eskalationsstufen von Verhärtung bis zur gemeinsamen Selbstzerstörung.)
 
-**Führung und Kultur – das System prägt die Beziehung**
+## Führung und Kultur: Das System prägt die Beziehung
 
-Gute Zusammenarbeit hängt nicht nur von den Menschen ab. Sie hängt vom System ab, in dem sie stattfinden darf. Edgar Schein schreibt: «Kultur ist das, was wir hier für selbstverständlich halten.» Das gilt m. E. besonders für Organisationen, in denen Tempo, Schichtarbeit, Komplexität und Druck an der Tagesordnung sind.
+Gute Zusammenarbeit hängt nicht nur von den Menschen ab. Sie hängt vom System ab, in dem sie stattfinden darf. Edgar Schein schreibt: «Kultur ist das, was wir hier für selbstverständlich halten.» Das gilt m. E. besonders für Organisationen, in denen Tempo, Schichtarbeit, Komplexität und Druck an der Tagesordnung sind. Was da ist wird (vielleicht) noch viel weniger hinterfragt als sonst, weil man abarbeitet oder abarbeiten muss. Wer nur Feuer löscht kommt kaum zum Prävention von Bränden. 
 
-Eine Kultur, die Begegnung ermöglicht, entsteht nicht durch ein Leitbild oder schöne Werte, sondern durch Strukturen, die sie zulassen: Zeitfenster, Kommunikationswege, Vertrauen in beide Richtungen. (Manchmal ist es schon viel, wenn ein kurzes Gespräch zwischendurch nicht als Zeitverlust, sondern als Teil der Arbeit gesehen wird.)
+Eine Kultur die Begegnung ermöglicht, entsteht nicht durch ein Leitbild oder schöne Werte, sondern durch Strukturen, die sie zulassen: Zeitfenster, Kommunikationswege, Vertrauen in beide Richtungen. (Manchmal ist es schon viel, wenn ein kurzes Gespräch zwischendurch nicht als Zeitverlust, sondern als Teil der Arbeit gesehen wird.)
 
-Führung spielt darin eine Schlüsselfunktion. Aber nicht im Sinne von «Lösungen haben», sondern im Sinne von «Rahmen halten». Führungskräfte müssen (eigentlich mag ich das Wort «müssen» nicht sonderlich) heute beides können: Struktur geben und Beziehung ermöglichen. Orientierung schaffen – und zuhören.
+Führung spielt darin eine Schlüsselfunktion. Aber nicht im Sinne von «Lösungen haben», sondern im Sinne von «Rahmen halten». Führungskräfte müssen (eigentlich mag ich das Wort «müssen» nicht sonderlich) heute beides können: Struktur geben und Beziehung ermöglichen. Orientierung schaffen und zuhören.
 
 Und das heisst auch, (eigene) Unklarheit aushalten, Unterschiedlichkeiten moderieren (und die eigene Haltung dazu (an-)erkennen). Es heisst auch, Entscheidungen zu treffen, auch oder gerade, wenn sie nie alle glücklich machen. Führung bedeutet, Komplexität nicht zu reduzieren, sondern sie auszuhalten und Menschen darin zu begleiten.
 
-**Verhalten und Verhältnisse – das Zusammenspiel verstehen**
+## Verhalten und Verhältnisse: Das Zusammenspiel verstehen
 
 Oft wird gesagt: «Verändert euch, dann verändert sich das System.» Ich glaube, es ist beides. Menschen können ihr Verhalten nur verändern, wenn die Verhältnisse es zulassen. Und Strukturen verändern sich nur, wenn Menschen darin anders handeln. Das eine ohne das andere funktioniert nicht. Nur wer beginnt und wer gibt den Vertrauensvorschuss?
 
-Organisation, Führung, Team und Individuum – alle vier sind miteinander verschränkt. Veränderung passiert nie linear, sondern in Wechselwirkung. (Vielleicht ist das die eigentliche Definition von Zusammenarbeit.)
+Organisation, Führung, Team und Individuum – alle vier sind miteinander verschränkt. Veränderung passiert nie linear, sondern in Wechselwirkung. (Vielleicht ist das eine eigentliche Definition von Zusammenarbeit.)
 
-Patrick Lencioni beschreibt fünf Dysfunktionen eines Teams – und was entsteht, wenn man sie umdreht: Aus fehlendem Vertrauen wird gegenseitiges Zutrauen – das Gefühl, sich zeigen zu dürfen, mit Stärken und Unsicherheiten. Aus der Angst vor Konflikten wird produktive Reibung – ein Raum, in dem man sich auch widersprechen darf, weil man weiss, dass man gehört wird. Aus fehlendem Commitment wird Verbindlichkeit – der Wille, gemeinsam Verantwortung zu übernehmen, auch wenn nicht alle alles gleich sehen. Aus der Vermeidung von Verantwortung wird Mitverantwortung – nicht im Sinn von Schuld, sondern im Sinn von Beitrag. Und aus fehlender Ergebnisorientierung entsteht gemeinsame Wirksamkeit – die Erfahrung, dass es Sinn macht, was man tut, weil man es zusammen tut.
+Patrick Lencioni beschreibt fünf Dysfunktionen eines Teams und was entsteht, wenn man sie umdreht: 
 
-Klingt logisch – ist es auch. Aber Vertrauen entsteht nicht durch Appell, sondern durch erlebte Sicherheit. Und diese Sicherheit ist immer auch eine Frage der Kultur.
+1. Aus fehlendem Vertrauen wird gegenseitiges Zutrauen. Das Gefühl, sich zeigen zu dürfen, mit Stärken und Unsicherheiten. 
+2. Aus der Angst vor Konflikten wird produktive Reibung. Ein Raum, in dem man sich auch widersprechen darf, weil man weiss, dass man gehört wird. 
+3. Aus fehlendem Commitment wird Verbindlichkeit. Der Wille, gemeinsam Verantwortung zu übernehmen, auch wenn nicht alle alles gleich sehen. 
+4. Aus der Vermeidung von Verantwortung wird Mitverantwortung. Nicht im Sinn von Schuld, sondern im Sinn von Beitrag. 
+5. Aus fehlender Ergebnisorientierung entsteht gemeinsame Wirksamkeit. Die Erfahrung, dass es Sinn macht, was man tut, weil man es zusammen tut.
 
-### Und vielleicht ist das der Punkt
+Klingt logisch? Ist es auch. Aber Vertrauen entsteht nicht durch Appell (eben dieses «Müssen», das ich nicht mag), sondern durch erlebte (psychologische) Sicherheit. Und diese Sicherheit ist immer auch eine Frage der Kultur.
 
-Vielleicht geht es gar nicht darum, *das perfekte Team* zu bilden. Sondern darum, Räume zu schaffen, in denen Zusammenarbeit gelingen kann – trotz Unterschiedlichkeit, trotz Komplexität. Räume, in denen Menschen sich zeigen dürfen, sich sicher fühlen und leisten können. Beides. Nicht das eine ohne das andere.
+## Was ist denn nun Zusammen- oder Teamarbeit?
 
-Zusammenarbeit ist keine Methode. Sie ist ein lebender Prozess, ein Aushandeln zwischen Menschen und Systemen, zwischen Strukturen und Möglichkeiten. Und vielleicht ist sie genau dann gelungen, wenn sie nicht perfekt ist – aber echt.
+Ich habe keinen Anspruch auf eine Antwort. Viel lieber sind mir die Fragen. Trotzdem ein paar Gedanken zum Schluss. 
 
-Vielleicht zeigt sich gute Zusammenarbeit in den kleinen Momenten. Wenn jemand fragt: "Wie geht's dir eigentlich?" – und damit nicht die Floskel meint, sondern wirklich wissen will. Wenn man einen Fehler zugibt und merkt, dass niemand den Kopf schüttelt, sondern jemand sagt: "Passiert, schauen wir gemeinsam." Wenn man nach einer Schicht müde ist – aber nicht leer.
+Vielleicht geht es gar nicht darum, *das perfekte Team* zu bilden. Sondern darum, Räume zu schaffen, in denen Zusammenarbeit gelingen kann. Trotz Unterschiedlichkeit, trotz Komplexität. Räume, in denen Menschen sich zeigen dürfen, sich sicher fühlen und leisten können. Beides. Nicht das eine ohne das andere.
 
-Jede und jeder bringt weiterhin die eigenen Rucksäcke mit. Die Stolpersteine liegen noch da, die Bretter vor dem Kopf manchmal auch. Aber vielleicht ist gute Zusammenarbeit genau das: Ein Raum, in dem diese Rucksäcke nicht versteckt werden müssen. Wo man über die Stolpersteine stolpern darf – und jemand hilft, wieder aufzustehen.
+Zusammenarbeit ist keine Methode. Sie ist ein lebender Prozess, ein Aushandeln zwischen Menschen und Systemen, zwischen Strukturen und Möglichkeiten. Und vielleicht ist sie genau dann gelungen, wenn sie nicht perfekt ist, aber echt (eben lebendig).
 
-Zusammenarbeit ist nicht das Ankommen, sondern das gemeinsame Unterwegs-Sein. Mit allem, was wir mitbringen.
+Vielleicht zeigt sich gute Zusammenarbeit in den kleinen Momenten. Wenn jemand fragt: «Wie geht's dir eigentlich?» und damit nicht die Floskel meint, sondern wirklich wissen will. Wenn man einen Fehler zugibt und merkt, dass niemand den Kopf schüttelt, sondern jemand sagt: «Passiert, schauen wir gemeinsam.» Wenn man nach einer Schicht müde ist, aber nicht leer.
 
-- - -
+Jede und jeder bringt weiterhin den eigenen Rucksack mit. Die Stolpersteine liegen noch da, die Bretter vor dem Kopf manchmal auch. Aber vielleicht ist gute Zusammenarbeit genau das: Ein Raum, in dem diese Rucksäcke nicht versteckt werden müssen (ja, sie sogar öffnen können). Wo man über die Stolpersteine stolpern darf und jemand hilft, wieder aufzustehen.
 
-**Korrigierter Teaser:** Alle reden von teamfähigen Personen, doch viele Teams funktionieren trotzdem nur oberflächlich. Vielleicht braucht es einen anderen Blick auf Zusammenarbeit – einen, der Unterschiedlichkeit, Konflikte und das Unterwegs-Sein als Teil des Prozesses versteht.
+Zusammenarbeit ist nicht das Ankommen (und somit statisch), sondern das gemeinsame Unterwegs-Sein. Mit allem, was wir mitbringen.
