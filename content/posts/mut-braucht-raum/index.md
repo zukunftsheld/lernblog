@@ -14,7 +14,7 @@ Es wird selten direkt gesagt, und doch liegt die Erwartung in der Luft, dass Men
 
 Wobei das natürlich auch stark mit dem Arbeitskontext zu tun hat. Ich denke da eher an die klassichen «Wissensarbeiter:innen» und weniger an die, die in Schichten arbeiten, die einfach ihren Job tun sollen – am liebsten wie Maschinen. Das sind oft die, die als «Deskless-Worker» bezeichnet werden (was für ein eigenartiger Begriff). 
 
-## Mut – Eigenschaft oder Kontext?
+## Ist Mut eine Eigenschaft oder ein Kontext?
 
 Wenn Mut gefordert oder gewünscht wird, dann scheint es, als wäre Mut eine Eigenschaft, die man einfach mitbringen sollte (oder eben nicht zeigen sollte, wenn er nicht erwünscht ist). Mut ist etwas, das gleich da sein soll, wenn man es braucht und bitte wegbleiben, wenn er nicht erwünscht ist. 
 
@@ -26,7 +26,7 @@ Vielleicht macht es Sinn, die Perspektive zu wechseln: Wie oft sind es die Rahme
 
 ![](wald_nebel.jpg)
 
-## Rahmen, in denen Mut wachsen kann
+## Rahmenbedingungen, in denen Mut wachsen kann
 
 Oft sind es die Strukturen, Prozesse, Abläufe und Prioritäten, die den Handlungsspielraum begrenzen. Nicht nur den für mutige Gedanken und Handlungen.
 
@@ -59,7 +59,7 @@ Wichtig ist: psychologische Sicherheit heisst nicht, Verantwortung aufzugeben od
 >
 > *Viktor E. Frankl*
 
-## Mut gestalten – mit Life Design
+## Mut gestalten mit Life Design
 
 Doch psychologische Sicherheit allein reicht nicht. Räume müssen gestaltet werden. Sie sind nicht einfach da. Für mich passt dazu der Gedanke des Life Design. Ein Praxisansatz, mit dem man experimentierend die Zukunft gestaltet. Life Design lädt dazu ein, sich selbst als Gestaltende:r zu sehen, kleine Probewege zu gehen, Hypothesen zu testen, Elemente zu verschieben. In diesem Ansatz geht es nicht um grandiose Ideen, sondern um den nächsten kleinen Versuch: was könnte ich heute anders denken, anders fragen, anders anfangen?\
 Ein solcher Ansatz ist kein Rezept, sondern eine Haltung – eine Einladung, mit den Mitteln des Alltags Gestaltungsspielräume auszuloten. Auch wenn es dabei eher um Einzelpersonen geht, so liegt dort für mich sehr viel Haltung drin, die gerade in Teams genutzt werden kann.
