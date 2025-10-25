@@ -20,7 +20,7 @@ Ich habe mich lange damit beschäftigt, Menschen in ihrer individuellen Entfaltu
 
 Echtheit bedeutet, sich selbst zu zeigen und gleichzeitig dem Gegenüber die Möglichkeit zu geben, echt zu sein. Echte Verbindungen in der Arbeitsbeziehung sind Arbeit, manchmal (meistens) harte Arbeit. Es geht nicht darum, immer alles auszusprechen oder sich völlig zu öffnen. Es geht darum, dass Unterschiede und kleine Spannungen aushaltbar werden. Dass Menschen gesehen werden, ohne sich gegenseitig zu verbiegen. (Ja, das ist schwer. Natürlich.) Aber genau hier beginnt, was gute Zusammenarbeit möglich macht.
 
-## Arbeit darf (uns soll) fordern – ohne zu verbiegen
+## Arbeit darf (und soll) fordern, ohne uns zu verbiegen
 
 Arbeit darf anstrengend sein, fordern, uns herausfordern, auch mal müde machen. Das ist nicht nur okay, das ist nötig. Arbeit darf uns wachsen lassen, aber sie darf (oder sollte) uns nicht verbiegen. Echtheit heisst, die Spannung auszuhalten: Wir zeigen uns, wir tragen unsere Ideen, unsere Impulse, wir stehen in der Verantwortung. Und gleichzeitig respektieren wir die Unterschiede der anderen. (Wenn das einfach wäre, bräuchte es diese Gedanken und diesen Text wohl nicht.)
 
@@ -46,11 +46,11 @@ Echtheit lebt auf mehreren Ebenen gleichzeitig. Und es ist ein Wechselspiel, das
 >
 > *Ruth C. Cohn* 
 
-## Räume gestalten – Praxisideen
+## Räume gestalten: Praxisideen
 
 Wie können solche Räume im Alltag aussehen? Hier ein paar Impulse:
 
-* **Führungskraefte als Möglichmacher:** Nicht (nur) Aufgaben verteilen und kontrollieren (das sollte eh nicht so oft der Fall sein), sondern bewusst Rahmen schaffen, in dem Menschen sich einbringen dürfen. Das Vertrauen zu haben sich einbringen zu dürfen und auch zu können, also die eigene Gestaltungskraft muss vielleicht zuerst wieder gelernt und entdeckt werden (das wäre dann wieder ein zusätzlicher Prozess).
+* **Führungskräfte als Möglichmacher:** Nicht (nur) Aufgaben verteilen und kontrollieren (das sollte eh nicht so oft der Fall sein), sondern bewusst Rahmen schaffen, in dem Menschen sich einbringen dürfen. Das Vertrauen zu haben sich einbringen zu dürfen und auch zu können, also die eigene Gestaltungskraft muss vielleicht zuerst wieder gelernt und entdeckt werden (das wäre dann wieder ein zusätzlicher Prozess).
 
 Über die Führung schreibt Otto Scharmer auch in seinem Buch. Wie wichtig die Rolle der Führung sein kann, zeigt sich vielleicht in dieser Perspektive weg vom Managementgedanken: *«Niemals jedoch haben wir systematisch die Arbeit der Führenden von der dritten Möglichkeit her angesehen, der leeren Leinwand. Die Frage, die ungestellt blieb, lautet: Welches sind die inneren Quellen, von denen aus Führende wirksam werden, wenn sie wahrnehmen, kommunizieren und handeln?» Es geht also nicht darum, was die Führungsperson macht und wie, sondern auch um ihre «innere Verfassung», um den «Quellort» der Handlungen.* Scharmer (2020), S. 68
 
