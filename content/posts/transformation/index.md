@@ -34,8 +34,6 @@ Viele Organisationen wollen diese Phase nicht durchlaufen (verständlicherweise)
 
 Und hier zeigt sich etwas Paradoxes, etwas, das ich in vielen Prozessen beobachte: Je mehr wir uns verändern wollen, desto stärker klammern wir uns ans Alte. Die Muster, die nicht mehr funktionieren (die toxischen Dynamiken, die angstgeprägten Verhaltensweisen, die starren Strukturen) sie werden nicht schwächer in der Transformation. Sie werden stärker. Sichtbarer. Wirksamer.
 
-![]()
-
 Das ist kein Zeichen von Widerstand (auch wenn wir es oft so interpretieren). Es ist ein Schutzmechanismus. Wenn alles unsicher wird, suchen Menschen nach Halt und Halt finden sie im Vertrauten, auch wenn das Vertraute dysfunktional ist. Eine Organisation, die durch Kontrolle gesteuert wurde, wird in der Transformation oft noch kontrollierender. Eine Kultur, die von Angst geprägt war, noch ängstlicher. Die Trägheit tarnt sich als Vorsicht.
 
 Manchmal sieht es sogar so aus, als würde es besser. Es wird mehr kommuniziert, mehr erklärt, mehr involviert. Aber unter der Oberfläche passiert dasselbe wie vorher, nur mit anderen Begriffen. Die Kontrolle versteckt sich hinter (vermeintlich) partizipativen Prozessen. Die Angst maskiert sich mit Konzepten wie psychologischer Sicherheit. Die Trägheit nennt sich jetzt Risikomanagement.
