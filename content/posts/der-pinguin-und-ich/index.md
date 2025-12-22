@@ -16,43 +16,39 @@ Vor ein paar Jahren hatte ich ein Gespräch mit jemandem, der meine Geschichte i
 
 {{</box>}}
 
-Im Buch «Glück kommt selten allein» bin ich der [Pinguin-Geschichte](https://www.youtube.com/watch?v=sY539oAsTb0) von Eckhart von Hirschhausen begegnet. Ich hatte mir zuvor nie viele Gedanken über die Tollpatschigkeit der Pinguine gemacht, sondern fand sie spannend und lustig. Die Geschichte vom Pinguin ist mir bis heute in Erinnerung geblieben. Dieser tollpatschige Vogel an Land, der erst im Wasser seine volle Eleganz entfaltet - toll. Vielleicht, weil ich mich selbst oft so fühlte: bemüht, fehl am Platz, zu viel oder zu wenig für das, was gerade gefragt war. Ich beschreibe dieses Gefühl oft als «Eisbär in der Wüste» und konnte es mit dem Aufkommen der KI-Bildgenerierung treffend visualisieren. 
+Im Buch «Glück kommt selten allein» bin ich der [Pinguin-Geschichte](https://www.youtube.com/watch?v=sY539oAsTb0) von Dr. Eckhart von Hirschhausen begegnet. Ich hatte mir zuvor nie viele Gedanken über die Tollpatschigkeit der Pinguine gemacht, sondern fand sie spannend und auch etwas lustig. Die Geschichte vom Pinguin ist mir bis heute in Erinnerung geblieben. Dieser tollpatschige Vogel an Land, der erst im Wasser seine volle Eleganz entfaltet, toll. Vielleicht, weil ich mich selbst oft so fühlte: bemüht, fehl am Platz, zu viel oder zu wenig für das, was gerade gefragt war. Ich beschreibe dieses Gefühl seit einiger Zeit als «Eisbär in der Wüste» und konnte es mit dem Aufkommen der KI-Bildgenerierung treffend visualisieren. 
 
 ![](dall-e-2023-09-11-10.39.31-polar-bear.png)
 
-Aber im richtigen Element? Da kommt plötzlich Leichtigkeit ins Spiel.\
-Nicht, weil alles einfacher wird, sondern weil es sich plötzlich passend anfühlt. (Was einfach klingt, ist viel schwieriger, als man denken könnte und viele Life-, Sinn, Potenzial-Coaches einem weismachen wollen). 
+Aber als Eisbär (oder was auch immer) im richtigen Element? Da kommt plötzlich Leichtigkeit und Freiheit ins Spiel. Nicht, weil dann alles einfacher wird, sondern weil es sich plötzlich passend anfühlt. (Was einfach klingt, ist viel schwieriger, als man denken könnte und viele Life-, Sinn, Potenzial-Coaches einem weismachen wollen). 
 
 ![](penguin-7542194_1280.jpg)
 
-Dieses Bild des Pinguins begleitet mich seit Jahren. Einmal leise im Hintergrund, ein anderes mal ganz präsent. Es erinnert mich an etwas, das ich erst später in Worte fassen konnte: Stärke deine Stärken und fokussiere dich nicht auf das Eliminieren von (vermeintlichen) Schwächen. Und vielleicht noch wichtiger: Finde dein eigenes Element. Das heisst, die eigenen Stärken überhaupt zu erkennen, anerkennen und darauf zu achten. Dann die Umgebungen finden, die passen. Auf die Arbeit bezogen könnte das heissen: 
+Dieses Bild des Pinguins begleitet mich seit Jahren. Einmal eher leise im Hintergrund, ein anderes mal ganz präsent, wie in dem Moment, in dem ich diesen Text schreibe. Es erinnert mich an etwas, das ich erst später in Worte fassen konnte: Stärke deine Stärken und fokussiere dich nicht auf das Eliminieren von (vermeintlichen) Schwächen. Und vielleicht noch wichtiger: Finde dein eigenes Element. Das heisst, die eigenen Stärken überhaupt zu erkennen, anerkennen und darauf zu achten, wie sie spür-, sicht- und nutzbar werden. Dann die Umgebungen finden, die passen. Ich schreibe ganz bewusst Umgebungen, da es nicht die eine Umgebung gibt, sondern verschiedene. In jeder Umgebung können andere Stärken zum Vorschein kommen und sich entfalten. Auf die Arbeit bezogen könnte das heissen: 
 
 * Arbeitsinhalt/Arbeitstätigkeiten (was kann und tue ich wirklich wirklich gerne und gut?)
 * Arbeitsort (Distanz zur Arbeit, Unternehmensgrösse, Branche, …)
 * Arbeitsumgebung (Einrichtung, Arbeitsthemen, die Menschen mit denen man arbeitet, …)
 * Klima (Kultur, …)
 
-Das habe ich im Laufe der Zeit immer wieder versucht. Nicht geradlinig und nicht geplant, aber mit Neugier, mit Mut (auch wenn es sich oft nicht mutig, sondern absolut nötig anfühlt) zum Ausprobieren und einer gewissen Hartnäckigkeit. 
+Das habe ich selbst im Laufe der Zeit immer wieder versucht. Nicht geradlinig und nicht geplant, aber mit Neugier, mit Mut (auch wenn es sich oft nicht mutig, sondern absolut nötig anfühlt) zum Ausprobieren und einer gewissen Hartnäckigkeit. Das heisst wohl auch, dass sich gwisse Umgebungen eine Zeit genau richtig angefühlt haben, dann aber zu eng oder unpassend wurden. 
 
-Erleben statt nur überlegen. Tun, scheitern, lernen, wieder tun.\
-Nicht dem perfekten Plan folgen, sondern Wege gehen und sichtbar machen, die vorher im Nebel lagen (und vielleicht noch vorher unmöglich schienen).
-
-Im Rückblick war es wohl genau dieses Prinzip, das mich weitergebracht hat.\
-Nicht *trotz* der Umwege. Sondern *wegen und mit* ihnen. (Aber eben, Umwege fühlen sich in dem Moment oft scheisse an).
+Erleben statt nur überlegen. Tun, scheitern, lernen, wieder tun. Nicht dem perfekten Plan folgen, sondern Wege gehen und sichtbar machen, die vorher im Nebel lagen (und vielleicht noch vorher unmöglich schienen). Im Rückblick war es wohl genau dieses Prinzip, das mich weitergebracht hat.\
+Nicht *trotz* der Umwege. Sondern *wegen und mit* ihnen. (Aber eben, Umwege fühlen sich in dem Moment oft scheisse an). 
 
 ### **Jugendträume und die harte Realität**
 
-Als Kind oder vielleicht eher als Jugendlicher hatte ich einen Traumberuf: Ich wollte Rettungssanitäter werden. Dieser Wunsch war keine allzu romantisierte Vorstellung, sondern basierte auf meiner (soweit möglich) realistischen Wahrnehmung des Gesundheitswesens, mit dem ich durch familiäre Erfahrungen früh in Kontakt kam. Zudem hatte ich mich irgendwann im Alter von ca. 15 Jahren vertiefter damit auseinandergesetzt. 
+Als Kind oder vielleicht eher als Jugendlicher hatte ich einen Traumberuf: Ich wollte Rettungssanitäter werden. Dieser Wunsch war keine allzu romantisierte Vorstellung, sondern basierte auf meiner (soweit möglich) realistischen Wahrnehmung des Gesundheitswesens, mit dem ich durch familiäre Erfahrungen früh in Kontakt kam. Zudem hatte ich mich irgendwann im Alter von ca. 15 Jahren im Rahmen einer schulischen Arbeit vertiefter damit auseinandergesetzt. So besuchte ich einen Rettungsdienst, die Rega, die Air Zermatt oder stand öfter vor dem Notfallzentrum des Inselspitals.
 
 ![](bildschirmfoto-2025-04-19-um-18.18.49.png)
 
 ![Diese Fotos entstanden zu dieser Zeit  (vor ca. 20 Jahren). ](bildschirmfoto-2025-04-19-um-19.39.13.png)
 
-Aufgrund der vielen Schwierigkeiten in der Schulzeit, meinem mittlerweile entwickelten Selbstbild und den negativen Äusserungen von Erwachsenen schien dieser Berufswunsch lange unerreichbar (eigentlich handelte es sich dabei nur um ihre eigenen Begrenzungen). Eine total andere Perspektive war dann aber, als mir jemand (mit Expertise) sagte: «Klar kannst du das, warum denn nicht?» Diese Aussage (nur allein die Haltung) begleitet mich wohl bis heute. 
+Aufgrund der vielen Schwierigkeiten in der Schulzeit, meinem mittlerweile entwickelten Selbstbild und den negativen Äusserungen von Erwachsenen schien dieser Berufswunsch lange unerreichbar (eigentlich handelte es sich dabei nur um ihre eigenen Begrenzungen). Eine total andere Perspektive war dann aber, als mir jemand (mit Bildungsexpertise) sagte: «Klar kannst du das, warum denn nicht?» Diese Aussage (nur allein die Haltung) begleitet mich wohl bis heute. Sie hat mein Selbstbild und die Perspektive auf Möglichkeiten nachhaltig geprägt, auch wenn es zu dieser Zeit nur ein kleiner Impuls war. 
 
-Vor zwanzig Jahren begann ich meine Ausbildung zum Detailhandelsfachmann. Nach den schwierigen Jahren in der Schule fühlte sich dieser (Neu-)Beginn in einem Beruf wie eine Befreiung an. Ich war sehr froh, dass ich bis zum Lehrbeginn im Sommer überhaupt einen Ausbildungsplatz gefunden hatte. Die Angst, nichts zu finden, war allgegenwärtig – vor allem aus den ewigen Katastrophisierungen der Erwachsenen, die ich übernahm. Ich war sehr motiviert und engagiert, eine Lehrstelle zu finden, aber Schulnoten und Multichecks zählten mehr. Viel mehr.
+Vor zwanzig Jahren begann ich meine Ausbildung zum Detailhandelsfachmann. Nach den schwierigen Jahren in der Schule fühlte sich dieser (Neu-)Beginn in einem Beruf wie eine Befreiung an. Ich war sehr froh, dass ich bis zum Lehrbeginn im Sommer überhaupt einen Ausbildungsplatz gefunden hatte. Die Angst, nichts zu finden, war allgegenwärtig. Vor allem aus den ewigen Katastrophisierungen der Erwachsenen, die ich übernahm («wenn du nichts findest, wird nichts aus dir»). Ich war sehr motiviert und engagiert, eine Lehrstelle zu finden, aber Schulnoten und Multichecks zählten mehr. Viel mehr. Es war frustrierend und zementierte mein Selbstbild noch mehr. 
 
-Meine Ausbildungszeit war alles andere als schön. Ich identifizierte mich stark mit dem Beruf, mit meinen Tätigkeiten und konnte mich auch gut einbringen. Das Umfeld war jedoch schwierig. Heute kann ich klar sagen, dass ich Mobbing erlebte – so, wie es im Buch oder in der Theorie steht. Das fiel mir lange schwer einzugestehen, auch wenn es von Fachpersonen bereits damals so benannt wurde. Um das wirklich anzuerkennen, musste ich über dreissig Jahre alt werden.
+Meine Ausbildungszeit war alles andere als schön. Ich identifizierte mich stark mit dem Beruf, mit meinen Tätigkeiten und konnte mich auch gut einbringen. Das Umfeld war jedoch schwierig. Heute kann ich klar sagen, dass ich Mobbing erlebte. Mobbing so, wie es im Buch oder in der Theorie steht. Das fiel mir lange schwer einzugestehen, auch wenn es von Fachpersonen bereits damals so benannt wurde. Um das wirklich anzuerkennen, musste ich über dreissig Jahre alt werden. 
 
 > «Das Schicksal gehört zum Menschen wie der Boden, an den ihn die Schwerkraft fesselt, ohne die aber das Gehen unmöglich wäre. Zu unserem Schicksal haben wir zu stehen wie zu dem Boden, auf dem wir stehen – ein Boden, der das Sprungbrett für unsere Freiheit ist.»
 >
@@ -60,11 +56,11 @@ Meine Ausbildungszeit war alles andere als schön. Ich identifizierte mich stark
 
 ### **Die ersten Schritte ins Berufsleben**
 
-Bereits vor meiner Ausbildung wusste ich, dass ich meine berufliche Zukunft nicht im Detailhandel sah, auch wenn mir die Arbeit Freude machte. Warum sollte ich in einem Bereich arbeiten, in dem die Arbeitsbedingungen so schwierig waren? Zudem fragte ich mich immer wieder: Was soll dieses ständige Verkaufen, Verkaufen, Verkaufen? Zusatzverkäufe hier, Kundenbindung da.
+Bereits vor meiner Ausbildung wusste ich, dass ich meine berufliche Zukunft nicht im Detailhandel sah, auch wenn mir die Arbeit Freude machte. Warum sollte ich in einem Bereich arbeiten, in dem die Arbeitsbedingungen so schwierig waren? Zudem fragte ich mich immer wieder: Was soll dieses ständige Verkaufen, Verkaufen, Verkaufen? Zusatzverkäufe hier, Kundenbindung da. Ich wollte etwas tun, das bedeutender ist und hatte auch den Eindruck, mehr zu können als das. 
 
-Nach der Ausbildung arbeitete ich ein Jahr im Detailhandel, bevor ich einen Praktikumsplatz im Marketing fand. Zu dieser Zeit war ich hin und hergerissen zwischen dem Wechsel in das Sozial- und Gesundheitswesen oder dem logischeren und für den Moment etwas einfacheren Weg in Richtung Marketing. Marketing schien mir der logischste Weg nach vorne. Doch ich hatte Zweifel: Sollte ich wirklich eine Stelle annehmen, die nur auf ein halbes Jahr befristet war, mit dem Risiko, danach plötzlich ohne Job dazustehen? Zum Glück nahm ich die Stelle an und konnte mich in diesem halben Jahr richtig einbringen, viel lernen und fühlte mich am richtigen Ort.
+Nach der Ausbildung arbeitete ich ein Jahr im Detailhandel, bevor ich einen Praktikumsplatz im Marketing fand. Zu dieser Zeit war ich hin und hergerissen zwischen dem Wechsel in das Sozial- und Gesundheitswesen oder dem logischeren und für den Moment etwas einfacheren Weg in Richtung Marketing. Marketing schien mir der logischste Weg nach vorne. Doch ich hatte Zweifel: Sollte ich wirklich eine Praktikumsstelle annehmen, die nur auf ein halbes Jahr befristet war, mit dem Risiko, danach plötzlich ohne Job dazustehen? Zum Glück nahm ich die Stelle an und konnte mich in diesem halben Jahr richtig einbringen, viel lernen und fühlte mich am richtigen Ort.
 
-Für die Zeit nach dem Praktikum hatte ich in diesen sechs Monaten über 90 Bewerbungen für andere Stellen im Marketingbereich geschrieben (damals noch per Post verschickt) – und erhielt genauso viele Absagen. Die meisten dieser Antwortschreiben waren standardisiert, wenn es denn überhaupt eine Antwort gab. Ich erinnere mich aber an eine sehr persönliche Antwort, in der mir die Schreibende Mut machte, weiterzumachen und dran zu bleiben.
+Für die Zeit nach dem Praktikum hatte ich in diesen sechs Monaten über 90 Bewerbungen für andere Stellen im Marketingbereich geschrieben (damals noch per Post verschickt) und erhielt genauso viele Absagen. Die meisten dieser Antwortschreiben waren standardisiert, wenn es denn überhaupt eine Antwort gab. Ich erinnere mich aber an eine sehr persönliche Antwort, in der mir die Schreibende Mut machte, weiterzumachen und dran zu bleiben. Ja, so kleine Gesten können auch zwanzig Jahre in Erinnerung bleiben. 
 
 Ich hatte das Glück, mich bei der Arbeit hervortun zu können. So, dass sogar eine neue Stelle geschaffen werden konnte. In dieser blieb ich sieben Jahre.
 
