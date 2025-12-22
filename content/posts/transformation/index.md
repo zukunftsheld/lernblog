@@ -1,5 +1,5 @@
 +++
-title = "Transformation – Raum für das Dazwischen"
+title = "Transformation: Raum für das Dazwischen"
 date = "2025-12-22"
 draft = false
 pinned = false
