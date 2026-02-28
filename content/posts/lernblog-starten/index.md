@@ -56,7 +56,7 @@ Ich habe bei beiden CAS sowohl über konkrete (Fach-)Themen geschrieben als auch
 
 ### Themen & Inhalte
 
-Es sollen die Themen sein, die dich beschäftigen und über die du schreiben möchtest. Dabei gibt es kein Richtig oder Falsch. Genauso ist es mit dem Aufbau und der Struktur der einzelnen Artikel. Es eignen sich auch nicht alle (Lern-)Prozesse und Themen gleich gut, um darüber zu schreiben. Vielleicht hilft dir etwas Inspiration. [Hier findest du über 600 Beiträge aus dem Colearning-Universum](https://colearningbern.lilo.land).
+Es sollen die Themen sein, die dich beschäftigen und über die du schreiben möchtest. Dabei gibt es kein Richtig oder Falsch. Genauso ist es mit dem Aufbau und der Struktur der einzelnen Artikel. Es eignen sich auch nicht alle (Lern-)Prozesse und Themen gleich gut, um darüber zu schreiben. 
 
 ### Lebens-/Lernphase
 
