@@ -14,7 +14,7 @@ Mich interessieren Menschen, ihr Lernen, ihre Arbeit und die Frage, wie Entwickl
 
 Ich sammle Fragen, beobachte Veränderungen und versuche zu verstehen, wie Menschen, Teams und Organisationen lernen, zusammenarbeiten und sich entwickeln. Dabei interessieren mich besonders die Übergänge zwischen Sicherheit und Unsicherheit, Wissen und Nichtwissen sowie Bewahren und Verändern.
 
-Beruflich bewege ich mich irgendwo zwischen Personalentwicklung, Organisationsentwicklung, Lernen, Führung und Veränderung. Persönlich bewege ich mich oft zwischen Neugier, Zweifel und dem Vertrauen, dass Entwicklung dort möglich wird, wo Menschen einander begegnen.
+Beruflich bewege ich mich irgendwo zwischen Organisationsentwicklung, Lernen, Führung und Veränderung. Persönlich bewege ich mich oft zwischen Neugier, Zweifel und dem Vertrauen, dass Entwicklung dort möglich wird, wo Menschen einander begegnen.
 
 In diesem Blog denke ich laut. Ich teile Erfahrungen, Beobachtungen, Fragen und Gedanken aus meinem Alltag als Lernender, Organisationsentwickler und Mensch. Manchmal schreibe ich über Arbeit und Lernen, manchmal über andere menschliche Bewegungen. Und manchmal über Themen, bei denen ich selbst noch keine Antworten habe.
 
