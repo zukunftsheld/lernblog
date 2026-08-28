@@ -1,8 +1,9 @@
 +++
-title = "uebergaenge"
+title = "Übergänge – vom Loslassen und Neuanfängen"
 date = "2026-08-28"
-draft = true
+draft = false
 pinned = false
+tags = ["Ambiguität", "Biografie", "Change", "Gedanken", ""]
 image = "8.jpg"
 description = "Übergänge bringen vieles durcheinander: Altes darf gehen, Neues entsteht und dazwischen liegen oft Unsicherheit, Trauer und überraschend schöne Momente. Ein persönlicher Blick auf das Loslassen, bewusste Übergänge und die Frage, was bleibt, wenn sich im Leben vieles verändert."
 +++
