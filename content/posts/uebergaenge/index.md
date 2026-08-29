@@ -11,7 +11,7 @@ In diesem Blog war es seit einiger Zeit still. Still, weil vieles zum Stillstand
 
 Ich werde vage bleiben, was die konkrete Situation betrifft. Einerseits weil es sehr persönlich ist und andererseits, weil ich denke, dass die Kerngedanken und -elemente universell zu Übergängen passen können und sowieso jede Mensch sein eigenes Tempo und seinen eigenen Prozess hat. Es ist also eine Art Verarbeitung und Inspiration gleichzeitig.
 
-Es geht um Loslassen, um Lernprozesse und um Neuanfänge. Dieser Text darf eine Ermutigung sein und auch ein Einblick in eine Realität. Er ist für dich, wenn du vielleicht selbst in einer Übergangsphase steckst und er ist für dich, wenn du Teil eines Systems, bei dem jemand oder mehrere Personen zwischen «Altem» und «Neuem» stehen, bist. Denn du als An- und Zugehörige bist vielleicht sowohl Betroffene wie auch Begleiter eines solchen Prozesses.
+Es geht um Loslassen, um Lernprozesse und um Neuanfänge. Dieser Text darf eine Ermutigung sein und auch ein Einblick in eine Realität. Er ist für dich, wenn du vielleicht selbst in einer Übergangsphase steckst und er ist für dich, wenn du Teil eines Systems, bei dem jemand oder mehrere Personen zwischen «Altem» und «Neuem» stehen, bist. Denn du als An- und Zugehörige bist vielleicht sowohl Betroffene wie auch Begleiter:in eines solchen Prozesses.
 
 ## Wenn alles wegfällt
 
@@ -27,10 +27,18 @@ Veränderungsprozesse haben immer auch einen Anteil von Loslassen und Abschied n
 
 ## Was können Rituale sein?
 
-* Die Natur als Übergangsort: Die Natur bietet etliche Möglichkeiten und Metaphern, um etwas loszulassen oder neu zu beginnen. Ich kann etwas einem Fluss oder Bach übergeben. Das kann ein Symbol für etwas sein, ein konkreter Brief oder was einem in den Sinn kommt. Dabei kann es um ein konkretes Loslassen im Sinne von Abschied gehen oder darum, etwas dem Fluss des Lebens zu übergeben. Aus Ästen kann eine «Schwelle» gebaut werden, die überschritten wird. Ein Übergang vom «Alten» ins «Neue» zum Beispiel.
+* Die Natur als Übergangsort: Die Natur bietet etliche Möglichkeiten und Metaphern, um etwas loszulassen oder neu zu beginnen. Ich kann etwas einem Fluss oder Bach übergeben. Das kann ein Symbol für etwas sein, ein konkreter Brief oder was einem in den Sinn kommt. Dabei kann es um ein konkretes Loslassen im Sinne von «Abschied nehmen» gehen oder darum, etwas dem Fluss des Lebens zu übergeben. Aus Ästen kann eine «Schwelle» gebaut werden, die überschritten wird. Ein Übergang vom «Alten» ins «Neue» zum Beispiel.
+
+
 * Etwas ganz bewusst ein letztes Mal tun: Manchmal müssen wir uns von einer Gewohnheit trennen oder von einem Gegenstand, der uns in dieser Lebensphase wichtig war oder der für diesen Lebensabschnitt stand. Wenn es die Möglichkeit gibt, kann dieser Gegenstand ein letztes Mal ganz bewusst genutzt oder die Gewohnheit noch einmal zelebriert werden. Vielleicht schafft das einen Rahmen für Trauer, fürs Loslassen und auch für Dankbarkeit.
+
+
 * Zeitnehmen und Innehalten: Beide oben genannten Ritualmöglichkeiten sind bereits ein sich Zeitnehmen und Innehalten. Es ist aber auch möglich, sich einfach hinzusetzen oder einen Spaziergang zu machen und sich dem inneren Prozess zu widmen, die Gedanken schweifen und kreisen zu lassen – sich zu erinnern, dankbar zu sein oder zu trauern. Auch Wut im Körper zu spüren oder den Frust wahrzunehmen ist wichtig und hilfreich. Innehalten schafft Raum für das, was sich zeigen will.
-* Das Gute und Schöne bewusst machen: In schwierigen Phasen des Lebens ist die Chance gross, dass wir vergessen, dass auch schöne Dinge da sind und passieren. Vielleicht ist es schon nur der Mut, etwas Neues zu wagen (auch wenn man vielleicht in diese Situation gezwungen wurde). Es ist eine Form der Aufmerksamkeitsfokussierung auf das Gute, das Schöne und Dinge, für die wir dankbar sind. Eine für mich schöne Möglichkeit ist (m)ein Glitzerglas. Da kommen meine schönen und wichtigen Momente rein. Das sind in der Regel kleine Zettel mit ein paar Worten zu dem, was ich speichern möchte, drauf, die ich in ein altes Honigglas lege. Zu jedem Zettel kommt eine Prise Glitzer. So füllt sich das Glas langsam und die Menge an schönen und guten Momenten im Leben wird sichtbar(er).
+
+
+* Das Gute und Schöne bewusst machen: In schwierigen Phasen des Lebens ist die Chance gross, dass wir vergessen, dass auch schöne Dinge da sind und passieren. Vielleicht ist es schon nur der Mut, etwas Neues zu wagen (auch wenn man vielleicht in diese Situation gezwungen wurde). Es ist eine Form der Aufmerksamkeitsfokussierung auf das Gute, das Schöne und Dinge, für die wir dankbar sind. Eine für mich schöne Möglichkeit ist (m)ein Glitzerglas. Da kommen meine schönen und wichtigen Momente rein. Das sind in der Regel kleine Zettel mit ein paar Worten zu dem, was ich speichern möchte drauf, die ich in ein altes Honigglas lege. Zu jedem Zettel kommt eine Prise Glitzer. So füllt sich das Glas langsam und die Menge an schönen und guten Momenten im Leben wird sichtbar(er).
+
+
 
 ## Übergänge heisst auch (Neu-)Anfang
 
@@ -40,7 +48,7 @@ Ein (Neu-)Anfang hat (auch) etwas Magisches. Wobei da sicher die Frage ist, wie 
 
 ## Übergänge betreffen nie nur eine Person
 
-Veränderung findet selten isoliert statt. Wir sind immer auch Teil eines (oder mehrerer) Systeme, die betroffen und beteiligt sind. Familie, Freund, Partner, Kolleg oder andere Zugehörige sind Teil dieses Systems oder dieser Systeme – auch wenn sie den Übergang nicht selbst gewählt haben oder ihn ganz anders erleben. Eine Herausforderung dabei scheint mir zu sein, dass jede Person, jeder Teil des Systems die eigenen Grenzen kennt. Was ist meins? Was ist deins? Wo ist Hilfe gefragt? Wo ist Rücksichtnahme sinnvoll? Und wo soll oder kann man sich einbringen?
+Veränderung findet selten isoliert statt. Wir sind immer auch Teil eines (oder mehrerer) Systeme, die betroffen und beteiligt sind. Familie, Freund:innen, Partner:in, Kolleg:innen oder andere Zugehörige sind Teil dieses Systems oder dieser Systeme – auch wenn sie den Übergang nicht selbst gewählt haben oder ihn ganz anders erleben. Eine Herausforderung dabei scheint mir zu sein, dass jede Person, jeder Teil des Systems die eigenen Grenzen kennt. Was ist meins? Was ist deins? Wo ist Hilfe gefragt? Wo ist Rücksichtnahme sinnvoll? Und wo soll oder kann man sich einbringen?
 
 ## Wie lange darf man trauern?
 
@@ -54,9 +62,9 @@ Eine weitere Erkenntnis: Emotionen kommen, wenn ihre Zeit da ist (und wir den in
 
 ## Was bleibt?
 
-Vielleicht ist das eine der schwierigen und gleichzeitig tröstlichen Erkenntnisse in einem (Lebens-)Übergang: Wir wissen nicht so genau, wie es weitergeht, und müssen es auch nicht wissen. Es reicht, wenn wir uns zunehmend dem Leben und dem, was sich darin bewegt, hingeben. Dazu gehört das Neue, das entdeckt und mit dem experimentiert werden kann. Dabei hilft es, nicht alle Räume, die entstehen, sofort zu füllen, nicht alle Unsicherheiten möglichst schnell zu klären, sondern Leere entstehen zu lassen (und auszuhalten), in der sich zeigen kann, was entstehen möchte.
+Vielleicht ist das eine der schwierigen und gleichzeitig tröstlichen Erkenntnisse in einem (Lebens-)Übergang: Wir wissen nicht so genau, wie es weitergeht, und müssen es auch nicht wissen. Es reicht, wenn wir uns zunehmend dem Leben und dem, was sich darin bewegt, hingeben. Dazu gehört das Neue, das entdeckt werden will und mit dem experimentiert werden kann. Dabei hilft es, nicht alle Räume, die entstehen, sofort zu füllen, nicht alle Unsicherheiten möglichst schnell zu klären, sondern Leere entstehen zu lassen (und auszuhalten), in der sich zeigen kann, was entstehen möchte.
 
-Übergänge sind selten geradlinig. Es gibt Vorwärtsbewegung und Rückschritte, Leichtigkeit und Trauer, Zuversicht und Zweifel. Manchmal fühlt sich etwas bereits nach Aufbruch an, während ein anderer Teil noch Abschied nimmt. Alles darf gleichzeitig und abwechselnd da sein.
+Übergänge sind selten gradlinig. Es gibt Vorwärtsbewegung und Rückschritte, Leichtigkeit und Trauer, Zuversicht und Zweifel. Manchmal fühlt sich etwas bereits nach Aufbruch an, während ein anderer Teil noch Abschied nimmt. Alles darf gleichzeitig und abwechselnd da sein.
 
 Mein Leben ist heute anders, als ich es mir vorgestellt hatte. Ich kann nicht sagen, ob besser oder schlechter – einfach anders. Ich versuche zu lernen und zu integrieren, dass dieser Prozess vielleicht noch länger nicht zu Ende ist. Ja, vermutlich wird er es nie ganz sein.
 
