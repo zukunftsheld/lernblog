@@ -6,6 +6,7 @@ pinned = false
 tags = ["Ambiguität", "Biografie", "Change", "Gedanken", ""]
 image = "8.jpg"
 description = "Übergänge bringen vieles durcheinander: Altes darf gehen, Neues entsteht und dazwischen liegen oft Unsicherheit, Trauer und überraschend schöne Momente. Ein persönlicher Blick auf das Loslassen, bewusste Übergänge und die Frage, was bleibt, wenn sich im Leben vieles verändert."
+footnotes = "📷 alle Bilder: Ben Zaugg"
 +++
 In diesem Blog war es seit einiger Zeit still. Still, weil vieles zum Stillstand kam und doch alles an Fahrt aufnahm. So ist (m)ein Leben nicht mehr, wie es war und anders, als ich es mir vorgestellt hatte. Es ist nicht so, dass mir intensive und einschneidende Übergänge fremd wären und doch war oder ist dieses Mal vieles anders. In diesem Prozess, der wohl (noch) nicht fertig ist, habe ich vieles gelernt und entdeckt – ja, ich entdecke (fast) jeden Tag Neues. Über Erkenntnisse, Gedanken und vielleicht auch Fragen aus dieser Phase schreibe ich in diesem Text.
 
