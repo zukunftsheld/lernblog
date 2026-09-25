@@ -5,7 +5,7 @@ draft = false
 pinned = false
 tags = ["Lernen", "Sinn"]
 image = "aussicht.jpg"
-description = "In diesem Text erzähle ich davon, wie aus inneren Impulsen drei Experimente entstanden sind – und wie ich auf dem Weg lerne. "
+description = "Manchmal muss man nicht wissen, wohin etwas führt. Ein paar kleine Experimente mit Stricknadeln, Ton und Stimme haben mir gezeigt, wie gut es tun kann, einem inneren Impuls zu folgen."
 footnotes = "Zitat Gunther Schmidt: Aus der Erinnerung aus Gesagtem, während einer Weiterbildung.\n\nFotos: Persönliches Bildarchiv"
 +++
 # Dem inneren Impuls folgen
@@ -16,7 +16,7 @@ In diesem Text erzähle ich davon, wie aus einem inneren Impuls drei kleine Expe
 
 {{<box title="Was sich hier (vielleicht) gerade verändert">}}}
 
-Auch wenn es in diesem Blog oft um Lernen, um Organisationen und deren Entwicklung ging oder geht, dreht sich im Kern doch immer vieles um Menschen, ums Menschsein und um ein Zusammenleben und Zusammenarbeiten, das uns als Menschen gerecht wird. Meine Neugier leitet mich und ich habe oft den Drang (oder die Lust), zu verstehen, weshalb und wie Dinge sind und wie sie zusammenhängen. Ich selbst bezeichne mich als Lernender und mache da keine Ausnahme mehr, ob ich in einer Weiterbildung sitze, etwas Neues entdecke oder einfach durchs Leben gehe. Tatsächlich bin ich zurzeit auch in einer Weiterbildung und beschäftige mich nebenbei mit Trauma und Körper. Vieles davon würde sich hier ergänzen, denken und schreiben lassen – das würde den Rahmen dieses Textes leider sprengen. So könnte sich dieser Blog tendenziell weg von der Arbeit und hin zum restlichen Teil des Lebens bewegen. Wer weiss.
+Auch wenn es in diesem Blog oft um Lernen, um Organisationen und deren Entwicklung ging oder geht, dreht sich im Kern doch immer vieles um Menschen, ums Menschsein und um ein Zusammenleben und Zusammenarbeiten, das uns als Menschen gerecht wird. Meine Neugier leitet mich und ich habe oft den Drang (oder die Lust), zu verstehen, weshalb Dinge sind wie sie sind und wie sie zusammenhängen. Ich selbst bezeichne mich als Lernender und mache da keine Ausnahme mehr, ob ich in einer Weiterbildung sitze, etwas Neues entdecke oder einfach durchs Leben gehe. Tatsächlich bin ich zurzeit auch in einer Weiterbildung und beschäftige mich nebenbei mit Trauma und Körper. Vieles davon würde sich hier ergänzen, denken und schreiben lassen – das würde den Rahmen dieses Textes leider sprengen. So könnte sich dieser Blog tendenziell weg von der Arbeit und hin zum restlichen Teil des Lebens bewegen. Wer weiss.
 
 {{</box>}}
 
