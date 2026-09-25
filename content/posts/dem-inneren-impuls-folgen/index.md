@@ -12,6 +12,8 @@ footnotes = "Zitat Gunther Schmidt: Aus der Erinnerung aus Gesagtem, während ei
 
 In den letzten Blogtexten ging es um Veränderungen und Übergänge. So ist auch dieser Blog vielleicht in einem Übergang – wobei dieser sich sowieso mit mir bewegt und somit immer wieder wandelt.
 
+![](aussicht1.jpg)
+
 In diesem Text erzähle ich davon, wie aus einem inneren Impuls drei kleine Experimente entstanden sind – und was ich dabei über mich und das Lernen entdeckt habe.
 
 {{<box title="Was sich hier (vielleicht) gerade verändert">}}}
