@@ -1,5 +1,5 @@
 +++
-title = "dem-inneren-impuls-folgen"
+title = "Dem inneren Impuls folgen"
 date = "2026-09-25"
 draft = false
 pinned = false
