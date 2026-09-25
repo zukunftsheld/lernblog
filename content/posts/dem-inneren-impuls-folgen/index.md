@@ -52,6 +52,8 @@ Beim Ausprobieren wurde mir irgendwann bewusst, dass es vielleicht gar nicht nur
 
 Mit Gesangsunterricht habe ich vor längerer Zeit und in unregelmässigen Abständen begonnen. Mit dem Singen zu beginnen war wirklich ein zutiefst innerer Impuls, der gedanklich einige innere Widerstände zur Folge hatte. Dem inneren Impuls folgend konnte ich über die Zeit einige Hürden und Hindernisse ablegen (oder integrieren) und entdecken, wie gut mir Singen tut. Nachdem meine Gesangslehrerin in Bern aufhörte, habe ich mich ebenfalls für eine Pause entschieden, um zu sehen, wie oder wo es für mich weitergehen könnte. Ich vermute, dass das Singen in der Gruppe etwas sehr Schönes sein kann und hatte oder habe gleichzeitig einige Unsicherheiten. Anstatt in einen Chor (was nie grundsätzlich das Ziel war), versuche ich es jetzt mit einer Singgruppe (einer Art Gruppenunterricht).
 
+![](singen.jpg)
+
 Vielleicht ist es am Ende gar nicht so wichtig, ob aus dem Stricken eine lebenslange Leidenschaft, aus dem Töpfern ein neues Hobby oder aus dem Singen etwas ganz anderes wird. Spannender finde ich gerade, was mir diese kleinen Experimente zeigen: Es tut mir gut, Dinge nicht nur zu verstehen, sondern sie zu tun. Zu spüren, auszuprobieren, Fehler zu machen und mich überraschen zu lassen.
 
 Vielleicht ist «dem inneren Impuls folgen» deshalb auch mehr als das Ausprobieren neuer Freizeitbeschäftigungen (wobei jede der Tätigkeiten auch Beruf ist oder sein kann). Vielleicht geht es darum, dem, was sich stimmig anfühlt, Raum zu geben – ohne schon wissen zu müssen, wohin es führt.
