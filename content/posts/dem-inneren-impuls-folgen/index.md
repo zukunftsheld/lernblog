@@ -10,7 +10,7 @@ footnotes = "Zitat Gunther Schmidt: Aus der Erinnerung aus Gesagtem, während ei
 +++
 # Dem inneren Impuls folgen
 
-In den letzten Blogtexten ging es um Veränderungen und Übergänge. So ist auch dieser Blog vielleicht in einem Übergang – wobei dieser sich sowieso mit mir bewegt und somit immer wieder wandelt.
+In den letzten Blogtexten ging es um Veränderungen und Übergänge. So ist auch dieser Blog vielleicht in einem Übergang – wobei dieser sich sowieso mit mir bewegt und sich somit immer wieder wandelt.
 
 ![](aussicht1.jpg)
 
