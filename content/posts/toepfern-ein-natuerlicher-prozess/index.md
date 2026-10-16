@@ -12,11 +12,11 @@ footnotes = "Den Kurs habe ich übrigens bei [Anina Ung Keramik ](https://www.an
 
 ## Töpfern
 
-Bewegung und Stabilität - so lässt sich Töpfern an der Drehscheibe vielleicht auf den Punkt bringen. Es ist aber auf Halten und Loslassen. Es ist Fühlen, sich Einlassen und mit dem gehen, was ist.
+Bewegung und Stabilität – so lässt sich Töpfern an der Drehscheibe vielleicht auf den Punkt bringen. Es ist aber auch Halten und Loslassen. Es ist Fühlen, sich Einlassen und mit dem gehen, was ist.
 
 ![](to-pfern-ben.jpg)
 
-Wer bestimmt den Prozess - ich oder der Ton? Der Ton gibt mit seiner jeweiligen Beschaffenheit vieles vor und man könnte sagen, er ist es und “man” muss sich darauf einlassen, damit “es” gutkommt. Oder bin ich es, der den Rahmen gibt, die Masse in die Form bringt? Am naheliegendsten scheint mir, dass wir es beide sind, ich und der Ton. Es scheint dann zu funktionieren, wenn ich mich auf den Ton einlasse, im Moment bin und gleichzeitig die Form vorgebe - den Rahmen gebe. Es ist also das Zusammenspiel zwischen mir und der Masse, die sich auf der Scheibe dreht.
+Wer bestimmt den Prozess – ich oder der Ton? Der Ton gibt mit seiner jeweiligen Beschaffenheit vieles vor und man könnte sagen, er ist es und “man” muss sich darauf einlassen, damit “es” gutkommt. Oder bin ich es, der den Rahmen gibt, die Masse in die Form bringt? Am naheliegendsten scheint mir, dass wir es beide sind, ich und der Ton. Es scheint dann zu funktionieren, wenn ich mich auf den Ton einlasse, im Moment bin und gleichzeitig die Form vorgebe - den Rahmen gebe. Es ist also das Zusammenspiel zwischen mir und der Masse, die sich auf der Scheibe dreht.
 
 Töpfern ist ein Prozess mit ungewissem Ausgang. Jeder Arbeitsschritt kann Erfolg oder Scheitern zur Folge haben, wobei eigentlich immer eine Lernmöglichkeit drinsteckt.
 
