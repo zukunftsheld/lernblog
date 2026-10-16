@@ -38,17 +38,17 @@ Anschliessend beginne ich zu formen – je nachdem, was ich machen will. Ich zie
 
 Ein Prozessschritt, der mich begeistert. Beim Abdrehen fliegen die Späne, das, was da ist, wird geformt, verfeinert und nimmt Gestalt an. Auch hier ist das Zentrieren die Basis von Gelingen (oder Scheitern). Ich versuche, im Körper stabil zu sein, im Kopf flexibel und bearbeite mit dem Werkzeug die Oberfläche, versuche in die Richtung meiner Vorstellung zu arbeiten und immer die Eigenschaften von dem, was da gerade dreht, zu berücksichtigen, zu respektieren und mitzugehen.
 
-![](abdrehen.jpg)
-
 ![](abdrehen-2-.jpg)
+
+![](abdrehen.jpg)
 
 ## Glasieren
 
 Und dann, nach dem ersten Brand, kommt die Glasur. Welche Farbe passt zu welchem Gefäss und wie wird es am Ende aussehen? Hier gehe ich nach Gefühl, wähle drei Farben. Jede Farbe muss ich zuerst aufrühren, um anschliessend die Flüssigkeit in die Gefässe zu leeren, um sie gleich wieder auszuschütten, bevor ich die Aussenseite in den Kessel tunke. Und wieder bin ich begeistert, wie die Flüssigkeit schnell trocknet und sich doch noch leicht abreiben lässt – dasselbe Material, das nach dem zweiten Brand hart und unveränderbar ist.
 
-![](glasieren2.jpg)
-
 ![](glasieren.jpg)
+
+![](glasieren2.jpg)
 
 ## Nichts bleibt, wie es ist
 
