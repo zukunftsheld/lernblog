@@ -16,7 +16,7 @@ Bewegung und Stabilität – so lässt sich Töpfern an der Drehscheibe vielleic
 
 ![](to-pfern-ben.jpg)
 
-Wer bestimmt den Prozess – ich oder der Ton? Der Ton gibt mit seiner jeweiligen Beschaffenheit vieles vor und man könnte sagen, er ist es und “man” muss sich darauf einlassen, damit “es” gutkommt. Oder bin ich es, der den Rahmen gibt, die Masse in die Form bringt? Am naheliegendsten scheint mir, dass wir es beide sind, ich und der Ton. Es scheint dann zu funktionieren, wenn ich mich auf den Ton einlasse, im Moment bin und gleichzeitig die Form vorgebe - den Rahmen gebe. Es ist also das Zusammenspiel zwischen mir und der Masse, die sich auf der Scheibe dreht.
+Wer bestimmt den Prozess – ich oder der Ton? Der Ton gibt mit seiner jeweiligen Beschaffenheit vieles vor und man könnte sagen, er ist es und «man» muss sich darauf einlassen, damit «es» gutkommt. Oder bin ich es, der den Rahmen gibt, die Masse in die Form bringt? Am naheliegendsten scheint mir, dass wir es beide sind, ich und der Ton. Es scheint dann zu funktionieren, wenn ich mich auf den Ton einlasse, im Moment bin und gleichzeitig die Form vorgebe – den Rahmen gebe. Es ist also das Zusammenspiel zwischen mir und der Masse, die sich auf der Scheibe dreht.
 
 Töpfern ist ein Prozess mit ungewissem Ausgang. Jeder Arbeitsschritt kann Erfolg oder Scheitern zur Folge haben, wobei eigentlich immer eine Lernmöglichkeit drinsteckt.
 
@@ -28,9 +28,9 @@ So habe ich den Eindruck, dass nicht nur der Tonklumpen am Ende dieser Prozesse 
 
 ## Drehen
 
-Ich komme mit dem Ton in Kontakt, schneide mir ein Stück ab, knete, setze mich an die Drehscheibe und beginne zu zentrieren. Dafür brauche ich (so scheint es mir) Stabilität und Entspannung (oder Lockerheit) gleichzeitig. Das Zentrieren kann eine mühselige Angelegenheit sein und gleichsam befriedigend. Ich verabschiede mich vom Perfektionsanspruch und fühle mich bei “so zentriert wie im Moment möglich” wohl. Klar, dieser erste Schritt bestimmt mit, wie genau, wie gut das Endergebnis werden kann.
+Ich komme mit dem Ton in Kontakt, schneide mir ein Stück ab, knete, setze mich an die Drehscheibe und beginne zu zentrieren. Dafür brauche ich (so scheint es mir) Stabilität und Entspannung (oder Lockerheit) gleichzeitig. Das Zentrieren kann eine mühselige Angelegenheit sein und gleichsam befriedigend. Ich verabschiede mich vom Perfektionsanspruch und fühle mich bei «so zentriert wie im Moment möglich» wohl. Klar, dieser erste Schritt bestimmt mit, wie genau, wie gut das Endergebnis werden kann.
 
-Anschliessend beginne ich zu formen – je nachdem, was ich machen will. Ich ziehe den Ton hoch, arbeite die Masse nach oben und achte dabei auf die Form, auf Stabilität und genügend Feuchtigkeit. Langsam bewege ich meine Hand weg (das ist zumindest das Ziel, das ich immer wieder “verfehle”) vom Werkstück weg, während es weiterdreht, um Wasser aufzunehmen, die Feuchtigkeit zu halten. Meine andere Hand bleibt dort, mein Körper bleibt stabil, meine Aufmerksamkeit beim Produkt, das entstehen will.
+Anschliessend beginne ich zu formen – je nachdem, was ich machen will. Ich ziehe den Ton hoch, arbeite die Masse nach oben und achte dabei auf die Form, auf Stabilität und genügend Feuchtigkeit. Langsam bewege ich meine Hand weg (das ist zumindest das Ziel, das ich immer wieder «verfehle») vom Werkstück weg, während es weiterdreht, um Wasser aufzunehmen, die Feuchtigkeit zu halten. Meine andere Hand bleibt dort, mein Körper bleibt stabil, meine Aufmerksamkeit beim Produkt, das entstehen will.
 
 ![](to-fpern.jpg)
 
