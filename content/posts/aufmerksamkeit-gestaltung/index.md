@@ -36,7 +36,7 @@ Gunther Schmidt beschreibt das mit dem Begriff **Aufmerksamkeitsfokus**: Wir erl
 
 > «Das Erleben oder die Wirklichkeit wird jede Sekunde neu erzeugt – durch Aufmerksamkeitsfokussierung.»
 >
-> *— Gunther Schmidt*
+> *Gunther Schmidt*
 
 Ein Bild, das mir dazu hilft: eine Stirnlampe im nächtlichen Wald. Was im Lichtkegel liegt, sehe ich klar, jede Wurzel, jeden Stein. Der Rest des Waldes ist nicht weg. Ich sehe ihn nur gerade nicht.
 
@@ -46,7 +46,7 @@ Und sie zeigt sich nicht nur in Gedanken. Für ihn gehören zu einem Muster eben
 
 > «Innere Kämpfe wirken sich auf den Körper aus, das erschafft Wirklichkeit.»
 >
-> *— Gunther Schmidt*
+> *Gunther Schmidt*
 
 Was ich daran entlastend finde: Wer ständig auf Mängel schaut, erlebt die Welt als Mangel. Das ist keine Charakterfrage. Es heisst nicht, dass jemand «negativ» ist (jemand ist sowieso nicht einfach so, sondern verhält sich) oder «nicht will». Es ist eine Frage des Fokus. Und ein Fokus lässt sich verschieben.
 
@@ -66,7 +66,7 @@ Gunther betont, dass sich der Fokus bewusst verschieben lässt, ohne Probleme zu
 
 > «Die Problemreaktion wird nicht vermieden, sie wird ins Lösungsmuster eingebaut.»
 >
-> *— Gunther Schmidt*
+> *Gunther Schmidt*
 
 Wenn ich merke, dass mein Blick an einem Mangel hängen bleibt, versuche ich heute etwa Folgendes. Ein Rezept ist das nicht, eher eine Bewegung, die ich immer wieder übe:
 
