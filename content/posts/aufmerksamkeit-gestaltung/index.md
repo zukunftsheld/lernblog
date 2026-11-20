@@ -1,5 +1,5 @@
 +++
-title = "aufmerksamkeit-gestaltung"
+title = "Aufmerksamkeit ist Gestaltung"
 date = "2026-11-20"
 draft = true
 pinned = false
