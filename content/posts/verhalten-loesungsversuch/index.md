@@ -3,14 +3,17 @@ title = "Verhalten als Lösungsversuch lesen"
 date = "2026-12-20"
 draft = true
 pinned = false
-tags = ["Hypnosystemik"]
+tags = ["Hypnosystemik", "Organisationsentwicklung", "Systemik", "Beratung", "Zusammenarbeit"]
+image = "blog-titelbild-teil-3-verhalten-loesungsversuch.jpg"
 description = "Kritik, Widerstand, zwei Lager: Was, wenn diese Muster gar nicht das Problem sind, sondern ein Versuch, etwas zu lösen? Über Utilisation, eigene Muster und die Frage, wo Einladung aufhört und Lenkung beginnt."
 footnotes = "📚 **Passende Bücher**\n\n**Einführung in die hypnosystemische Therapie und Beratung**, Gunther Schmidt\n\n**Liebesaffären zwischen Problem und Lösung**, Hypnosystemisches Arbeiten in schwierigen Kontexten, Gunther Schmidt\n\n**Lehrbuch der systemischen Therapie und Beratung I**, Arist von Schlippe, Jochen Schweitzer\n\n**Vor dem Denken**, Wie das Unbewusste uns steuert, John Bargh\n\nZitate Gunther Schmidt: gehört und notiert während der Weiterbildung Hypnosystemische Organisationsentwicklung"
 +++
 ***Teil 3 der Reihe «Wohin wir schauen»***
 
-{{<box title="**Über diese Reihe und die Hypnosystemik**">}}
-In dieser Reihe teile ich Gedanken und Erkenntnisse aus meiner Arbeit als Prozessbegleiter, Berater und Moderator, und zwar aus hypnosystemischer Sicht. Damit beschäftige ich mich zurzeit vertieft in einer Weiterbildung. Der Begriff «hypnosystemisch» stammt von Gunther Schmidt: Sein Ansatz verbindet systemisches Denken mit der Hypnotherapie nach Milton Erickson. Vereinfacht gesagt geht es darum, wie unsere Aufmerksamkeit unser Erleben prägt und wie bewusste und unwillkürliche Prozesse für Veränderung genutzt werden können.
+![](blog-titelbild-teil-3-verhalten-loesungsversuch.jpg)
+
+{{<box title="Über diese Reihe und die Hypnosystemik">}}
+In dieser Reihe teile ich Gedanken und Erkenntnisse aus meiner Arbeit als Prozessbegleiter, Berater und Moderator, und zwar aus hypnosystemischer Sicht. Damit beschäftige ich mich zurzeit vertieft in einer Weiterbildung. Der Begriff «hypnosystemisch» stammt von Gunther Schmidt: Sein Ansatz verbindet systemisches Denken (wir sind immer Teil von Beziehungen und Kontexten, und vieles entsteht in Wechselwirkungen) mit der Hypnotherapie nach Milton Erickson (unsere Aufmerksamkeit prägt, wie wir erleben, und vieles geschieht unwillkürlich).
 
 **\#1** Aufmerksamkeit ist Gestaltung
 
