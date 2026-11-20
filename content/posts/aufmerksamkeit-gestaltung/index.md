@@ -6,7 +6,7 @@ pinned = false
 tags = ["Hypnosystemik", "Organisationsentwicklung", "Systemik", "Beratung", "Zusammenarbeit"]
 image = "linkedin-post-1a-mit-titel-aufmerksamkeit-gestaltung.jpg"
 description = "Wohin wir schauen, prägt, was wir für möglich halten. Über Problemtrance, eine Stirnlampe im Wald und die Frage, wo ich selbst gerade nicht hinschaue."
-footnotes = "📚 **Passende Bücher**\n\n**Lehrbuch der systemischen Therapie und Beratung I**, Arist von Schlippe, Jochen Schweitzer\n\n**Einführung in die hypnosystemische Therapie und Beratung**, Gunther Schmidt\n\n**Liebesaffären zwischen Problem und Lösung**, Hypnosystemisches Arbeiten in schwierigen Kontexten, Gunther Schmidt\n\n**Wie Gefühle entstehen**, Eine neue Sicht auf unsere Emotionen, Lisa Feldman Barrett\n\n**TZI, Die Kunst sich selbst und eine Gruppe zu leiten**, Ruth C. Cohn\n\nZitate Gunther Schmidt: gehört und notiert während der Weiterbildung **Hypnosystemische Organisationsentwicklung**"
+footnotes = "📚 **Passende Bücher**\n\n**Lehrbuch der systemischen Therapie und Beratung I**, Arist von Schlippe, Jochen Schweitzer\n\n**Einführung in die hypnosystemische Therapie und Beratung**, Gunther Schmidt\n\n**Liebesaffären zwischen Problem und Lösung**, Hypnosystemisches Arbeiten in schwierigen Kontexten, Gunther Schmidt\n\n**Wie Gefühle entstehen**, Eine neue Sicht auf unsere Emotionen, Lisa Feldman Barrett\n\n**TZI, Die Kunst sich selbst und eine Gruppe zu leiten**, Ruth C. Cohn\n\nZitate Gunther Schmidt: gehört und notiert während der Weiterbildung **Hypnosystemische Organisationsentwicklung**\n\nBilder: Erstellt mit KI (claude.ai)"
 +++
 ***Teil 1 der Reihe «Wohin wir schauen»***
 
@@ -43,6 +43,8 @@ Gunther Schmidt beschreibt das mit dem Begriff **Aufmerksamkeitsfokus**: Wir erl
 Ein Bild, das mir dazu hilft: eine Stirnlampe im nächtlichen Wald. Was im Lichtkegel liegt, sehe ich klar, jede Wurzel, jeden Stein. Der Rest des Waldes ist nicht weg. Ich sehe ihn nur gerade nicht.
 
 Bleibt die Aufmerksamkeit lange am Schwierigen hängen, spricht Gunther von **Problemtrance**. Das Wort «Trance» klingt vielleicht nach Bühne und Hypnose-Show. Gemeint ist aber etwas sehr Alltägliches: ein Zustand, in dem unsere Aufmerksamkeit so stark auf etwas gerichtet ist, dass anderes kaum mehr wahrgenommen wird. Ähnlich wie beim Lesen eines spannenden Buches, wenn man nicht mehr hört, was um einen herum passiert. In der Problemtrance ist es eben das Problem, das uns so einnimmt.
+
+![](linkedin-post-1b-ohne-titel-aufmerksamkeit-gestaltung.jpg)
 
 Und sie zeigt sich nicht nur in Gedanken. Für ihn gehören zu einem Muster ebenso Gefühle, innere Bilder und Körperempfindungen. Vielleicht spüre ich deshalb so oft zuerst im Körper, dass ich gerade in eine Problemtrance gerutscht bin.
 
