@@ -46,11 +46,11 @@ Wenn ich beim Wald bleibe, durch den sich diese Reihe zieht: Den Lauf des Bachs 
 
 Vieles davon versuche ich (nach Möglichkeit) bereits im Auftrag zu klären: Was ist offen, was steht schon fest, und wo gibt es Spielraum? Gunther Schmidt betonte in einer Weiterbildung, dass der Sinn der Zusammenarbeit aus der angestrebten Zukunft entsteht, und dass diese Zukunft von denen definiert werden muss, die beraten werden. Erst wenn das Ziel klar ist, lässt sich sinnvoll über Probleme sprechen. Beratung ist für ihn nie Selbstzweck:
 
-> Jede Beratung ist ein Mittel zum Zweck und nie an sich sinnvoll.
+> «Jede Beratung ist ein Mittel zum Zweck und nie an sich sinnvoll.»
 >
-> *— Gunther Schmidt*
+> *Gunther Schmidt*
 
-Für mich heisst das: Wenn klar ist, wofür wir zusammenarbeiten, wird auch klarer, was hier verhandelbar ist und was nicht. Und es lohnt sich, sich für die Formulierung der Ziele Zeit zu nehmen, denn auch das sagt Schmidt: «Wie Ziele formuliert werden, das hat eine bahnende Wirkung.» Sie legen also (ein Stück weit) schon den Weg, auf dem wir dann unterwegs sind.
+Für mich heisst das: Wenn klar ist, wofür wir zusammenarbeiten, wird auch klarer, was hier verhandelbar ist und was nicht. Und es lohnt sich, sich für die Formulierung der Ziele Zeit zu nehmen, denn auch das sagt Gunther: «Wie Ziele formuliert werden, das hat eine bahnende Wirkung.» Sie legen also (ein Stück weit) schon den Weg, auf dem wir dann unterwegs sind.
 
 Zu Beginn benenne ich dann, worüber in diesem Raum entschieden werden kann und worüber nicht. Manchmal ist das bereits für alle sichtbar, manchmal muss es (erst) sichtbar gemacht werden.
 
@@ -64,6 +64,6 @@ Vielleicht ist es wie beim Bach: Gerade weil ich weiss, dass ich seinen Lauf nic
 
 ## Was bleibt?
 
-Klarheit darüber, was verhandelbar ist, nimmt Druck aus Diskussionen und macht Spielräume nutzbar. Das klingt fast zu einfach (und vielleicht wird es gerade deshalb so leicht übersehen). Für mich ist es zu einer Frage geworden, die ich mir immer wieder stelle, vor einem Prozess, zu Beginn und (immer wieder) mittendrin: Was ist hier eigentlich verhandelbar?
+Klarheit darüber, was verhandelbar ist, nimmt Druck aus Diskussionen und macht Spielräume nutzbar. Das klingt fast zu einfach (und vielleicht wird es gerade deshalb so leicht übersehen). Für mich ist es zu einer Frage geworden, die ich (mir) immer wieder stelle, vor einem Prozess, zu Beginn und (immer wieder) mittendrin: Was ist hier eigentlich verhandelbar?
 
 Und es führt mich zu einer Frage, die mich durch diese ganze Reihe begleitet hat: Was ist eigentlich mein Teil in all dem? Darum geht es im letzten Teil.
