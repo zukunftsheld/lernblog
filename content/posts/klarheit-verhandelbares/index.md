@@ -6,7 +6,7 @@ pinned = false
 tags = ["Hypnosystemik", "Organisationsentwicklung", "Systemik", "Beratung", "Zusammenarbeit"]
 image = "blog-titelbild-teil-4-klarheit-verhandelbares.jpg"
 description = "Viele Diskussionen drehen sich im Kreis, weil unklar ist, ob überhaupt entschieden werden kann. Über verhandelbar, teilweise verhandelbar und nicht verhandelbar, und warum ein Rahmen auch öffnen kann."
-footnotes = "📚 **Passende Bücher**\n\n**Einführung in die hypnosystemische Therapie und Beratung**, Gunther Schmidt\n\n**Liebesaffären zwischen Problem und Lösung**, Hypnosystemisches Arbeiten in schwierigen Kontexten, Gunther Schmidt\n\n**Lehrbuch der systemischen Therapie und Beratung I**, Arist von Schlippe, Jochen Schweitzer\n\nZitate und Gedanken von Gunther Schmidt: gehört und notiert während der Weiterbildung Hypnosystemische Organisationsentwicklung"
+footnotes = "📚 **Passende Bücher**\n\n**Einführung in die hypnosystemische Therapie und Beratung**, Gunther Schmidt\n\n**Liebesaffären zwischen Problem und Lösung**, Hypnosystemisches Arbeiten in schwierigen Kontexten, Gunther Schmidt\n\n**Lehrbuch der systemischen Therapie und Beratung I**, Arist von Schlippe, Jochen Schweitzer\n\nZitate und Gedanken von Gunther Schmidt: gehört und notiert während der Weiterbildung Hypnosystemische Organisationsentwicklung\n\nBilder: Erstellt mit KI (claude.ai)"
 +++
 ***Teil 4 der Reihe «Wohin wir schauen»***
 
@@ -39,6 +39,8 @@ Was mir hilft, ist eine einfache Dreiteilung. Manches ist **verhandelbar**, dar�
 Gunther Schmidt spricht in diesem Zusammenhang von **Restriktionen**, also von Bedingungen, die (im Moment) nicht verändert werden können. Im zweiten Teil ging es darum, was in einem Gespräch gerade Platz hat. Hier geht es um etwas Grundsätzlicheres, nämlich darum, was überhaupt entschieden werden kann. Restriktionen zu benennen heisst dabei nicht, sie gutzuheissen. Es heisst eher, sie als Teil der Wirklichkeit ernst zu nehmen, mit der wir arbeiten.
 
 Wenn ich beim Wald bleibe, durch den sich diese Reihe zieht: Den Lauf des Bachs kann ich nicht verändern, der ist nicht verhandelbar. Wo ich ihn überquere, kann ich teilweise wählen, je nachdem, wo Steine liegen. Und wie ich danach weitergehe, ist frei (oder eben verhandelbar, wenn ich mit anderen unterwegs bin).
+
+![](linkedin-post-4b-ohne-titel-klarheit-verhandelbares.jpg)
 
 ## Was ich heute tue
 
