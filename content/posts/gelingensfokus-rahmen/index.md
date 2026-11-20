@@ -1,9 +1,11 @@
 +++
-title = "gelingensfokus-rahmen"
-date = "2026-11-20"
+title = "Gelingensfokus braucht einen Rahmen"
+date = "2026-12-02"
 draft = true
 pinned = false
 tags = ["Hypnosystemik"]
+description = "Was tun, wenn Zuversicht in einer Gruppe plötzlich in Anspannung kippt? Über Ehrenrunden ins alte Muster, das Flussbett als Rahmen und die Frage: Programm oder Raum?"
+footnotes = "📚 **Passende Bücher**\n\n**Einführung in die hypnosystemische Therapie und Beratung**, Gunther Schmidt\n\n**Liebesaffären zwischen Problem und Lösung**, Hypnosystemisches Arbeiten in schwierigen Kontexten, Gunther Schmidt\n\n**TZI, Die Kunst sich selbst und eine Gruppe zu leiten**, Einführung in die Themenzentrierte Interaktion, Ruth C. Cohn\n\n**Wie Gefühle entstehen**, Eine neue Sicht auf unsere Emotionen, Lisa Feldman Barrett\n\n**Imagination als heilsame Kraft**, Luise Reddemann\n\nZitate Gunther Schmidt: gehört und notiert während der Weiterbildung **Hypnosystemische Organisationsentwicklung**"
 +++
 ***Teil 2 der Reihe «Wohin wir schauen»***
 
@@ -76,19 +78,3 @@ Was mir in solchen Momenten Halt gibt, ist ein einfacher Gedanke: Arbeitsfähigk
 Ein Gelingensfokus ist kein Vorsatz, den man einmal fasst und dann einfach hat. Er braucht einen Rahmen, der ihn trägt, so wie der Bach sein Bett braucht. Und wenn er kippt, ist das kein Scheitern, sondern ein Hinweis darauf, dass gerade etwas anderes Aufmerksamkeit braucht. Was genau, finde ich nicht immer sofort heraus. Aber die Frage hat sich für mich verändert, weg von «Was muss ich jetzt tun?» und hin zu «Was zeigt sich hier gerade, und welchen Raum braucht es?».
 
 Im nächsten Teil geht es um Muster, die stören, und um die Frage, was sie vielleicht schützen.
-
-- - -
-
-📚 **Passende Bücher**
-
-**Einführung in die hypnosystemische Therapie und Beratung**, Gunther Schmidt
-
-**Liebesaffären zwischen Problem und Lösung**, Hypnosystemisches Arbeiten in schwierigen Kontexten, Gunther Schmidt
-
-**TZI, Die Kunst sich selbst und eine Gruppe zu leiten**, Einführung in die Themenzentrierte Interaktion, Ruth C. Cohn
-
-**Wie Gefühle entstehen**, Eine neue Sicht auf unsere Emotionen, Lisa Feldman Barrett
-
-**Imagination als heilsame Kraft**, Luise Reddemann
-
-Zitate Gunther Schmidt: gehört und notiert während einer Weiterbildung.
