@@ -10,6 +10,8 @@ footnotes = "📚 **Passende Bücher**\n\n**Lehrbuch der systemischen Therapie 
 +++
 ***Teil 1 der Reihe «Wohin wir schauen»***
 
+![](linkedin-post-1a-mit-titel-aufmerksamkeit-gestaltung.jpg)
+
 {{<box title="Über diese Reihe und die Hypnosystemik">}}
 In dieser Reihe teile ich Gedanken und Erkenntnisse aus meiner Arbeit als Prozessbegleiter, Berater und Moderator, und zwar aus hypnosystemischer Sicht. Damit beschäftige ich mich zurzeit vertieft in einer Weiterbildung. Der Begriff «hypnosystemisch» stammt von Gunther Schmidt: Sein Ansatz verbindet systemisches Denken (wir sind immer Teil von Beziehungen und Kontexten, und vieles entsteht in Wechselwirkungen) mit der Hypnotherapie nach Milton Erickson (unsere Aufmerksamkeit prägt, wie wir erleben, und vieles geschieht unwillkürlich).
 
