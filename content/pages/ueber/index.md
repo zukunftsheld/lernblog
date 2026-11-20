@@ -4,6 +4,8 @@ draft = false
 image = "foto_benjamin.jpg"
 description = "Hallo, ich bin Benjamin.\n\n"
 +++
+![](foto_benjamin.jpg)
+
 👋 Hallo, ich bin Benjamin.
 
 Mich interessieren Menschen, ihr Lernen, ihre Arbeit und die Frage, wie Entwicklung und Menschsein in einer Welt möglich sind, die sich ständig verändert.
@@ -27,8 +29,6 @@ Mit Teams und Führungspersonen arbeite ich in Veränderungsprozessen, bei Spann
 Was ich mitbringe, ist ein feines Gespür für Dynamiken und für das, was oft unausgesprochen bleibt. Die Antworten entstehen im Gespräch, und dafür schaffe ich den Rahmen.
 
 Wenn dich etwas davon anspricht, schreib mir: [ben@benzaugg.ch](mailto:ben@benzaugg.ch)
-
-
 
 PS: 🎧 In drei verschiedenen Podcast-Formaten – 🎙️ZUKUNFTSHELDEN, 🎙️24Stunden.life und 🎙️entwicklungsfreiraum – habe ich mit Menschen gesprochen, die ehrliche und tiefe Einblicke in ihre Arbeit, Biografien und Lernerfahrungen gegeben haben. Die Podcastfolgen sind nicht mehr verfügbar, es finden sich jedoch möglicherweise noch Hinweise und Überbleibsel aus dieser Zeit in Blogbeiträgen.
 
