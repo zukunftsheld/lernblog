@@ -55,3 +55,7 @@ Und dann, nach dem ersten Brand, kommt die Glasur. Welche Farbe passt zu welchem
 Und dann wird alles fest und unveränderbar sein – der Ton in seiner Form, die Glasur in ihrer Farbe und beides zusammen als fertiges Produkt. Es ist, was es ist. Und wie geht es mir danach? Was hat sich in mir verändert, vielleicht auch nur minimst? Und was hat sich gefestigt und gibt es etwas, das nun unverformbar ist?
 
 Vielleicht sind das alles etwas grosse Fragen für so einen kleinen Prozess. Sicher ist, nichts ist unveränderbar, auch diese Tongefässe nicht. Zumindest nicht, wenn sie kaputtgehen. Und auch dann werden sie vielleicht zu etwas Neuem oder anderem. Ich denke da an Kintsugi, an die Bruchstellen, die nicht versteckt, sondern sichtbar gemacht werden. Was vorher ganz war, ist danach anders. Nicht unbedingt besser oder schlechter. Einfach anders.
+
+## Das Endergebnis
+
+![](to-pfern_fini.jpg)
