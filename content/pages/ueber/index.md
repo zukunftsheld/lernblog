@@ -1,7 +1,7 @@
 +++
 title = "Über mich"
 draft = false
-image = ""
+image = "foto_benjamin.jpg"
 description = "Hallo, ich bin Benjamin.\n\n"
 +++
 👋 Hallo, ich bin Benjamin.
