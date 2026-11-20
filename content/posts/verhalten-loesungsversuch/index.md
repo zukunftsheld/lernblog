@@ -26,15 +26,15 @@ In dieser Reihe teile ich Gedanken und Erkenntnisse aus meiner Arbeit als Prozes
 **\#5** Halten statt lösen
 {{</box>}}
 
-Wenn in einer Gruppe Kritik laut wird, sich Widerstand zeigt oder sich zwei Lager bilden, die sich (scheinbar) gegenseitig blockieren, dann meldet sich bei mir oft ein vertrauter Impuls: Das muss ich irgendwie auflösen, beheben, in den Griff bekommen, damit wir wieder arbeiten können. Lange habe ich solche Muster vor allem als etwas gesehen, das im Weg steht, und, wenn ich ehrlich bin, nicht nur bei anderen. Auch meine eigenen Muster, das Festhalten am Plan oder das schnelle Vermitteln, sobald es irgendwo knirscht, habe ich eher kritisch angeschaut, als etwas, das ich mir besser abgewöhnen sollte. Inzwischen frage ich mich öfter: Was, wenn diese Muster gar nicht das eigentliche Problem sind, sondern ein Versuch, etwas zu lösen?
+Wenn in einer Gruppe Kritik laut wird, sich Widerstand zeigt oder sich zwei Lager bilden, die sich (scheinbar) gegenseitig blockieren, dann meldet sich bei mir oft ein vertrauter Impuls: Das muss ich irgendwie auflösen, beheben, in den Griff bekommen, damit wir wieder arbeiten können. Lange habe ich solche Muster vor allem als etwas gesehen, das im Weg steht, und, wenn ich ehrlich bin, nicht nur bei anderen. Auch meine eigenen Muster, das Festhalten am Plan (wobei ich mich da gut lösen kann, jedoch gleichzeitig zweifle) oder das schnelle Vermitteln, sobald es irgendwo knirscht, habe ich eher kritisch angeschaut, als etwas, das ich mir besser abgewöhnen sollte. Inzwischen frage ich mich öfter: Was, wenn diese Muster gar nicht das eigentliche Problem sind, sondern ein Versuch, etwas zu lösen?
 
 ## Was ein Muster schützt
 
 Muster, die stören, haben oft eine Funktion. Sie schützen etwas, sichern Zugehörigkeit oder bringen Entlastung, auch wenn das von aussen (und manchmal auch von innen) nicht gleich sichtbar ist. Wer ein solches Muster bekämpft, verstärkt es oft nur, denn was etwas schützt und dafür angegriffen wird, schützt umso stärker. Gunther Schmidt hat in einer Weiterbildung gesagt, warum das so anstrengend ist:
 
-> Das Unwillkürliche ist immer schneller und stärker als alles Willkürliche, der Kampf dagegen braucht viel Kraft und Energie.
+> «Das Unwillkürliche ist immer schneller und stärker als alles Willkürliche, der Kampf dagegen braucht viel Kraft und Energie.»
 >
-> *— Gunther Schmidt*
+> *Gunther Schmidt*
 
 Gunther Schmidt geht hier sogar noch einen Schritt weiter. Hypnosystemisch gesehen gibt es für ihn gar keine Probleme, sondern Phänomene. Jedes Erleben, jedes Gefühl, auch jedes Problem und ebenso jede Lösung ist Ausdruck selbstgemachter Musterbildungen. Das klingt (vielleicht) abstrakt, entlastet mich aber sehr, weil es den Blick weg vom «Was ist hier falsch?» und hin zum «Wie entsteht das gerade?» lenkt.
 
@@ -54,19 +54,19 @@ Heute frage ich deshalb eher nach dem Anliegen hinter der Position: Was ist dir 
 
 ## Auch meine Muster
 
-Und dann sind da meine eigenen Muster. Am Plan festzuhalten zum Beispiel. Lange habe ich das eher kritisch gesehen, als etwas Starres. Heute sehe ich auch, was es mir gibt: Sicherheit und Halt. Oft ist ja ein Auftrag geklärt und ein Ziel vereinbart, und der Plan ist mein Versuch, gut dorthin zu kommen. Das ist nichts Schlechtes. Nur merke ich immer wieder, dass man meistens einfach auf dem Weg zum Ziel ist, und dass dieser Weg selten genau so verläuft, wie ich ihn mir zurechtgelegt habe.
+Und dann sind da meine eigenen Muster. Am Plan festzuhalten zum Beispiel. Lange habe ich das eher kritisch gesehen, als etwas Starres. Heute sehe ich auch, was es mir gibt: Sicherheit und Halt. Oft ist ja ein Auftrag geklärt und ein Ziel vereinbart und der Plan ist mein Versuch, gut dorthin zu kommen. Das ist nichts Schlechtes. Nur merke ich immer wieder, dass man meistens einfach auf dem Weg zum Ziel ist, und dass dieser Weg selten genau so verläuft, wie ich ihn mir zurechtgelegt habe.
 
 Wenn ich im Wald aus den ersten Teilen bleibe, dann ist der Plan so etwas wie die Route, die ich mir vor dem Aufbruch überlegt habe. Sie gibt Orientierung, und ohne sie würde ich wohl planlos herumirren. Unterwegs zeigt sich dann aber, wo ein Baum quer liegt oder wo der Bach mehr Wasser führt als erwartet. Dann hilft es wenig, stur auf der Route zu bestehen. Sie bleibt wichtig, aber gehen muss ich den Weg, der sich vor mir zeigt.
 
 ## Wenn Einladung zu Druck wird
 
-Wie weit Absicht und Wirkung auseinandergehen können, habe ich auch bei mir selbst erlebt. Ich habe einmal ruhig und mehrfach nachgefragt, mit der Absicht, Raum zu öffnen, und die Person fühlte sich dabei unter Druck. Das hat mich überrascht, weil es für mich ganz klar eine Einladung war. Und es hat mich verunsichert. Was für mich Einladung ist, kann für jemand anderen Druck sein, und dieselbe Intervention wird unterschiedlich erlebt. Schmidt sagt dazu: «Es ist nie der Inhalt, es ist immer die Beziehungsgestaltung, in der der Inhalt vermittelt wird.» Und noch deutlicher:
+Wie weit Absicht und Wirkung auseinandergehen können, habe ich auch bei mir selbst erlebt. Ich habe einmal ruhig und offen nachgefragt (die Frage auch klar als offenes Angebot gerahmt), mit der Absicht, Raum zu öffnen, und die Person fühlte sich dabei unter Druck (das wurde erst nach der Begleitung klar). Das hat mich überrascht, weil es für mich ganz klar eine Einladung war. Und es hat mich leicht verunsichert. Was für mich Einladung ist, kann für jemand anderen Druck sein, und dieselbe Intervention wird unterschiedlich erlebt. Gunther sagt dazu: «Es ist nie der Inhalt, es ist immer die Beziehungsgestaltung, in der der Inhalt vermittelt wird.» Und noch deutlicher:
 
-> Bedeutung einer Botschaft entscheidet nie der Sender, immer der Empfänger.
+> «Bedeutung einer Botschaft entscheidet nie der Sender, immer der Empfänger.»
 >
-> *— Gunther Schmidt*
+> *Gunther Schmidt*
 
-Seither begleitet mich eine Frage, auf die ich (noch) keine abschliessende Antwort habe: Wo hört Einladung auf, und wo beginnt Lenkung? Vielleicht lässt sich das gar nicht von aussen festlegen, sondern zeigt sich erst darin, wie es beim Gegenüber ankommt.
+Seither begleitet mich eine Frage, auf die ich (noch) keine abschliessende Antwort habe: Wo hört Einladung auf, und wo beginnt Lenkung? Vielleicht (vermutlich) lässt sich das gar nicht von aussen festlegen, sondern zeigt sich erst darin, wie es beim Gegenüber ankommt.
 
 ## Was bleibt?
 
