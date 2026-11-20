@@ -1,10 +1,11 @@
 +++
-title = "verhalten-loesungsversuch"
+title = "Verhalten als Lösungsversuch lesen"
 date = "2026-12-20"
 draft = true
 pinned = false
 tags = ["Hypnosystemik"]
 description = "Kritik, Widerstand, zwei Lager: Was, wenn diese Muster gar nicht das Problem sind, sondern ein Versuch, etwas zu lösen? Über Utilisation, eigene Muster und die Frage, wo Einladung aufhört und Lenkung beginnt."
+footnotes = "📚 **Passende Bücher**\n\n**Einführung in die hypnosystemische Therapie und Beratung**, Gunther Schmidt\n\n**Liebesaffären zwischen Problem und Lösung**, Hypnosystemisches Arbeiten in schwierigen Kontexten, Gunther Schmidt\n\n**Lehrbuch der systemischen Therapie und Beratung I**, Arist von Schlippe, Jochen Schweitzer\n\n**Vor dem Denken**, Wie das Unbewusste uns steuert, John Bargh\n\nZitate Gunther Schmidt: gehört und notiert während der Weiterbildung Hypnosystemische Organisationsentwicklung"
 +++
 ***Teil 3 der Reihe «Wohin wir schauen»***
 
@@ -69,17 +70,3 @@ Seither begleitet mich eine Frage, auf die ich (noch) keine abschliessende Antwo
 Vom Beheben zum Verstehen, so würde ich die Verschiebung beschreiben, die für mich in diesem Thema steckt. Statt zu fragen, wie ein Muster wegzubekommen ist, frage ich öfter, was es schützt, wofür es gut ist und was es braucht, damit es sich nicht mehr so laut melden muss. Das gilt für Gruppen, und es gilt (vielleicht sogar zuerst) für mich.
 
 Im nächsten Teil geht es um etwas, das viel Ringen auslösen kann und gleichzeitig erstaunlich oft unklar bleibt: die Frage, was überhaupt verhandelbar ist.
-
-- - -
-
-📚 **Passende Bücher**
-
-**Einführung in die hypnosystemische Therapie und Beratung**, Gunther Schmidt
-
-**Liebesaffären zwischen Problem und Lösung**, Hypnosystemisches Arbeiten in schwierigen Kontexten, Gunther Schmidt
-
-**Lehrbuch der systemischen Therapie und Beratung I**, Arist von Schlippe, Jochen Schweitzer
-
-**Vor dem Denken**, Wie das Unbewusste uns steuert, John Bargh
-
-Zitate Gunther Schmidt: gehört und notiert während einer Weiterbildung.
