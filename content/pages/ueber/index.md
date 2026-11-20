@@ -28,6 +28,8 @@ Was ich mitbringe, ist ein feines Gespür für Dynamiken und für das, was oft u
 
 Wenn dich etwas davon anspricht, schreib mir: [ben@benzaugg.ch](mailto:ben@benzaugg.ch)
 
+\-------------
+
 🌱 Colearning begleitet mich seit vielen Jahren. Ich engagiere mich für die Colearning-Bewegung und lerne selbst jeden Tag mit und von anderen Menschen.
 
 PS: 🎧 In drei verschiedenen Podcast-Formaten – 🎙️ZUKUNFTSHELDEN, 🎙️24Stunden.life und 🎙️entwicklungsfreiraum – habe ich mit Menschen gesprochen, die ehrliche und tiefe Einblicke in ihre Arbeit, Biografien und Lernerfahrungen gegeben haben. Die Podcastfolgen sind nicht mehr verfügbar, es finden sich jedoch möglicherweise noch Hinweise und Überbleibsel aus dieser Zeit in Blogbeiträgen.
