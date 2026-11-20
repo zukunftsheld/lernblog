@@ -30,6 +30,8 @@ Was ich mitbringe, ist ein feines Gespür für Dynamiken und für das, was oft u
 
 Wenn dich etwas davon anspricht, schreib mir: [ben@benzaugg.ch](mailto:ben@benzaugg.ch)
 
+🧭 **Spuren von früher**
+
 PS: 🎧 In drei verschiedenen Podcast-Formaten – 🎙️ZUKUNFTSHELDEN, 🎙️24Stunden.life und 🎙️entwicklungsfreiraum – habe ich mit Menschen gesprochen, die ehrliche und tiefe Einblicke in ihre Arbeit, Biografien und Lernerfahrungen gegeben haben. Die Podcastfolgen sind nicht mehr verfügbar, es finden sich jedoch möglicherweise noch Hinweise und Überbleibsel aus dieser Zeit in Blogbeiträgen.
 
 PPS: Das Leben findet oft in Wellenbewegungen statt, und meistens passiert gerade dann viel, wenn wir uns aus unserer Komfort- oder Gewohnheitszone bewegen. 2021 habe ich mich weit aus dieser Komfortzone bewegt, weil ich wissen wollte, wie die Welt als Selbstständiger aussieht. Anstatt nur die tollen Momente und das Gute zu zeigen, wollte ich vieles zeitnah niederschreiben und teilen. Hätte ich mir diese Aufgabe nicht gestellt, wäre hier vieles verborgen geblieben oder schön und gefiltert erschienen. Aus meiner ursprünglich geplanten Selbstständigkeit ist auch eine Lern- und Entdeckungsreise durch die Bildungs- und Arbeitswelt entstanden.
