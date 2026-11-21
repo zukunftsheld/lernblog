@@ -40,7 +40,7 @@ Gunther Schmidt spricht in diesem Zusammenhang von **Restriktionen**, also von B
 
 Wenn ich beim Wald bleibe, durch den sich diese Reihe zieht: Den Lauf des Bachs kann ich nicht verändern, der ist nicht verhandelbar. Wo ich ihn überquere, kann ich teilweise wählen, je nachdem, wo Steine liegen. Und wie ich danach weitergehe, ist frei (oder eben verhandelbar, wenn ich mit anderen unterwegs bin).
 
-![](linkedin-post-4b-ohne-titel-klarheit-verhandelbares.jpg)
+![](teil-4-grafik-verhandelbar.jpg)
 
 ## Was ich heute tue
 
