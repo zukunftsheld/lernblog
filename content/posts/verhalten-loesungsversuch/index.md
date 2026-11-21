@@ -40,6 +40,8 @@ Gunther Schmidt geht hier sogar noch einen Schritt weiter. Hypnosystemisch geseh
 
 Für den Umgang damit verwendet Schmidt den Begriff **Utilisation**. Er beschreibt damit die Art und Weise, wie ein Phänomen beschrieben, benannt, bewertet, erklärt und behandelt wird, nämlich so, dass es für die angestrebten Ziele optimal genutzt werden kann. In meinen Worten: Das, was da ist, wird als nutzbares Material verstanden statt bekämpft. Das gilt auch für den Widerstand, die Skepsis und das, was wir als «störend» erleben. Utilisation heisst dabei nicht, etwas auszunutzen. Es heisst eher, zu fragen: Was steckt da drin, das uns weiterhelfen könnte?
 
+![](teil-3-grafik-utilisation.jpg)
+
 Dazu passt für mich, was John Bargh beschreibt. Für ihn steuern Prägungen aus der Vergangenheit, das gegenwärtige Bauchgefühl und Ziele für die Zukunft unser tagtägliches Verhalten, bevor das Denken überhaupt einsetzt. Bargh hat sich unter anderem lange mit dem sogenannten Priming beschäftigt, das Schmidt als Bahnung von unwillkürlichen Prozessen beschreibt. Viele Muster laufen also ab, bevor sich jemand bewusst dafür entschieden hat. Das macht es für mich leichter, sie nicht persönlich zu nehmen, und gleichzeitig schwerer, sie einfach «wegzumachen».
 
 ## Zwei Lager, ein Anliegen
