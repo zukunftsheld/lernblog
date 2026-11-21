@@ -44,7 +44,7 @@ Ein Bild, das mir dazu hilft: eine Stirnlampe im nächtlichen Wald. Was im Licht
 
 Bleibt die Aufmerksamkeit lange am Schwierigen hängen, spricht Gunther von **Problemtrance**. Das Wort «Trance» klingt vielleicht nach Bühne und Hypnose-Show. Gemeint ist aber etwas sehr Alltägliches: ein Zustand, in dem unsere Aufmerksamkeit so stark auf etwas gerichtet ist, dass anderes kaum mehr wahrgenommen wird. Ähnlich wie beim Lesen eines spannenden Buches, wenn man nicht mehr hört, was um einen herum passiert. In der Problemtrance ist es eben das Problem, das uns so einnimmt.
 
-![](linkedin-post-1b-ohne-titel-aufmerksamkeit-gestaltung.jpg)
+![](teil-1-grafik-problemtrance-loesungstrance.jpg)
 
 Und sie zeigt sich nicht nur in Gedanken. Für ihn gehören zu einem Muster ebenso Gefühle, innere Bilder und Körperempfindungen. Vielleicht spüre ich deshalb so oft zuerst im Körper, dass ich gerade in eine Problemtrance gerutscht bin.
 
