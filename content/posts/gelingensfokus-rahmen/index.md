@@ -44,6 +44,8 @@ Wenn dieser Fokus kippt, ist das zuerst einmal eine Information. Gunther Schmidt
 >
 > *Gunther Schmidt*
 
+![](teil-2-grafik-ehrenrunden.jpg)
+
 Mir gefällt dieses Wort sehr, weil darin keine Abwertung steckt. Eine Ehrenrunde ist kein Scheitern (eher eine Runde, die eben noch dazugehört). Worüber das Kippen informiert, ist allerdings nicht immer gleich klar. Vielleicht ist da ein Thema, das (noch) keinen Platz hat. Vielleicht ist es der Zeitdruck oder etwas, das ich von meinem Platz aus gar nicht sehen kann. Und manchmal hat es mit dem Rahmen zu tun, in dem wir gerade arbeiten. Was ich immer wieder beobachte: Der Gelingensfokus trägt, solange sich niemand abgewertet fühlt, die Teilnehmende sich gesehen fühlen oder nicht ein (grosser) «Elefant im Raum» ist. Sobald z. B. jemand Abwertung erlebt (ob beabsichtigt oder nicht), tritt die Spannung in den Vordergrund, und dann hilft es wenig, einfach weiter nach vorne zu schauen.
 
 Spannend finde ich in diesem Zusammenhang die Sicht von Lisa Feldman Barrett. Für sie sind Emotionen nicht einfach vorprogrammiert, sondern Erfahrungen, die wir aus unserer Geschichte, unserem Körper und unserer Umgebung konstruieren. Wenn das stimmt, dann ist auch die Anspannung in einem Raum nicht einfach «da». Sie entsteht in einem Kontext, und diesen Kontext können wir mitgestalten. Gunther Schmidt sagt es noch knapper:
@@ -63,6 +65,8 @@ Gunther spricht von **Pacing**: Zuerst wird aufgenommen und gewürdigt, was da i
 Was mir dabei sehr gefällt: Gunther spricht lieber von *Pacing und Inviting* als von *Pacing und Leading*. Also einladen, mitzukommen, statt zu führen, denn führen in diesem Sinn können wir (eigentlich) gar nicht. Das ist etwas, das ich so gut wie möglich in meine Arbeit einfliessen lasse.
 
 Für mich heisst das heute vor allem: Störungen lesen statt beheben. Gunther betont, dass Problemschilderungen wichtige Informationen über Bedürfnisse enthalten, und ich glaube, das gilt auch für Störungen. Was zeigt sich da gerade? Wofür steht diese Spannung? Und was braucht es jetzt, damit wir weiterarbeiten können?
+
+![](teil-2-grafik-pacing-inviting.jpg)
 
 ## Was jetzt keinen Platz hat, braucht einen eigenen Rahmen
 
