@@ -60,6 +60,8 @@ Damit das überhaupt möglich ist, braucht es Zeit. Einen Zeitpuffer plane ich e
 
 Nur ist das mit der Eule nicht ganz so einfach. Sie sitzt zwar auf ihrem Baum und sieht vieles, aber sie ist ja auch Teil des Waldes, Teil des Ökosystems. Ihr Dasein verändert etwas, ob sie will oder nicht. Genau das meint der etwas sperrige Begriff **Kybernetik zweiter Ordnung**: Ich bin als Beobachter Teil dessen, was ich beobachte. Ich stehe nicht ausserhalb und schaue auf ein System, sondern gehöre in diesem Moment dazu, und was ich sehe, hat immer auch mit mir zu tun. Schmidt sagt: «Eine Beobachtung ist immer ein Resultat einer interaktionellen Wechselwirkung.» Und an anderer Stelle: «Wechselwirkung ist Wirkung und das erzeugt Wirklichkeit.»
 
+![](teil-5-grafik-kybernetik.jpg)
+
 Dazu passt, wie er lebende Systeme versteht: Sie organisieren sich selbst, und das Erleben entsteht von innen heraus. In der Weiterbildung hat er es so formuliert:
 
 > «Lebenssysteme funktionieren nach Wechselwirkungsprozessen in der Gegenwart, nie nach linearer Kausalität.»
