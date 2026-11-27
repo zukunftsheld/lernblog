@@ -1,8 +1,9 @@
 +++
 title = "Der Elefant im Raum – was niemand ausspricht"
-date = "2026-11-27"
+date = "2026-12-23"
 draft = true
 pinned = false
+tags = ["Organisationsentwicklung", "Beratung", "Zusammenarbeit", "Kommunikation", "Hypnosystemik", "Team"]
 image = "elefant-im-raum.jpg"
 description = "Manchmal steht in einem Raum ein Thema, über das niemand spricht. Seit einiger Zeit nehme ich deshalb einen kleinen Elefanten aus Plastik mit. Über den Elefanten im Raum, wie ich ihn in Begleitungen nutze und was es braucht, damit er mehr ist als ein lustiger Einfall."
 footnotes = "📚 **Passende Bücher**\n\n**TZI, Die Kunst sich selbst und eine Gruppe zu leiten**, Ruth C. Cohn\n\n**Einführung in die hypnosystemische Therapie und Beratung**, Gunther Schmidt\n\nBild: Erstellt mit ChatGPT"
