@@ -1,7 +1,7 @@
 +++
 title = "Verhalten als Lösungsversuch lesen"
 date = "2026-12-02"
-draft = true
+draft = false
 pinned = false
 tags = ["Hypnosystemik", "Organisationsentwicklung", "Systemik", "Beratung", "Zusammenarbeit"]
 image = "blog-titelbild-teil-3-verhalten-loesungsversuch.jpg"
