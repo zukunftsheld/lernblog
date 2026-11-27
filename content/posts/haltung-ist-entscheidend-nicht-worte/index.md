@@ -1,7 +1,7 @@
 +++
 title = "Haltung ist entscheidend, nicht Worte"
 date = "2026-12-30"
-draft = true
+draft = false
 pinned = false
 tags = ["Gedanken", "Coaching", "Tools", "Beratung", "Werte", "Begegnung", "Prozessbegleitung", "Hypnosystemik"]
 image = "bz.jpg"
