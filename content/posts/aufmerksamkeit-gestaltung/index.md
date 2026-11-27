@@ -15,11 +15,11 @@ footnotes = "📚 **Passende Bücher**\n\n**Lehrbuch der systemischen Therapie 
 {{<box title="Über diese Reihe und die Hypnosystemik">}}
 In dieser Reihe teile ich Gedanken und Erkenntnisse aus meiner Arbeit als Prozessbegleiter, Berater und Moderator, und zwar aus hypnosystemischer Sicht. Damit beschäftige ich mich zurzeit vertieft in einer Weiterbildung. Der Begriff «hypnosystemisch» stammt von Gunther Schmidt: Sein Ansatz verbindet systemisches Denken (wir sind immer Teil von Beziehungen und Kontexten, und vieles entsteht in Wechselwirkungen) mit der Hypnotherapie nach Milton Erickson (unsere Aufmerksamkeit prägt, wie wir erleben, und vieles geschieht unwillkürlich).
 
-**\#1** Aufmerksamkeit ist Gestaltung
+**\#1** [Aufmerksamkeit ist Gestaltung](https://www.bensblog.ch/aufmerksamkeit-gestaltung/)
 
-**\#2** Gelingensfokus braucht einen Rahmen
+**\#2** [Gelingensfokus braucht einen Rahmen](https://www.bensblog.ch/gelingensfokus-rahmen/)
 
-**\#3** Verhalten als Lösungsversuch lesen
+**\#3** [Verhalten als Lösungsversuch lesen](https://www.bensblog.ch/verhalten-loesungsversuch/)
 
 **\#4** Klarheit über das Verhandelbare entlastet
 
