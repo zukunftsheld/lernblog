@@ -1,6 +1,6 @@
 +++
 title = "Klarheit über das Verhandelbare entlastet"
-date = "2027-01-10"
+date = "2026-12-09"
 draft = true
 pinned = false
 tags = ["Hypnosystemik", "Organisationsentwicklung", "Systemik", "Beratung", "Zusammenarbeit"]
