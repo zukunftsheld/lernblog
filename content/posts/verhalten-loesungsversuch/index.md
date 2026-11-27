@@ -1,6 +1,6 @@
 +++
 title = "Verhalten als Lösungsversuch lesen"
-date = "2026-12-20"
+date = "2026-12-02"
 draft = true
 pinned = false
 tags = ["Hypnosystemik", "Organisationsentwicklung", "Systemik", "Beratung", "Zusammenarbeit"]
