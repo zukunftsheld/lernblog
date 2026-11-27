@@ -1,8 +1,9 @@
 +++
-title = "elefant-im-raum"
+title = "Der Elefant im Raum – was niemand ausspricht"
 date = "2026-11-27"
 draft = true
 pinned = false
+description = "Manchmal steht in einem Raum ein Thema, über das niemand spricht. Seit einiger Zeit nehme ich deshalb einen kleinen Elefanten aus Plastik mit. Über den Elefanten im Raum, wie ich ihn in Begleitungen nutze und was es braucht, damit er mehr ist als ein lustiger Einfall."
 +++
 Wenn ich eine Gruppe begleite, ist vieles im Voraus geklärt. Es gibt einen Auftrag und eine auftraggebende Person und ich versuche möglichst transparent zu machen, weshalb wir überhaupt zusammenkommen und was das Ziel ist. Und trotzdem ist da (natürlich) oft auch Unsicherheit im Raum oder die Menschen machen einfach einmal mit, ohne so genau zu wissen, wohin das führen soll. Manchmal ist da noch etwas anderes: ein Thema, das eigentlich das Thema wäre, über das aber niemand spricht. Vielleicht ist es allen bewusst (oder nur einigen) und vielleicht weiss die auftraggebende Person gar nichts davon. Der Elefant im Raum eben.
 
