@@ -1,7 +1,7 @@
 +++
 title = "Der Elefant im Raum – was niemand ausspricht"
 date = "2026-12-23"
-draft = true
+draft = false
 pinned = false
 tags = ["Organisationsentwicklung", "Beratung", "Zusammenarbeit", "Kommunikation", "Hypnosystemik", "Team"]
 image = "elefant-im-raum.jpg"
