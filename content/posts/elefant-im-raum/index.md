@@ -4,6 +4,7 @@ date = "2026-11-27"
 draft = true
 pinned = false
 description = "Manchmal steht in einem Raum ein Thema, über das niemand spricht. Seit einiger Zeit nehme ich deshalb einen kleinen Elefanten aus Plastik mit. Über den Elefanten im Raum, wie ich ihn in Begleitungen nutze und was es braucht, damit er mehr ist als ein lustiger Einfall."
+footnotes = "📚 **Passende Bücher**\n\n**TZI, Die Kunst sich selbst und eine Gruppe zu leiten**, Ruth C. Cohn\n\n**Einführung in die hypnosystemische Therapie und Beratung**, Gunther Schmidt"
 +++
 Wenn ich eine Gruppe begleite, ist vieles im Voraus geklärt. Es gibt einen Auftrag und eine auftraggebende Person und ich versuche möglichst transparent zu machen, weshalb wir überhaupt zusammenkommen und was das Ziel ist. Und trotzdem ist da (natürlich) oft auch Unsicherheit im Raum oder die Menschen machen einfach einmal mit, ohne so genau zu wissen, wohin das führen soll. Manchmal ist da noch etwas anderes: ein Thema, das eigentlich das Thema wäre, über das aber niemand spricht. Vielleicht ist es allen bewusst (oder nur einigen) und vielleicht weiss die auftraggebende Person gar nichts davon. Der Elefant im Raum eben.
 
@@ -30,11 +31,3 @@ Es braucht Vertrauen in die Gruppe, Vertrauen in der Gruppe und auch Vertrauen i
 Der Elefant ist für mich ein kleines Werkzeug mit überraschend viel Wirkung, aber eben ein Werkzeug und kein Rezept. Was ihn trägt, ist die Haltung dahinter: die Bereitschaft, das Unausgesprochene einzuladen. Und die Sicherheit, es dann auch halten zu können.
 
 Vor jedem Prozess überlege ich mir deshalb gut, ob ich ihn überhaupt mitnehme. Bin ich bereit für das, was der Elefant mitbringen könnte? Gleichzeitig versuche ich zu spüren, ob auch die Gruppe dafür bereit ist (und stabil genug für den Elefanten). Und ob es in diesem Moment wirklich Sinn macht.
-
-- - -
-
-📚 **Passende Bücher**
-
-**TZI, Die Kunst sich selbst und eine Gruppe zu leiten**, Ruth C. Cohn
-
-**Einführung in die hypnosystemische Therapie und Beratung**, Gunther Schmidt
