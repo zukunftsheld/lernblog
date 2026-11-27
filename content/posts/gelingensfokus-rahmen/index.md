@@ -1,7 +1,7 @@
 +++
 title = "Gelingensfokus braucht einen Rahmen"
-date = "2026-12-02"
-draft = true
+date = "2026-11-27"
+draft = false
 pinned = false
 tags = ["Hypnosystemik", "Organisationsentwicklung", "Systemik", "Beratung", "Zusammenarbeit"]
 image = "blog-titelbild-teil-2-gelingensfokus-rahmen.jpg"
