@@ -5,7 +5,7 @@ draft = true
 pinned = false
 image = "elefant-im-raum.jpg"
 description = "Manchmal steht in einem Raum ein Thema, über das niemand spricht. Seit einiger Zeit nehme ich deshalb einen kleinen Elefanten aus Plastik mit. Über den Elefanten im Raum, wie ich ihn in Begleitungen nutze und was es braucht, damit er mehr ist als ein lustiger Einfall."
-footnotes = "📚 **Passende Bücher**\n\n**TZI, Die Kunst sich selbst und eine Gruppe zu leiten**, Ruth C. Cohn\n\n**Einführung in die hypnosystemische Therapie und Beratung**, Gunther Schmidt"
+footnotes = "📚 **Passende Bücher**\n\n**TZI, Die Kunst sich selbst und eine Gruppe zu leiten**, Ruth C. Cohn\n\n**Einführung in die hypnosystemische Therapie und Beratung**, Gunther Schmidt\n\nBild: Erstellt mit ChatGPT"
 +++
 Wenn ich eine Gruppe begleite, ist vieles im Voraus geklärt. Es gibt einen Auftrag und eine auftraggebende Person und ich versuche möglichst transparent zu machen, weshalb wir überhaupt zusammenkommen und was das Ziel ist. Und trotzdem ist da (natürlich) oft auch Unsicherheit im Raum oder die Menschen machen einfach einmal mit, ohne so genau zu wissen, wohin das führen soll. Manchmal ist da noch etwas anderes: ein Thema, das eigentlich das Thema wäre, über das aber niemand spricht. Vielleicht ist es allen bewusst (oder nur einigen) und vielleicht weiss die auftraggebende Person gar nichts davon. Der Elefant im Raum eben.
 
@@ -13,7 +13,7 @@ Wenn ich eine Gruppe begleite, ist vieles im Voraus geklärt. Es gibt einen Auft
 
 Seit einiger Zeit nehme ich deshalb einen Elefanten mit, einen kleinen aus Plastik (und wenn ich ihn einmal nicht dabei habe, dann eben als Bild in der Präsentation). Den Elefanten im Raum kennt man ja (als Bild für das, worüber niemand spricht). Irgendwann ist mir das Thema wieder begegnet und es ist irgendwie hängen geblieben. Daraus ist mein Elefant geworden, so wie ich ihn heute in Begleitungen nutze. Ich habe ihn ausprobiert und es klappt.
 
-
+![](elefant-im-raum.jpg)
 
 Manchmal kündige ich den Elefanten gleich zu Beginn an, manchmal erst im Laufe des Prozesses, wenn ich den Eindruck habe, dass da etwas schwirrt, das blockieren oder behindern könnte. Dann sage ich etwa, dass das wirklich nur mein Eindruck sein kann (vielleicht täusche ich mich ja). Aber für den Fall, dass es so ist, habe ich meine Arbeitskollegin dabei. Und stelle den Elefanten hin. Manchmal gibt es ihn (sage ich dann). Wer das Gefühl hat, dass es ihn gibt, darf ihn nehmen und zu sich stellen oder in die Mitte des Raums. Dann weiss ich, da ist etwas und wir können es thematisieren.
 
