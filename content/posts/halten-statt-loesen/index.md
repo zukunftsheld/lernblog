@@ -1,7 +1,7 @@
 +++
 title = "Halten statt lösen"
 date = "2026-12-16"
-draft = true
+draft = false
 pinned = false
 tags = ["Hypnosystemik", "Organisationsentwicklung", "Systemik", "Beratung", "Zusammenarbeit"]
 image = "blog-titelbild-teil-5-halten-statt-loesen.jpg"
