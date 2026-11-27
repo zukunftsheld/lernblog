@@ -22,25 +22,25 @@ Wenn ich über Haltung nachdenke, lande ich immer bei Carl Rogers. Als ich vor J
 
 > «Kein Ansatz, der sich auf Wissen, auf Training, auf die Annahme irgendeiner Lehre verlässt, kann auf Dauer von Nutzen sein. Haltung ist entscheidend, nicht Worte.»
 >
-> *— Carl R. Rogers*
+> *Carl R. Rogers*
 
 Und dann ist da dieser Satz, der mich seither begleitet:
 
 > «In meinen ersten Berufsjahren wurde mir folgende Frage gestellt: Wie kann ich diese Person behandeln, heilen oder verändern? Nun würde ich die Frage folgendermassen stellen: Wie kann ich eine Beziehung schaffen, die diese Person für ihr persönliches Wachstum nutzen kann?»
 >
-> *— Carl R. Rogers*
+> *Carl R. Rogers*
 
 Für Rogers wird eine solche Beziehung von drei Dingen getragen. Von **Empathie**, also dem Versuch, die Welt des anderen so zu verstehen, als ob es die eigene wäre. Wobei Rogers betont, dieses «als ob» nie zu vergessen (es bleibt die Welt des anderen und nicht meine). Von **Akzeptanz**, also den Menschen anzunehmen, ohne ihn verändern zu wollen. Und von **Kongruenz**, also echt zu sein und keine Fassade aufrechtzuerhalten. Rogers beschreibt, was das bewirken kann:
 
 > «Je mehr ich einfach gewillt bin, inmitten dieser ganzen Komplexität des Lebens ich selbst zu sein, und je mehr ich gewillt bin, die Realitäten in mir selbst und im anderen zu verstehen und zu akzeptieren, desto mehr Veränderung scheint in Gang zu kommen.»
 >
-> *— Carl R. Rogers (1973), S. 37*
+> *Carl R. Rogers (1973), S. 37*
 
 Echt heisst dabei für mich nicht, alles zu sagen und zu teilen. Ruth Cohn hat das mit der selektiven Authentizität schön auf den Punkt gebracht:
 
 > «Takt und Timing gehören zur guten Kommunikation in zwischenmenschlichen Beziehungen. Echtheit und Vorsichtigkeit widersprechen sich nicht. Das bedeutet: selektiv authentisch sein.»
 >
-> *— Ruth C. Cohn*
+> *Ruth C. Cohn*
 
 Aus der Empathie ist bei Rogers das empathische Zuhören entstanden. Und genau daraus wurde (schon damals) eine Technik gemacht. Rogers schrieb einmal, sein Ansatz sei innerhalb weniger Jahre als Technik bekannt geworden. Er war über diese Verzerrungen so schockiert, dass er jahrelang kaum mehr über empathisches Zuhören sprach (und wenn, dann nur, um die empathische Einstellung zu betonen). Der Sog, aus einer Haltung ein Werkzeug zu machen, war also schon damals gross. Und viel korrigiert hat sich seither (m. E.) nicht. Wenn ich in Weiterbildungen sitze und von Empathie (als Tool...) gesprochen wird, habe ich oft den Eindruck, dass sich kaum jemand wirklich mit Rogers oder dem empathischen Zuhören beschäftigt hat. Man kennt die Begriffe, man kennt die Techniken. Aber die Haltung dahinter? Die bleibt oft irgendwo auf der Strecke.
 
