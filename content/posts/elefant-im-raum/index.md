@@ -30,8 +30,8 @@ Ich habe in letzter Zeit öfter vom Elefanten erzählt und viele finden die Idee
 
 Es braucht Vertrauen in die Gruppe, Vertrauen in der Gruppe und auch Vertrauen in mich selbst. Wer in der Rolle der Moderatorin, des Moderators oder des Prozessbegleiters einen solchen Elefanten hinstellt, braucht innere Sicherheit, um auffangen zu können, was dann vielleicht kommt. Denn niemand weiss vorher, was das ist. Es braucht auch Kompetenz, weil man damit möglicherweise ein Stück weit quer zur auftraggebenden Person arbeitet (nicht gegen sie, aber eben auch nicht ganz mit ihr). Und ganz viel geht, wenn ich ehrlich bin, mit Erfahrung und Haltung. Ausgeschlossen ist dabei nicht, dass mir der Elefant irgendwann auch auf die Füsse fällt (auch wenn ich ihn sehr bewusst einsetze).
 
-### Was bleibt?
+### Gedanken zum Schluss
 
-Der Elefant ist für mich ein kleines Werkzeug mit überraschend viel Wirkung, aber eben ein Werkzeug und kein Rezept. Was ihn trägt, ist die Haltung dahinter: die Bereitschaft, das Unausgesprochene einzuladen. Und die Sicherheit, es dann auch halten zu können.
+Der Elefant ist für mich ein kleines Werkzeug mit überraschend viel Wirkung, aber eben ein Werkzeug und kein Rezept. Was ihn wirkungsvoll macht, ist die Haltung dahinter: die Bereitschaft, das Unausgesprochene einzuladen. Und die Sicherheit, es dann auch halten zu können.
 
 Vor jedem Prozess überlege ich mir deshalb gut, ob ich ihn überhaupt mitnehme. Bin ich bereit für das, was der Elefant mitbringen könnte? Gleichzeitig versuche ich zu spüren, ob auch die Gruppe dafür bereit ist (und stabil genug für den Elefanten). Und ob es in diesem Moment wirklich Sinn macht.
