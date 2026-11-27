@@ -1,7 +1,7 @@
 +++
 title = "Klarheit über das Verhandelbare entlastet"
 date = "2026-12-09"
-draft = true
+draft = false
 pinned = false
 tags = ["Hypnosystemik", "Organisationsentwicklung", "Systemik", "Beratung", "Zusammenarbeit"]
 image = "blog-titelbild-teil-4-klarheit-verhandelbares.jpg"
