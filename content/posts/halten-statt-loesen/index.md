@@ -1,6 +1,6 @@
 +++
 title = "Halten statt lösen"
-date = "2027-01-27"
+date = "2026-12-16"
 draft = true
 pinned = false
 tags = ["Hypnosystemik", "Organisationsentwicklung", "Systemik", "Beratung", "Zusammenarbeit"]
